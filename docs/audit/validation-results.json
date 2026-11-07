@@ -1,0 +1,58 @@
+{
+  "checked_at": "2026-11-07T16:29:08.299Z",
+  "mode": "local-with-ignored-artifacts",
+  "checks": [
+    {
+      "name": "manifest URL uniqueness and required evidence fields",
+      "status": "passed"
+    },
+    {
+      "name": "summary matches actual manifest and upload counts",
+      "status": "passed"
+    },
+    {
+      "name": "every English 200 has a declared pair or explicit missing-pair flag",
+      "status": "passed"
+    },
+    {
+      "name": "every observed retired-language URL has a proposed English 200 destination",
+      "status": "passed"
+    },
+    {
+      "name": "redirect proposals unique and never self-redirect",
+      "status": "passed"
+    },
+    {
+      "name": "distinct FAQ pages preserved in inventory",
+      "status": "passed"
+    },
+    {
+      "name": "all classified in-scope EN/ES pages have both screenshot references",
+      "status": "passed"
+    },
+    {
+      "name": "document paths preserve wp-content/uploads and uncertain references are labeled",
+      "status": "passed"
+    },
+    {
+      "name": "required report/logs and inventory artifacts present",
+      "status": "passed"
+    },
+    {
+      "name": "all local screenshot images have valid signatures and dimensions",
+      "status": "passed"
+    },
+    {
+      "name": "raw exports and screenshot binaries ignored and untracked",
+      "status": "passed"
+    }
+  ],
+  "warnings": {
+    "owner_section_decisions": 54,
+    "redirect_conflicts": 0,
+    "non200_declared_es": 30,
+    "existing_404": 7,
+    "coverage": "conditional; missing database/uploads, CSS/document completeness and conditional runtime behavior remain unresolved"
+  },
+  "meaning": "Snapshot consistency passes do not establish live-site parity, complete input coverage, approved redirects, accessibility compliance or launch readiness."
+}
