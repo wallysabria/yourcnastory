@@ -10,3 +10,6 @@ are **not** replaced.
 ## Phase 1 — P1-AUDIT-NO-CHANGES
 
 No production copy or links changed. Job-board references are inventoried in docs/audit/jobboard-references.csv; removal is deferred to the approved content phase. Reports and URL inventories are audit artifacts, not ported page content.
+
+## Phase 2
+Global header/footer and required route headings copied from audited public source; page bodies not ported. No copy rewritten and no job-board removal occurred in this phase. Source/provenance: docs/reports/phase-02-global-provenance.json.

@@ -1,0 +1,53 @@
+{
+  "name": "yourcnastory",
+  "version": "0.2.0",
+  "description": "YourCNAStory.org migration foundation",
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1 --port 3101",
+    "build": "next build",
+    "start": "next start --hostname 127.0.0.1 --port 3101",
+    "lint": "eslint .",
+    "typecheck": "next typegen && tsc --noEmit",
+    "format": "prettier --write app components lib content tests next.config.ts proxy.ts tsconfig.json eslint.config.mjs",
+    "format:check": "prettier --check app components lib content tests next.config.ts proxy.ts tsconfig.json eslint.config.mjs",
+    "test:foundation": "playwright test --project=unit",
+    "test:browser": "playwright test --project=chromium",
+    "audit:validate": "node scripts/validate-audit.mjs .",
+    "search:spike": "node scripts/search-spike.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wallysabria/yourcnastory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "next": "^16.4.5",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.14.0",
+    "@playwright/test": "^1.65.0",
+    "@types/node": "^24.19.2",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "eslint": "^9.39.5",
+    "eslint-config-next": "^16.4.5",
+    "pagefind": "^1.6.0",
+    "prettier": "^3.9.10",
+    "typescript": "^6.0.3"
+  },
+  "private": true,
+  "engines": {
+    "node": "24.x"
+  },
+  "overrides": {
+    "@typescript-eslint/typescript-estree": {
+      "minimatch": "11.0.5"
+    }
+  }
+}

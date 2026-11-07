@@ -1,0 +1,9 @@
+.git/
+_source/
+docs/
+test-results/
+playwright-report/
+tests/
+.env*
+node_modules/
+.next/

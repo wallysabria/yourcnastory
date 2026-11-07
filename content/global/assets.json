@@ -1,0 +1,22 @@
+[
+  {
+    "source": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+    "path": "/images/brand/cnap-logo-white.webp"
+  },
+  {
+    "source": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+    "path": "/images/brand/cnap-logo-color.webp"
+  },
+  {
+    "source": "https://yourcnastory.org/wp-content/uploads/2020/11/qchf-logo-reversed.png",
+    "path": "/images/brand/qchf-logo-white.png"
+  },
+  {
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/manrope/Manrope%5Bwght%5D.ttf",
+    "path": "/fonts/manrope-variable.ttf"
+  },
+  {
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/manrope/OFL.txt",
+    "path": "/fonts/OFL-Manrope.txt"
+  }
+]

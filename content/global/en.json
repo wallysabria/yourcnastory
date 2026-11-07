@@ -1,0 +1,486 @@
+{
+  "locale": "en",
+  "sourceUrl": "https://yourcnastory.org/",
+  "nav": [
+    {
+      "label": "Employers",
+      "href": "/employers/",
+      "employer": true,
+      "columns": [
+        {
+          "title": "CNAP PROGRAM",
+          "items": [
+            {
+              "label": "PROGRAM OVERVIEW",
+              "href": "/employers/",
+              "employer": true
+            },
+            {
+              "label": "CNAP FINANCIAL AWARDS",
+              "href": "/cnap-awards/",
+              "employer": true
+            },
+            {
+              "label": "CNA UPSKILLING PROGRAM (CUSP)",
+              "href": "/cusp-upskilling/",
+              "employer": true
+            },
+            {
+              "label": "FREQUENTLY ASKED QUESTIONS",
+              "href": "/faqs/",
+              "employer": true
+            }
+          ]
+        },
+        {
+          "title": "RESOURCES",
+          "items": [
+            {
+              "label": "EMPLOYER RESOURCES",
+              "href": "/employer-resources/",
+              "employer": true
+            },
+            {
+              "label": "CNA Training Providers",
+              "href": "/employer-resources/#directory-natps",
+              "employer": true
+            },
+            {
+              "label": "DSD Approval Packet",
+              "href": "/employer-resources/#dsd-approval",
+              "employer": true
+            },
+            {
+              "label": "Develop your CNA Workforce",
+              "href": "/employer-resources/#wib-workforce2",
+              "employer": true
+            },
+            {
+              "label": "Establish an Earn and Learn Program",
+              "href": "/employer-resources/#cearnandlearn",
+              "employer": true
+            },
+            {
+              "label": "Become a Community NATP",
+              "href": "/employer-resources/#webinar-contracting-natps",
+              "employer": true
+            },
+            {
+              "label": "Become a Facility NATP",
+              "href": "/employer-resources/#f-natp-application",
+              "employer": true
+            },
+            {
+              "label": "Partnering with your Workforce Board",
+              "href": "/employer-resources/#wib-workforce",
+              "employer": true
+            }
+          ]
+        },
+        {
+          "title": "CONTACT",
+          "items": [
+            {
+              "label": "CNAP AWARD APPLICATION",
+              "href": "/cnap-employer-signup/",
+              "employer": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Career Seekers",
+      "href": "/career-seekers/",
+      "employer": false,
+      "columns": [
+        {
+          "title": "CNA PROGRAM",
+          "items": [
+            {
+              "label": "WRITE YOUR CNA STORY",
+              "href": "/career-seekers/",
+              "employer": false
+            },
+            {
+              "label": "WHAT IS LONG-TERM CARE?",
+              "href": "/what-is-long-term-care/",
+              "employer": false
+            },
+            {
+              "label": "CNA PROGRAM",
+              "href": "/certified-nurse-assistant-program/",
+              "employer": false
+            },
+            {
+              "label": "HOW TO TRAIN TO BECOME A CNA",
+              "href": "/cna-training-providers/",
+              "employer": false
+            },
+            {
+              "label": "FREQUENTLY ASKED QUESTIONS",
+              "href": "/frequently-asked-questions/",
+              "employer": false
+            }
+          ]
+        },
+        {
+          "title": "CAREER PATHS",
+          "items": [
+            {
+              "label": "CAREER PATHS IN LONG-TERM CARE",
+              "href": "/career-paths-in-long-term-care/",
+              "employer": false
+            },
+            {
+              "label": "Certified Nursing Assistant",
+              "href": "/careerpaths/careers-in-certified-nurse-assistant/",
+              "employer": false
+            },
+            {
+              "label": "Nursing",
+              "href": "/careerpaths/careers-in-nursing/",
+              "employer": false
+            },
+            {
+              "label": "Administration",
+              "href": "/careerpaths/careers-in-administration/",
+              "employer": false
+            },
+            {
+              "label": "Social Services",
+              "href": "/careerpaths/careers-in-social-services/",
+              "employer": false
+            },
+            {
+              "label": "Therapy",
+              "href": "/careerpaths/careers-in-therapy/",
+              "employer": false
+            },
+            {
+              "label": "Care Coordination",
+              "href": "/careerpaths/careers-in-care-coordination/",
+              "employer": false
+            },
+            {
+              "label": "Support Services",
+              "href": "/careerpaths/careers-in-support-services/",
+              "employer": false
+            },
+            {
+              "label": "Activities",
+              "href": "/careerpaths/careers-in-activities/",
+              "employer": false
+            }
+          ]
+        },
+        {
+          "title": "RESOURCES",
+          "items": [
+            {
+              "label": "CNA RESOURCES",
+              "href": "/community-resources/",
+              "employer": false
+            },
+            {
+              "label": "CNA Training Providers",
+              "href": "/community-resources/#online-natps",
+              "employer": false
+            },
+            {
+              "label": "CNAs Share Their Experiences",
+              "href": "/community-resources/#video-what-cna",
+              "employer": false
+            },
+            {
+              "label": "Becoming a CNA",
+              "href": "/community-resources/#cna-toolkit",
+              "employer": false
+            },
+            {
+              "label": "CNA Practice Exam",
+              "href": "/community-resources/#practice-exam",
+              "employer": false
+            },
+            {
+              "label": "CNA Flyer",
+              "href": "/community-resources/#cnap-flyer",
+              "employer": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "mobile": [
+    {
+      "label": "Employers",
+      "href": "/employers/",
+      "employer": true,
+      "children": [
+        {
+          "label": "CNAP PROGRAM",
+          "href": null,
+          "employer": true,
+          "children": [
+            {
+              "label": "Program Overview",
+              "href": "/employers/",
+              "employer": true,
+              "children": []
+            },
+            {
+              "label": "CNAP Financial Awards",
+              "href": "/cnap-awards/",
+              "employer": true,
+              "children": []
+            },
+            {
+              "label": "CUSP Certifications",
+              "href": "/cna-certifications/",
+              "employer": true,
+              "children": []
+            },
+            {
+              "label": "Frequently Asked Questions",
+              "href": "/frequently-asked-questions/",
+              "employer": true,
+              "children": []
+            }
+          ]
+        },
+        {
+          "label": "RESOURCES",
+          "href": null,
+          "employer": true,
+          "children": [
+            {
+              "label": "Employer Resources",
+              "href": "/employer-resources/",
+              "employer": true,
+              "children": []
+            }
+          ]
+        },
+        {
+          "label": "CONTACT",
+          "href": null,
+          "employer": true,
+          "children": [
+            {
+              "label": "CNAP Employer Signup",
+              "href": "/cnap-employer-signup/",
+              "employer": true,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Career Seekers",
+      "href": "/career-seekers/",
+      "employer": false,
+      "children": [
+        {
+          "label": "CNA PROGRAM",
+          "href": "/career-seekers/",
+          "employer": false,
+          "children": [
+            {
+              "label": "Write Your CNA Story",
+              "href": "/career-seekers/",
+              "employer": false,
+              "children": []
+            },
+            {
+              "label": "What is Long-Term Care?",
+              "href": "/what-is-long-term-care/",
+              "employer": false,
+              "children": []
+            },
+            {
+              "label": "Certified Nurse Assistant Program",
+              "href": "/certified-nurse-assistant-program/",
+              "employer": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "label": "CAREER PATHS",
+          "href": null,
+          "employer": false,
+          "children": [
+            {
+              "label": "Career Paths in Long Term Care",
+              "href": "/career-paths-in-long-term-care/",
+              "employer": false,
+              "children": [
+                {
+                  "label": "Certified Nurse Assistant",
+                  "href": "/careerpaths/careers-in-certified-nurse-assistant/",
+                  "employer": false,
+                  "children": []
+                },
+                {
+                  "label": "Nursing",
+                  "href": "/careerpaths/careers-in-nursing/",
+                  "employer": false,
+                  "children": []
+                },
+                {
+                  "label": "Administration",
+                  "href": "/careerpaths/careers-in-administration/",
+                  "employer": false,
+                  "children": []
+                },
+                {
+                  "label": "Social Services",
+                  "href": "/careerpaths/careers-in-social-services/",
+                  "employer": false,
+                  "children": []
+                },
+                {
+                  "label": "Therapy",
+                  "href": "/careerpaths/careers-in-therapy/",
+                  "employer": false,
+                  "children": []
+                },
+                {
+                  "label": "Care Coordination",
+                  "href": "/careerpaths/careers-in-care-coordination/",
+                  "employer": false,
+                  "children": []
+                },
+                {
+                  "label": "Activities",
+                  "href": "/careerpaths/careers-in-activities/",
+                  "employer": false,
+                  "children": []
+                },
+                {
+                  "label": "Support Services",
+                  "href": "/careerpaths/careers-in-support-services/",
+                  "employer": false,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "RESOURCES",
+          "href": null,
+          "employer": false,
+          "children": [
+            {
+              "label": "Community Resources",
+              "href": "/community-resources/",
+              "employer": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "label": "CONTACT",
+          "href": null,
+          "employer": false,
+          "children": [
+            {
+              "label": "Start Your Career",
+              "href": "/start-your-new-career/",
+              "employer": false,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "announcement": {
+    "enabled": false,
+    "text": "CAHF 76th Annual Convention & Expo: November 15 -19 | Palm Springs, CA. Learn more.",
+    "linkLabel": "Learn more.",
+    "href": "https://www.cahf.org/events/event-registration/?eventcd=26NOV"
+  },
+  "footer": {
+    "description": "Quality Care Health Foundation is a non-profit 501(c)(3) educational foundation. Our goal is to provide affordable, cost-effective, in-depth training opportunities on a multitude of subjects relating to the needs of long-term care providers in California. These needs cover issues such as regulatory compliance, the Medicare reimbursement system, professional conferences, certification courses, and tools for hands-on management in long-term care facilities.",
+    "columns": [
+      {
+        "title": "Employers",
+        "href": "/employers/",
+        "employer": true,
+        "items": [
+          {
+            "label": "CNAP Program",
+            "href": "/employers/",
+            "employer": true
+          },
+          {
+            "label": "Resources",
+            "href": "/employer-resources/",
+            "employer": true
+          },
+          {
+            "label": "Award Application",
+            "href": "/cnap-employer-signup/",
+            "employer": true
+          }
+        ]
+      },
+      {
+        "title": "Career Seekers",
+        "href": "/career-seekers/",
+        "employer": false,
+        "items": [
+          {
+            "label": "CNAP Program",
+            "href": "/career-seekers/",
+            "employer": false
+          },
+          {
+            "label": "Career Paths",
+            "href": "/career-paths-in-long-term-care/",
+            "employer": false
+          },
+          {
+            "label": "Resources",
+            "href": "/community-resources/",
+            "employer": false
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/career-seekers/",
+        "employer": false,
+        "items": [
+          {
+            "label": "info@yourcnastory.org",
+            "href": "mailto:info@yourcnastory.org",
+            "employer": false
+          }
+        ]
+      }
+    ],
+    "copyright": "© 2026 Quality Care Health Foundation. All Rights Reserved.",
+    "copyrightLinkLabel": "Quality Care Health Foundation",
+    "policy": {
+      "label": "Privacy Policy",
+      "href": "/privacy-policy/"
+    },
+    "foundationHref": "https://www.cahf.org/Education-Events/QCHF",
+    "logoAlt": "QCHF Logo"
+  },
+  "ui": {
+    "menu": "MENU",
+    "closeMenu": "Close menu",
+    "openMenu": "Open menu",
+    "navigation": "Main navigation",
+    "languages": "Language",
+    "search": "Search",
+    "skip": "Skip to content",
+    "top": "Go to Top"
+  }
+}

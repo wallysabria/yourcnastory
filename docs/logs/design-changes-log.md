@@ -13,3 +13,6 @@ Status values: `proposed` / `approved` / `rejected`.
 ## Phase 1 — P1-AUDIT-NO-DESIGN-CHANGES
 
 No design/layout changes proposed or implemented. Reference screenshots and existing-site issues recorded only. D-001/D-002 remain the only pre-approved fixes.
+
+## Phase 2
+D-001 implemented through the default zoomable viewport. D-002 deferred until the native form is built. Global layout follows source measurements; no additional deliberate design change approved or introduced. Employers destinations disabled as required. Screenshot evidence is a review reference, not final parity certification.

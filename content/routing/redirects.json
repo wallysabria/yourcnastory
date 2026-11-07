@@ -1,0 +1,1502 @@
+[
+  {
+    "from": "/careerpaths/careers-in-certified-nurse-assistant",
+    "to": "/careerpaths/careers-in-certified-nurse-assistant/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/cna-certifications",
+    "to": "/cna-certifications/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/careerpaths/careers-in-nursing",
+    "to": "/careerpaths/careers-in-nursing/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/careerpaths/careers-in-support-services",
+    "to": "/careerpaths/careers-in-support-services/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/careerpaths/careers-in-therapy",
+    "to": "/careerpaths/careers-in-therapy/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/careerpaths/careers-in-care-coordination",
+    "to": "/careerpaths/careers-in-care-coordination/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/careerpaths/careers-in-administration",
+    "to": "/careerpaths/careers-in-administration/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/careerpaths/careers-in-social-services",
+    "to": "/careerpaths/careers-in-social-services/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/careerpaths/careers-in-activities",
+    "to": "/careerpaths/careers-in-activities/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/career-seekers",
+    "to": "/career-seekers/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/employers",
+    "to": "/employers/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/employer-resources",
+    "to": "/employer-resources/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/cnap-employer-signup",
+    "to": "/cnap-employer-signup/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/career-paths-in-long-term-care",
+    "to": "/career-paths-in-long-term-care/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/community-resources",
+    "to": "/community-resources/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/privacy-policy",
+    "to": "/privacy-policy/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/certified-nurse-assistant-program",
+    "to": "/certified-nurse-assistant-program/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/cna-training-providers",
+    "to": "/cna-training-providers/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/earn-and-learn",
+    "to": "/earn-and-learn/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/what-is-long-term-care",
+    "to": "/what-is-long-term-care/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/cnap-awards",
+    "to": "/cnap-awards/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/faqs",
+    "to": "/faqs/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/cusp-upskilling",
+    "to": "/cusp-upskilling/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/career-advancement",
+    "to": "/career-advancement/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/earn-and-learn-la",
+    "to": "/earn-and-learn-la/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/frequently-asked-questions",
+    "to": "/frequently-asked-questions/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/earn-and-learn-cvalley",
+    "to": "/earn-and-learn-cvalley/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/earn-and-learn-bayarea",
+    "to": "/earn-and-learn-bayarea/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/earn-and-learn-norcal",
+    "to": "/earn-and-learn-norcal/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/earn-and-learn-san-diego",
+    "to": "/earn-and-learn-san-diego/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/es",
+    "to": "/es/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/vi/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/es/inscripcion-de-empresarios-a-la-cnap",
+    "to": "/es/inscripcion-de-empresarios-a-la-cnap/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/vi/cnap-employer-signup/",
+    "to": "/cnap-employer-signup/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/cnap-employer-signup",
+    "to": "/cnap-employer-signup/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/cnap-employer-signup/",
+    "to": "/cnap-employer-signup/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/cnap-employer-signup",
+    "to": "/cnap-employer-signup/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/employer-resources/",
+    "to": "/employer-resources/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/employer-resources",
+    "to": "/employer-resources/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/employer-resources/",
+    "to": "/employer-resources/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/employer-resources",
+    "to": "/employer-resources/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/es/que-es-cuidar-a-largo-plazo",
+    "to": "/es/que-es-cuidar-a-largo-plazo/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/vi/what-is-long-term-care/",
+    "to": "/what-is-long-term-care/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/what-is-long-term-care",
+    "to": "/what-is-long-term-care/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/what-is-long-term-care/",
+    "to": "/what-is-long-term-care/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/what-is-long-term-care",
+    "to": "/what-is-long-term-care/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/es/recursos-comunitarios",
+    "to": "/es/recursos-comunitarios/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/vi/community-resources/",
+    "to": "/community-resources/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/community-resources",
+    "to": "/community-resources/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/community-resources/",
+    "to": "/community-resources/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/community-resources",
+    "to": "/community-resources/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo",
+    "to": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/vi/career-paths-in-long-term-care/",
+    "to": "/career-paths-in-long-term-care/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/career-paths-in-long-term-care",
+    "to": "/career-paths-in-long-term-care/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/career-paths-in-long-term-care/",
+    "to": "/career-paths-in-long-term-care/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/career-paths-in-long-term-care",
+    "to": "/career-paths-in-long-term-care/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/es/programa-cna",
+    "to": "/es/programa-cna/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/vi/certified-nurse-assistant-program/",
+    "to": "/certified-nurse-assistant-program/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/certified-nurse-assistant-program",
+    "to": "/certified-nurse-assistant-program/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/certified-nurse-assistant-program/",
+    "to": "/certified-nurse-assistant-program/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/certified-nurse-assistant-program",
+    "to": "/certified-nurse-assistant-program/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/es/aspirantes",
+    "to": "/es/aspirantes/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/vi/career-seekers/",
+    "to": "/career-seekers/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/career-seekers",
+    "to": "/career-seekers/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/career-seekers/",
+    "to": "/career-seekers/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/career-seekers",
+    "to": "/career-seekers/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/es/programa-cna-2",
+    "to": "/es/programa-cna-2/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/vi/cna-training-providers/",
+    "to": "/cna-training-providers/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/cna-training-providers",
+    "to": "/cna-training-providers/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/cna-training-providers/",
+    "to": "/cna-training-providers/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/cna-training-providers",
+    "to": "/cna-training-providers/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/es/preguntas-frecuentes",
+    "to": "/es/preguntas-frecuentes/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/vi/frequently-asked-questions/",
+    "to": "/frequently-asked-questions/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/frequently-asked-questions",
+    "to": "/frequently-asked-questions/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/frequently-asked-questions/",
+    "to": "/frequently-asked-questions/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/frequently-asked-questions",
+    "to": "/frequently-asked-questions/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/es/certificaciones-cna",
+    "to": "/es/certificaciones-cna/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/vi/chung-chi-cna/",
+    "to": "/cna-certifications/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/chung-chi-cna",
+    "to": "/cna-certifications/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/cna-%e8%ae%a4%e8%af%81/",
+    "to": "/cna-certifications/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/cna-%e8%ae%a4%e8%af%81",
+    "to": "/cna-certifications/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/es/premios-cnap",
+    "to": "/es/premios-cnap/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/vi/cnap-awards/",
+    "to": "/cnap-awards/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/cnap-awards",
+    "to": "/cnap-awards/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/cnap-awards/",
+    "to": "/cnap-awards/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/cnap-awards",
+    "to": "/cnap-awards/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/es/cusp-upskilling",
+    "to": "/es/cusp-upskilling/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/vi/cusp-upskilling/",
+    "to": "/cusp-upskilling/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/cusp-upskilling",
+    "to": "/cusp-upskilling/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/cusp-upskilling/",
+    "to": "/cusp-upskilling/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/cusp-upskilling",
+    "to": "/cusp-upskilling/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/employers/",
+    "to": "/employers/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/employers",
+    "to": "/employers/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/employers/",
+    "to": "/employers/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/employers",
+    "to": "/employers/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado",
+    "to": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/vi/careerpaths/careers-in-certified-nurse-assistant/",
+    "to": "/careerpaths/careers-in-certified-nurse-assistant/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/careerpaths/careers-in-certified-nurse-assistant",
+    "to": "/careerpaths/careers-in-certified-nurse-assistant/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/careerpaths/careers-in-certified-nurse-assistant/",
+    "to": "/careerpaths/careers-in-certified-nurse-assistant/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/careerpaths/careers-in-certified-nurse-assistant",
+    "to": "/careerpaths/careers-in-certified-nurse-assistant/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/es/carreras/carreras-en-enfermeria",
+    "to": "/es/carreras/carreras-en-enfermeria/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/vi/careerpaths/careers-in-nursing/",
+    "to": "/careerpaths/careers-in-nursing/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/careerpaths/careers-in-nursing",
+    "to": "/careerpaths/careers-in-nursing/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/careerpaths/careers-in-nursing/",
+    "to": "/careerpaths/careers-in-nursing/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/careerpaths/careers-in-nursing",
+    "to": "/careerpaths/careers-in-nursing/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/es/carreras/carreras-en-servicios-de-apoyo",
+    "to": "/es/carreras/carreras-en-servicios-de-apoyo/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/vi/careerpaths/careers-in-support-services/",
+    "to": "/careerpaths/careers-in-support-services/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/careerpaths/careers-in-support-services",
+    "to": "/careerpaths/careers-in-support-services/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/careerpaths/careers-in-support-services/",
+    "to": "/careerpaths/careers-in-support-services/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/careerpaths/careers-in-support-services",
+    "to": "/careerpaths/careers-in-support-services/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/es/carreras/carreras-en-terapia",
+    "to": "/es/carreras/carreras-en-terapia/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/vi/careerpaths/careers-in-therapy/",
+    "to": "/careerpaths/careers-in-therapy/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/careerpaths/careers-in-therapy",
+    "to": "/careerpaths/careers-in-therapy/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/careerpaths/careers-in-therapy/",
+    "to": "/careerpaths/careers-in-therapy/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/careerpaths/careers-in-therapy",
+    "to": "/careerpaths/careers-in-therapy/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/es/carreras/carreras-en-coordinacion-de-cuidados",
+    "to": "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/vi/careerpaths/careers-in-care-coordination/",
+    "to": "/careerpaths/careers-in-care-coordination/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/careerpaths/careers-in-care-coordination",
+    "to": "/careerpaths/careers-in-care-coordination/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/careerpaths/careers-in-care-coordination/",
+    "to": "/careerpaths/careers-in-care-coordination/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/careerpaths/careers-in-care-coordination",
+    "to": "/careerpaths/careers-in-care-coordination/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/es/carreras/carreras-en-servicios-sociales",
+    "to": "/es/carreras/carreras-en-servicios-sociales/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/vi/careerpaths/careers-in-social-services/",
+    "to": "/careerpaths/careers-in-social-services/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/careerpaths/careers-in-social-services",
+    "to": "/careerpaths/careers-in-social-services/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/careerpaths/careers-in-social-services/",
+    "to": "/careerpaths/careers-in-social-services/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/careerpaths/careers-in-social-services",
+    "to": "/careerpaths/careers-in-social-services/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/es/carreras/carreras-en-actividades",
+    "to": "/es/carreras/carreras-en-actividades/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/vi/careerpaths/careers-in-activities/",
+    "to": "/careerpaths/careers-in-activities/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/careerpaths/careers-in-activities",
+    "to": "/careerpaths/careers-in-activities/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/careerpaths/careers-in-activities/",
+    "to": "/careerpaths/careers-in-activities/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/careerpaths/careers-in-activities",
+    "to": "/careerpaths/careers-in-activities/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/es/carreras/carreras-en-administracion",
+    "to": "/es/carreras/carreras-en-administracion/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/vi/careerpaths/careers-in-administration/",
+    "to": "/careerpaths/careers-in-administration/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/careerpaths/careers-in-administration",
+    "to": "/careerpaths/careers-in-administration/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/careerpaths/careers-in-administration/",
+    "to": "/careerpaths/careers-in-administration/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/careerpaths/careers-in-administration",
+    "to": "/careerpaths/careers-in-administration/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/du-an-the7/du-an007/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/the7_project/project007/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/du-an-the7/du-an009/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/the7_project/project009/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/du-an-the7/du-an008/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/the7_project/project008/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/du-an-the7/du-an011/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/the7_project/%e9%a1%b9%e7%9b%ae011/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/es/politica-de-privacidad",
+    "to": "/es/politica-de-privacidad/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/vi/chinh-sach-bao-mat/",
+    "to": "/privacy-policy/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/chinh-sach-bao-mat",
+    "to": "/privacy-policy/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/%e9%9a%90%e7%a7%81%e6%94%bf%e7%ad%96/",
+    "to": "/privacy-policy/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/%e9%9a%90%e7%a7%81%e6%94%bf%e7%ad%96",
+    "to": "/privacy-policy/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/the7_khach-hang/khach-hang-001/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/the7_client/%e5%ae%a2%e6%88%b7-001/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/the7_khach-hang/khach-hang-002/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/the7_client/%e5%ae%a2%e6%88%b7-002/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/es/avance-profesional",
+    "to": "/es/avance-profesional/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/vi/career-advancement/",
+    "to": "/career-advancement/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/career-advancement",
+    "to": "/career-advancement/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/career-advancement/",
+    "to": "/career-advancement/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/career-advancement",
+    "to": "/career-advancement/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/es/ganar-y-aprender-la",
+    "to": "/es/ganar-y-aprender-la/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/vi/kiem-va-hoc-la/",
+    "to": "/earn-and-learn-la/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/kiem-va-hoc-la",
+    "to": "/earn-and-learn-la/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0%e5%95%a6/",
+    "to": "/earn-and-learn-la/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0%e5%95%a6",
+    "to": "/earn-and-learn-la/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/es/gana-y-aprende-cvalley",
+    "to": "/es/gana-y-aprende-cvalley/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/vi/kiem-va-hoc-cvalley/",
+    "to": "/earn-and-learn-cvalley/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/kiem-va-hoc-cvalley",
+    "to": "/earn-and-learn-cvalley/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0-cvalley/",
+    "to": "/earn-and-learn-cvalley/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0-cvalley",
+    "to": "/earn-and-learn-cvalley/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/es/gana-y-aprende-bayarea",
+    "to": "/es/gana-y-aprende-bayarea/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/vi/kiem-tien-va-hoc-tap-bayarea/",
+    "to": "/earn-and-learn-bayarea/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/kiem-tien-va-hoc-tap-bayarea",
+    "to": "/earn-and-learn-bayarea/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/%e5%9c%a8-bayarea-%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0/",
+    "to": "/earn-and-learn-bayarea/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/%e5%9c%a8-bayarea-%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0",
+    "to": "/earn-and-learn-bayarea/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/es/earn-and-learn-norcal",
+    "to": "/es/earn-and-learn-norcal/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/vi/kiem-va-hoc-norcal/",
+    "to": "/earn-and-learn-norcal/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/kiem-va-hoc-norcal",
+    "to": "/earn-and-learn-norcal/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0%e8%af%ba%e5%8d%a1%e5%b0%94/",
+    "to": "/earn-and-learn-norcal/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0%e8%af%ba%e5%8d%a1%e5%b0%94",
+    "to": "/earn-and-learn-norcal/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/es/gana-y-aprende-san-diego",
+    "to": "/es/gana-y-aprende-san-diego/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/vi/kiem-tien-va-hoc-hoi-tai-san-diego/",
+    "to": "/earn-and-learn-san-diego/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/kiem-tien-va-hoc-hoi-tai-san-diego",
+    "to": "/earn-and-learn-san-diego/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/%e5%9c%a3%e5%9c%b0%e4%ba%9a%e5%93%a5%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0/",
+    "to": "/earn-and-learn-san-diego/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/%e5%9c%a3%e5%9c%b0%e4%ba%9a%e5%93%a5%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0",
+    "to": "/earn-and-learn-san-diego/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/es/earn-and-learn",
+    "to": "/es/earn-and-learn/",
+    "status": 301,
+    "policy": "trailing-slash"
+  },
+  {
+    "from": "/vi/kiem-tien-va-hoc-hoi/",
+    "to": "/earn-and-learn/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/kiem-tien-va-hoc-hoi",
+    "to": "/earn-and-learn/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/%e5%ad%a6%e4%bb%a5%e8%87%b4%e7%94%a8/",
+    "to": "/earn-and-learn/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/%e5%ad%a6%e4%bb%a5%e8%87%b4%e7%94%a8",
+    "to": "/earn-and-learn/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/du-an-the7/du-an001/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/the7_project/%e9%a1%b9%e7%9b%ae001/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/du-an-the7/du-an002/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/the7_project/%e9%a1%b9%e7%9b%ae002/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/du-an-the7/du-an003/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/the7_project/%e9%a1%b9%e7%9b%ae003/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/du-an-the7/du-an004/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/the7_project/%e9%a1%b9%e7%9b%ae004/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/du-an-the7/du-an006/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/the7_project/project006/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/du-an-the7/du-an010/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/the7_project/%e9%a1%b9%e7%9b%ae010/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/the7_khach-hang/khach-hang-003/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/the7_client/%e5%ae%a2%e6%88%b7-003/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/the7_khach-hang/khach-hang-004/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/the7_client/%e5%ae%a2%e6%88%b7-004/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/the7_khach-hang/khach-hang-005/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/the7_client/%e5%ae%a2%e6%88%b7-005/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/the7_khach-hang/khach-hang-006/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/the7_client/%e5%ae%a2%e6%88%b7-006/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/the7_khach-hang/khach-hang-007/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/the7_client/%e5%ae%a2%e6%88%b7-007/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/the7_khach-hang/khach-hang-008/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/the7_client/%e5%ae%a2%e6%88%b7-008/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/the7_reviews/dieu-duong-lanh-nghe/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/the7_reviews/%e4%b8%93%e4%b8%9a%e6%8a%a4%e7%90%86/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/the7_reviews/phuc-hoi-chuc-nang-ngan-han/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/the7_reviews/%e7%9f%ad%e6%9c%9f%e5%ba%b7%e5%a4%8d/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/the7_reviews/khu-cham-soc-suc-khoe-kern-valley/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/the7_reviews/%e7%a7%91%e6%81%a9%e8%b0%b7%e5%8c%bb%e7%96%97%e4%bf%9d%e5%81%a5%e5%8c%ba/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/the7_reviews/khu-cham-soc-suc-khoe-nam-inyo/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/the7_reviews/%e5%8d%97%e4%bb%81%e8%80%80%e5%8c%bb%e7%96%97%e4%bf%9d%e5%81%a5%e5%8c%ba/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/the7_reviews/dieu-duong-co-tay-nghe-fallbrook/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/the7_reviews/fallbrook-%e7%86%9f%e7%bb%83%e6%8a%a4%e7%90%86/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/the7_reviews/cham-soc-suc-khoe-golden-heights/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/the7_reviews/%e9%87%91%e8%89%b2%e9%ab%98%e5%9c%b0%e5%8c%bb%e7%96%97%e4%bf%9d%e5%81%a5/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/the7_reviews/the-pines-at-placerville/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/the7_reviews/the-pines-at-placerville/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/the7_reviews/crystal-ridge-care-center/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/the7_reviews/crystal-ridge-care-center/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/the7_reviews/kern-valley/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/the7_reviews/kern-valley/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/the7_reviews/oak-river-rehab/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/the7_reviews/oak-river-rehab/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/bat-dau-su-nghiep-moi-cua-ban/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/%e5%bc%80%e5%a7%8b%e6%96%b0%e7%9a%84%e8%81%8c%e4%b8%9a%e7%94%9f%e6%b6%af/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/%20careerpaths/careers-in-%20certified-nurse-%20assistant/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/%20careerpaths/careers-in-%20certified-nurse-%20assistant/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/careers-in-therapy/",
+    "to": "/careerpaths/careers-in-therapy/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/careers-in-nursing/",
+    "to": "/careerpaths/careers-in-nursing/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/careers-in-social-services/",
+    "to": "/careerpaths/careers-in-social-services/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/careers-in-activities/",
+    "to": "/careerpaths/careers-in-activities/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/careers-in-therapy/",
+    "to": "/careerpaths/careers-in-therapy/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/careers-in-nursing/",
+    "to": "/careerpaths/careers-in-nursing/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/careers-in-social-services/",
+    "to": "/careerpaths/careers-in-social-services/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/careers-in-activities/",
+    "to": "/careerpaths/careers-in-activities/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/nghe-nghiep/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/vi/nghe-nghiep",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/%e8%81%8c%e4%b8%9a/",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  },
+  {
+    "from": "/zh/%e8%81%8c%e4%b8%9a",
+    "to": "/",
+    "status": 301,
+    "policy": "retired-language"
+  }
+]

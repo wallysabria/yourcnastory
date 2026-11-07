@@ -13,8 +13,6 @@ the answer, who decided and the date, and move the row to **Decided**.
 | Q-004 | Chatbot knowledge-base sources and refresh schedule | Phase 6 | KB is built from scratch, not ported from MxChat. | CLAUDE.md §7 |
 | Q-005 | Anthropic account ownership and model choice | Phase 6 | Key lives in Vercel env vars only. | CLAUDE.md §7 |
 | Q-006 | Chatbot test question set | Phase 6 | Expected at `_source/chatbot/test-set.md`. | CLAUDE.md §7 |
-| Q-007 | Vercel plan tier (Hobby vs Pro) and account owner | Phase 2 | Vercel Hobby is for personal, non-commercial use; client work likely needs Pro (paid). | Phase 0 |
-| Q-008 | Vercel project setup approval | Phase 2 | Proposed: one project `yourcnastory`, Git import, `main` = production, previews protected + `noindex`. CLI not yet installed; owner runs `vercel login`. | Phase 0 |
 | Q-009 | Chat-log storage service (12-month retention) | Phase 6 | Needs a datastore; may be a paid service. | Phase 0 |
 | Q-010 | Fluent Forms Pro and MetForm: which forms are live and where | Phase 1 (find) / Phase 4 (decide) | Both plugins are active; CLAUDE.md only covers Mailchimp and Microsoft Forms. | Phase 0 |
 | Q-011 | Existing redirects source | Phase 1 | Quick Page/Post Redirect is inactive; Yoast Premium licence not activated. Redirects may only exist in the DB dump. | Phase 0 |
@@ -45,3 +43,8 @@ the answer, who decided and the date, and move the row to **Decided**.
 Q-003 update: /faqs/ has no ES alternate in its HTML or the observed sitemap. This is **not proof of absence**; database/owner confirmation remains required.
 
 No future phase is authorized by these audit findings.
+
+## Phase 2 update
+Q-007 / Q-008 resolved by owner in chat: use yourcnastory within existing wallysabrias-projects Hobby account; full Phase 2 and Vercel setup authorized. Project created and repository connected; protection retained, no paid upgrade/DNS cutover. Q-014/Q-017/Q-022 remain open: 48 known Career/shared route shells only, 172 redirect proposals deferred. Q-016 affects inactive Employers links only; destination decision remains open. Source-limited authorization continues; it does not resolve missing inputs.
+
+Resolved Phase 2 hosting rows (owner, 2026-11-07): Q-007 selected existing wallysabrias-projects Hobby team; Q-008 authorized yourcnastory project/Git connection, main production branch, protected previews. No domain cutover. See phase-02 report and sanitized cloud evidence.

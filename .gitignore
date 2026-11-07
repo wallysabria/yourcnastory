@@ -46,3 +46,6 @@ desktop.ini
 
 # Large local reference screenshots; index and verification are tracked
 /docs/audit/screenshots/
+
+
+/docs/reports/phase-02-visual/*.jpg

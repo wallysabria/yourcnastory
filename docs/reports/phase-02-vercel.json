@@ -1,0 +1,16 @@
+{
+  "id": "prj_i0ju1SrUjM6LhqLHRqm71SvQtPnS",
+  "name": "yourcnastory",
+  "framework": "nextjs",
+  "nodeVersion": "24.x",
+  "protection": {
+    "deploymentType": "all_except_custom_domains"
+  },
+  "git": {
+    "type": "github",
+    "repo": "yourcnastory",
+    "org": "wallysabria",
+    "productionBranch": "main"
+  },
+  "dashboard": "https://vercel.com/wallysabrias-projects/yourcnastory"
+}
