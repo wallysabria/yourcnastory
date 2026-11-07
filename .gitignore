@@ -43,3 +43,6 @@ desktop.ini
 .idea/
 *.swp
 *~
+
+# Large local reference screenshots; index and verification are tracked
+/docs/audit/screenshots/

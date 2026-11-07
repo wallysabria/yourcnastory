@@ -1,0 +1,102 @@
+{
+  "date": "2026-11-07T16:28:52.224Z",
+  "crawler": {
+    "agent": "YourCNAStoryMigrationAudit/1.0 (owner-authorized read-only migration inventory)",
+    "concurrency": 1,
+    "min_interval_ms": 800,
+    "timeout_ms": 25000,
+    "robots_rules": [
+      "/wp-admin/",
+      "/wp-admin/admin-ajax.php",
+      "/*.php$",
+      "/trackback/",
+      "/xmlrpc.php",
+      "/feed/",
+      "/?s="
+    ],
+    "cache": "_source/audit-cache/; ignored"
+  },
+  "urls": 331,
+  "by_language": {
+    "en": 89,
+    "es": 83,
+    "vi": 80,
+    "zh": 79
+  },
+  "by_section": {
+    "career-seekers": 102,
+    "employers": 27,
+    "shared": 9,
+    "other": 193
+  },
+  "by_status": {
+    "200": 200,
+    "301": 124,
+    "404": 7
+  },
+  "by_source": {
+    "wxr:careerpaths": 8,
+    "wxr-body": 32,
+    "crawl": 325,
+    "hreflang": 288,
+    "redirect": 40,
+    "wxr:page": 32,
+    "sitemap": 74,
+    "wxr-menu": 15,
+    "seed": 1,
+    "wxr:the7_project": 10,
+    "wxr:the7_client": 8,
+    "wxr:the7_reviews": 10
+  },
+  "sitemaps": 2,
+  "sitemap_urls": 74,
+  "uploads": 793,
+  "uploads_by_kind": {
+    "image-or-media": 776,
+    "document": 17
+  },
+  "anchors": 2855,
+  "missing_anchors": 524,
+  "jobboard_records": 30,
+  "forms": 256,
+  "pending_inputs": [
+    "database.sql",
+    "uploads archive",
+    "Search Console"
+  ],
+  "limits": [
+    "Owner approved proceeding without database.sql and uploads archive on 2026-11-07",
+    "No database-only translation/slug/redirect/settings coverage",
+    "No complete filesystem/unreferenced-upload inventory",
+    "HEAD verifies status/declared size, not binary integrity or outgoing PDF links",
+    "CSS background/font assets inventoried separately in observed CSS evidence; not exhaustively HEAD checked",
+    "Runtime conditional popup completeness cannot be proven",
+    "Query URLs recorded but not crawled; WordPress search/admin exclusions respected",
+    "Screenshots are initial rendered references; dynamic/lazy content is nondeterministic",
+    "Employer content audited only; none ported or built"
+  ],
+  "uploads_by_status": {
+    "200": 721,
+    "301": 72
+  },
+  "documents": 17,
+  "document_status": {
+    "200": 17
+  },
+  "attachment_only_candidates": 229,
+  "screenshot_pages": 57,
+  "screenshots": 114,
+  "screenshot_required_pages": 48,
+  "screenshot_missing": [],
+  "en_200": 72,
+  "en_without_declared_es": 2,
+  "en_with_non200_es": 30,
+  "forms_by_kind": {
+    "wordpress-search": 200,
+    "mailchimp": 52,
+    "fluent-forms": 4
+  },
+  "redirect_proposals": 422,
+  "retired_language_proposals": 244,
+  "redirect_conflicts": []
+}

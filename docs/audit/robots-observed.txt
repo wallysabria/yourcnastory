@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-admin/admin-ajax.php
+Disallow: /*.php$
+Disallow: /trackback/
+Disallow: /xmlrpc.php
+Disallow: /feed/
+Disallow: /?s=
+
+Sitemap: https://yourcnastory.org/sitemap_index.xml

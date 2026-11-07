@@ -25,3 +25,23 @@ the answer, who decided and the date, and move the row to **Decided**.
 |----|----------|--------|------------|------|
 | Q-000 | GitHub repo visibility | Public. Raw exports stay in gitignored `/_source/`; no personal data in docs, logs or reports. | Project owner | 2026-11-07 |
 | Q-000b | Canonical host | `https://yourcnastory.org/` (apex). `www` currently 301s to apex. | Observed (live HEAD check) | 2026-11-07 |
+
+## Phase 1 findings (2026-11-07)
+
+| ID | Decision | Needed by | Evidence / status |
+|---|---|---|---|
+| Q-012 | Approve source-limited audit | Phase 1 | Owner approved proceeding without database.sql/uploads archive. Audit is conditional; full coverage is not claimed. |
+| Q-013 | Retired-language translated slugs | Phase 1 | **Decided by owner in chat 2026-11-07:** use declared English counterparts; closest existing English parent when unavailable. Individual redirect rows remain proposals. |
+| Q-014 | Legacy/demo/test page scope and URL disposition | Before Phase 2 manifest approval | Review docs/audit/section-decisions-needed.csv. Includes train-and-gain, cna-employers, calculator, campaign pages and The7 demo/review/archive pages. Nothing removed/consolidated. |
+| Q-015 | Spanish Employers paths currently redirect | Before Employers build | /es/empresarios/ → English /employers/; /es/recursos-para-empresarios/ → /es/. Recover intended Spanish source from DB or confirm approved destinations. |
+| Q-016 | Mobile vs desktop Employers FAQ destination | Foundation | Mobile Employers submenu points to /frequently-asked-questions/; desktop points to /faqs/. Confirm intended behavior without merging the pages. |
+| Q-017 | Missing/nonreciprocal language pairs | Before manifest approval | Review docs/audit/language-pairs.csv. /purpose/ has no declared ES pair; /es/vocacion/ declares /vocation/, which redirects back into Spanish. No relationship inferred as an approved replacement. |
+| Q-018 | Extra live advertising tags | Phase 5 | Ads/Floodlight/DoubleClick/Mountain observed beyond GA4/Clarity. Owner approves keep/drop plan; no tags recreated in Phase 1. |
+| Q-019 | Preview analytics verification conflict | Phase 5 | Standing rules prohibit production analytics on previews; Phase 5 asks for DebugView verification on preview. Agree isolated test configuration or controlled production verification first. |
+| Q-020 | Screenshot storage | Phase 1 handoff | PNGs retained locally in ignored docs/audit/screenshots/ (~50 MB); index/verification committed. Owner may select durable private artifact storage later. |
+| Q-021 | Conditional popup/form settings | Before implementation | Export includes Woo popup templates and MetForm/Fluent Forms records; missing DB prevents proving all activation conditions. |
+| Q-022 | Existing 404 destinations | Before manifest approval | Seven observed 404 URLs in docs/audit/issues.csv. No replacement destination guessed. |
+
+Q-003 update: /faqs/ has no ES alternate in its HTML or the observed sitemap. This is **not proof of absence**; database/owner confirmation remains required.
+
+No future phase is authorized by these audit findings.
