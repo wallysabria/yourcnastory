@@ -8,3 +8,7 @@ English/Spanish content, with stronger SEO and AEO. Standing rules are in
 in [`docs/reports/`](docs/reports/), working logs in [`docs/logs/`](docs/logs/), and the
 review checklist in [`docs/review-checklist.md`](docs/review-checklist.md). Raw exports live
 in a local, gitignored `/_source/` folder and are never committed.
+
+## Foundation development
+
+Use Node.js 24 and `npm ci`. Run `npm run dev` (localhost:3101), `npm run lint`, `npm run typecheck`, `npm run format:check`, `npm run build`, and `npx playwright test`. `npm run search:spike` runs the isolated bilingual Pagefind experiment after a build. See docs/reports/phase-02.md for scope and evidence. No page bodies or Employers pages are published by this foundation.

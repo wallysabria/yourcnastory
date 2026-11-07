@@ -1,0 +1,32 @@
+[
+  {
+    "locale": "en",
+    "sourceUrl": "https://yourcnastory.org/",
+    "method": "Existing public crawl cache; textContent trimmed only at element boundaries; page bodies excluded",
+    "strings": [
+      "MENU",
+      "Close menu",
+      "Open menu",
+      "Main navigation",
+      "Language",
+      "Search",
+      "Skip to content",
+      "Go to Top"
+    ]
+  },
+  {
+    "locale": "es",
+    "sourceUrl": "https://yourcnastory.org/es/",
+    "method": "Existing public crawl cache; textContent trimmed only at element boundaries; page bodies excluded",
+    "strings": [
+      "Menú",
+      "Cerrar menú",
+      "Abrir menú",
+      "Navegación principal",
+      "Idioma",
+      "Buscar",
+      "Ir al contenido",
+      "Volver arriba"
+    ]
+  }
+]

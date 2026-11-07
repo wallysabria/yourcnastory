@@ -1,0 +1,486 @@
+{
+  "locale": "es",
+  "sourceUrl": "https://yourcnastory.org/es/",
+  "nav": [
+    {
+      "label": "Empleadores",
+      "href": "/es/empresarios/",
+      "employer": true,
+      "columns": [
+        {
+          "title": "CNAP PROGRAM",
+          "items": [
+            {
+              "label": "RESUMEN DEL PROGRAMA",
+              "href": "/es/empresarios/",
+              "employer": true
+            },
+            {
+              "label": "PREMIOS FINANCIEROS CNAP",
+              "href": "/es/premios-cnap/",
+              "employer": true
+            },
+            {
+              "label": "PROGRAMA DE PERFECCIONAMIENTO DE CNA (CUSP)",
+              "href": "/es/cusp-upskilling/",
+              "employer": true
+            },
+            {
+              "label": "PREGUNTAS FREQUENTES",
+              "href": "/faqs/",
+              "employer": true
+            }
+          ]
+        },
+        {
+          "title": "RECURSOS",
+          "items": [
+            {
+              "label": "RECURSOS PARA EMPRESARIOS",
+              "href": "/es/recursos-para-empresarios/",
+              "employer": true
+            },
+            {
+              "label": "Proveedores de Capacitación",
+              "href": "/es/recursos-para-empresarios/#directory-natps",
+              "employer": true
+            },
+            {
+              "label": "Paquete de aprobación DSD",
+              "href": "/es/recursos-para-empresarios/#dsd-approval",
+              "employer": true
+            },
+            {
+              "label": "Desarrolle su plantilla de CNA",
+              "href": "/es/recursos-para-empresarios/#wib-workforce2",
+              "employer": true
+            },
+            {
+              "label": "Establecer un programa de aprendizaje",
+              "href": "/es/recursos-para-empresarios/#cearnandlearn",
+              "employer": true
+            },
+            {
+              "label": "Conviértase en un NATP comunitario",
+              "href": "/es/recursos-para-empresarios/#webinar-contracting-natps",
+              "employer": true
+            },
+            {
+              "label": "Conviértase en un NATP de las instalaciones",
+              "href": "/es/recursos-para-empresarios/#f-natp-application",
+              "employer": true
+            },
+            {
+              "label": "Colaboración con el comité de empleo",
+              "href": "/es/recursos-para-empresarios/#wib-workforce",
+              "employer": true
+            }
+          ]
+        },
+        {
+          "title": "CONTACTO",
+          "items": [
+            {
+              "label": "SOLICITUD DE PREMIO CNAP",
+              "href": "/es/inscripcion-de-empresarios-a-la-cnap/",
+              "employer": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Aspirantes",
+      "href": "/es/aspirantes/",
+      "employer": false,
+      "columns": [
+        {
+          "title": "PROGRAMA CNA",
+          "items": [
+            {
+              "label": "ASISTENTE DE ENFERMERÍA CERTIFICADO (CNA)",
+              "href": "/es/aspirantes/",
+              "employer": false
+            },
+            {
+              "label": "¿QUÉ ES CUIDAR A LARGO PLAZO?",
+              "href": "/es/que-es-cuidar-a-largo-plazo/",
+              "employer": false
+            },
+            {
+              "label": "PROGRAMA CNA",
+              "href": "/es/programa-cna/",
+              "employer": false
+            },
+            {
+              "label": "CÓMO CAPACITARTE PARA SER CNA",
+              "href": "/es/programa-cna-2/",
+              "employer": false
+            },
+            {
+              "label": "PREGUNTAS FREQUENTES",
+              "href": "/es/preguntas-frecuentes/",
+              "employer": false
+            }
+          ]
+        },
+        {
+          "title": "TRAYECTORIAS PROFESIONALES",
+          "items": [
+            {
+              "label": "CAMINOS PROFESIONALES EN EL CUIDADO A LARGO PLAZO",
+              "href": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+              "employer": false
+            },
+            {
+              "label": "Asistente de Enfermería Certificado",
+              "href": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+              "employer": false
+            },
+            {
+              "label": "Enfermería",
+              "href": "/es/carreras/carreras-en-enfermeria/",
+              "employer": false
+            },
+            {
+              "label": "Administración",
+              "href": "/es/carreras/carreras-en-administracion/",
+              "employer": false
+            },
+            {
+              "label": "Servicios Sociales",
+              "href": "/es/carreras/carreras-en-servicios-sociales/",
+              "employer": false
+            },
+            {
+              "label": "Terapia",
+              "href": "/es/carreras/carreras-en-terapia/",
+              "employer": false
+            },
+            {
+              "label": "Coordinación de Cuidados",
+              "href": "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+              "employer": false
+            },
+            {
+              "label": "Servicios de Apoyo",
+              "href": "/es/carreras/carreras-en-servicios-de-apoyo/",
+              "employer": false
+            },
+            {
+              "label": "Actividades",
+              "href": "/es/carreras/carreras-en-actividades/",
+              "employer": false
+            }
+          ]
+        },
+        {
+          "title": "RECURSOS",
+          "items": [
+            {
+              "label": "RECURSOS PARA ASISTENTES DE ENFERMERÍA CERTIFICADOS",
+              "href": "/es/recursos-comunitarios/",
+              "employer": false
+            },
+            {
+              "label": "Proveedores de Capacitación",
+              "href": "/es/recursos-comunitarios/#online-natps",
+              "employer": false
+            },
+            {
+              "label": "CNAs cuentan sus experiencias",
+              "href": "/es/recursos-comunitarios/#video-what-cna",
+              "employer": false
+            },
+            {
+              "label": "Conviértete en un CNA",
+              "href": "/es/recursos-comunitarios/#cna-toolkit",
+              "employer": false
+            },
+            {
+              "label": "Examen de Práctica de CNA",
+              "href": "/es/recursos-comunitarios/#practice-exam",
+              "employer": false
+            },
+            {
+              "label": "Folleto de CNA",
+              "href": "/es/recursos-comunitarios/#cnap-flyer",
+              "employer": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "mobile": [
+    {
+      "label": "Empleadores",
+      "href": "/es/empresarios/",
+      "employer": true,
+      "children": [
+        {
+          "label": "CNAP PROGRAM",
+          "href": null,
+          "employer": true,
+          "children": [
+            {
+              "label": "Resumen del programa",
+              "href": "/es/empresarios/",
+              "employer": true,
+              "children": []
+            },
+            {
+              "label": "Premios financieros de la CNAP",
+              "href": "/es/premios-cnap/",
+              "employer": true,
+              "children": []
+            },
+            {
+              "label": "Certificaciones CUSP",
+              "href": "/es/certificaciones-cna/",
+              "employer": true,
+              "children": []
+            },
+            {
+              "label": "Preguntas frecuentes",
+              "href": "/es/preguntas-frecuentes/",
+              "employer": true,
+              "children": []
+            }
+          ]
+        },
+        {
+          "label": "RECURSOS",
+          "href": null,
+          "employer": true,
+          "children": [
+            {
+              "label": "Recursos para empresarios",
+              "href": "/es/recursos-para-empresarios/",
+              "employer": true,
+              "children": []
+            }
+          ]
+        },
+        {
+          "label": "CONTACTO",
+          "href": null,
+          "employer": true,
+          "children": [
+            {
+              "label": "CNAP Inscripción de empresarios",
+              "href": "/es/inscripcion-de-empresarios-a-la-cnap/",
+              "employer": true,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Aspirantes",
+      "href": "/es/aspirantes/",
+      "employer": false,
+      "children": [
+        {
+          "label": "PROGRAMA CNA",
+          "href": "/es/aspirantes/",
+          "employer": false,
+          "children": [
+            {
+              "label": "Escriba su historia de CNA",
+              "href": "/es/aspirantes/",
+              "employer": false,
+              "children": []
+            },
+            {
+              "label": "¿Qué es Cuidar a Largo Plazo?",
+              "href": "/es/que-es-cuidar-a-largo-plazo/",
+              "employer": false,
+              "children": []
+            },
+            {
+              "label": "Programa de Asistente de Enfermería Certificado",
+              "href": "/es/programa-cna/",
+              "employer": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "label": "TRAYECTORIAS PROFESIONALES",
+          "href": null,
+          "employer": false,
+          "children": [
+            {
+              "label": "Trayectorias profesionales en cuidados de larga duración",
+              "href": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+              "employer": false,
+              "children": [
+                {
+                  "label": "Asistente de enfermería certificado",
+                  "href": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+                  "employer": false,
+                  "children": []
+                },
+                {
+                  "label": "Enfermería",
+                  "href": "/es/carreras/carreras-en-enfermeria/",
+                  "employer": false,
+                  "children": []
+                },
+                {
+                  "label": "Administración",
+                  "href": "/es/carreras/carreras-en-administracion/",
+                  "employer": false,
+                  "children": []
+                },
+                {
+                  "label": "Servicios Sociales",
+                  "href": "/es/carreras/carreras-en-servicios-sociales/",
+                  "employer": false,
+                  "children": []
+                },
+                {
+                  "label": "Terapia",
+                  "href": "/es/carreras/carreras-en-terapia/",
+                  "employer": false,
+                  "children": []
+                },
+                {
+                  "label": "Coordinación de Cuidados",
+                  "href": "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+                  "employer": false,
+                  "children": []
+                },
+                {
+                  "label": "Actividades",
+                  "href": "/es/carreras/carreras-en-actividades/",
+                  "employer": false,
+                  "children": []
+                },
+                {
+                  "label": "Servicios de Apoyo",
+                  "href": "/es/carreras/carreras-en-servicios-de-apoyo/",
+                  "employer": false,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "RECURSOS",
+          "href": null,
+          "employer": false,
+          "children": [
+            {
+              "label": "Recursos comunitarios",
+              "href": "/es/recursos-comunitarios/",
+              "employer": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "label": "CONTACTO",
+          "href": null,
+          "employer": false,
+          "children": [
+            {
+              "label": "Empieza tu carrera",
+              "href": "/es/empieza-tu-nueva-carrera/",
+              "employer": false,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "announcement": {
+    "enabled": false,
+    "text": "76ª Convención y Expo Anual de CAHF: del 15 al 19 de noviembre | Palm Springs, CA. Aprende más.",
+    "linkLabel": "Aprende más.",
+    "href": "https://www.cahf.org/events/event-registration/?eventcd=26NOV"
+  },
+  "footer": {
+    "description": "Quality Care Health Foundation es una fundación educativa sin\nfines de lucro 501(c)(3). Nuestra meta es brindar oportunidades\nde capacitación asequibles y eficaces en una variedad de temas\nrelacionados con las necesidades de los proveedores de\ncuidados a largo plazo en California. Estas necesidades abarcan\ntemas como el cumplimiento normativo, el sistema de\nreembolso de Medicare, conferencias profesionales, cursos de\ncertificación y herramientas para la gestión práctica en\nestablecimientos de cuidados a largo plazo.",
+    "columns": [
+      {
+        "title": "Empleadores",
+        "href": "/es/empresarios/",
+        "employer": true,
+        "items": [
+          {
+            "label": "Programa CNAP",
+            "href": "/es/empresarios/",
+            "employer": true
+          },
+          {
+            "label": "Recursos",
+            "href": "/es/recursos-para-empresarios/",
+            "employer": true
+          },
+          {
+            "label": "Aplicación para Premios",
+            "href": "/es/inscripcion-de-empresarios-a-la-cnap/",
+            "employer": true
+          }
+        ]
+      },
+      {
+        "title": "Aspirantes",
+        "href": "/es/aspirantes/",
+        "employer": false,
+        "items": [
+          {
+            "label": "Programa CNAP",
+            "href": "/es/aspirantes/",
+            "employer": false
+          },
+          {
+            "label": "Caminos Profesionales",
+            "href": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+            "employer": false
+          },
+          {
+            "label": "Recursos",
+            "href": "/es/recursos-comunitarios/",
+            "employer": false
+          }
+        ]
+      },
+      {
+        "title": "Contacto",
+        "href": "/es/aspirantes/",
+        "employer": false,
+        "items": [
+          {
+            "label": "info@yourcnastory.org",
+            "href": "mailto:info@yourcnastory.org",
+            "employer": false
+          }
+        ]
+      }
+    ],
+    "copyright": "© 2026 Fundación Quality Care Health. Todos los derechos reservados.",
+    "copyrightLinkLabel": "Fundación Quality Care Health",
+    "policy": {
+      "label": "Política de privacidad",
+      "href": "/es/politica-de-privacidad/"
+    },
+    "foundationHref": "https://www.cahf.org/Education-Events/QCHF",
+    "logoAlt": "Logotipo QCHF"
+  },
+  "ui": {
+    "menu": "Menú",
+    "closeMenu": "Cerrar menú",
+    "openMenu": "Abrir menú",
+    "navigation": "Navegación principal",
+    "languages": "Idioma",
+    "search": "Buscar",
+    "skip": "Ir al contenido",
+    "top": "Volver arriba"
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "stats": {
+    "startTime": "2026-11-07T17:29:35.493Z",
+    "duration": 5546.009,
+    "expected": 24,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  },
+  "cases": [
+    {
+      "title": "validated route map preserves reciprocal pairs and excludes gated content",
+      "project": "unit",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 108
+        }
+      ]
+    },
+    {
+      "title": "both global settings validate and Spanish copy stays source-driven",
+      "project": "unit",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 33
+        }
+      ]
+    },
+    {
+      "title": "employer links are inert with the gate off and active with it on",
+      "project": "unit",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 12
+        }
+      ]
+    },
+    {
+      "title": "all activated redirects map directly without redirect chains",
+      "project": "unit",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 280
+        }
+      ]
+    },
+    {
+      "title": "every activated redirect returns actual HTTP 301 and the planned location",
+      "project": "unit",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 1898
+        }
+      ]
+    },
+    {
+      "title": "every static shell has the right language, canonical, and noindex headers",
+      "project": "unit",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 2220
+        }
+      ]
+    },
+    {
+      "title": "global navigation URLs remain accounted for in the route or reserved manifests",
+      "project": "unit",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 117
+        }
+      ]
+    },
+    {
+      "title": "unapproved redirect rows remain inactive even through fallback rules",
+      "project": "unit",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 112
+        }
+      ]
+    },
+    {
+      "title": "layout accessibility / @ 1440",
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 1359
+        }
+      ]
+    },
+    {
+      "title": "layout accessibility /es/ @ 1440",
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 1331
+        }
+      ]
+    },
+    {
+      "title": "layout accessibility /career-seekers/ @ 1440",
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 1288
+        }
+      ]
+    },
+    {
+      "title": "layout accessibility /es/aspirantes/ @ 1440",
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 1292
+        }
+      ]
+    },
+    {
+      "title": "layout accessibility /cna-training-providers/ @ 1440",
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 1305
+        }
+      ]
+    },
+    {
+      "title": "layout accessibility /es/programa-cna-2/ @ 1440",
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 1332
+        }
+      ]
+    },
+    {
+      "title": "layout accessibility / @ 390",
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 1095
+        }
+      ]
+    },
+    {
+      "title": "layout accessibility /es/ @ 390",
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 795
+        }
+      ]
+    },
+    {
+      "title": "layout accessibility /career-seekers/ @ 390",
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 1143
+        }
+      ]
+    },
+    {
+      "title": "layout accessibility /es/aspirantes/ @ 390",
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 1224
+        }
+      ]
+    },
+    {
+      "title": "layout accessibility /cna-training-providers/ @ 390",
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 1187
+        }
+      ]
+    },
+    {
+      "title": "layout accessibility /es/programa-cna-2/ @ 390",
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 1184
+        }
+      ]
+    },
+    {
+      "title": "language switcher goes to the actual translated counterpart",
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 507
+        }
+      ]
+    },
+    {
+      "title": "mobile menu opens, expands and restores focus on Escape",
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 1133
+        }
+      ]
+    },
+    {
+      "title": "keyboard opens the career mega menu and Escape closes it",
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 443
+        }
+      ]
+    },
+    {
+      "title": "tablet uses the source mobile-navigation breakpoint",
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 334
+        }
+      ]
+    }
+  ]
+}

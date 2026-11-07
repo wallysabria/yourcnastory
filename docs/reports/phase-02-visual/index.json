@@ -1,0 +1,90 @@
+[
+  {
+    "locale": "en",
+    "width": 1440,
+    "kind": "source",
+    "url": "https://yourcnastory.org/",
+    "files": [
+      "en-1440-source-header.jpg",
+      "en-1440-source-footer.jpg"
+    ],
+    "capturedAt": "2026-11-07T17:38:49.887Z"
+  },
+  {
+    "locale": "en",
+    "width": 1440,
+    "kind": "foundation",
+    "url": "http://127.0.0.1:3101/",
+    "files": [
+      "en-1440-foundation-header.jpg",
+      "en-1440-foundation-footer.jpg"
+    ],
+    "capturedAt": "2026-11-07T17:38:49.982Z"
+  },
+  {
+    "locale": "en",
+    "width": 390,
+    "kind": "source",
+    "url": "https://yourcnastory.org/",
+    "files": [
+      "en-390-source-header.jpg",
+      "en-390-source-footer.jpg"
+    ],
+    "capturedAt": "2026-11-07T17:38:52.267Z"
+  },
+  {
+    "locale": "en",
+    "width": 390,
+    "kind": "foundation",
+    "url": "http://127.0.0.1:3101/",
+    "files": [
+      "en-390-foundation-header.jpg",
+      "en-390-foundation-footer.jpg"
+    ],
+    "capturedAt": "2026-11-07T17:38:52.365Z"
+  },
+  {
+    "locale": "es",
+    "width": 1440,
+    "kind": "source",
+    "url": "https://yourcnastory.org/es/",
+    "files": [
+      "es-1440-source-header.jpg",
+      "es-1440-source-footer.jpg"
+    ],
+    "capturedAt": "2026-11-07T17:38:54.303Z"
+  },
+  {
+    "locale": "es",
+    "width": 1440,
+    "kind": "foundation",
+    "url": "http://127.0.0.1:3101/es/",
+    "files": [
+      "es-1440-foundation-header.jpg",
+      "es-1440-foundation-footer.jpg"
+    ],
+    "capturedAt": "2026-11-07T17:38:54.399Z"
+  },
+  {
+    "locale": "es",
+    "width": 390,
+    "kind": "source",
+    "url": "https://yourcnastory.org/es/",
+    "files": [
+      "es-390-source-header.jpg",
+      "es-390-source-footer.jpg"
+    ],
+    "capturedAt": "2026-11-07T17:38:56.632Z"
+  },
+  {
+    "locale": "es",
+    "width": 390,
+    "kind": "foundation",
+    "url": "http://127.0.0.1:3101/es/",
+    "files": [
+      "es-390-foundation-header.jpg",
+      "es-390-foundation-footer.jpg"
+    ],
+    "capturedAt": "2026-11-07T17:38:56.730Z"
+  }
+]

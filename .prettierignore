@@ -1,0 +1,7 @@
+node_modules/
+_source/
+.next/
+docs/audit/
+docs/reports/phase-01.md
+package-lock.json
+public/

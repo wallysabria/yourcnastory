@@ -1,0 +1,1906 @@
+[
+  {
+    "path": "/careerpaths/careers-in-certified-nurse-assistant/careers-in-therapy/",
+    "locale": "en",
+    "observedStatus": 301,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/careerpaths/careers-in-certified-nurse-assistant/careers-in-nursing/",
+    "locale": "en",
+    "observedStatus": 301,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/careerpaths/careers-in-certified-nurse-assistant/careers-in-social-services",
+    "locale": "en",
+    "observedStatus": 301,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/careerpaths/careers-in-certified-nurse-assistant/careers-in-activities",
+    "locale": "en",
+    "observedStatus": 301,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/careerpaths/careers-in-administration",
+    "locale": "en",
+    "observedStatus": 301,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/404page",
+    "locale": "en",
+    "observedStatus": 404,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/the7_team/person003/",
+    "locale": "en",
+    "observedStatus": 404,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/the7_project/project007/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/the7_project/project009/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/the7_project/project008/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/the7_project/project011/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/career-seekers",
+    "locale": "en",
+    "observedStatus": 301,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/start-your-new-career/",
+    "locale": "en",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/earn-and-learn",
+    "locale": "en",
+    "observedStatus": 301,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/community-resources",
+    "locale": "en",
+    "observedStatus": 301,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/employers",
+    "locale": "en",
+    "observedStatus": 301,
+    "section": "employers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/train-and-gain/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/the7_client/client-001/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/the7_client/client-002/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/in-demand/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/affordable-career/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/teamwork/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/cna-employers/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/faqs",
+    "locale": "en",
+    "observedStatus": 301,
+    "section": "employers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/advocate/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/purpose/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vocation/",
+    "locale": "en",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/cna-employers-test-calculator/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/the7_project/project001/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/the7_project/project002/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/the7_project/project003/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/the7_project/project004/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/the7_project/project006/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/the7_project/project010/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/services-1/service-1/",
+    "locale": "en",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/the7_client/client-003/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/the7_client/client-004/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/the7_client/client-005/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/the7_client/client-006/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/the7_client/client-007/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/the7_client/client-008/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/the7_reviews/skilled-nursing/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/the7_reviews/short-stay-rehab/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/the7_reviews/kern-valley-healthcare-district/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/the7_reviews/southern-inyo-healthcare-district/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/the7_reviews/fallbrook-skilled-nursing/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/the7_reviews/golden-heights-healthcare/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/the7_reviews/the-pines-at-placerville/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/the7_reviews/crystal-ridge-care-center/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/the7_reviews/kern-valley/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/the7_reviews/oak-river-rehab/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "shared",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "shared",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/cnap-employer-signup/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "employers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/cnap-employer-signup/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "employers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/recursos-para-empresarios/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "employers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/employer-resources/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "employers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/employer-resources/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "employers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/what-is-long-term-care/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/what-is-long-term-care/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/community-resources/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/community-resources/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/en-equipo/",
+    "locale": "es",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/teamwork/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/teamwork/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/career-paths-in-long-term-care/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/career-paths-in-long-term-care/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/certified-nurse-assistant-program/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/certified-nurse-assistant-program/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/career-seekers/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/career-seekers/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/carrera-economica/",
+    "locale": "es",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/nghe-nghiep-gia-ca-phai-chang/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/%e5%bb%89%e4%bb%b7%e8%81%8c%e4%b8%9a/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/cna-training-providers/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/cna-training-providers/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/frequently-asked-questions/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/frequently-asked-questions/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/empleadores-de-cna/",
+    "locale": "es",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/co-so-cung-cap-viec-lam-cho-cna/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/cnas-%e9%9b%87%e4%b8%bb/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/calculadora-de-pruebas-para-empleadores-de-cna/",
+    "locale": "es",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/cna-employers-test-calculator/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/cna%e9%9b%87%e4%b8%bb%e6%b5%8b%e8%af%95%e8%ae%a1%e7%ae%97%e5%99%a8/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/chung-chi-cna/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "employers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/cna-%e8%ae%a4%e8%af%81/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "employers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/cnap-awards/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "employers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/cnap-awards/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "employers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/cusp-upskilling/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "employers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/cusp-upskilling/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "employers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/empresarios/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "employers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/employers/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "employers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/employers/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "employers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/careerpaths/careers-in-certified-nurse-assistant",
+    "locale": "en",
+    "observedStatus": 301,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/careerpaths/careers-in-certified-nurse-assistant/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/careerpaths/careers-in-certified-nurse-assistant/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/privacy-policy",
+    "locale": "en",
+    "observedStatus": 301,
+    "section": "shared",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/careerpaths/careers-in-nursing/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/careerpaths/careers-in-nursing/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/careerpaths/careers-in-support-services/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/careerpaths/careers-in-support-services/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/careerpaths/careers-in-therapy/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/careerpaths/careers-in-therapy/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/careerpaths/careers-in-care-coordination/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/careerpaths/careers-in-care-coordination/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/careerpaths/careers-in-social-services/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/careerpaths/careers-in-social-services/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/careerpaths/careers-in-activities/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/careerpaths/careers-in-activities/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/careerpaths/careers-in-administration/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/careerpaths/careers-in-administration/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/the7_project/proyecto007/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/du-an-the7/du-an007/",
+    "locale": "vi",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/the7_project/project007/",
+    "locale": "zh",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/the7_project_category/marketing/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/the7_project/proyecto009/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/du-an-the7/du-an009/",
+    "locale": "vi",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/the7_project/project009/",
+    "locale": "zh",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/the7_project_category/web/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/the7_project/proyecto008/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/du-an-the7/du-an008/",
+    "locale": "vi",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/the7_project/project008/",
+    "locale": "zh",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/the7_project/proyecto011/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/du-an-the7/du-an011/",
+    "locale": "vi",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/the7_project/%e9%a1%b9%e7%9b%ae011/",
+    "locale": "zh",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/chinh-sach-bao-mat/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "shared",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/%e9%9a%90%e7%a7%81%e6%94%bf%e7%ad%96/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "shared",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/entrenar-y-ganar/",
+    "locale": "es",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/dao-tao-va-phat-trien/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/%e7%bb%83%e5%8a%9f/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/el7_cliente/cliente-001/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/the7_khach-hang/khach-hang-001/",
+    "locale": "vi",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/the7_client/%e5%ae%a2%e6%88%b7-001/",
+    "locale": "zh",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/el7_cliente/cliente-002/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/the7_khach-hang/khach-hang-002/",
+    "locale": "vi",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/the7_client/%e5%ae%a2%e6%88%b7-002/",
+    "locale": "zh",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/career-advancement/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/career-advancement/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/kiem-va-hoc-la/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0%e5%95%a6/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/kiem-va-hoc-cvalley/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0-cvalley/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/kiem-tien-va-hoc-tap-bayarea/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/%e5%9c%a8-bayarea-%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/kiem-va-hoc-norcal/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0%e8%af%ba%e5%8d%a1%e5%b0%94/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/carreras-en-demanda/",
+    "locale": "es",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/in-demand/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/in-demand/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/kiem-tien-va-hoc-hoi-tai-san-diego/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/%e5%9c%a3%e5%9c%b0%e4%ba%9a%e5%93%a5%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/kiem-tien-va-hoc-hoi/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/%e5%ad%a6%e4%bb%a5%e8%87%b4%e7%94%a8/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/abogado/",
+    "locale": "es",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/bien-ho/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/%e5%80%a1%e5%af%bc/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/vocacion/",
+    "locale": "es",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/the7_project/proyecto001/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/du-an-the7/du-an001/",
+    "locale": "vi",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/the7_project/%e9%a1%b9%e7%9b%ae001/",
+    "locale": "zh",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/the7_project_category/apps/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/the7_project/proyecto002/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/du-an-the7/du-an002/",
+    "locale": "vi",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/the7_project/%e9%a1%b9%e7%9b%ae002/",
+    "locale": "zh",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/the7_project/proyecto003/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/du-an-the7/du-an003/",
+    "locale": "vi",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/the7_project/%e9%a1%b9%e7%9b%ae003/",
+    "locale": "zh",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/the7_project/proyecto004/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/du-an-the7/du-an004/",
+    "locale": "vi",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/the7_project/%e9%a1%b9%e7%9b%ae004/",
+    "locale": "zh",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/the7_project/proyecto006/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/du-an-the7/du-an006/",
+    "locale": "vi",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/the7_project/project006/",
+    "locale": "zh",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/the7_project/proyecto010/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/du-an-the7/du-an010/",
+    "locale": "vi",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/the7_project/%e9%a1%b9%e7%9b%ae010/",
+    "locale": "zh",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/el7_cliente/cliente-003/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/the7_khach-hang/khach-hang-003/",
+    "locale": "vi",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/the7_client/%e5%ae%a2%e6%88%b7-003/",
+    "locale": "zh",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/el7_cliente/cliente-004/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/the7_khach-hang/khach-hang-004/",
+    "locale": "vi",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/the7_client/%e5%ae%a2%e6%88%b7-004/",
+    "locale": "zh",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/el7_cliente/cliente-005/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/the7_khach-hang/khach-hang-005/",
+    "locale": "vi",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/the7_client/%e5%ae%a2%e6%88%b7-005/",
+    "locale": "zh",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/el7_cliente/cliente-006/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/the7_khach-hang/khach-hang-006/",
+    "locale": "vi",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/the7_client/%e5%ae%a2%e6%88%b7-006/",
+    "locale": "zh",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/el7_cliente/cliente-007/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/the7_khach-hang/khach-hang-007/",
+    "locale": "vi",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/the7_client/%e5%ae%a2%e6%88%b7-007/",
+    "locale": "zh",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/el7_cliente/cliente-008/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/the7_khach-hang/khach-hang-008/",
+    "locale": "vi",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/the7_client/%e5%ae%a2%e6%88%b7-008/",
+    "locale": "zh",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/the7_reviews/enfermeria-especializada/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/the7_reviews/dieu-duong-lanh-nghe/",
+    "locale": "vi",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/the7_reviews/%e4%b8%93%e4%b8%9a%e6%8a%a4%e7%90%86/",
+    "locale": "zh",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/the7_reviews/rehabilitacion-de-corta-estancia/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/the7_reviews/phuc-hoi-chuc-nang-ngan-han/",
+    "locale": "vi",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/the7_reviews/%e7%9f%ad%e6%9c%9f%e5%ba%b7%e5%a4%8d/",
+    "locale": "zh",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/the7_reviews/distrito-sanitario-de-kern-valley/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/the7_reviews/khu-cham-soc-suc-khoe-kern-valley/",
+    "locale": "vi",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/the7_reviews/%e7%a7%91%e6%81%a9%e8%b0%b7%e5%8c%bb%e7%96%97%e4%bf%9d%e5%81%a5%e5%8c%ba/",
+    "locale": "zh",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/the7_reviews/distrito-sanitario-del-sur-de-inyo/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/the7_reviews/khu-cham-soc-suc-khoe-nam-inyo/",
+    "locale": "vi",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/the7_reviews/%e5%8d%97%e4%bb%81%e8%80%80%e5%8c%bb%e7%96%97%e4%bf%9d%e5%81%a5%e5%8c%ba/",
+    "locale": "zh",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/the7_reviews/enfermeria-especializada-fallbrook/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/the7_reviews/dieu-duong-co-tay-nghe-fallbrook/",
+    "locale": "vi",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/the7_reviews/fallbrook-%e7%86%9f%e7%bb%83%e6%8a%a4%e7%90%86/",
+    "locale": "zh",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/the7_reviews/golden-heights-healthcare/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/the7_reviews/cham-soc-suc-khoe-golden-heights/",
+    "locale": "vi",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/the7_reviews/%e9%87%91%e8%89%b2%e9%ab%98%e5%9c%b0%e5%8c%bb%e7%96%97%e4%bf%9d%e5%81%a5/",
+    "locale": "zh",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/the7_reviews/the-pines-at-placerville/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/the7_reviews/the-pines-at-placerville/",
+    "locale": "vi",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/the7_reviews/the-pines-at-placerville/",
+    "locale": "zh",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/the7_reviews/crystal-ridge-care-center/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/the7_reviews/crystal-ridge-care-center/",
+    "locale": "vi",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/the7_reviews/crystal-ridge-care-center/",
+    "locale": "zh",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/the7_reviews/kern-valley/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/the7_reviews/kern-valley/",
+    "locale": "vi",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/the7_reviews/kern-valley/",
+    "locale": "zh",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/the7_reviews/oak-river-rehab/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/the7_reviews/oak-river-rehab/",
+    "locale": "vi",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/the7_reviews/oak-river-rehab/",
+    "locale": "zh",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/empieza-tu-nueva-carrera/",
+    "locale": "es",
+    "observedStatus": 404,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi",
+    "locale": "vi",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/bat-dau-su-nghiep-moi-cua-ban/",
+    "locale": "vi",
+    "observedStatus": 404,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh",
+    "locale": "zh",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/%e5%bc%80%e5%a7%8b%e6%96%b0%e7%9a%84%e8%81%8c%e4%b8%9a%e7%94%9f%e6%b6%af/",
+    "locale": "zh",
+    "observedStatus": 404,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/certified-nurse-assistant-program/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/%20careerpaths/careers-in-%20certified-nurse-%20assistant/",
+    "locale": "vi",
+    "observedStatus": 404,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/%20certified-nurse-assistant-%20program/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/%20careerpaths/careers-in-%20certified-nurse-%20assistant/",
+    "locale": "zh",
+    "observedStatus": 404,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/%20certified-nurse-assistant-%20program/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/may-tinh-tinh-toan-bai-kiem-tra-cua-nha-tuyen-dung-cna/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/carreras-en-terapia/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/carreras-en-enfermeria/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/carreras-en-servicios-sociales/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/carreras-en-actividades/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/careers-in-therapy/",
+    "locale": "vi",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/careers-in-nursing/",
+    "locale": "vi",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/careers-in-social-services/",
+    "locale": "vi",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/careers-in-activities/",
+    "locale": "vi",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/careers-in-therapy/",
+    "locale": "zh",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/careers-in-nursing/",
+    "locale": "zh",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/careers-in-social-services/",
+    "locale": "zh",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/careers-in-activities/",
+    "locale": "zh",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/the7_project_category/marketing/",
+    "locale": "es",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/danh-muc-du-an-the7/tiep-thi/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/the7_project_category/%e5%b8%82%e5%9c%ba%e8%90%a5%e9%94%80/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/the7_project_category/web/",
+    "locale": "es",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/danh-muc-du-an-the7/mang-luoi/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/the7_project_category/%e7%bd%91%e9%a1%b5/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/nghe-nghiep/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/%e8%81%8c%e4%b8%9a/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/the7_project_category/aplicaciones/",
+    "locale": "es",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/danh-muc-du-an-the7/ung-dung/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/the7_project_category/%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/+certified-nurse-assistant-+program/",
+    "locale": "vi",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/+certified-nurse-assistant-+program/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/%20certified-nurse-assistant-%20program/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/+certified-nurse-assistant-+program/",
+    "locale": "zh",
+    "observedStatus": 301,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/careerpaths/careers-in-therapy/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/careerpaths/careers-in-nursing/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/careerpaths/careers-in-social-services/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/careerpaths/careers-in-activities/",
+    "locale": "es",
+    "observedStatus": 301,
+    "section": "career-seekers",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/vi/+tro-ly-y-ta-duoc-chung-nhan+chuong-trinh/",
+    "locale": "vi",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/+auxiliar-de-enfermeria-titulado+programa/",
+    "locale": "es",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/es/%20certified-nurse-assistant-%20program/",
+    "locale": "es",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/zh/+%e6%b3%a8%e5%86%8c%e6%8a%a4%e5%a3%ab%e5%8a%a9%e7%90%86+%e7%a8%8b%e5%ba%8f/",
+    "locale": "zh",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  },
+  {
+    "path": "/+certified-nurse-assistant-+program/",
+    "locale": "en",
+    "observedStatus": 200,
+    "section": "other",
+    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
+  }
+]
