@@ -21,7 +21,14 @@ test('every extracted page renders in the inert content-review endpoint', async 
   }
 });
 test('content-review cannot expose employer or filesystem paths', async ({ request }) => {
-  for (const path of ['/employers/', '/faqs/', '../../.env.local', '/es/empresarios/'])
+  for (const path of [
+    '/employers/',
+    '/faqs/',
+    '../../.env.local',
+    '/es/empresarios/',
+    'constructor',
+    '__proto__',
+  ])
     expect(
       (await request.get('/api/content-review/?path=' + encodeURIComponent(path))).status(),
     ).toBe(404);

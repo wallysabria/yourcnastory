@@ -98,6 +98,6 @@ const pages: Record<string, unknown> = {
   '/es/earn-and-learn/': page47,
 };
 export function contentAt(path: string) {
-  const data = pages[path];
+  const data = Object.hasOwn(pages, path) ? pages[path] : undefined;
   return data ? pageSchema.parse(data) : undefined;
 }

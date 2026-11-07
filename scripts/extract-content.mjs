@@ -156,3 +156,20 @@ console.log(
     mediaCandidates: media.size,
   }),
 );
+
+// Keep the explicit server-side loader synchronized with the approved content index.
+let loader = "import { pageSchema } from './content-schema';\n";
+index.forEach(
+  (row, i) =>
+    (loader +=
+      'import page' +
+      i +
+      ' from ' +
+      JSON.stringify('../' + row.file) +
+      " with { type: 'json' };\n"),
+);
+loader +=
+  'const pages: Record<string, unknown> = {\n' +
+  index.map((row, i) => JSON.stringify(row.path) + ':page' + i).join(',\n') +
+  '\n};\nexport function contentAt(path: string) { const data=Object.hasOwn(pages,path)?pages[path]:undefined; return data ? pageSchema.parse(data) : undefined; }\n';
+fs.writeFileSync('lib/content-pages.ts', loader);
