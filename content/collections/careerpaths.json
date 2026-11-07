@@ -1,0 +1,114 @@
+[
+  {
+    "routeId": "/careerpaths/careers-in-certified-nurse-assistant/",
+    "locale": "en",
+    "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+    "file": "content/pages/careerpaths--careers-in-certified-nurse-assistant.json",
+    "collectionOrder": 0
+  },
+  {
+    "routeId": "/careerpaths/careers-in-nursing/",
+    "locale": "en",
+    "path": "/careerpaths/careers-in-nursing/",
+    "file": "content/pages/careerpaths--careers-in-nursing.json",
+    "collectionOrder": 1
+  },
+  {
+    "routeId": "/careerpaths/careers-in-administration/",
+    "locale": "en",
+    "path": "/careerpaths/careers-in-administration/",
+    "file": "content/pages/careerpaths--careers-in-administration.json",
+    "collectionOrder": 2
+  },
+  {
+    "routeId": "/careerpaths/careers-in-social-services/",
+    "locale": "en",
+    "path": "/careerpaths/careers-in-social-services/",
+    "file": "content/pages/careerpaths--careers-in-social-services.json",
+    "collectionOrder": 3
+  },
+  {
+    "routeId": "/careerpaths/careers-in-therapy/",
+    "locale": "en",
+    "path": "/careerpaths/careers-in-therapy/",
+    "file": "content/pages/careerpaths--careers-in-therapy.json",
+    "collectionOrder": 4
+  },
+  {
+    "routeId": "/careerpaths/careers-in-care-coordination/",
+    "locale": "en",
+    "path": "/careerpaths/careers-in-care-coordination/",
+    "file": "content/pages/careerpaths--careers-in-care-coordination.json",
+    "collectionOrder": 5
+  },
+  {
+    "routeId": "/careerpaths/careers-in-activities/",
+    "locale": "en",
+    "path": "/careerpaths/careers-in-activities/",
+    "file": "content/pages/careerpaths--careers-in-activities.json",
+    "collectionOrder": 6
+  },
+  {
+    "routeId": "/careerpaths/careers-in-support-services/",
+    "locale": "en",
+    "path": "/careerpaths/careers-in-support-services/",
+    "file": "content/pages/careerpaths--careers-in-support-services.json",
+    "collectionOrder": 7
+  },
+  {
+    "routeId": "/careerpaths/careers-in-certified-nurse-assistant/",
+    "locale": "es",
+    "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+    "file": "content/pages/es--carreras--carreras-en-asistente-de-enfermeria-certificado.json",
+    "collectionOrder": 0
+  },
+  {
+    "routeId": "/careerpaths/careers-in-nursing/",
+    "locale": "es",
+    "path": "/es/carreras/carreras-en-enfermeria/",
+    "file": "content/pages/es--carreras--carreras-en-enfermeria.json",
+    "collectionOrder": 1
+  },
+  {
+    "routeId": "/careerpaths/careers-in-administration/",
+    "locale": "es",
+    "path": "/es/carreras/carreras-en-administracion/",
+    "file": "content/pages/es--carreras--carreras-en-administracion.json",
+    "collectionOrder": 2
+  },
+  {
+    "routeId": "/careerpaths/careers-in-social-services/",
+    "locale": "es",
+    "path": "/es/carreras/carreras-en-servicios-sociales/",
+    "file": "content/pages/es--carreras--carreras-en-servicios-sociales.json",
+    "collectionOrder": 3
+  },
+  {
+    "routeId": "/careerpaths/careers-in-therapy/",
+    "locale": "es",
+    "path": "/es/carreras/carreras-en-terapia/",
+    "file": "content/pages/es--carreras--carreras-en-terapia.json",
+    "collectionOrder": 4
+  },
+  {
+    "routeId": "/careerpaths/careers-in-care-coordination/",
+    "locale": "es",
+    "path": "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+    "file": "content/pages/es--carreras--carreras-en-coordinacion-de-cuidados.json",
+    "collectionOrder": 5
+  },
+  {
+    "routeId": "/careerpaths/careers-in-activities/",
+    "locale": "es",
+    "path": "/es/carreras/carreras-en-actividades/",
+    "file": "content/pages/es--carreras--carreras-en-actividades.json",
+    "collectionOrder": 6
+  },
+  {
+    "routeId": "/careerpaths/careers-in-support-services/",
+    "locale": "es",
+    "path": "/es/carreras/carreras-en-servicios-de-apoyo/",
+    "file": "content/pages/es--carreras--carreras-en-servicios-de-apoyo.json",
+    "collectionOrder": 7
+  }
+]

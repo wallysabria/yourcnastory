@@ -13,3 +13,20 @@ No production copy or links changed. Job-board references are inventoried in doc
 
 ## Phase 2
 Global header/footer and required route headings copied from audited public source; page bodies not ported. No copy rewritten and no job-board removal occurred in this phase. Source/provenance: docs/reports/phase-02-global-provenance.json.
+
+## Phase 3 — job-board removals
+
+Only these source substrings or link-and-label elements were removed; nothing was substituted. Other privacy-policy wording is retained. Full character-exact removal records: docs/reports/phase-03-jobboard-removals.json.
+
+| Page | Kind | Original removed text/link | Result |
+|---|---|---|---|
+| /privacy-policy/ | text-substring | the QCHF/CAHF Job Bank and/or | Removed; no replacement |
+| /privacy-policy/ | text-substring | the job bank or | Removed; no replacement |
+| /privacy-policy/ | text-substring | the job bank and/or | Removed; no replacement |
+| /privacy-policy/ | text-substring | The information submitted by users to QCHF via the QCHF/CAHF Job Bank will be accessible by QCHF member entities for the purposes of employee recruitment, and may be disseminated to or accessed by QCHF/CAHF member entities without the consent of the individual submitting their information to the QCHF/CAHF Job Bank. | Removed; no replacement |
+| /career-advancement/ | link-and-label | Learn About the Earn and Learn Program — https://jobboard.yourcnastory.org/?_ | Removed; no replacement |
+| /es/politica-de-privacidad/ | text-substring | la bolsa de trabajo de QCHF/CAHF y/o | Removed; no replacement |
+| /es/politica-de-privacidad/ | text-substring | la bolsa de trabajo o en | Removed; no replacement |
+| /es/politica-de-privacidad/ | text-substring | la bolsa de trabajo y/o | Removed; no replacement |
+| /es/politica-de-privacidad/ | text-substring | La información enviada por los usuarios a QCHF a través de la Bolsa de Trabajo de QCHF/CAHF será accesible por las entidades miembro de QCHF con el propósito de reclutar empleados, y puede ser difundida o accedida por las entidades miembro de QCHF/CAHF sin el consentimiento del individuo que envía su información a la Bolsa de Trabajo de QCHF/CAHF. | Removed; no replacement |
+| /es/avance-profesional/ | link-and-label | Aprende sobre el programa Earn and Learn — https://jobboard.yourcnastory.org/?_ | Removed; no replacement |

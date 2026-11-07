@@ -1,0 +1,544 @@
+{
+  "scope": "Public page SEO fields only; no private export data copied.",
+  "records": [
+    {
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "record": true,
+      "type": "careerpaths",
+      "checks": []
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "record": true,
+      "type": "careerpaths",
+      "checks": []
+    },
+    {
+      "path": "/careerpaths/careers-in-support-services/",
+      "record": true,
+      "type": "careerpaths",
+      "checks": []
+    },
+    {
+      "path": "/careerpaths/careers-in-therapy/",
+      "record": true,
+      "type": "careerpaths",
+      "checks": []
+    },
+    {
+      "path": "/careerpaths/careers-in-care-coordination/",
+      "record": true,
+      "type": "careerpaths",
+      "checks": []
+    },
+    {
+      "path": "/careerpaths/careers-in-social-services/",
+      "record": true,
+      "type": "careerpaths",
+      "checks": []
+    },
+    {
+      "path": "/careerpaths/careers-in-activities/",
+      "record": true,
+      "type": "careerpaths",
+      "checks": []
+    },
+    {
+      "path": "/careerpaths/careers-in-administration/",
+      "record": true,
+      "type": "careerpaths",
+      "checks": []
+    },
+    {
+      "path": "/",
+      "record": true,
+      "type": "page",
+      "checks": [
+        {
+          "field": "description",
+          "wxr": "The Certified Nurse Assistant Program (CNAP) offers valuable tools and for both employers and career seekers in long term care.",
+          "rendered": "The Certified Nurse Assistant Program (CNAP) offers valuable tools and for both employers and career seekers in long term care.",
+          "match": true
+        },
+        {
+          "field": "ogTitle",
+          "wxr": "Certified Nurse Assistant Program (CNAP) Powering Careers with Purpose in Senior Care",
+          "rendered": "Certified Nurse Assistant Program (CNAP) Powering Careers with Purpose in Senior Care",
+          "match": true
+        },
+        {
+          "field": "ogDescription",
+          "wxr": "CNAP offers long term care facilities and those interested in a careers as a Certified Nurse Assistant valuable tools for training, recruitment, and retention.",
+          "rendered": "CNAP offers long term care facilities and those interested in a careers as a Certified Nurse Assistant valuable tools for training, recruitment, and retention.",
+          "match": true
+        },
+        {
+          "field": "ogImage",
+          "wxr": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-cta-banner-background2-1024x683.jpg",
+          "rendered": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-cta-banner-background2.jpg",
+          "match": false
+        }
+      ]
+    },
+    {
+      "path": "/career-seekers/",
+      "record": true,
+      "type": "page",
+      "checks": [
+        {
+          "field": "description",
+          "wxr": "Write Your CNA Story - Becoming a Certified Nurse Assistant (CNA) could be your first step in a rewarding career in healthcare.",
+          "rendered": "Write Your CNA Story - Becoming a Certified Nurse Assistant (CNA) could be your first step in a rewarding career in healthcare.",
+          "match": true
+        },
+        {
+          "field": "ogTitle",
+          "wxr": "Write Your CNA Story - Consider a Career as a Certified Nurse Assistant (CNA)",
+          "rendered": "Write Your CNA Story - Consider a Career as a Certified Nurse Assistant (CNA)",
+          "match": true
+        },
+        {
+          "field": "ogDescription",
+          "wxr": "Becoming a Certified Nurse Assistant (CNA) can be your first step in a rewarding career in healthcare.",
+          "rendered": "Becoming a Certified Nurse Assistant (CNA) can be your first step in a rewarding career in healthcare.",
+          "match": true
+        },
+        {
+          "field": "ogImage",
+          "wxr": "https://yourcnastory.org/wp-content/uploads/2023/09/qchf-header-insert-8.jpg",
+          "rendered": "https://yourcnastory.org/wp-content/uploads/2023/09/qchf-header-insert-8.jpg",
+          "match": true
+        }
+      ]
+    },
+    {
+      "path": "/career-paths-in-long-term-care/",
+      "record": true,
+      "type": "page",
+      "checks": []
+    },
+    {
+      "path": "/community-resources/",
+      "record": true,
+      "type": "page",
+      "checks": [
+        {
+          "field": "description",
+          "wxr": "CNAP has compiled valuable tools, toolkits, presentations, webinars, and videos designed to support CNA career seekers in California.",
+          "rendered": "CNAP has compiled valuable tools, toolkits, presentations, webinars, and videos designed to support CNA career seekers in California.",
+          "match": true
+        },
+        {
+          "field": "ogTitle",
+          "wxr": "Resources for CNA Career Seekers in California",
+          "rendered": "Resources for CNA Career Seekers in California",
+          "match": true
+        },
+        {
+          "field": "ogDescription",
+          "wxr": "CNAP has compiled valuable tools, toolkits, presentations, webinars, and videos designed to support CNA career seekers in California.",
+          "rendered": "CNAP has compiled valuable tools, toolkits, presentations, webinars, and videos designed to support CNA career seekers in California.",
+          "match": true
+        },
+        {
+          "field": "ogImage",
+          "wxr": "https://yourcnastory.org/wp-content/uploads/2023/09/qchf-header-insert-1-300x300.jpg",
+          "rendered": "https://yourcnastory.org/wp-content/uploads/2023/09/qchf-header-insert-1.jpg",
+          "match": false
+        }
+      ]
+    },
+    {
+      "path": "/privacy-policy/",
+      "record": true,
+      "type": "page",
+      "checks": []
+    },
+    {
+      "path": "/certified-nurse-assistant-program/",
+      "record": true,
+      "type": "page",
+      "checks": []
+    },
+    {
+      "path": "/cna-training-providers/",
+      "record": true,
+      "type": "page",
+      "checks": []
+    },
+    {
+      "path": "/what-is-long-term-care/",
+      "record": true,
+      "type": "page",
+      "checks": [
+        {
+          "field": "description",
+          "wxr": "Skilled nursing and assisted living facilities are active, welcoming communities that provide seniors with the care they need.",
+          "rendered": "Skilled nursing and assisted living facilities are active, welcoming communities that provide seniors with the care they need.",
+          "match": true
+        },
+        {
+          "field": "ogTitle",
+          "wxr": "What is Long Term Care?",
+          "rendered": "What is Long Term Care?",
+          "match": true
+        },
+        {
+          "field": "ogDescription",
+          "wxr": "From skilled nursing facilities and short stay rehab to memory care focused environments, there are a variety of long term care facilities where CNAs play a key role.",
+          "rendered": "From skilled nursing facilities and short stay rehab to memory care focused environments, there are a variety of long term care facilities where CNAs play a key role.",
+          "match": true
+        },
+        {
+          "field": "ogImage",
+          "wxr": "https://yourcnastory.org/wp-content/uploads/2023/09/skillednursing-1024x683-1.jpg",
+          "rendered": "https://yourcnastory.org/wp-content/uploads/2023/09/skillednursing-1024x683-1.jpg",
+          "match": true
+        }
+      ]
+    },
+    {
+      "path": "/career-advancement/",
+      "record": true,
+      "type": "page",
+      "checks": [
+        {
+          "field": "description",
+          "wxr": "Launch a career in healthcare as a Certified Nurse Assistant (CNA)",
+          "rendered": "Launch a career in healthcare as a Certified Nurse Assistant (CNA)",
+          "match": true
+        },
+        {
+          "field": "ogTitle",
+          "wxr": "Write Your CNA Story - Consider a Career as a Certified Nurse Assistant (CNA)",
+          "rendered": "Write Your CNA Story - Consider a Career as a Certified Nurse Assistant (CNA)",
+          "match": true
+        },
+        {
+          "field": "ogDescription",
+          "wxr": "Becoming a Certified Nurse Assistant (CNA) can be your first step in a rewarding career in healthcare.",
+          "rendered": "Becoming a Certified Nurse Assistant (CNA) can be your first step in a rewarding career in healthcare.",
+          "match": true
+        },
+        {
+          "field": "ogImage",
+          "wxr": "https://yourcnastory.org/wp-content/uploads/2023/09/qchf-header-insert-8.jpg",
+          "rendered": "https://yourcnastory.org/wp-content/uploads/2023/09/qchf-header-insert-8.jpg",
+          "match": true
+        }
+      ]
+    },
+    {
+      "path": "/earn-and-learn-la/",
+      "record": true,
+      "type": "page",
+      "checks": [
+        {
+          "field": "description",
+          "wxr": "Launch a career in healthcare as a Certified Nurse Assistant (CNA)",
+          "rendered": "Launch a career in healthcare as a Certified Nurse Assistant (CNA)",
+          "match": true
+        },
+        {
+          "field": "ogTitle",
+          "wxr": "Write Your CNA Story - Consider a Career as a Certified Nurse Assistant (CNA)",
+          "rendered": "Write Your CNA Story - Consider a Career as a Certified Nurse Assistant (CNA)",
+          "match": true
+        },
+        {
+          "field": "ogDescription",
+          "wxr": "Becoming a Certified Nurse Assistant (CNA) can be your first step in a rewarding career in healthcare.",
+          "rendered": "Becoming a Certified Nurse Assistant (CNA) can be your first step in a rewarding career in healthcare.",
+          "match": true
+        },
+        {
+          "field": "ogImage",
+          "wxr": "https://yourcnastory.org/wp-content/uploads/2023/09/qchf-header-insert-8.jpg",
+          "rendered": "https://yourcnastory.org/wp-content/uploads/2023/09/qchf-header-insert-8.jpg",
+          "match": true
+        }
+      ]
+    },
+    {
+      "path": "/frequently-asked-questions/",
+      "record": true,
+      "type": "page",
+      "checks": []
+    },
+    {
+      "path": "/earn-and-learn-cvalley/",
+      "record": true,
+      "type": "page",
+      "checks": [
+        {
+          "field": "description",
+          "wxr": "Launch a career in healthcare as a Certified Nurse Assistant (CNA)",
+          "rendered": "Launch a career in healthcare as a Certified Nurse Assistant (CNA)",
+          "match": true
+        },
+        {
+          "field": "ogTitle",
+          "wxr": "Write Your CNA Story - Consider a Career as a Certified Nurse Assistant (CNA)",
+          "rendered": "Write Your CNA Story - Consider a Career as a Certified Nurse Assistant (CNA)",
+          "match": true
+        },
+        {
+          "field": "ogDescription",
+          "wxr": "Becoming a Certified Nurse Assistant (CNA) can be your first step in a rewarding career in healthcare.",
+          "rendered": "Becoming a Certified Nurse Assistant (CNA) can be your first step in a rewarding career in healthcare.",
+          "match": true
+        },
+        {
+          "field": "ogImage",
+          "wxr": "https://yourcnastory.org/wp-content/uploads/2023/09/qchf-header-insert-8.jpg",
+          "rendered": "https://yourcnastory.org/wp-content/uploads/2023/09/qchf-header-insert-8.jpg",
+          "match": true
+        }
+      ]
+    },
+    {
+      "path": "/earn-and-learn-bayarea/",
+      "record": true,
+      "type": "page",
+      "checks": [
+        {
+          "field": "description",
+          "wxr": "Launch a career in healthcare as a Certified Nurse Assistant (CNA)",
+          "rendered": "Launch a career in healthcare as a Certified Nurse Assistant (CNA)",
+          "match": true
+        },
+        {
+          "field": "ogTitle",
+          "wxr": "Write Your CNA Story - Consider a Career as a Certified Nurse Assistant (CNA)",
+          "rendered": "Write Your CNA Story - Consider a Career as a Certified Nurse Assistant (CNA)",
+          "match": true
+        },
+        {
+          "field": "ogDescription",
+          "wxr": "Becoming a Certified Nurse Assistant (CNA) can be your first step in a rewarding career in healthcare.",
+          "rendered": "Becoming a Certified Nurse Assistant (CNA) can be your first step in a rewarding career in healthcare.",
+          "match": true
+        },
+        {
+          "field": "ogImage",
+          "wxr": "https://yourcnastory.org/wp-content/uploads/2023/09/qchf-header-insert-8.jpg",
+          "rendered": "https://yourcnastory.org/wp-content/uploads/2023/09/qchf-header-insert-8.jpg",
+          "match": true
+        }
+      ]
+    },
+    {
+      "path": "/earn-and-learn-norcal/",
+      "record": true,
+      "type": "page",
+      "checks": [
+        {
+          "field": "description",
+          "wxr": "Launch a career in healthcare as a Certified Nurse Assistant (CNA)",
+          "rendered": "Launch a career in healthcare as a Certified Nurse Assistant (CNA)",
+          "match": true
+        },
+        {
+          "field": "ogTitle",
+          "wxr": "Write Your CNA Story - Consider a Career as a Certified Nurse Assistant (CNA)",
+          "rendered": "Write Your CNA Story - Consider a Career as a Certified Nurse Assistant (CNA)",
+          "match": true
+        },
+        {
+          "field": "ogDescription",
+          "wxr": "Becoming a Certified Nurse Assistant (CNA) can be your first step in a rewarding career in healthcare.",
+          "rendered": "Becoming a Certified Nurse Assistant (CNA) can be your first step in a rewarding career in healthcare.",
+          "match": true
+        },
+        {
+          "field": "ogImage",
+          "wxr": "https://yourcnastory.org/wp-content/uploads/2023/09/qchf-header-insert-8.jpg",
+          "rendered": "https://yourcnastory.org/wp-content/uploads/2023/09/qchf-header-insert-8.jpg",
+          "match": true
+        }
+      ]
+    },
+    {
+      "path": "/earn-and-learn-san-diego/",
+      "record": true,
+      "type": "page",
+      "checks": [
+        {
+          "field": "description",
+          "wxr": "Launch a career in healthcare as a Certified Nurse Assistant (CNA)",
+          "rendered": "Launch a career in healthcare as a Certified Nurse Assistant (CNA)",
+          "match": true
+        },
+        {
+          "field": "ogTitle",
+          "wxr": "Write Your CNA Story - Consider a Career as a Certified Nurse Assistant (CNA)",
+          "rendered": "Write Your CNA Story - Consider a Career as a Certified Nurse Assistant (CNA)",
+          "match": true
+        },
+        {
+          "field": "ogDescription",
+          "wxr": "Becoming a Certified Nurse Assistant (CNA) can be your first step in a rewarding career in healthcare.",
+          "rendered": "Becoming a Certified Nurse Assistant (CNA) can be your first step in a rewarding career in healthcare.",
+          "match": true
+        },
+        {
+          "field": "ogImage",
+          "wxr": "https://yourcnastory.org/wp-content/uploads/2023/09/qchf-header-insert-8.jpg",
+          "rendered": "https://yourcnastory.org/wp-content/uploads/2023/09/qchf-header-insert-8.jpg",
+          "match": true
+        }
+      ]
+    },
+    {
+      "path": "/earn-and-learn/",
+      "record": true,
+      "type": "page",
+      "checks": [
+        {
+          "field": "description",
+          "wxr": "Earn and Learn: Your CNA Story Begins Here",
+          "rendered": "Earn and Learn: Your CNA Story Begins Here",
+          "match": true
+        },
+        {
+          "field": "ogTitle",
+          "wxr": "Earn and Learn: Your CNA Story Begins Here",
+          "rendered": "Earn and Learn: Your CNA Story Begins Here",
+          "match": true
+        },
+        {
+          "field": "ogDescription",
+          "wxr": "Becoming a Certified Nurse Assistant (CNA) can be your first step in a rewarding career in healthcare.",
+          "rendered": "Becoming a Certified Nurse Assistant (CNA) can be your first step in a rewarding career in healthcare.",
+          "match": true
+        },
+        {
+          "field": "ogImage",
+          "wxr": "https://yourcnastory.org/wp-content/uploads/2023/09/qchf-header-insert-8.jpg",
+          "rendered": "https://yourcnastory.org/wp-content/uploads/2023/09/qchf-header-insert-8.jpg",
+          "match": true
+        }
+      ]
+    },
+    {
+      "path": "/es/",
+      "record": false,
+      "note": "Rendered translation used; no separate translated WXR record."
+    },
+    {
+      "path": "/es/que-es-cuidar-a-largo-plazo/",
+      "record": false,
+      "note": "Rendered translation used; no separate translated WXR record."
+    },
+    {
+      "path": "/es/recursos-comunitarios/",
+      "record": false,
+      "note": "Rendered translation used; no separate translated WXR record."
+    },
+    {
+      "path": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+      "record": false,
+      "note": "Rendered translation used; no separate translated WXR record."
+    },
+    {
+      "path": "/es/programa-cna/",
+      "record": false,
+      "note": "Rendered translation used; no separate translated WXR record."
+    },
+    {
+      "path": "/es/aspirantes/",
+      "record": false,
+      "note": "Rendered translation used; no separate translated WXR record."
+    },
+    {
+      "path": "/es/programa-cna-2/",
+      "record": false,
+      "note": "Rendered translation used; no separate translated WXR record."
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "record": false,
+      "note": "Rendered translation used; no separate translated WXR record."
+    },
+    {
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "record": false,
+      "note": "Rendered translation used; no separate translated WXR record."
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "record": false,
+      "note": "Rendered translation used; no separate translated WXR record."
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-de-apoyo/",
+      "record": false,
+      "note": "Rendered translation used; no separate translated WXR record."
+    },
+    {
+      "path": "/es/carreras/carreras-en-terapia/",
+      "record": false,
+      "note": "Rendered translation used; no separate translated WXR record."
+    },
+    {
+      "path": "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+      "record": false,
+      "note": "Rendered translation used; no separate translated WXR record."
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-sociales/",
+      "record": false,
+      "note": "Rendered translation used; no separate translated WXR record."
+    },
+    {
+      "path": "/es/carreras/carreras-en-actividades/",
+      "record": false,
+      "note": "Rendered translation used; no separate translated WXR record."
+    },
+    {
+      "path": "/es/carreras/carreras-en-administracion/",
+      "record": false,
+      "note": "Rendered translation used; no separate translated WXR record."
+    },
+    {
+      "path": "/es/politica-de-privacidad/",
+      "record": false,
+      "note": "Rendered translation used; no separate translated WXR record."
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "record": false,
+      "note": "Rendered translation used; no separate translated WXR record."
+    },
+    {
+      "path": "/es/ganar-y-aprender-la/",
+      "record": false,
+      "note": "Rendered translation used; no separate translated WXR record."
+    },
+    {
+      "path": "/es/gana-y-aprende-cvalley/",
+      "record": false,
+      "note": "Rendered translation used; no separate translated WXR record."
+    },
+    {
+      "path": "/es/gana-y-aprende-bayarea/",
+      "record": false,
+      "note": "Rendered translation used; no separate translated WXR record."
+    },
+    {
+      "path": "/es/earn-and-learn-norcal/",
+      "record": false,
+      "note": "Rendered translation used; no separate translated WXR record."
+    },
+    {
+      "path": "/es/gana-y-aprende-san-diego/",
+      "record": false,
+      "note": "Rendered translation used; no separate translated WXR record."
+    },
+    {
+      "path": "/es/earn-and-learn/",
+      "record": false,
+      "note": "Rendered translation used; no separate translated WXR record."
+    }
+  ]
+}

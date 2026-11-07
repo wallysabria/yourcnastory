@@ -1,0 +1,392 @@
+{
+  "checkedAt": "2026-11-07T21:07:34.191Z",
+  "scope": "Computed display/visibility text-node coverage against extracted copy; not a layout/interaction parity claim. Offscreen and collapsed copy also retained by exact static character checks.",
+  "pages": 48,
+  "passed": 48,
+  "checks": [
+    {
+      "path": "/",
+      "locale": "en",
+      "visibleTextNodes": 45,
+      "visibleCharacterHash": "7a99c320044ce0ebb5734ca10449eeb0e4c2ddb4f4b111006e5f1ab3c905aff1",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/career-advancement/",
+      "locale": "en",
+      "visibleTextNodes": 63,
+      "visibleCharacterHash": "639c2c485316170caec11e4c6f7441d98621459eee09cbd100054badea22fdd0",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/career-paths-in-long-term-care/",
+      "locale": "en",
+      "visibleTextNodes": 25,
+      "visibleCharacterHash": "ae665eec05418e516f85fb461c2a8edb3d137c493d85bc278de08f872b9db1d7",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/career-seekers/",
+      "locale": "en",
+      "visibleTextNodes": 72,
+      "visibleCharacterHash": "c7c90cc3d233bca450f36dde86ee0d1f313d9bee4990a2118d27b62032fd04ab",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/careerpaths/careers-in-activities/",
+      "locale": "en",
+      "visibleTextNodes": 24,
+      "visibleCharacterHash": "108c4d73c44d001b1d85e1eed02f5600eec222dbd2f5861f9c33bbe1cae83586",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/careerpaths/careers-in-administration/",
+      "locale": "en",
+      "visibleTextNodes": 25,
+      "visibleCharacterHash": "9a973978d6299d5a505773b26b0756a3fdeac733f66c36bb802e8a143e7496a7",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/careerpaths/careers-in-care-coordination/",
+      "locale": "en",
+      "visibleTextNodes": 38,
+      "visibleCharacterHash": "d146e8ba7a73f6e8de2c5d47abc75de1917da584475b99e908f534b9e39ee165",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "locale": "en",
+      "visibleTextNodes": 30,
+      "visibleCharacterHash": "57c1d8cb265503bfe33551b346cc1a867adacd4cfdc77b3604f1f63c101efd11",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "locale": "en",
+      "visibleTextNodes": 158,
+      "visibleCharacterHash": "fa412b39bb89ff2dd7fd87c9e6aa18c61021411af16a85628b6c5707ef28474f",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/careerpaths/careers-in-social-services/",
+      "locale": "en",
+      "visibleTextNodes": 47,
+      "visibleCharacterHash": "605d0a17a70276e12ce0f13ca6e82200d403cafe58a57fc1abae6dd9732cedaf",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/careerpaths/careers-in-support-services/",
+      "locale": "en",
+      "visibleTextNodes": 77,
+      "visibleCharacterHash": "1d740ab9530c0be6bc91853a4b7dee7e5977270bf98306aea2ac83ac15b6865f",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/careerpaths/careers-in-therapy/",
+      "locale": "en",
+      "visibleTextNodes": 56,
+      "visibleCharacterHash": "06328c31d342afab6016aa4c43de1bf53a5aeea71427bee966df73983a53da1a",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/certified-nurse-assistant-program/",
+      "locale": "en",
+      "visibleTextNodes": 56,
+      "visibleCharacterHash": "78642c43c19e0f1ae937493fcb796392f335cd24d2fd2c978692e257f1dd8a08",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/cna-training-providers/",
+      "locale": "en",
+      "visibleTextNodes": 21,
+      "visibleCharacterHash": "a17805cf3561749af62759adcbedc2c8de35f8f2ee75ba9f32f792d9187b2cad",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/community-resources/",
+      "locale": "en",
+      "visibleTextNodes": 27,
+      "visibleCharacterHash": "a091d34f958a733637632c39cfa5355cae3678427f333156807040e9172313f3",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/earn-and-learn-bayarea/",
+      "locale": "en",
+      "visibleTextNodes": 69,
+      "visibleCharacterHash": "342908d6fd0f3b9e79d3564e8874c5bdc742d7a192ca8b5e85fc2b0af9690f55",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/earn-and-learn-cvalley/",
+      "locale": "en",
+      "visibleTextNodes": 69,
+      "visibleCharacterHash": "172796565540bd851a8f48ea002ea00b56b7034c937beec0daf98c6bf8b856a4",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/earn-and-learn-la/",
+      "locale": "en",
+      "visibleTextNodes": 70,
+      "visibleCharacterHash": "91b2ae1c21a5e9693d13850cff45cf993efe2e187827366e953274dd5928f516",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/earn-and-learn-norcal/",
+      "locale": "en",
+      "visibleTextNodes": 70,
+      "visibleCharacterHash": "af4a55bbbef552b011c7da619b13939f461bc6de0ea4c36ac32519f626e7f257",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/earn-and-learn-san-diego/",
+      "locale": "en",
+      "visibleTextNodes": 70,
+      "visibleCharacterHash": "726e8e98882bbd27686c9902a075dd8d33f5bc59dd04a4059accdcd5a361be05",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/earn-and-learn/",
+      "locale": "en",
+      "visibleTextNodes": 69,
+      "visibleCharacterHash": "172796565540bd851a8f48ea002ea00b56b7034c937beec0daf98c6bf8b856a4",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/es/",
+      "locale": "es",
+      "visibleTextNodes": 27,
+      "visibleCharacterHash": "8cafb28978cdd38ae37d95d39561a45924fcdf06574f63122facac30143cc08a",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/es/aspirantes/",
+      "locale": "es",
+      "visibleTextNodes": 73,
+      "visibleCharacterHash": "5e414a79a5311a0a3d095b99f3ba9650dc0ab0fddca831c97d45ec5e5771d163",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "locale": "es",
+      "visibleTextNodes": 58,
+      "visibleCharacterHash": "9b8a5d326e98519886dcfdfeed0576d9f8be944b242575b9b574e5622671e274",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+      "locale": "es",
+      "visibleTextNodes": 24,
+      "visibleCharacterHash": "6faaebc58f97f3d4259b8cc5d9a7a8b2ad08250fdc2049bb3bab2bbb35d41403",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/es/carreras/carreras-en-actividades/",
+      "locale": "es",
+      "visibleTextNodes": 24,
+      "visibleCharacterHash": "b8781ee4caba02b2bd7d946ac099f4242863f25653c9742d597d04dd7fa007c0",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/es/carreras/carreras-en-administracion/",
+      "locale": "es",
+      "visibleTextNodes": 25,
+      "visibleCharacterHash": "93b3010a1a871923688247be2b7039cd43a177349066ab2b5217b3e0feb6a2dd",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "locale": "es",
+      "visibleTextNodes": 30,
+      "visibleCharacterHash": "ae0faab9c8ceae69a5260d649fcc61e1ad3ce89d8a65c61323112c8e23758d7b",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+      "locale": "es",
+      "visibleTextNodes": 38,
+      "visibleCharacterHash": "cb6837352af847c551636f744952513ec733ee8c3c0b20e70cc181625b4568b6",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "locale": "es",
+      "visibleTextNodes": 157,
+      "visibleCharacterHash": "6d7f98c6067d7c6761416cf39149bd4f68182cf279d5ad9ce87fbb6dbedcd50c",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-de-apoyo/",
+      "locale": "es",
+      "visibleTextNodes": 77,
+      "visibleCharacterHash": "8d6863b126cbec881002ac4c700f6405e8f8ca73ddae87b7221bfe2c1702015b",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-sociales/",
+      "locale": "es",
+      "visibleTextNodes": 46,
+      "visibleCharacterHash": "75ee8eb328d9b63ffc17cd45eaed4901b346ce5f9c5bd9b50ea953b4819261ee",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/es/carreras/carreras-en-terapia/",
+      "locale": "es",
+      "visibleTextNodes": 56,
+      "visibleCharacterHash": "d0bfd667fe481df6f050dbb7d37a2ace391ae7569298af36a617cbc194cc7804",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/es/earn-and-learn-norcal/",
+      "locale": "es",
+      "visibleTextNodes": 59,
+      "visibleCharacterHash": "dc88026036e580d86b0aebacdc005fef2db11ddca15f4e5a37fe6274331edcde",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/es/earn-and-learn/",
+      "locale": "es",
+      "visibleTextNodes": 59,
+      "visibleCharacterHash": "6a5aeba27bb4eefa5c3199db233d1a9626591627c9a443df1a871db634972465",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/es/gana-y-aprende-bayarea/",
+      "locale": "es",
+      "visibleTextNodes": 59,
+      "visibleCharacterHash": "1ef90aacdfed93442f86ce0ed21d38069de1ab7282152d69c92ea272ca754967",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/es/gana-y-aprende-cvalley/",
+      "locale": "es",
+      "visibleTextNodes": 59,
+      "visibleCharacterHash": "13182b9bd131f734868963b57df4d57b518ed5890f9c495f9901f41bce721d7f",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/es/gana-y-aprende-san-diego/",
+      "locale": "es",
+      "visibleTextNodes": 58,
+      "visibleCharacterHash": "f246d2319e2634a9d603911814ee4e9149b0807b81f9d06bc1c422b9bacb1f92",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/es/ganar-y-aprender-la/",
+      "locale": "es",
+      "visibleTextNodes": 58,
+      "visibleCharacterHash": "385196c7feba305d52308f425c76f54590fb3a876f226889e27fadaf7e41929f",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/es/politica-de-privacidad/",
+      "locale": "es",
+      "visibleTextNodes": 28,
+      "visibleCharacterHash": "c84582124f2227d6b4398ebd7a50fda31f6c14bf1d380ad36cfb09e1a443d803",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "locale": "es",
+      "visibleTextNodes": 40,
+      "visibleCharacterHash": "5b9aebc030c8c70f69b15865cf0a54515902100be75b1b4fd5707873eda9d413",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/es/programa-cna-2/",
+      "locale": "es",
+      "visibleTextNodes": 21,
+      "visibleCharacterHash": "882649f19ec356a439679c1a602c5fdef29cbf7dd46c5dd182b1012b0c8b0b07",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/es/programa-cna/",
+      "locale": "es",
+      "visibleTextNodes": 56,
+      "visibleCharacterHash": "c933d7c1e50178ecc43c132d50963961fd3f05d5f3b21878f951ad2c600518f8",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/es/que-es-cuidar-a-largo-plazo/",
+      "locale": "es",
+      "visibleTextNodes": 13,
+      "visibleCharacterHash": "7ad0b92dbce5fd7f8bad045818dac5830c3347a96acc555b27f2050cbb4d4865",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/es/recursos-comunitarios/",
+      "locale": "es",
+      "visibleTextNodes": 27,
+      "visibleCharacterHash": "b1c542967b445ca53f32f22fa5d28cf22befb907abd0c4ae78f6a3dacebeaf8d",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/frequently-asked-questions/",
+      "locale": "en",
+      "visibleTextNodes": 40,
+      "visibleCharacterHash": "dcfcf1d320dd7b832551c2d2f365e493597d11d9efc255fb7bbc7df60e29d574",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/privacy-policy/",
+      "locale": "en",
+      "visibleTextNodes": 28,
+      "visibleCharacterHash": "f7222c37588ca2952a88067da7bb78b40df3558827aaa023d25de7967591b258",
+      "missing": [],
+      "status": "PASS"
+    },
+    {
+      "path": "/what-is-long-term-care/",
+      "locale": "en",
+      "visibleTextNodes": 13,
+      "visibleCharacterHash": "f6be9ebd0406ee5d28edb8cf35e0d46d3ae5cd8dbf0a9b1979d3daa001ac97ae",
+      "missing": [],
+      "status": "PASS"
+    }
+  ]
+}

@@ -21,7 +21,25 @@ export const routeSchema = z.object({
   heading: z.string().nullable(),
   anchors: z.array(z.string()),
 });
+export type ContentNode =
+  | { type: 'text'; value: string }
+  | { type: 'element'; tag: string; attrs: Record<string, string>; children: ContentNode[] };
+export const contentNodeSchema: z.ZodType<ContentNode> = z.lazy(() =>
+  z.discriminatedUnion('type', [
+    z.object({ type: z.literal('text'), value: z.string() }),
+    z.object({
+      type: z.literal('element'),
+      tag: z.string().regex(/^[a-z][a-z0-9-]*$/),
+      attrs: z.record(z.string(), z.string()),
+      children: z.array(contentNodeSchema),
+      source: z
+        .object({ elementorId: z.string(), widget: z.string(), classes: z.string() })
+        .optional(),
+    }),
+  ]),
+);
 export const contentBlockSchema = z.discriminatedUnion('type', [
+  z.object({ type: z.literal('document'), nodes: z.array(contentNodeSchema) }),
   z.object({ type: z.literal('mdx'), source: z.string() }),
   z.object({
     type: z.literal('image'),

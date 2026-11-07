@@ -1,0 +1,114 @@
+{
+  "policy": "Preserve external document hosting and exact outbound URLs; do not invent local replacements or migrate third-party documents.",
+  "documents": [
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1izJ-UEb6VyigMTIaXrdvRtY7XgcT0qQd/edit?usp=sharing&ouid=116256928001491444929&rtpof=true&sd=true",
+      "pages": [
+        "/community-resources/",
+        "/certified-nurse-assistant-program/",
+        "/cna-training-providers/",
+        "/earn-and-learn-la/",
+        "/earn-and-learn-cvalley/",
+        "/earn-and-learn-bayarea/",
+        "/earn-and-learn-norcal/",
+        "/earn-and-learn-san-diego/",
+        "/earn-and-learn/",
+        "/es/recursos-comunitarios/",
+        "/es/programa-cna/",
+        "/es/programa-cna-2/",
+        "/es/ganar-y-aprender-la/",
+        "/es/gana-y-aprende-cvalley/",
+        "/es/gana-y-aprende-bayarea/",
+        "/es/earn-and-learn-norcal/",
+        "/es/gana-y-aprende-san-diego/",
+        "/es/earn-and-learn/"
+      ],
+      "labels": [
+        "  CNAP Earn and Learn Partners* ",
+        "  Find an Earn and Learn Training Facility  ",
+        "  List of CNA Earn and Learn Training Partners  ",
+        "  Socios Earn and Learn CNAP ",
+        "  Encuentra un Centro de Capacitación \"Earn and Learn\"  ",
+        "  Lista de programas de Earn and Learn  "
+      ]
+    },
+    {
+      "url": "https://drive.google.com/file/d/114OUsMQ6hWJjK9dYjgDSrZjI7I_wzzaa/view?usp=drive_link",
+      "pages": [
+        "/community-resources/",
+        "/es/recursos-comunitarios/"
+      ],
+      "labels": [
+        "  Download Toolkit  ",
+        "  CNA Toolkit (English) ",
+        "  Descargar Kit  ",
+        "  Kit de Herramientas de CNA (inglés) "
+      ]
+    },
+    {
+      "url": "https://drive.google.com/file/d/1P6Srr1oBXeeAM034cER6kEKhmNdc7l7Z/view?usp=drive_link",
+      "pages": [
+        "/community-resources/",
+        "/es/recursos-comunitarios/"
+      ],
+      "labels": [
+        "  CNA Toolkit (Spanish) ",
+        "  Kit de Herramientas de CNA (español) "
+      ]
+    },
+    {
+      "url": "https://drive.google.com/file/d/1rlGe70HR0bkqizvaxI_rlKGDBIEgapoQ/view?usp=drive_link",
+      "pages": [
+        "/community-resources/",
+        "/es/recursos-comunitarios/"
+      ],
+      "labels": [
+        "  CNA Toolkit (Arabic) ",
+        "  Kit de Herramientas de CNA (árabe) "
+      ]
+    },
+    {
+      "url": "https://drive.google.com/file/d/1drGdgN4XRBPNkQmXMX44Ax13kltzDBHc/view?usp=drive_link",
+      "pages": [
+        "/community-resources/",
+        "/es/recursos-comunitarios/"
+      ],
+      "labels": [
+        "  CNA Toolkit (Dari) ",
+        "  Kit de Herramientas de CNA (dari) "
+      ]
+    },
+    {
+      "url": "https://drive.google.com/file/d/1tr0xYcmPYDrd9dYWqT5uWC0dMkt4nXFc/view?usp=drive_link",
+      "pages": [
+        "/community-resources/",
+        "/es/recursos-comunitarios/"
+      ],
+      "labels": [
+        "  CNA Toolkit (Swahili) ",
+        "  Kit de Herramientas de CNA (suajili) "
+      ]
+    },
+    {
+      "url": "https://drive.google.com/file/d/1oRWGmAkiB2NhDsSIzmTk49G0yMp81iAn/view?usp=drive_link",
+      "pages": [
+        "/certified-nurse-assistant-program/",
+        "/es/programa-cna/"
+      ],
+      "labels": [
+        ""
+      ]
+    },
+    {
+      "url": "https://drive.google.com/file/d/1-w0RmKzAzfodbZhzFIb8k8NZZOIUZ5Kl/view?usp=sharing",
+      "pages": [
+        "/certified-nurse-assistant-program/",
+        "/es/programa-cna/"
+      ],
+      "labels": [
+        "Download the CNA Upskilling Timeline",
+        "Descarga el cronograma de mejora de habilidades de CNA"
+      ]
+    }
+  ]
+}

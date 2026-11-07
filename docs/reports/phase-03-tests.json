@@ -1,0 +1,309 @@
+{
+  "stats": {
+    "startTime": "2026-11-07T21:28:26.644Z",
+    "duration": 7671.449,
+    "expected": 27,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  },
+  "cases": [
+    {
+      "title": "every extracted page renders in the inert content-review endpoint",
+      "project": "content",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 1035
+        }
+      ]
+    },
+    {
+      "title": "content-review cannot expose employer or filesystem paths",
+      "project": "content",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 182
+        }
+      ]
+    },
+    {
+      "title": "all imported media are served with the recorded byte length",
+      "project": "content",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 2835
+        }
+      ]
+    },
+    {
+      "title": "validated route map preserves reciprocal pairs and excludes gated content",
+      "project": "unit",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 98
+        }
+      ]
+    },
+    {
+      "title": "both global settings validate and Spanish copy stays source-driven",
+      "project": "unit",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 25
+        }
+      ]
+    },
+    {
+      "title": "employer links are inert with the gate off and active with it on",
+      "project": "unit",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 10
+        }
+      ]
+    },
+    {
+      "title": "all activated redirects map directly without redirect chains",
+      "project": "unit",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 249
+        }
+      ]
+    },
+    {
+      "title": "every activated redirect returns actual HTTP 301 and the planned location",
+      "project": "unit",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 1947
+        }
+      ]
+    },
+    {
+      "title": "every static shell has the right language, canonical, and noindex headers",
+      "project": "unit",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 2438
+        }
+      ]
+    },
+    {
+      "title": "global navigation URLs remain accounted for in the route or reserved manifests",
+      "project": "unit",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 89
+        }
+      ]
+    },
+    {
+      "title": "unapproved redirect rows remain inactive even through fallback rules",
+      "project": "unit",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 85
+        }
+      ]
+    },
+    {
+      "title": "layout accessibility / @ 1440",
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 1366
+        }
+      ]
+    },
+    {
+      "title": "layout accessibility /es/ @ 1440",
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 1455
+        }
+      ]
+    },
+    {
+      "title": "layout accessibility /career-seekers/ @ 1440",
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 1340
+        }
+      ]
+    },
+    {
+      "title": "layout accessibility /es/aspirantes/ @ 1440",
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 1450
+        }
+      ]
+    },
+    {
+      "title": "layout accessibility /cna-training-providers/ @ 1440",
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 1307
+        }
+      ]
+    },
+    {
+      "title": "layout accessibility /es/programa-cna-2/ @ 1440",
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 1319
+        }
+      ]
+    },
+    {
+      "title": "layout accessibility / @ 390",
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 1171
+        }
+      ]
+    },
+    {
+      "title": "layout accessibility /es/ @ 390",
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 1096
+        }
+      ]
+    },
+    {
+      "title": "layout accessibility /career-seekers/ @ 390",
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 1268
+        }
+      ]
+    },
+    {
+      "title": "layout accessibility /es/aspirantes/ @ 390",
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 1265
+        }
+      ]
+    },
+    {
+      "title": "layout accessibility /cna-training-providers/ @ 390",
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 1180
+        }
+      ]
+    },
+    {
+      "title": "layout accessibility /es/programa-cna-2/ @ 390",
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 743
+        }
+      ]
+    },
+    {
+      "title": "language switcher goes to the actual translated counterpart",
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 613
+        }
+      ]
+    },
+    {
+      "title": "mobile menu opens, expands and restores focus on Escape",
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 1062
+        }
+      ]
+    },
+    {
+      "title": "keyboard opens the career mega menu and Escape closes it",
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 511
+        }
+      ]
+    },
+    {
+      "title": "tablet uses the source mobile-navigation breakpoint",
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 459
+        }
+      ]
+    }
+  ]
+}

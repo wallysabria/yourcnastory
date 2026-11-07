@@ -1,0 +1,1049 @@
+{
+  "routeId": "/privacy-policy/",
+  "path": "/privacy-policy/",
+  "locale": "en",
+  "metadata": {
+    "title": "Privacy Policy - Certified Nurse Assistant Program (CNAP) Quality Care Health Foundation",
+    "description": "",
+    "canonical": "",
+    "robots": "noindex, nofollow",
+    "ogTitle": "Privacy Policy",
+    "ogDescription": "We have established this privacy policy to insure the confidence of visitors to and customers of this web site (this “Site”), and to demonstrate our commitment to fair information practices and the protection of privacy. This privacy policy can be updated from time to time in accordance with the notification requirements set forth below. Information…",
+    "ogImage": ""
+  },
+  "blocks": [
+    {
+      "type": "document",
+      "nodes": [
+        {
+          "type": "element",
+          "tag": "div",
+          "attrs": {
+            "id": "main"
+          },
+          "children": [
+            {
+              "type": "element",
+              "tag": "div",
+              "attrs": {},
+              "children": [],
+              "source": {
+                "elementorId": "",
+                "widget": "",
+                "classes": "main-gradient"
+              }
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attrs": {
+                        "id": "content",
+                        "role": "main"
+                      },
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attrs": {},
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "section",
+                              "attrs": {},
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "div",
+                                  "attrs": {},
+                                  "children": [],
+                                  "source": {
+                                    "elementorId": "",
+                                    "widget": "",
+                                    "classes": "elementor-background-overlay"
+                                  }
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "div",
+                                  "attrs": {},
+                                  "children": [
+                                    {
+                                      "type": "element",
+                                      "tag": "div",
+                                      "attrs": {},
+                                      "children": [
+                                        {
+                                          "type": "element",
+                                          "tag": "div",
+                                          "attrs": {},
+                                          "children": [
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "h2",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "text",
+                                                          "value": "Privacy Policy"
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": "elementor-heading-title elementor-size-default"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "7b0bd3a",
+                                                "widget": "heading.default",
+                                                "classes": "elementor-element elementor-element-7b0bd3a elementor-widget elementor-widget-heading"
+                                              }
+                                            }
+                                          ],
+                                          "source": {
+                                            "elementorId": "",
+                                            "widget": "",
+                                            "classes": "elementor-widget-wrap elementor-element-populated"
+                                          }
+                                        }
+                                      ],
+                                      "source": {
+                                        "elementorId": "73f1fa0",
+                                        "widget": "",
+                                        "classes": "elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-73f1fa0"
+                                      }
+                                    }
+                                  ],
+                                  "source": {
+                                    "elementorId": "",
+                                    "widget": "",
+                                    "classes": "elementor-container elementor-column-gap-wider"
+                                  }
+                                }
+                              ],
+                              "source": {
+                                "elementorId": "631d7e8",
+                                "widget": "",
+                                "classes": "elementor-section elementor-top-section elementor-element elementor-element-631d7e8 elementor-reverse-tablet elementor-reverse-mobile elementor-section-height-min-height elementor-section-items-stretch testClass elementor-section-boxed elementor-section-height-default"
+                              }
+                            },
+                            {
+                              "type": "element",
+                              "tag": "section",
+                              "attrs": {},
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "div",
+                                  "attrs": {},
+                                  "children": [
+                                    {
+                                      "type": "element",
+                                      "tag": "div",
+                                      "attrs": {},
+                                      "children": [
+                                        {
+                                          "type": "element",
+                                          "tag": "div",
+                                          "attrs": {},
+                                          "children": [
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "div",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "element",
+                                                          "tag": "section",
+                                                          "attrs": {},
+                                                          "children": [
+                                                            {
+                                                              "type": "element",
+                                                              "tag": "div",
+                                                              "attrs": {},
+                                                              "children": [
+                                                                {
+                                                                  "type": "element",
+                                                                  "tag": "div",
+                                                                  "attrs": {},
+                                                                  "children": [
+                                                                    {
+                                                                      "type": "element",
+                                                                      "tag": "div",
+                                                                      "attrs": {},
+                                                                      "children": [
+                                                                        {
+                                                                          "type": "element",
+                                                                          "tag": "div",
+                                                                          "attrs": {},
+                                                                          "children": [
+                                                                            {
+                                                                              "type": "element",
+                                                                              "tag": "div",
+                                                                              "attrs": {},
+                                                                              "children": [
+                                                                                {
+                                                                                  "type": "element",
+                                                                                  "tag": "p",
+                                                                                  "attrs": {},
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "type": "element",
+                                                                                      "tag": "em",
+                                                                                      "attrs": {},
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "type": "text",
+                                                                                          "value": "We have established this privacy policy to insure the confidence of visitors to and customers of this web site (this “Site”), and to demonstrate our commitment to fair information practices and the protection of privacy. This privacy policy can be updated from time to time in accordance with the notification requirements set forth below."
+                                                                                        }
+                                                                                      ],
+                                                                                      "source": {
+                                                                                        "elementorId": "",
+                                                                                        "widget": "",
+                                                                                        "classes": ""
+                                                                                      }
+                                                                                    }
+                                                                                  ],
+                                                                                  "source": {
+                                                                                    "elementorId": "",
+                                                                                    "widget": "",
+                                                                                    "classes": ""
+                                                                                  }
+                                                                                },
+                                                                                {
+                                                                                  "type": "element",
+                                                                                  "tag": "hr",
+                                                                                  "attrs": {},
+                                                                                  "children": [],
+                                                                                  "source": {
+                                                                                    "elementorId": "",
+                                                                                    "widget": "",
+                                                                                    "classes": "the7-p-gap"
+                                                                                  }
+                                                                                },
+                                                                                {
+                                                                                  "type": "element",
+                                                                                  "tag": "h3",
+                                                                                  "attrs": {},
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "type": "text",
+                                                                                      "value": "Information Collected by QCHF/CAHF"
+                                                                                    }
+                                                                                  ],
+                                                                                  "source": {
+                                                                                    "elementorId": "",
+                                                                                    "widget": "",
+                                                                                    "classes": ""
+                                                                                  }
+                                                                                },
+                                                                                {
+                                                                                  "type": "element",
+                                                                                  "tag": "p",
+                                                                                  "attrs": {},
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "type": "element",
+                                                                                      "tag": "strong",
+                                                                                      "attrs": {},
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "type": "text",
+                                                                                          "value": "General Users: "
+                                                                                        }
+                                                                                      ],
+                                                                                      "source": {
+                                                                                        "elementorId": "",
+                                                                                        "widget": "",
+                                                                                        "classes": ""
+                                                                                      }
+                                                                                    },
+                                                                                    {
+                                                                                      "type": "text",
+                                                                                      "value": "does not collect any personal information from users browsing this website. We may collect non-personal information about your use of our Site, but such information is collected anonymously and in the aggregate."
+                                                                                    }
+                                                                                  ],
+                                                                                  "source": {
+                                                                                    "elementorId": "",
+                                                                                    "widget": "",
+                                                                                    "classes": ""
+                                                                                  }
+                                                                                },
+                                                                                {
+                                                                                  "type": "element",
+                                                                                  "tag": "p",
+                                                                                  "attrs": {},
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "type": "element",
+                                                                                      "tag": "strong",
+                                                                                      "attrs": {},
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "type": "text",
+                                                                                          "value": "Members, Conference and Education Seminar Registrants, Purchasers of Materials, Services and Sponsorships, Other Customer and Visitors to the website: "
+                                                                                        }
+                                                                                      ],
+                                                                                      "source": {
+                                                                                        "elementorId": "",
+                                                                                        "widget": "",
+                                                                                        "classes": ""
+                                                                                      }
+                                                                                    },
+                                                                                    {
+                                                                                      "type": "text",
+                                                                                      "value": "Such individuals can be asked to provide limited personal information in order to gain access to the Members Only portion of this Site or in response to other requests. Information such as name, organization, address, phone, and e-mail may also be submitted through conference and seminar registrations, publication orders, subscriptions, and purchases of other products and services. In addition, in order to receive certain communications from QCHF/CAHF, such individuals can be asked to provide contact information such as their name, address, phone number, and e-mail address so that they can become members of a communications or electronic publication distribution list. You are responsible for providing your most current, accurate and complete personal information or other information that you choose to provide us. By doing so, you may be able to access and use certain features of our Site that are not otherwise available to non-registered users or non-Members."
+                                                                                    }
+                                                                                  ],
+                                                                                  "source": {
+                                                                                    "elementorId": "",
+                                                                                    "widget": "",
+                                                                                    "classes": ""
+                                                                                  }
+                                                                                },
+                                                                                {
+                                                                                  "type": "element",
+                                                                                  "tag": "p",
+                                                                                  "attrs": {},
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "type": "element",
+                                                                                      "tag": "strong",
+                                                                                      "attrs": {},
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "type": "text",
+                                                                                          "value": "Individuals utilizing the QCHF-supported website, YourCNAStory.org:"
+                                                                                        }
+                                                                                      ],
+                                                                                      "source": {
+                                                                                        "elementorId": "",
+                                                                                        "widget": "",
+                                                                                        "classes": ""
+                                                                                      }
+                                                                                    },
+                                                                                    {
+                                                                                      "type": "text",
+                                                                                      "value": " For participation in YourCNAStory.org, individuals will be asked to provide limited personal information including but not limited to name, address, telephone number, email address, education history, degrees obtained, employment history, and type of employment sought. The information collected by the QCHF/CAHF through YourCNAStory.org is voluntarily provided by participants, and done so at the participant’s discretion. The information gathered by QCHF/CAHF will not be edited or amended by QCHF, its employees, or contracted staff."
+                                                                                    }
+                                                                                  ],
+                                                                                  "source": {
+                                                                                    "elementorId": "",
+                                                                                    "widget": "",
+                                                                                    "classes": ""
+                                                                                  }
+                                                                                },
+                                                                                {
+                                                                                  "type": "element",
+                                                                                  "tag": "p",
+                                                                                  "attrs": {},
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "type": "element",
+                                                                                      "tag": "strong",
+                                                                                      "attrs": {},
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "type": "text",
+                                                                                          "value": "Use of Information Collected by QCHF/CAHF:"
+                                                                                        }
+                                                                                      ],
+                                                                                      "source": {
+                                                                                        "elementorId": "",
+                                                                                        "widget": "",
+                                                                                        "classes": ""
+                                                                                      }
+                                                                                    }
+                                                                                  ],
+                                                                                  "source": {
+                                                                                    "elementorId": "",
+                                                                                    "widget": "",
+                                                                                    "classes": ""
+                                                                                  }
+                                                                                },
+                                                                                {
+                                                                                  "type": "element",
+                                                                                  "tag": "p",
+                                                                                  "attrs": {},
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "type": "text",
+                                                                                      "value": "Member facility and contact names may be distributed to QCHF/CAHF Associate Members, vendors or sponsors that exhibit at the IHCA trade show and other QCHF/CAHF organized events. Our business partners include, but may not be limited to, all of our affiliated companies (CA Department of Healthcare Access and Information and California Association of Health Facilities) as well as other selected businesses with which we have a business relationship and which we feel adhere to our principles of quality products and services."
+                                                                                    }
+                                                                                  ],
+                                                                                  "source": {
+                                                                                    "elementorId": "",
+                                                                                    "widget": "",
+                                                                                    "classes": ""
+                                                                                  }
+                                                                                },
+                                                                                {
+                                                                                  "type": "element",
+                                                                                  "tag": "p",
+                                                                                  "attrs": {},
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "type": "text",
+                                                                                      "value": ""
+                                                                                    }
+                                                                                  ],
+                                                                                  "source": {
+                                                                                    "elementorId": "",
+                                                                                    "widget": "",
+                                                                                    "classes": ""
+                                                                                  }
+                                                                                },
+                                                                                {
+                                                                                  "type": "element",
+                                                                                  "tag": "p",
+                                                                                  "attrs": {},
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "type": "text",
+                                                                                      "value": "The information collected by the QCHF supported website, YourCNAStory.org, will be accessible by QCHF/CAHF member entities, participating education institutions, and career support centers for the purposes of employee and student recruitment, and may be disseminated to or accessed by the QCHF member entities, participating education institutions, and career support centers without the consent of the individual submitting their information to the QCHF/CAHF careers website."
+                                                                                    }
+                                                                                  ],
+                                                                                  "source": {
+                                                                                    "elementorId": "",
+                                                                                    "widget": "",
+                                                                                    "classes": ""
+                                                                                  }
+                                                                                },
+                                                                                {
+                                                                                  "type": "element",
+                                                                                  "tag": "p",
+                                                                                  "attrs": {},
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "type": "text",
+                                                                                      "value": "Without your consent, we reserve the right to communicate with you concerning any of the following: (i) your account, (ii) your use of any QCHF/CAHF services, (iii) service updates, (iv) to provide you with service announcements, and (v) for technical or customer support purposes. In addition, and unless you notify us otherwise, we may also communicate with you about various Services or other activities we believe may be of interest to you. In addition, we can be required to share information in accordance with applicable law."
+                                                                                    }
+                                                                                  ],
+                                                                                  "source": {
+                                                                                    "elementorId": "",
+                                                                                    "widget": "",
+                                                                                    "classes": ""
+                                                                                  }
+                                                                                },
+                                                                                {
+                                                                                  "type": "element",
+                                                                                  "tag": "hr",
+                                                                                  "attrs": {},
+                                                                                  "children": [],
+                                                                                  "source": {
+                                                                                    "elementorId": "",
+                                                                                    "widget": "",
+                                                                                    "classes": "the7-p-gap"
+                                                                                  }
+                                                                                },
+                                                                                {
+                                                                                  "type": "element",
+                                                                                  "tag": "h3",
+                                                                                  "attrs": {},
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "type": "text",
+                                                                                      "value": "Security"
+                                                                                    }
+                                                                                  ],
+                                                                                  "source": {
+                                                                                    "elementorId": "",
+                                                                                    "widget": "",
+                                                                                    "classes": ""
+                                                                                  }
+                                                                                },
+                                                                                {
+                                                                                  "type": "element",
+                                                                                  "tag": "p",
+                                                                                  "attrs": {},
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "type": "text",
+                                                                                      "value": "This Site has industry standard security measures in place, and we have taken reasonable measures to ensure the safety of your personal information."
+                                                                                    }
+                                                                                  ],
+                                                                                  "source": {
+                                                                                    "elementorId": "",
+                                                                                    "widget": "",
+                                                                                    "classes": ""
+                                                                                  }
+                                                                                },
+                                                                                {
+                                                                                  "type": "element",
+                                                                                  "tag": "hr",
+                                                                                  "attrs": {},
+                                                                                  "children": [],
+                                                                                  "source": {
+                                                                                    "elementorId": "",
+                                                                                    "widget": "",
+                                                                                    "classes": "the7-p-gap"
+                                                                                  }
+                                                                                },
+                                                                                {
+                                                                                  "type": "element",
+                                                                                  "tag": "h3",
+                                                                                  "attrs": {},
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "type": "text",
+                                                                                      "value": "Password Security"
+                                                                                    }
+                                                                                  ],
+                                                                                  "source": {
+                                                                                    "elementorId": "",
+                                                                                    "widget": "",
+                                                                                    "classes": ""
+                                                                                  }
+                                                                                },
+                                                                                {
+                                                                                  "type": "element",
+                                                                                  "tag": "p",
+                                                                                  "attrs": {},
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "type": "text",
+                                                                                      "value": "You are responsible for maintaining the confidentiality of your member identification and password information, and for restricting access to your computer. You agree to accept responsibility for all activities that occur under your member identification and password."
+                                                                                    }
+                                                                                  ],
+                                                                                  "source": {
+                                                                                    "elementorId": "",
+                                                                                    "widget": "",
+                                                                                    "classes": ""
+                                                                                  }
+                                                                                },
+                                                                                {
+                                                                                  "type": "element",
+                                                                                  "tag": "hr",
+                                                                                  "attrs": {},
+                                                                                  "children": [],
+                                                                                  "source": {
+                                                                                    "elementorId": "",
+                                                                                    "widget": "",
+                                                                                    "classes": "the7-p-gap"
+                                                                                  }
+                                                                                },
+                                                                                {
+                                                                                  "type": "element",
+                                                                                  "tag": "h3",
+                                                                                  "attrs": {},
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "type": "text",
+                                                                                      "value": "Special Notice Regarding Usage by Children"
+                                                                                    }
+                                                                                  ],
+                                                                                  "source": {
+                                                                                    "elementorId": "",
+                                                                                    "widget": "",
+                                                                                    "classes": ""
+                                                                                  }
+                                                                                },
+                                                                                {
+                                                                                  "type": "element",
+                                                                                  "tag": "p",
+                                                                                  "attrs": {},
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "type": "text",
+                                                                                      "value": "QCHF/CAHF does not target, intend to collect or allow the collection, storage or use of any Personal Information or other information for anyone under 13 years old. We do not and will not knowingly collect, maintain, store use or disclose such information. If you are under 13 years old, you should not provide any Personal Information or other information about yourself through our Services. If you are a parent or guardian who knows or has discovered your child under the age of 13 has submitted his or her Personal Information or other information without your consent, permission or authorization, once we verify you are the child’s parent or legal guardian, upon request, we will remove your child’s Personal Information or other information from our database. To request removal of your child’s Personal Information and other information, email us at dkapoor@ihca.org and be sure to include the same user name, email address and password your child submitted. If you don’t know or are not sure, please state so in your email."
+                                                                                    }
+                                                                                  ],
+                                                                                  "source": {
+                                                                                    "elementorId": "",
+                                                                                    "widget": "",
+                                                                                    "classes": ""
+                                                                                  }
+                                                                                },
+                                                                                {
+                                                                                  "type": "element",
+                                                                                  "tag": "hr",
+                                                                                  "attrs": {},
+                                                                                  "children": [],
+                                                                                  "source": {
+                                                                                    "elementorId": "",
+                                                                                    "widget": "",
+                                                                                    "classes": "the7-p-gap"
+                                                                                  }
+                                                                                },
+                                                                                {
+                                                                                  "type": "element",
+                                                                                  "tag": "h3",
+                                                                                  "attrs": {},
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "type": "text",
+                                                                                      "value": "Links"
+                                                                                    }
+                                                                                  ],
+                                                                                  "source": {
+                                                                                    "elementorId": "",
+                                                                                    "widget": "",
+                                                                                    "classes": ""
+                                                                                  }
+                                                                                },
+                                                                                {
+                                                                                  "type": "element",
+                                                                                  "tag": "p",
+                                                                                  "attrs": {},
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "type": "text",
+                                                                                      "value": "This Site contains links to other websites. Please be aware that we are not responsible for the privacy practices of such other websites. We encourage our users to be aware when they leave our site, and to read the privacy statement of any linked site."
+                                                                                    }
+                                                                                  ],
+                                                                                  "source": {
+                                                                                    "elementorId": "",
+                                                                                    "widget": "",
+                                                                                    "classes": ""
+                                                                                  }
+                                                                                },
+                                                                                {
+                                                                                  "type": "element",
+                                                                                  "tag": "hr",
+                                                                                  "attrs": {},
+                                                                                  "children": [],
+                                                                                  "source": {
+                                                                                    "elementorId": "",
+                                                                                    "widget": "",
+                                                                                    "classes": "the7-p-gap"
+                                                                                  }
+                                                                                },
+                                                                                {
+                                                                                  "type": "element",
+                                                                                  "tag": "h3",
+                                                                                  "attrs": {},
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "type": "text",
+                                                                                      "value": "Removal from Distribution Lists"
+                                                                                    }
+                                                                                  ],
+                                                                                  "source": {
+                                                                                    "elementorId": "",
+                                                                                    "widget": "",
+                                                                                    "classes": ""
+                                                                                  }
+                                                                                },
+                                                                                {
+                                                                                  "type": "element",
+                                                                                  "tag": "p",
+                                                                                  "attrs": {},
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "type": "text",
+                                                                                      "value": "You can remove yourself from a distribution list by clicking unsubscribe or by sending an email to mneel@cahf.org."
+                                                                                    }
+                                                                                  ],
+                                                                                  "source": {
+                                                                                    "elementorId": "",
+                                                                                    "widget": "",
+                                                                                    "classes": ""
+                                                                                  }
+                                                                                },
+                                                                                {
+                                                                                  "type": "element",
+                                                                                  "tag": "hr",
+                                                                                  "attrs": {},
+                                                                                  "children": [],
+                                                                                  "source": {
+                                                                                    "elementorId": "",
+                                                                                    "widget": "",
+                                                                                    "classes": "the7-p-gap"
+                                                                                  }
+                                                                                },
+                                                                                {
+                                                                                  "type": "element",
+                                                                                  "tag": "h3",
+                                                                                  "attrs": {},
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "type": "text",
+                                                                                      "value": "Notification of Changes to this Policy"
+                                                                                    }
+                                                                                  ],
+                                                                                  "source": {
+                                                                                    "elementorId": "",
+                                                                                    "widget": "",
+                                                                                    "classes": ""
+                                                                                  }
+                                                                                },
+                                                                                {
+                                                                                  "type": "element",
+                                                                                  "tag": "p",
+                                                                                  "attrs": {},
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "type": "text",
+                                                                                      "value": "Notification of any changes to this policy will be posted on this Site. Any modification relating to the use of personally identifiable information in a manner different from that stated at the time of collection will be announced by posting a notice on this website 30 days prior to such change."
+                                                                                    }
+                                                                                  ],
+                                                                                  "source": {
+                                                                                    "elementorId": "",
+                                                                                    "widget": "",
+                                                                                    "classes": ""
+                                                                                  }
+                                                                                },
+                                                                                {
+                                                                                  "type": "element",
+                                                                                  "tag": "p",
+                                                                                  "attrs": {},
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "type": "element",
+                                                                                      "tag": "em",
+                                                                                      "attrs": {},
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "type": "text",
+                                                                                          "value": "Updated: March 15, 2019"
+                                                                                        }
+                                                                                      ],
+                                                                                      "source": {
+                                                                                        "elementorId": "",
+                                                                                        "widget": "",
+                                                                                        "classes": ""
+                                                                                      }
+                                                                                    }
+                                                                                  ],
+                                                                                  "source": {
+                                                                                    "elementorId": "",
+                                                                                    "widget": "",
+                                                                                    "classes": ""
+                                                                                  }
+                                                                                }
+                                                                              ],
+                                                                              "source": {
+                                                                                "elementorId": "",
+                                                                                "widget": "",
+                                                                                "classes": "elementor-widget-container"
+                                                                              }
+                                                                            }
+                                                                          ],
+                                                                          "source": {
+                                                                            "elementorId": "d2e314b",
+                                                                            "widget": "text-editor.default",
+                                                                            "classes": "elementor-element elementor-element-d2e314b elementor-widget elementor-widget-text-editor"
+                                                                          }
+                                                                        }
+                                                                      ],
+                                                                      "source": {
+                                                                        "elementorId": "",
+                                                                        "widget": "",
+                                                                        "classes": "elementor-widget-wrap elementor-element-populated"
+                                                                      }
+                                                                    }
+                                                                  ],
+                                                                  "source": {
+                                                                    "elementorId": "443074e",
+                                                                    "widget": "",
+                                                                    "classes": "elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-443074e"
+                                                                  }
+                                                                },
+                                                                {
+                                                                  "type": "element",
+                                                                  "tag": "div",
+                                                                  "attrs": {},
+                                                                  "children": [
+                                                                    {
+                                                                      "type": "element",
+                                                                      "tag": "div",
+                                                                      "attrs": {},
+                                                                      "children": [
+                                                                        {
+                                                                          "type": "element",
+                                                                          "tag": "div",
+                                                                          "attrs": {},
+                                                                          "children": [
+                                                                            {
+                                                                              "type": "element",
+                                                                              "tag": "div",
+                                                                              "attrs": {},
+                                                                              "children": [
+                                                                                {
+                                                                                  "type": "element",
+                                                                                  "tag": "div",
+                                                                                  "attrs": {},
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "type": "element",
+                                                                                      "tag": "h4",
+                                                                                      "attrs": {},
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "type": "text",
+                                                                                          "value": " Table of Contents"
+                                                                                        }
+                                                                                      ],
+                                                                                      "source": {
+                                                                                        "elementorId": "",
+                                                                                        "widget": "",
+                                                                                        "classes": "elementor-toc__header-title"
+                                                                                      }
+                                                                                    },
+                                                                                    {
+                                                                                      "type": "element",
+                                                                                      "tag": "div",
+                                                                                      "attrs": {
+                                                                                        "role": "button",
+                                                                                        "aria-controls": "elementor-toc__b31a801",
+                                                                                        "aria-expanded": "true",
+                                                                                        "aria-label": "Mở mục lục"
+                                                                                      },
+                                                                                      "children": [],
+                                                                                      "source": {
+                                                                                        "elementorId": "",
+                                                                                        "widget": "",
+                                                                                        "classes": "elementor-toc__toggle-button elementor-toc__toggle-button--expand"
+                                                                                      }
+                                                                                    },
+                                                                                    {
+                                                                                      "type": "element",
+                                                                                      "tag": "div",
+                                                                                      "attrs": {
+                                                                                        "role": "button",
+                                                                                        "aria-controls": "elementor-toc__b31a801",
+                                                                                        "aria-expanded": "true",
+                                                                                        "aria-label": "Đóng mục lục"
+                                                                                      },
+                                                                                      "children": [],
+                                                                                      "source": {
+                                                                                        "elementorId": "",
+                                                                                        "widget": "",
+                                                                                        "classes": "elementor-toc__toggle-button elementor-toc__toggle-button--collapse"
+                                                                                      }
+                                                                                    }
+                                                                                  ],
+                                                                                  "source": {
+                                                                                    "elementorId": "",
+                                                                                    "widget": "",
+                                                                                    "classes": "elementor-toc__header"
+                                                                                  }
+                                                                                },
+                                                                                {
+                                                                                  "type": "element",
+                                                                                  "tag": "div",
+                                                                                  "attrs": {
+                                                                                    "id": "elementor-toc__b31a801"
+                                                                                  },
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "type": "element",
+                                                                                      "tag": "div",
+                                                                                      "attrs": {},
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "type": "text",
+                                                                                          "value": " "
+                                                                                        },
+                                                                                        {
+                                                                                          "type": "element",
+                                                                                          "tag": "i",
+                                                                                          "attrs": {
+                                                                                            "aria-hidden": "true"
+                                                                                          },
+                                                                                          "children": [],
+                                                                                          "source": {
+                                                                                            "elementorId": "",
+                                                                                            "widget": "",
+                                                                                            "classes": "elementor-toc__spinner eicon-animation-spin eicon-loading"
+                                                                                          }
+                                                                                        }
+                                                                                      ],
+                                                                                      "source": {
+                                                                                        "elementorId": "",
+                                                                                        "widget": "",
+                                                                                        "classes": "elementor-toc__spinner-container"
+                                                                                      }
+                                                                                    }
+                                                                                  ],
+                                                                                  "source": {
+                                                                                    "elementorId": "",
+                                                                                    "widget": "",
+                                                                                    "classes": "elementor-toc__body"
+                                                                                  }
+                                                                                }
+                                                                              ],
+                                                                              "source": {
+                                                                                "elementorId": "",
+                                                                                "widget": "",
+                                                                                "classes": "elementor-widget-container"
+                                                                              }
+                                                                            }
+                                                                          ],
+                                                                          "source": {
+                                                                            "elementorId": "b31a801",
+                                                                            "widget": "table-of-contents.default",
+                                                                            "classes": "elementor-element elementor-element-b31a801 elementor-toc--content-ellipsis elementor-toc--minimized-on-mobile elementor-widget elementor-widget-table-of-contents"
+                                                                          }
+                                                                        }
+                                                                      ],
+                                                                      "source": {
+                                                                        "elementorId": "",
+                                                                        "widget": "",
+                                                                        "classes": "elementor-widget-wrap elementor-element-populated"
+                                                                      }
+                                                                    }
+                                                                  ],
+                                                                  "source": {
+                                                                    "elementorId": "f967acb",
+                                                                    "widget": "",
+                                                                    "classes": "elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-f967acb"
+                                                                  }
+                                                                }
+                                                              ],
+                                                              "source": {
+                                                                "elementorId": "",
+                                                                "widget": "",
+                                                                "classes": "elementor-container elementor-column-gap-wider"
+                                                              }
+                                                            }
+                                                          ],
+                                                          "source": {
+                                                            "elementorId": "cbda701",
+                                                            "widget": "",
+                                                            "classes": "elementor-section elementor-top-section elementor-element elementor-element-cbda701 elementor-reverse-tablet elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                                          }
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": "elementor elementor-29656"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "98f5a50",
+                                                "widget": "theme-post-content.default",
+                                                "classes": "elementor-element elementor-element-98f5a50 elementor-widget elementor-widget-theme-post-content"
+                                              }
+                                            }
+                                          ],
+                                          "source": {
+                                            "elementorId": "",
+                                            "widget": "",
+                                            "classes": "elementor-widget-wrap elementor-element-populated"
+                                          }
+                                        }
+                                      ],
+                                      "source": {
+                                        "elementorId": "1102c08",
+                                        "widget": "",
+                                        "classes": "elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1102c08"
+                                      }
+                                    }
+                                  ],
+                                  "source": {
+                                    "elementorId": "",
+                                    "widget": "",
+                                    "classes": "elementor-container elementor-column-gap-no"
+                                  }
+                                }
+                              ],
+                              "source": {
+                                "elementorId": "0baf9b6",
+                                "widget": "",
+                                "classes": "elementor-section elementor-top-section elementor-element elementor-element-0baf9b6 elementor-section-full_width elementor-section-height-default elementor-section-height-default"
+                              }
+                            }
+                          ],
+                          "source": {
+                            "elementorId": "",
+                            "widget": "",
+                            "classes": "elementor elementor-50913 elementor-location-single post-29656 page type-page status-publish hentry"
+                          }
+                        }
+                      ],
+                      "source": {
+                        "elementorId": "",
+                        "widget": "",
+                        "classes": "content"
+                      }
+                    }
+                  ],
+                  "source": {
+                    "elementorId": "",
+                    "widget": "",
+                    "classes": "wf-container-main"
+                  }
+                }
+              ],
+              "source": {
+                "elementorId": "",
+                "widget": "",
+                "classes": "wf-wrap"
+              }
+            }
+          ],
+          "source": {
+            "elementorId": "",
+            "widget": "",
+            "classes": "sidebar-none sidebar-divider-off"
+          }
+        }
+      ]
+    }
+  ],
+  "backgrounds": [],
+  "embeds": [],
+  "media": [],
+  "provenance": {
+    "url": "https://yourcnastory.org/privacy-policy/",
+    "capturedAt": "2026-11-07T18:07:20.880Z",
+    "snapshotHash": "1c14ec43d1918f88d230992a7ad793d6860d0c8fb569e860874be6e794ba060e",
+    "authority": "rendered-live-copy; owner approved 2026-11-07",
+    "normalization": "DOM-decoded text; source text-node characters retained",
+    "textCharactersHash": "e2ac4a958c3c3d664e5f61e11c84bfd7a3b723cce827dafb57e3ace66969e589"
+  },
+  "inventory": {
+    "text": "Privacy Policy We have established this privacy policy to insure the confidence of visitors to and customers of this web site (this “Site”), and to demonstrate our commitment to fair information practices and the protection of privacy. This privacy policy can be updated from time to time in accordance with the notification requirements set forth below. Information Collected by QCHF/CAHF General Users: does not collect any personal information from users browsing this website. We may collect non-personal information about your use of our Site, but such information is collected anonymously and in the aggregate. Members, Conference and Education Seminar Registrants, Purchasers of Materials, Services and Sponsorships, Other Customer and Visitors to the website: Such individuals can be asked to provide limited personal information in order to gain access to the Members Only portion of this Site or in response to other requests. Information such as name, organization, address, phone, and e-mail may also be submitted through conference and seminar registrations, publication orders, subscriptions, and purchases of other products and services. In addition, in order to receive certain communications from QCHF/CAHF, such individuals can be asked to provide contact information such as their name, address, phone number, and e-mail address so that they can become members of a communications or electronic publication distribution list. You are responsible for providing your most current, accurate and complete personal information or other information that you choose to provide us. By doing so, you may be able to access and use certain features of our Site that are not otherwise available to non-registered users or non-Members. Individuals utilizing the QCHF-supported website, YourCNAStory.org: For participation in YourCNAStory.org, individuals will be asked to provide limited personal information including but not limited to name, address, telephone number, email address, education history, degrees obtained, employment history, and type of employment sought. The information collected by the QCHF/CAHF through YourCNAStory.org is voluntarily provided by participants, and done so at the participant’s discretion. The information gathered by QCHF/CAHF will not be edited or amended by QCHF, its employees, or contracted staff. Use of Information Collected by QCHF/CAHF: Member facility and contact names may be distributed to QCHF/CAHF Associate Members, vendors or sponsors that exhibit at the IHCA trade show and other QCHF/CAHF organized events. Our business partners include, but may not be limited to, all of our affiliated companies (CA Department of Healthcare Access and Information and California Association of Health Facilities) as well as other selected businesses with which we have a business relationship and which we feel adhere to our principles of quality products and services. The information collected by the QCHF supported website, YourCNAStory.org, will be accessible by QCHF/CAHF member entities, participating education institutions, and career support centers for the purposes of employee and student recruitment, and may be disseminated to or accessed by the QCHF member entities, participating education institutions, and career support centers without the consent of the individual submitting their information to the QCHF/CAHF careers website. Without your consent, we reserve the right to communicate with you concerning any of the following: (i) your account, (ii) your use of any QCHF/CAHF services, (iii) service updates, (iv) to provide you with service announcements, and (v) for technical or customer support purposes. In addition, and unless you notify us otherwise, we may also communicate with you about various Services or other activities we believe may be of interest to you. In addition, we can be required to share information in accordance with applicable law. Security This Site has industry standard security measures in place, and we have taken reasonable measures to ensure the safety of your personal information. Password Security You are responsible for maintaining the confidentiality of your member identification and password information, and for restricting access to your computer. You agree to accept responsibility for all activities that occur under your member identification and password. Special Notice Regarding Usage by Children QCHF/CAHF does not target, intend to collect or allow the collection, storage or use of any Personal Information or other information for anyone under 13 years old. We do not and will not knowingly collect, maintain, store use or disclose such information. If you are under 13 years old, you should not provide any Personal Information or other information about yourself through our Services. If you are a parent or guardian who knows or has discovered your child under the age of 13 has submitted his or her Personal Information or other information without your consent, permission or authorization, once we verify you are the child’s parent or legal guardian, upon request, we will remove your child’s Personal Information or other information from our database. To request removal of your child’s Personal Information and other information, email us at dkapoor@ihca.org and be sure to include the same user name, email address and password your child submitted. If you don’t know or are not sure, please state so in your email. Links This Site contains links to other websites. Please be aware that we are not responsible for the privacy practices of such other websites. We encourage our users to be aware when they leave our site, and to read the privacy statement of any linked site. Removal from Distribution Lists You can remove yourself from a distribution list by clicking unsubscribe or by sending an email to mneel@cahf.org. Notification of Changes to this Policy Notification of any changes to this policy will be posted on this Site. Any modification relating to the use of personally identifiable information in a manner different from that stated at the time of collection will be announced by posting a notice on this website 30 days prior to such change. Updated: March 15, 2019 Table of Contents",
+    "links": [],
+    "images": [],
+    "anchors": ["main", "content", "elementor-toc__b31a801"]
+  }
+}
