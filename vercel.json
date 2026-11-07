@@ -1,6 +1,1259 @@
 {
-  "$schema":"https://openapi.vercel.sh/vercel.json",
-  "framework":"nextjs",
-  "installCommand":"npm ci",
-  "buildCommand":"npm run build"
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "nextjs",
+  "installCommand": "npm ci",
+  "buildCommand": "npm run build",
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/careerpaths/careers-in-certified-nurse-assistant",
+      "destination": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "statusCode": 301
+    },
+    {
+      "source": "/cna-certifications",
+      "destination": "/cna-certifications/",
+      "statusCode": 301
+    },
+    {
+      "source": "/careerpaths/careers-in-nursing",
+      "destination": "/careerpaths/careers-in-nursing/",
+      "statusCode": 301
+    },
+    {
+      "source": "/careerpaths/careers-in-support-services",
+      "destination": "/careerpaths/careers-in-support-services/",
+      "statusCode": 301
+    },
+    {
+      "source": "/careerpaths/careers-in-therapy",
+      "destination": "/careerpaths/careers-in-therapy/",
+      "statusCode": 301
+    },
+    {
+      "source": "/careerpaths/careers-in-care-coordination",
+      "destination": "/careerpaths/careers-in-care-coordination/",
+      "statusCode": 301
+    },
+    {
+      "source": "/careerpaths/careers-in-administration",
+      "destination": "/careerpaths/careers-in-administration/",
+      "statusCode": 301
+    },
+    {
+      "source": "/careerpaths/careers-in-social-services",
+      "destination": "/careerpaths/careers-in-social-services/",
+      "statusCode": 301
+    },
+    {
+      "source": "/careerpaths/careers-in-activities",
+      "destination": "/careerpaths/careers-in-activities/",
+      "statusCode": 301
+    },
+    {
+      "source": "/career-seekers",
+      "destination": "/career-seekers/",
+      "statusCode": 301
+    },
+    {
+      "source": "/employers",
+      "destination": "/employers/",
+      "statusCode": 301
+    },
+    {
+      "source": "/employer-resources",
+      "destination": "/employer-resources/",
+      "statusCode": 301
+    },
+    {
+      "source": "/cnap-employer-signup",
+      "destination": "/cnap-employer-signup/",
+      "statusCode": 301
+    },
+    {
+      "source": "/career-paths-in-long-term-care",
+      "destination": "/career-paths-in-long-term-care/",
+      "statusCode": 301
+    },
+    {
+      "source": "/community-resources",
+      "destination": "/community-resources/",
+      "statusCode": 301
+    },
+    {
+      "source": "/privacy-policy",
+      "destination": "/privacy-policy/",
+      "statusCode": 301
+    },
+    {
+      "source": "/certified-nurse-assistant-program",
+      "destination": "/certified-nurse-assistant-program/",
+      "statusCode": 301
+    },
+    {
+      "source": "/cna-training-providers",
+      "destination": "/cna-training-providers/",
+      "statusCode": 301
+    },
+    {
+      "source": "/earn-and-learn",
+      "destination": "/earn-and-learn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/what-is-long-term-care",
+      "destination": "/what-is-long-term-care/",
+      "statusCode": 301
+    },
+    {
+      "source": "/cnap-awards",
+      "destination": "/cnap-awards/",
+      "statusCode": 301
+    },
+    {
+      "source": "/faqs",
+      "destination": "/faqs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/cusp-upskilling",
+      "destination": "/cusp-upskilling/",
+      "statusCode": 301
+    },
+    {
+      "source": "/career-advancement",
+      "destination": "/career-advancement/",
+      "statusCode": 301
+    },
+    {
+      "source": "/earn-and-learn-la",
+      "destination": "/earn-and-learn-la/",
+      "statusCode": 301
+    },
+    {
+      "source": "/frequently-asked-questions",
+      "destination": "/frequently-asked-questions/",
+      "statusCode": 301
+    },
+    {
+      "source": "/earn-and-learn-cvalley",
+      "destination": "/earn-and-learn-cvalley/",
+      "statusCode": 301
+    },
+    {
+      "source": "/earn-and-learn-bayarea",
+      "destination": "/earn-and-learn-bayarea/",
+      "statusCode": 301
+    },
+    {
+      "source": "/earn-and-learn-norcal",
+      "destination": "/earn-and-learn-norcal/",
+      "statusCode": 301
+    },
+    {
+      "source": "/earn-and-learn-san-diego",
+      "destination": "/earn-and-learn-san-diego/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es",
+      "destination": "/es/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/inscripcion-de-empresarios-a-la-cnap",
+      "destination": "/es/inscripcion-de-empresarios-a-la-cnap/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/cnap-employer-signup/",
+      "destination": "/cnap-employer-signup/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/cnap-employer-signup",
+      "destination": "/cnap-employer-signup/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/cnap-employer-signup/",
+      "destination": "/cnap-employer-signup/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/cnap-employer-signup",
+      "destination": "/cnap-employer-signup/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/employer-resources/",
+      "destination": "/employer-resources/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/employer-resources",
+      "destination": "/employer-resources/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/employer-resources/",
+      "destination": "/employer-resources/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/employer-resources",
+      "destination": "/employer-resources/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/que-es-cuidar-a-largo-plazo",
+      "destination": "/es/que-es-cuidar-a-largo-plazo/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/what-is-long-term-care/",
+      "destination": "/what-is-long-term-care/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/what-is-long-term-care",
+      "destination": "/what-is-long-term-care/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/what-is-long-term-care/",
+      "destination": "/what-is-long-term-care/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/what-is-long-term-care",
+      "destination": "/what-is-long-term-care/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/recursos-comunitarios",
+      "destination": "/es/recursos-comunitarios/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/community-resources/",
+      "destination": "/community-resources/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/community-resources",
+      "destination": "/community-resources/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/community-resources/",
+      "destination": "/community-resources/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/community-resources",
+      "destination": "/community-resources/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo",
+      "destination": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/career-paths-in-long-term-care/",
+      "destination": "/career-paths-in-long-term-care/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/career-paths-in-long-term-care",
+      "destination": "/career-paths-in-long-term-care/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/career-paths-in-long-term-care/",
+      "destination": "/career-paths-in-long-term-care/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/career-paths-in-long-term-care",
+      "destination": "/career-paths-in-long-term-care/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/programa-cna",
+      "destination": "/es/programa-cna/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/certified-nurse-assistant-program/",
+      "destination": "/certified-nurse-assistant-program/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/certified-nurse-assistant-program",
+      "destination": "/certified-nurse-assistant-program/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/certified-nurse-assistant-program/",
+      "destination": "/certified-nurse-assistant-program/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/certified-nurse-assistant-program",
+      "destination": "/certified-nurse-assistant-program/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/aspirantes",
+      "destination": "/es/aspirantes/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/career-seekers/",
+      "destination": "/career-seekers/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/career-seekers",
+      "destination": "/career-seekers/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/career-seekers/",
+      "destination": "/career-seekers/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/career-seekers",
+      "destination": "/career-seekers/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/programa-cna-2",
+      "destination": "/es/programa-cna-2/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/cna-training-providers/",
+      "destination": "/cna-training-providers/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/cna-training-providers",
+      "destination": "/cna-training-providers/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/cna-training-providers/",
+      "destination": "/cna-training-providers/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/cna-training-providers",
+      "destination": "/cna-training-providers/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/preguntas-frecuentes",
+      "destination": "/es/preguntas-frecuentes/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/frequently-asked-questions/",
+      "destination": "/frequently-asked-questions/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/frequently-asked-questions",
+      "destination": "/frequently-asked-questions/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/frequently-asked-questions/",
+      "destination": "/frequently-asked-questions/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/frequently-asked-questions",
+      "destination": "/frequently-asked-questions/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/certificaciones-cna",
+      "destination": "/es/certificaciones-cna/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/chung-chi-cna/",
+      "destination": "/cna-certifications/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/chung-chi-cna",
+      "destination": "/cna-certifications/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/cna-%e8%ae%a4%e8%af%81/",
+      "destination": "/cna-certifications/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/cna-%e8%ae%a4%e8%af%81",
+      "destination": "/cna-certifications/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/premios-cnap",
+      "destination": "/es/premios-cnap/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/cnap-awards/",
+      "destination": "/cnap-awards/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/cnap-awards",
+      "destination": "/cnap-awards/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/cnap-awards/",
+      "destination": "/cnap-awards/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/cnap-awards",
+      "destination": "/cnap-awards/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/cusp-upskilling",
+      "destination": "/es/cusp-upskilling/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/cusp-upskilling/",
+      "destination": "/cusp-upskilling/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/cusp-upskilling",
+      "destination": "/cusp-upskilling/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/cusp-upskilling/",
+      "destination": "/cusp-upskilling/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/cusp-upskilling",
+      "destination": "/cusp-upskilling/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/employers/",
+      "destination": "/employers/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/employers",
+      "destination": "/employers/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/employers/",
+      "destination": "/employers/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/employers",
+      "destination": "/employers/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado",
+      "destination": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/careerpaths/careers-in-certified-nurse-assistant/",
+      "destination": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/careerpaths/careers-in-certified-nurse-assistant",
+      "destination": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/careerpaths/careers-in-certified-nurse-assistant/",
+      "destination": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/careerpaths/careers-in-certified-nurse-assistant",
+      "destination": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/carreras/carreras-en-enfermeria",
+      "destination": "/es/carreras/carreras-en-enfermeria/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/careerpaths/careers-in-nursing/",
+      "destination": "/careerpaths/careers-in-nursing/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/careerpaths/careers-in-nursing",
+      "destination": "/careerpaths/careers-in-nursing/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/careerpaths/careers-in-nursing/",
+      "destination": "/careerpaths/careers-in-nursing/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/careerpaths/careers-in-nursing",
+      "destination": "/careerpaths/careers-in-nursing/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/carreras/carreras-en-servicios-de-apoyo",
+      "destination": "/es/carreras/carreras-en-servicios-de-apoyo/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/careerpaths/careers-in-support-services/",
+      "destination": "/careerpaths/careers-in-support-services/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/careerpaths/careers-in-support-services",
+      "destination": "/careerpaths/careers-in-support-services/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/careerpaths/careers-in-support-services/",
+      "destination": "/careerpaths/careers-in-support-services/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/careerpaths/careers-in-support-services",
+      "destination": "/careerpaths/careers-in-support-services/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/carreras/carreras-en-terapia",
+      "destination": "/es/carreras/carreras-en-terapia/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/careerpaths/careers-in-therapy/",
+      "destination": "/careerpaths/careers-in-therapy/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/careerpaths/careers-in-therapy",
+      "destination": "/careerpaths/careers-in-therapy/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/careerpaths/careers-in-therapy/",
+      "destination": "/careerpaths/careers-in-therapy/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/careerpaths/careers-in-therapy",
+      "destination": "/careerpaths/careers-in-therapy/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/carreras/carreras-en-coordinacion-de-cuidados",
+      "destination": "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/careerpaths/careers-in-care-coordination/",
+      "destination": "/careerpaths/careers-in-care-coordination/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/careerpaths/careers-in-care-coordination",
+      "destination": "/careerpaths/careers-in-care-coordination/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/careerpaths/careers-in-care-coordination/",
+      "destination": "/careerpaths/careers-in-care-coordination/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/careerpaths/careers-in-care-coordination",
+      "destination": "/careerpaths/careers-in-care-coordination/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/carreras/carreras-en-servicios-sociales",
+      "destination": "/es/carreras/carreras-en-servicios-sociales/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/careerpaths/careers-in-social-services/",
+      "destination": "/careerpaths/careers-in-social-services/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/careerpaths/careers-in-social-services",
+      "destination": "/careerpaths/careers-in-social-services/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/careerpaths/careers-in-social-services/",
+      "destination": "/careerpaths/careers-in-social-services/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/careerpaths/careers-in-social-services",
+      "destination": "/careerpaths/careers-in-social-services/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/carreras/carreras-en-actividades",
+      "destination": "/es/carreras/carreras-en-actividades/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/careerpaths/careers-in-activities/",
+      "destination": "/careerpaths/careers-in-activities/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/careerpaths/careers-in-activities",
+      "destination": "/careerpaths/careers-in-activities/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/careerpaths/careers-in-activities/",
+      "destination": "/careerpaths/careers-in-activities/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/careerpaths/careers-in-activities",
+      "destination": "/careerpaths/careers-in-activities/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/carreras/carreras-en-administracion",
+      "destination": "/es/carreras/carreras-en-administracion/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/careerpaths/careers-in-administration/",
+      "destination": "/careerpaths/careers-in-administration/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/careerpaths/careers-in-administration",
+      "destination": "/careerpaths/careers-in-administration/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/careerpaths/careers-in-administration/",
+      "destination": "/careerpaths/careers-in-administration/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/careerpaths/careers-in-administration",
+      "destination": "/careerpaths/careers-in-administration/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/du-an-the7/du-an007/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/the7_project/project007/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/du-an-the7/du-an009/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/the7_project/project009/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/du-an-the7/du-an008/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/the7_project/project008/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/du-an-the7/du-an011/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/the7_project/%e9%a1%b9%e7%9b%ae011/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/politica-de-privacidad",
+      "destination": "/es/politica-de-privacidad/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/chinh-sach-bao-mat/",
+      "destination": "/privacy-policy/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/chinh-sach-bao-mat",
+      "destination": "/privacy-policy/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/%e9%9a%90%e7%a7%81%e6%94%bf%e7%ad%96/",
+      "destination": "/privacy-policy/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/%e9%9a%90%e7%a7%81%e6%94%bf%e7%ad%96",
+      "destination": "/privacy-policy/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/the7_khach-hang/khach-hang-001/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/the7_client/%e5%ae%a2%e6%88%b7-001/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/the7_khach-hang/khach-hang-002/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/the7_client/%e5%ae%a2%e6%88%b7-002/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/avance-profesional",
+      "destination": "/es/avance-profesional/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/career-advancement/",
+      "destination": "/career-advancement/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/career-advancement",
+      "destination": "/career-advancement/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/career-advancement/",
+      "destination": "/career-advancement/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/career-advancement",
+      "destination": "/career-advancement/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/ganar-y-aprender-la",
+      "destination": "/es/ganar-y-aprender-la/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/kiem-va-hoc-la/",
+      "destination": "/earn-and-learn-la/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/kiem-va-hoc-la",
+      "destination": "/earn-and-learn-la/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0%e5%95%a6/",
+      "destination": "/earn-and-learn-la/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0%e5%95%a6",
+      "destination": "/earn-and-learn-la/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/gana-y-aprende-cvalley",
+      "destination": "/es/gana-y-aprende-cvalley/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/kiem-va-hoc-cvalley/",
+      "destination": "/earn-and-learn-cvalley/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/kiem-va-hoc-cvalley",
+      "destination": "/earn-and-learn-cvalley/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0-cvalley/",
+      "destination": "/earn-and-learn-cvalley/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0-cvalley",
+      "destination": "/earn-and-learn-cvalley/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/gana-y-aprende-bayarea",
+      "destination": "/es/gana-y-aprende-bayarea/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/kiem-tien-va-hoc-tap-bayarea/",
+      "destination": "/earn-and-learn-bayarea/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/kiem-tien-va-hoc-tap-bayarea",
+      "destination": "/earn-and-learn-bayarea/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/%e5%9c%a8-bayarea-%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0/",
+      "destination": "/earn-and-learn-bayarea/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/%e5%9c%a8-bayarea-%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0",
+      "destination": "/earn-and-learn-bayarea/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/earn-and-learn-norcal",
+      "destination": "/es/earn-and-learn-norcal/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/kiem-va-hoc-norcal/",
+      "destination": "/earn-and-learn-norcal/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/kiem-va-hoc-norcal",
+      "destination": "/earn-and-learn-norcal/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0%e8%af%ba%e5%8d%a1%e5%b0%94/",
+      "destination": "/earn-and-learn-norcal/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0%e8%af%ba%e5%8d%a1%e5%b0%94",
+      "destination": "/earn-and-learn-norcal/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/gana-y-aprende-san-diego",
+      "destination": "/es/gana-y-aprende-san-diego/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/kiem-tien-va-hoc-hoi-tai-san-diego/",
+      "destination": "/earn-and-learn-san-diego/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/kiem-tien-va-hoc-hoi-tai-san-diego",
+      "destination": "/earn-and-learn-san-diego/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/%e5%9c%a3%e5%9c%b0%e4%ba%9a%e5%93%a5%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0/",
+      "destination": "/earn-and-learn-san-diego/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/%e5%9c%a3%e5%9c%b0%e4%ba%9a%e5%93%a5%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0",
+      "destination": "/earn-and-learn-san-diego/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/earn-and-learn",
+      "destination": "/es/earn-and-learn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/kiem-tien-va-hoc-hoi/",
+      "destination": "/earn-and-learn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/kiem-tien-va-hoc-hoi",
+      "destination": "/earn-and-learn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/%e5%ad%a6%e4%bb%a5%e8%87%b4%e7%94%a8/",
+      "destination": "/earn-and-learn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/%e5%ad%a6%e4%bb%a5%e8%87%b4%e7%94%a8",
+      "destination": "/earn-and-learn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/du-an-the7/du-an001/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/the7_project/%e9%a1%b9%e7%9b%ae001/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/du-an-the7/du-an002/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/the7_project/%e9%a1%b9%e7%9b%ae002/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/du-an-the7/du-an003/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/the7_project/%e9%a1%b9%e7%9b%ae003/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/du-an-the7/du-an004/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/the7_project/%e9%a1%b9%e7%9b%ae004/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/du-an-the7/du-an006/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/the7_project/project006/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/du-an-the7/du-an010/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/the7_project/%e9%a1%b9%e7%9b%ae010/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/the7_khach-hang/khach-hang-003/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/the7_client/%e5%ae%a2%e6%88%b7-003/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/the7_khach-hang/khach-hang-004/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/the7_client/%e5%ae%a2%e6%88%b7-004/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/the7_khach-hang/khach-hang-005/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/the7_client/%e5%ae%a2%e6%88%b7-005/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/the7_khach-hang/khach-hang-006/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/the7_client/%e5%ae%a2%e6%88%b7-006/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/the7_khach-hang/khach-hang-007/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/the7_client/%e5%ae%a2%e6%88%b7-007/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/the7_khach-hang/khach-hang-008/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/the7_client/%e5%ae%a2%e6%88%b7-008/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/the7_reviews/dieu-duong-lanh-nghe/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/the7_reviews/%e4%b8%93%e4%b8%9a%e6%8a%a4%e7%90%86/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/the7_reviews/phuc-hoi-chuc-nang-ngan-han/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/the7_reviews/%e7%9f%ad%e6%9c%9f%e5%ba%b7%e5%a4%8d/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/the7_reviews/khu-cham-soc-suc-khoe-kern-valley/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/the7_reviews/%e7%a7%91%e6%81%a9%e8%b0%b7%e5%8c%bb%e7%96%97%e4%bf%9d%e5%81%a5%e5%8c%ba/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/the7_reviews/khu-cham-soc-suc-khoe-nam-inyo/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/the7_reviews/%e5%8d%97%e4%bb%81%e8%80%80%e5%8c%bb%e7%96%97%e4%bf%9d%e5%81%a5%e5%8c%ba/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/the7_reviews/dieu-duong-co-tay-nghe-fallbrook/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/the7_reviews/fallbrook-%e7%86%9f%e7%bb%83%e6%8a%a4%e7%90%86/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/the7_reviews/cham-soc-suc-khoe-golden-heights/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/the7_reviews/%e9%87%91%e8%89%b2%e9%ab%98%e5%9c%b0%e5%8c%bb%e7%96%97%e4%bf%9d%e5%81%a5/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/the7_reviews/the-pines-at-placerville/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/the7_reviews/the-pines-at-placerville/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/the7_reviews/crystal-ridge-care-center/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/the7_reviews/crystal-ridge-care-center/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/the7_reviews/kern-valley/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/the7_reviews/kern-valley/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/the7_reviews/oak-river-rehab/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/the7_reviews/oak-river-rehab/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/bat-dau-su-nghiep-moi-cua-ban/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/%e5%bc%80%e5%a7%8b%e6%96%b0%e7%9a%84%e8%81%8c%e4%b8%9a%e7%94%9f%e6%b6%af/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/%20careerpaths/careers-in-%20certified-nurse-%20assistant/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/%20careerpaths/careers-in-%20certified-nurse-%20assistant/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/careers-in-therapy/",
+      "destination": "/careerpaths/careers-in-therapy/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/careers-in-nursing/",
+      "destination": "/careerpaths/careers-in-nursing/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/careers-in-social-services/",
+      "destination": "/careerpaths/careers-in-social-services/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/careers-in-activities/",
+      "destination": "/careerpaths/careers-in-activities/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/careers-in-therapy/",
+      "destination": "/careerpaths/careers-in-therapy/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/careers-in-nursing/",
+      "destination": "/careerpaths/careers-in-nursing/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/careers-in-social-services/",
+      "destination": "/careerpaths/careers-in-social-services/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/careers-in-activities/",
+      "destination": "/careerpaths/careers-in-activities/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/nghe-nghiep/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/nghe-nghiep",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/%e8%81%8c%e4%b8%9a/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/%e8%81%8c%e4%b8%9a",
+      "destination": "/",
+      "statusCode": 301
+    }
+  ]
 }
