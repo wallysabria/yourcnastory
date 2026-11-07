@@ -46,3 +46,5 @@ No future phase is authorized by these audit findings.
 
 ## Phase 2 update
 Q-007 / Q-008 resolved by owner in chat: use yourcnastory within existing wallysabrias-projects Hobby account; full Phase 2 and Vercel setup authorized. Project created and repository connected; protection retained, no paid upgrade/DNS cutover. Q-014/Q-017/Q-022 remain open: 48 known Career/shared route shells only, 172 redirect proposals deferred. Q-016 affects inactive Employers links only; destination decision remains open. Source-limited authorization continues; it does not resolve missing inputs.
+
+Resolved Phase 2 hosting rows (owner, 2026-11-07): Q-007 selected existing wallysabrias-projects Hobby team; Q-008 authorized yourcnastory project/Git connection, main production branch, protected previews. No domain cutover. See phase-02 report and sanitized cloud evidence.

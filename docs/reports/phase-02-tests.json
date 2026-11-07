@@ -1,7 +1,7 @@
 {
   "stats": {
-    "startTime": "2026-11-07T17:29:35.493Z",
-    "duration": 5546.009,
+    "startTime": "2026-11-07T17:48:08.357Z",
+    "duration": 6570.256,
     "expected": 24,
     "skipped": 0,
     "unexpected": 0,
@@ -15,7 +15,7 @@
       "results": [
         {
           "status": "passed",
-          "duration": 108
+          "duration": 110
         }
       ]
     },
@@ -26,7 +26,7 @@
       "results": [
         {
           "status": "passed",
-          "duration": 33
+          "duration": 22
         }
       ]
     },
@@ -37,7 +37,7 @@
       "results": [
         {
           "status": "passed",
-          "duration": 12
+          "duration": 13
         }
       ]
     },
@@ -48,7 +48,7 @@
       "results": [
         {
           "status": "passed",
-          "duration": 280
+          "duration": 285
         }
       ]
     },
@@ -59,7 +59,7 @@
       "results": [
         {
           "status": "passed",
-          "duration": 1898
+          "duration": 1784
         }
       ]
     },
@@ -70,7 +70,7 @@
       "results": [
         {
           "status": "passed",
-          "duration": 2220
+          "duration": 2228
         }
       ]
     },
@@ -81,7 +81,7 @@
       "results": [
         {
           "status": "passed",
-          "duration": 117
+          "duration": 116
         }
       ]
     },
@@ -92,7 +92,7 @@
       "results": [
         {
           "status": "passed",
-          "duration": 112
+          "duration": 109
         }
       ]
     },
@@ -103,7 +103,7 @@
       "results": [
         {
           "status": "passed",
-          "duration": 1359
+          "duration": 1320
         }
       ]
     },
@@ -114,7 +114,7 @@
       "results": [
         {
           "status": "passed",
-          "duration": 1331
+          "duration": 1312
         }
       ]
     },
@@ -125,7 +125,7 @@
       "results": [
         {
           "status": "passed",
-          "duration": 1288
+          "duration": 1281
         }
       ]
     },
@@ -136,7 +136,7 @@
       "results": [
         {
           "status": "passed",
-          "duration": 1292
+          "duration": 1434
         }
       ]
     },
@@ -147,7 +147,7 @@
       "results": [
         {
           "status": "passed",
-          "duration": 1305
+          "duration": 1508
         }
       ]
     },
@@ -158,7 +158,7 @@
       "results": [
         {
           "status": "passed",
-          "duration": 1332
+          "duration": 1258
         }
       ]
     },
@@ -169,7 +169,7 @@
       "results": [
         {
           "status": "passed",
-          "duration": 1095
+          "duration": 1020
         }
       ]
     },
@@ -180,7 +180,7 @@
       "results": [
         {
           "status": "passed",
-          "duration": 795
+          "duration": 1172
         }
       ]
     },
@@ -191,7 +191,7 @@
       "results": [
         {
           "status": "passed",
-          "duration": 1143
+          "duration": 1180
         }
       ]
     },
@@ -202,7 +202,7 @@
       "results": [
         {
           "status": "passed",
-          "duration": 1224
+          "duration": 1159
         }
       ]
     },
@@ -213,7 +213,7 @@
       "results": [
         {
           "status": "passed",
-          "duration": 1187
+          "duration": 783
         }
       ]
     },
@@ -224,7 +224,7 @@
       "results": [
         {
           "status": "passed",
-          "duration": 1184
+          "duration": 1177
         }
       ]
     },
@@ -235,7 +235,7 @@
       "results": [
         {
           "status": "passed",
-          "duration": 507
+          "duration": 542
         }
       ]
     },
@@ -246,7 +246,7 @@
       "results": [
         {
           "status": "passed",
-          "duration": 1133
+          "duration": 1203
         }
       ]
     },
@@ -257,7 +257,7 @@
       "results": [
         {
           "status": "passed",
-          "duration": 443
+          "duration": 486
         }
       ]
     },
@@ -268,7 +268,7 @@
       "results": [
         {
           "status": "passed",
-          "duration": 334
+          "duration": 375
         }
       ]
     }

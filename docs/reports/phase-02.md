@@ -20,7 +20,11 @@ Pagefind 1.6.0 indexed all 48 prerendered shells in two languages. Browser queri
 
 Owner selected the existing wallysabrias-projects Hobby team and authorized project setup. Created yourcnastory, linked GitHub repository, Next.js framework / Node 24, production branch main, branch previews, provider authentication protection retained. No DNS/custom-domain cutover or paid upgrade. Environment names: EMPLOYERS_ENABLED, SITE_LAUNCH_APPROVED; VERCEL_ENV is provider supplied. Previews always send noindex; production also remains noindex until explicit launch approval. Raw exports, .env files and docs/test artifacts are excluded from deployment.
 
-Preview and CI evidence will be recorded after the branch deploys.
+Review: [PR #3](https://github.com/wallysabria/yourcnastory/pull/3), [protected branch preview](https://yourcnastory-git-phase-02-foundation-wallysabrias-projects.vercel.app/), [verified immutable deployment](https://yourcnastory-nyt3pkoae-wallysabrias-projects.vercel.app/). Cloud checks passed all 250 HTTP 301 mappings and all 48 HTTP 200 route shells, including language/noindex/no production analytics. Unauthenticated access returned 302 to authentication. Sanitized evidence: phase-02-cloud-checks.json.
+
+Cloud verification caught Vercel's adapter inferring static slash shape only from a 308 redirect. The pinned adapter is accommodated by a host-restricted route-shape hint for reserved routing-shape.invalid; actual requests continue to use the tested 301 data. vercel.json mirrors the redirect file, with equality checked in the suite and generation kept synchronized. Recheck all cloud redirects after framework/adapter upgrades. Optional local Vercel adapter build could not complete on Windows (cmd.exe spawn); local Next build and the real Linux cloud deployment passed.
+
+[Foundation CI](https://github.com/wallysabria/yourcnastory/actions/runs/42398080858) and [audit CI](https://github.com/wallysabria/yourcnastory/actions/runs/42398080869) validate this implementation; final PR checks also cover subsequent report-only updates. The automation bypass credential created by Vercel CLI for authenticated checks is revoked after verification; no credential is in the evidence.
 
 ## Open items and next phase inputs
 
