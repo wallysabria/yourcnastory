@@ -1,0 +1,45 @@
+# Raw exports (WordPress XML, DB dump, uploads, screenshots) — never commit
+/_source/
+
+# Environment / secrets (keep the names-only example)
+.env*
+!.env.example
+
+# Dependencies
+node_modules/
+.pnp
+.pnp.*
+
+# Build output
+.next/
+out/
+build/
+dist/
+.vercel/
+*.tsbuildinfo
+next-env.d.ts
+.pagefind/
+public/pagefind/
+
+# Testing
+coverage/
+playwright-report/
+test-results/
+
+# Logs
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.swp
+*~
