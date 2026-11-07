@@ -1,7 +1,9 @@
 import type { NextConfig } from 'next';
 const nextConfig: NextConfig = {
   trailingSlash: true,
-  skipTrailingSlashRedirect: false,
+  // Vercel's adapter infers slash-aware static routing from Next's redirect.
+  // Its edge rules override the 308 with our data-driven 301; locally proxy handles it.
+  skipTrailingSlashRedirect: process.env.VERCEL !== '1',
   poweredByHeader: false,
   async headers() {
     return [
