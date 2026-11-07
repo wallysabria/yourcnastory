@@ -15,25 +15,25 @@
     "path": "/careerpaths/careers-in-support-services/",
     "file": "content/pages/careerpaths--careers-in-support-services.json",
     "locale": "en",
-    "sha256": "fff2aa54c159aa53d757f455730e43ac1fba54f1e115561b4f4e8ec7d6e1cb5e"
+    "sha256": "5708e7cd3b07d82db31d6c5a541ba3db47765bfca869b26c68b5c31cda77eaac"
   },
   {
     "path": "/careerpaths/careers-in-therapy/",
     "file": "content/pages/careerpaths--careers-in-therapy.json",
     "locale": "en",
-    "sha256": "a51c00237de2107eec6facd2fd5d411b15722d1b5fe3cf3eae8d9216fc3b6800"
+    "sha256": "f9b485f07cf03dd544d131477800db898092596e8b846ae44f9acfb72f770ccc"
   },
   {
     "path": "/careerpaths/careers-in-care-coordination/",
     "file": "content/pages/careerpaths--careers-in-care-coordination.json",
     "locale": "en",
-    "sha256": "3136e06d607dd3b7b03c1068ff0d64b313890c0cd75e1c48a5ea9fabaffa4b19"
+    "sha256": "263c32c429199442d32541e9c35f9d00172b50fa1b8aaf5bb2ac9bf60a7899fb"
   },
   {
     "path": "/careerpaths/careers-in-social-services/",
     "file": "content/pages/careerpaths--careers-in-social-services.json",
     "locale": "en",
-    "sha256": "7eb509c1f891d7e94424de38d2af83a7d44c890eaac80256c49836d067adf9a3"
+    "sha256": "b8ec28d92833a6209392e974aab13fa95e38e73150bedd21e6ca409e373fcd16"
   },
   {
     "path": "/careerpaths/careers-in-activities/",
@@ -45,7 +45,7 @@
     "path": "/careerpaths/careers-in-administration/",
     "file": "content/pages/careerpaths--careers-in-administration.json",
     "locale": "en",
-    "sha256": "eb6fceffefac7706d93f5d3854e2d736c8a68dc236c43f80498a21a4a112cbe1"
+    "sha256": "a29408d83aef9b28a651358cc79b37cacea9c62a759898bef339c87e041996d9"
   },
   {
     "path": "/",
@@ -207,25 +207,25 @@
     "path": "/es/carreras/carreras-en-servicios-de-apoyo/",
     "file": "content/pages/es--carreras--carreras-en-servicios-de-apoyo.json",
     "locale": "es",
-    "sha256": "5eb299169cd79daa19707c220b1f22bbf0717fe48c8d85c65e391ca4fcb7ebad"
+    "sha256": "33b302aa9277317a45856cfcd7777b1d8b466697862276fa775c137a5b053239"
   },
   {
     "path": "/es/carreras/carreras-en-terapia/",
     "file": "content/pages/es--carreras--carreras-en-terapia.json",
     "locale": "es",
-    "sha256": "cc62b57fafaf87344be208568415a0273a1d438876968f054ed25acbbc4a56aa"
+    "sha256": "96a7328063a246bbceffa2826ee1a5881aeee055fe9efdd51f1ec4916086a98d"
   },
   {
     "path": "/es/carreras/carreras-en-coordinacion-de-cuidados/",
     "file": "content/pages/es--carreras--carreras-en-coordinacion-de-cuidados.json",
     "locale": "es",
-    "sha256": "93df91f0fa6c53cf56226d1dee934290baba91095c8f8df4e787f64ce607307f"
+    "sha256": "911c898706fafde42b7691cae5a01a63a1e2c6a5ae9f4959ac82ff6738f70507"
   },
   {
     "path": "/es/carreras/carreras-en-servicios-sociales/",
     "file": "content/pages/es--carreras--carreras-en-servicios-sociales.json",
     "locale": "es",
-    "sha256": "81b6c6f40dafcec47e05f91d0e38a87ad1bd68a64866d2e4580e2e48a7896572"
+    "sha256": "7ea6c1e863e0f3e0a2684c1f66b9248a6351d4817379392d651c8d7525d80eb8"
   },
   {
     "path": "/es/carreras/carreras-en-actividades/",
@@ -237,7 +237,7 @@
     "path": "/es/carreras/carreras-en-administracion/",
     "file": "content/pages/es--carreras--carreras-en-administracion.json",
     "locale": "es",
-    "sha256": "2d11dc0556f41df85f1a88dc6a3c8138846f9a1bc22045731a964a9eb594a95a"
+    "sha256": "e6659bbc1ac6ab65f06fd369fc2ebf413b878d0bc86a1096f3833035ce1c9721"
   },
   {
     "path": "/es/politica-de-privacidad/",

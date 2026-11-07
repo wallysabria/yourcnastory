@@ -30,7 +30,11 @@ The selected current pages reference zero WordPress-upload documents. Eight uniq
 
 27 local Playwright tests passed, zero failed/skipped/flaky. Tests include all 48 review URLs, all 344 asset HEAD responses/byte lengths, restricted review scope, and existing 250 redirects, EN/ES metadata, menus and 12 zero-violation axe layout smokes. Lint, typecheck, format and production build passed. Evidence: phase-03-tests.json.
 
-Preview/PR/final CI links follow deployment. PR #3 remains open: automatic approval review rejected merging the foundation into main without explicit merge/deployment approval. Phase 3 is a separate branch based on that foundation; main is unchanged.
+Review: [PR #4](https://github.com/wallysabria/yourcnastory/pull/4), [English content review](https://yourcnastory-git-phase-03-content-wallysabrias-projects.vercel.app/api/content-review/?path=/), [Spanish content review](https://yourcnastory-git-phase-03-content-wallysabrias-projects.vercel.app/api/content-review/?path=/es/), [CI checks](https://github.com/wallysabria/yourcnastory/pull/4/checks). Vercel sign-in is required.
+
+Cloud verification passed all 48 exact content character streams/languages/noindex/CSP checks, all 344 imported media byte hashes, and four redirect samples. Unauthenticated requests returned 302 to Vercel sign-in. [Verified immutable preview](https://yourcnastory-8qio10zag-wallysabrias-projects.vercel.app/api/content-review/?path=/es/); evidence: phase-03-cloud-checks.json. Temporary test credentials were revoked in the verification action; authentication protection remains enabled. The earlier failed cloud probes were authentication/HTTP compression issues; final checks use a fresh preview and decompressed byte hashes. [Vercel automation-access documentation](https://vercel.com/docs/deployment-protection/methods-to-bypass-deployment-protection/protection-bypass-automation).
+
+Career collection order follows each locale's actual Career Paths grid, not manifest discovery order, and a source-order contract verifies both locales. This metadata-only alignment leaves the verified content character streams and media bytes unchanged. All production templates remain Phase 4 work. PR #3 remains open: automatic approval review rejected merging the foundation into main without explicit merge/deployment approval. Phase 3 is a separate branch based on that foundation; main is unchanged.
 
 ## Reproduction and next phase
 

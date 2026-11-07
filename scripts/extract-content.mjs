@@ -20,6 +20,35 @@ const index = [],
   testimonials = [],
   careerpaths = [],
   media = new Map();
+const careerOrder = new Map();
+for (const locale of ['en', 'es']) {
+  const grid = routes.find(
+    (r) => r.id === '/career-paths-in-long-term-care/' && r.locale === locale,
+  );
+  const snapshot = records.find((r) => r.path === grid.path);
+  const $ = load(fs.readFileSync('_source/phase-03/' + snapshot.filename, 'utf8'));
+  const known = new Set(
+    routes
+      .filter((r) => r.locale === locale && r.template === 'careerpath-entry')
+      .map((r) => r.path),
+  );
+  const order = [
+    ...new Set(
+      $('#main a[href]')
+        .map((_, e) => {
+          try {
+            return new URL($(e).attr('href'), origin).pathname;
+          } catch {
+            return '';
+          }
+        })
+        .get()
+        .filter((path) => known.has(path)),
+    ),
+  ];
+  if (order.length !== known.size) throw Error('Ambiguous source career grid order: ' + locale);
+  order.forEach((path, i) => careerOrder.set(path, i));
+}
 for (const route of routes) {
   const snapshot = records.find((r) => r.path === route.path);
   if (!snapshot || snapshot.status !== 200) throw Error('No 200 snapshot ' + route.path);
@@ -95,7 +124,7 @@ for (const route of routes) {
   page.provenance.textCharactersHash = hash(textNodes(main[0]).join(''));
   if (route.template === 'careerpath-entry') {
     page.kind = 'careerpath';
-    page.collectionOrder = careerpaths.filter((r) => r.locale === route.locale).length;
+    page.collectionOrder = careerOrder.get(route.path);
   }
   const file = 'content/pages/' + filename(route.path);
   write(file, page);
@@ -106,7 +135,7 @@ for (const route of routes) {
       locale: route.locale,
       path: route.path,
       file,
-      collectionOrder: careerpaths.filter((r) => r.locale === route.locale).length,
+      collectionOrder: careerOrder.get(route.path),
     });
   // Homepage testimonials are explicitly allowed with its employer blocks; no Employer page is read.
   main.find('article.the7_reviews').each((i, e) => {
@@ -143,7 +172,12 @@ for (const route of routes) {
   });
 }
 write('content/pages/index.json', index);
-write('content/collections/careerpaths.json', careerpaths);
+write(
+  'content/collections/careerpaths.json',
+  careerpaths.sort(
+    (a, b) => a.locale.localeCompare(b.locale) || a.collectionOrder - b.collectionOrder,
+  ),
+);
 write('content/collections/testimonials.json', testimonials);
 write('docs/reports/phase-03-jobboard-removals.json', removals);
 write('docs/reports/phase-03-media-candidates.json', [...media.values()]);

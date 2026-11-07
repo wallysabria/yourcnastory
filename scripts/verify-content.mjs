@@ -24,6 +24,36 @@ const careers = JSON.parse(fs.readFileSync('content/collections/careerpaths.json
 const testimonials = JSON.parse(fs.readFileSync('content/collections/testimonials.json'));
 const media = JSON.parse(fs.readFileSync('content/media/manifest.json'));
 assert.deepEqual(index.map((r) => r.path).sort(), routes.map((r) => r.path).sort());
+for (const locale of ['en', 'es']) {
+  const grid = routes.find(
+    (r) => r.id === '/career-paths-in-long-term-care/' && r.locale === locale,
+  );
+  const page = JSON.parse(fs.readFileSync(index.find((r) => r.path === grid.path).file));
+  const entries = careers
+    .filter((r) => r.locale === locale)
+    .sort((a, b) => a.collectionOrder - b.collectionOrder);
+  const known = new Set(entries.map((r) => r.path));
+  const expected = [
+    ...new Set(
+      page.inventory.links
+        .map((link) => {
+          try {
+            return new URL(link.href, origin).pathname;
+          } catch {
+            return '';
+          }
+        })
+        .filter((path) => known.has(path)),
+    ),
+  ];
+  assert.deepEqual(
+    entries.map((r) => r.path),
+    expected,
+    'Source career grid order: ' + locale,
+  );
+  for (const entry of entries)
+    assert.equal(JSON.parse(fs.readFileSync(entry.file)).collectionOrder, entry.collectionOrder);
+}
 for (const t of testimonials) testimonialSchema.parse(t);
 for (const r of media) {
   assert.ok(r.path, 'Missing media ' + r.url);
