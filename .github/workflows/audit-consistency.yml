@@ -1,0 +1,19 @@
+name: Audit inventory consistency
+
+on:
+  push:
+    branches: [main, phase-01-audit]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the snapshot
+        uses: actions/checkout@v7.0.1
+      - name: Validate committed audit inventories
+        run: node scripts/validate-audit.mjs .
