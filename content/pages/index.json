@@ -1,0 +1,290 @@
+[
+  {
+    "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+    "file": "content/pages/careerpaths--careers-in-certified-nurse-assistant.json",
+    "locale": "en",
+    "sha256": "19fd7c4f8edca04bbdea5008c60890bb9518e28b1df65fcf11b9fafc2017f1c5"
+  },
+  {
+    "path": "/careerpaths/careers-in-nursing/",
+    "file": "content/pages/careerpaths--careers-in-nursing.json",
+    "locale": "en",
+    "sha256": "1869c53cacc6508198e3e5913c6ba9e947e93b8c6c157480a7a75175a946dc62"
+  },
+  {
+    "path": "/careerpaths/careers-in-support-services/",
+    "file": "content/pages/careerpaths--careers-in-support-services.json",
+    "locale": "en",
+    "sha256": "fff2aa54c159aa53d757f455730e43ac1fba54f1e115561b4f4e8ec7d6e1cb5e"
+  },
+  {
+    "path": "/careerpaths/careers-in-therapy/",
+    "file": "content/pages/careerpaths--careers-in-therapy.json",
+    "locale": "en",
+    "sha256": "a51c00237de2107eec6facd2fd5d411b15722d1b5fe3cf3eae8d9216fc3b6800"
+  },
+  {
+    "path": "/careerpaths/careers-in-care-coordination/",
+    "file": "content/pages/careerpaths--careers-in-care-coordination.json",
+    "locale": "en",
+    "sha256": "3136e06d607dd3b7b03c1068ff0d64b313890c0cd75e1c48a5ea9fabaffa4b19"
+  },
+  {
+    "path": "/careerpaths/careers-in-social-services/",
+    "file": "content/pages/careerpaths--careers-in-social-services.json",
+    "locale": "en",
+    "sha256": "7eb509c1f891d7e94424de38d2af83a7d44c890eaac80256c49836d067adf9a3"
+  },
+  {
+    "path": "/careerpaths/careers-in-activities/",
+    "file": "content/pages/careerpaths--careers-in-activities.json",
+    "locale": "en",
+    "sha256": "7e0dd3fc7cf3ced04278d1e74fd158654a293ff05b059b6cd3887154cfaca080"
+  },
+  {
+    "path": "/careerpaths/careers-in-administration/",
+    "file": "content/pages/careerpaths--careers-in-administration.json",
+    "locale": "en",
+    "sha256": "eb6fceffefac7706d93f5d3854e2d736c8a68dc236c43f80498a21a4a112cbe1"
+  },
+  {
+    "path": "/",
+    "file": "content/pages/home.json",
+    "locale": "en",
+    "sha256": "67fe7a7ad9aa6b76bd421da6e3146875790d29a9d137288ea003d753a0ce6316"
+  },
+  {
+    "path": "/career-seekers/",
+    "file": "content/pages/career-seekers.json",
+    "locale": "en",
+    "sha256": "efb93f92530b975ce2ec7ea9d00a7af07705fe5ab1ccce0f6d4a7d999ba5b6c3"
+  },
+  {
+    "path": "/career-paths-in-long-term-care/",
+    "file": "content/pages/career-paths-in-long-term-care.json",
+    "locale": "en",
+    "sha256": "15a3d1a07f3b68cb84f2fbf296c5cdfe745dab5902839f5083837ed6a9b7bbce"
+  },
+  {
+    "path": "/community-resources/",
+    "file": "content/pages/community-resources.json",
+    "locale": "en",
+    "sha256": "1ae7549c94253c620a3aa0ba8208d86d161476b6b6394f37d29ed599dd7e494c"
+  },
+  {
+    "path": "/privacy-policy/",
+    "file": "content/pages/privacy-policy.json",
+    "locale": "en",
+    "sha256": "60e1b71b7a3ef63bc629c2012bb6d0aaec305725589445b456757a5647557686"
+  },
+  {
+    "path": "/certified-nurse-assistant-program/",
+    "file": "content/pages/certified-nurse-assistant-program.json",
+    "locale": "en",
+    "sha256": "54265d346758581a21c5779831a8ac319319deec254c141498d31d19e22d88a3"
+  },
+  {
+    "path": "/cna-training-providers/",
+    "file": "content/pages/cna-training-providers.json",
+    "locale": "en",
+    "sha256": "171d10ba81d713fac9a854dc76b0954e6ebe38964f268316e024a3ce10570f6a"
+  },
+  {
+    "path": "/what-is-long-term-care/",
+    "file": "content/pages/what-is-long-term-care.json",
+    "locale": "en",
+    "sha256": "00447ee652d427cee3edb1c05a1066cff1b6b96fca4085f18467071448049d5d"
+  },
+  {
+    "path": "/career-advancement/",
+    "file": "content/pages/career-advancement.json",
+    "locale": "en",
+    "sha256": "bed9f3e35441af463157f40cb6a5b8c5073c88af67fad164f3b365db32a04a44"
+  },
+  {
+    "path": "/earn-and-learn-la/",
+    "file": "content/pages/earn-and-learn-la.json",
+    "locale": "en",
+    "sha256": "89edd9af3a0d6c9834b03b1c4bf50b920df6205733cefd88155b83f06f91b3b1"
+  },
+  {
+    "path": "/frequently-asked-questions/",
+    "file": "content/pages/frequently-asked-questions.json",
+    "locale": "en",
+    "sha256": "5c7d265ea57a466ee6d23887a4fafc9c1679284b9590ec9689063f1357b12c79"
+  },
+  {
+    "path": "/earn-and-learn-cvalley/",
+    "file": "content/pages/earn-and-learn-cvalley.json",
+    "locale": "en",
+    "sha256": "d939eb6045ad2fa8ee2e63f3dbb6c380afb041eee018e936d34fa256ac38977f"
+  },
+  {
+    "path": "/earn-and-learn-bayarea/",
+    "file": "content/pages/earn-and-learn-bayarea.json",
+    "locale": "en",
+    "sha256": "b24766f32392b0d3fdef2c3347d912e1046dab80a2a3769d02ccdcc4f24378ea"
+  },
+  {
+    "path": "/earn-and-learn-norcal/",
+    "file": "content/pages/earn-and-learn-norcal.json",
+    "locale": "en",
+    "sha256": "76086e0136a3c4cef2ae75dc296393ee717727a833c53e06af881559bd6f3696"
+  },
+  {
+    "path": "/earn-and-learn-san-diego/",
+    "file": "content/pages/earn-and-learn-san-diego.json",
+    "locale": "en",
+    "sha256": "f3022cb705bbcf66552f3e285731e536b8b5ea376e687287042e4553bc0b29ed"
+  },
+  {
+    "path": "/earn-and-learn/",
+    "file": "content/pages/earn-and-learn.json",
+    "locale": "en",
+    "sha256": "41a7bede858adae80fde5d31cb63e25d5e6c01ef7e66f963d5c2a4322d8d7459"
+  },
+  {
+    "path": "/es/",
+    "file": "content/pages/es.json",
+    "locale": "es",
+    "sha256": "266a48578c5cfc6991337bf472d1f077148fa5a2801ac7b31cb9c4286a7b9217"
+  },
+  {
+    "path": "/es/que-es-cuidar-a-largo-plazo/",
+    "file": "content/pages/es--que-es-cuidar-a-largo-plazo.json",
+    "locale": "es",
+    "sha256": "8a222cc4aa2afcf17250a50be8590a4573a57882b70893645e5a5d33ff0a8060"
+  },
+  {
+    "path": "/es/recursos-comunitarios/",
+    "file": "content/pages/es--recursos-comunitarios.json",
+    "locale": "es",
+    "sha256": "2f332b6a830883e932caa78ece9b43c6f07141ef8958d5a2776f035ea49caa52"
+  },
+  {
+    "path": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+    "file": "content/pages/es--caminos-profesionales-en-el-cuidado-a-largo-plazo.json",
+    "locale": "es",
+    "sha256": "7cb5c64c6ee5bea5d17ded1d1d12bc100f4bfc3db5cbb5ff0b88c7a7c76d2732"
+  },
+  {
+    "path": "/es/programa-cna/",
+    "file": "content/pages/es--programa-cna.json",
+    "locale": "es",
+    "sha256": "17918c82930f6f1dbffdbb471288a5805e714a9acf752bec747ba22c03db7387"
+  },
+  {
+    "path": "/es/aspirantes/",
+    "file": "content/pages/es--aspirantes.json",
+    "locale": "es",
+    "sha256": "2e43d056c4cd858fe4830580c26e004ed268252a284e67817a34b691dd24a1f8"
+  },
+  {
+    "path": "/es/programa-cna-2/",
+    "file": "content/pages/es--programa-cna-2.json",
+    "locale": "es",
+    "sha256": "428280e53d47632518ceaf4f90aeca7c1ddf7a9a0bde1bc30ce108bffc3f0d1b"
+  },
+  {
+    "path": "/es/preguntas-frecuentes/",
+    "file": "content/pages/es--preguntas-frecuentes.json",
+    "locale": "es",
+    "sha256": "6f89798fe94512d94ce88576deddaaf1c0f56207e5d82f94afb157e80ffb21e4"
+  },
+  {
+    "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+    "file": "content/pages/es--carreras--carreras-en-asistente-de-enfermeria-certificado.json",
+    "locale": "es",
+    "sha256": "6472fb2cb7db10ec0e23ac43e6d08c17b7441989870e4c1c43ef0baa7c4b7693"
+  },
+  {
+    "path": "/es/carreras/carreras-en-enfermeria/",
+    "file": "content/pages/es--carreras--carreras-en-enfermeria.json",
+    "locale": "es",
+    "sha256": "52d8ccdb68990e612fc5670a3d12bcb9236691402f805c59c7c3634dd22d8b39"
+  },
+  {
+    "path": "/es/carreras/carreras-en-servicios-de-apoyo/",
+    "file": "content/pages/es--carreras--carreras-en-servicios-de-apoyo.json",
+    "locale": "es",
+    "sha256": "5eb299169cd79daa19707c220b1f22bbf0717fe48c8d85c65e391ca4fcb7ebad"
+  },
+  {
+    "path": "/es/carreras/carreras-en-terapia/",
+    "file": "content/pages/es--carreras--carreras-en-terapia.json",
+    "locale": "es",
+    "sha256": "cc62b57fafaf87344be208568415a0273a1d438876968f054ed25acbbc4a56aa"
+  },
+  {
+    "path": "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+    "file": "content/pages/es--carreras--carreras-en-coordinacion-de-cuidados.json",
+    "locale": "es",
+    "sha256": "93df91f0fa6c53cf56226d1dee934290baba91095c8f8df4e787f64ce607307f"
+  },
+  {
+    "path": "/es/carreras/carreras-en-servicios-sociales/",
+    "file": "content/pages/es--carreras--carreras-en-servicios-sociales.json",
+    "locale": "es",
+    "sha256": "81b6c6f40dafcec47e05f91d0e38a87ad1bd68a64866d2e4580e2e48a7896572"
+  },
+  {
+    "path": "/es/carreras/carreras-en-actividades/",
+    "file": "content/pages/es--carreras--carreras-en-actividades.json",
+    "locale": "es",
+    "sha256": "d8a0045a5a657c5a5c025f67fe43980ad09ff3e5415837fcdcc2fa02f8d0ce0c"
+  },
+  {
+    "path": "/es/carreras/carreras-en-administracion/",
+    "file": "content/pages/es--carreras--carreras-en-administracion.json",
+    "locale": "es",
+    "sha256": "2d11dc0556f41df85f1a88dc6a3c8138846f9a1bc22045731a964a9eb594a95a"
+  },
+  {
+    "path": "/es/politica-de-privacidad/",
+    "file": "content/pages/es--politica-de-privacidad.json",
+    "locale": "es",
+    "sha256": "87b72dd654e9440e32623441400fef58e48fa21976774f095af856630c32fec3"
+  },
+  {
+    "path": "/es/avance-profesional/",
+    "file": "content/pages/es--avance-profesional.json",
+    "locale": "es",
+    "sha256": "348ba6594bb7a98af9d8863a76667bf7078f6982de383f2de889f5351340c4dd"
+  },
+  {
+    "path": "/es/ganar-y-aprender-la/",
+    "file": "content/pages/es--ganar-y-aprender-la.json",
+    "locale": "es",
+    "sha256": "fc83218c808f3750c650b18c5e362746d808229c6b0caaf60b2c8e336f73a855"
+  },
+  {
+    "path": "/es/gana-y-aprende-cvalley/",
+    "file": "content/pages/es--gana-y-aprende-cvalley.json",
+    "locale": "es",
+    "sha256": "68594f7c043831688f5ba6e8c3921059e7ea4b80b2ca199b0f7255a02c20ca90"
+  },
+  {
+    "path": "/es/gana-y-aprende-bayarea/",
+    "file": "content/pages/es--gana-y-aprende-bayarea.json",
+    "locale": "es",
+    "sha256": "ec4ed324bda38d7799224ba6aabdde0cd00aa1ec081f7412983fc4677dfeecc4"
+  },
+  {
+    "path": "/es/earn-and-learn-norcal/",
+    "file": "content/pages/es--earn-and-learn-norcal.json",
+    "locale": "es",
+    "sha256": "3439bf6ef05ec176d8f6259dea7574962c6f1fc756593548becf4a397ea75235"
+  },
+  {
+    "path": "/es/gana-y-aprende-san-diego/",
+    "file": "content/pages/es--gana-y-aprende-san-diego.json",
+    "locale": "es",
+    "sha256": "75343eecdd7631b95957a58442a30816558d193396440cd09e09a8511824411d"
+  },
+  {
+    "path": "/es/earn-and-learn/",
+    "file": "content/pages/es--earn-and-learn.json",
+    "locale": "es",
+    "sha256": "20dee62dd66a77d4bc3f8a9749229b002e6c2ec82498eccec1df7e03d8ee51b2"
+  }
+]

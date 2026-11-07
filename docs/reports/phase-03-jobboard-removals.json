@@ -1,0 +1,80 @@
+[
+  {
+    "page": "https://yourcnastory.org/privacy-policy/",
+    "kind": "text-substring",
+    "text": "the QCHF/CAHF Job Bank and/or ",
+    "href": "",
+    "originalText": "Individuals utilizing the QCHF/CAHF Job Bank and/or the QCHF-supported website, YourCNAStory.org:",
+    "result": "Individuals utilizing the QCHF-supported website, YourCNAStory.org:"
+  },
+  {
+    "page": "https://yourcnastory.org/privacy-policy/",
+    "kind": "text-substring",
+    "text": "the job bank or ",
+    "href": "",
+    "originalText": " For participation in the job bank or YourCNAStory.org, individuals will be asked to provide limited personal information including but not limited to name, address, telephone number, email address, education history, degrees obtained, employment history, and type of employment sought. The information collected by the QCHF/CAHF through the job bank and/or YourCNAStory.org is voluntarily provided by participants, and done so at the participant’s discretion. The information gathered by QCHF/CAHF will not be edited or amended by QCHF, its employees, or contracted staff.",
+    "result": " For participation in YourCNAStory.org, individuals will be asked to provide limited personal information including but not limited to name, address, telephone number, email address, education history, degrees obtained, employment history, and type of employment sought. The information collected by the QCHF/CAHF through the job bank and/or YourCNAStory.org is voluntarily provided by participants, and done so at the participant’s discretion. The information gathered by QCHF/CAHF will not be edited or amended by QCHF, its employees, or contracted staff."
+  },
+  {
+    "page": "https://yourcnastory.org/privacy-policy/",
+    "kind": "text-substring",
+    "text": "the job bank and/or ",
+    "href": "",
+    "originalText": " For participation in YourCNAStory.org, individuals will be asked to provide limited personal information including but not limited to name, address, telephone number, email address, education history, degrees obtained, employment history, and type of employment sought. The information collected by the QCHF/CAHF through the job bank and/or YourCNAStory.org is voluntarily provided by participants, and done so at the participant’s discretion. The information gathered by QCHF/CAHF will not be edited or amended by QCHF, its employees, or contracted staff.",
+    "result": " For participation in YourCNAStory.org, individuals will be asked to provide limited personal information including but not limited to name, address, telephone number, email address, education history, degrees obtained, employment history, and type of employment sought. The information collected by the QCHF/CAHF through YourCNAStory.org is voluntarily provided by participants, and done so at the participant’s discretion. The information gathered by QCHF/CAHF will not be edited or amended by QCHF, its employees, or contracted staff."
+  },
+  {
+    "page": "https://yourcnastory.org/privacy-policy/",
+    "kind": "text-substring",
+    "text": "The information submitted by users to QCHF via the QCHF/CAHF Job Bank will be accessible by QCHF member entities for the purposes of employee recruitment, and may be disseminated to or accessed by QCHF/CAHF member entities without the consent of the individual submitting their information to the QCHF/CAHF Job Bank.",
+    "href": "",
+    "originalText": "The information submitted by users to QCHF via the QCHF/CAHF Job Bank will be accessible by QCHF member entities for the purposes of employee recruitment, and may be disseminated to or accessed by QCHF/CAHF member entities without the consent of the individual submitting their information to the QCHF/CAHF Job Bank.",
+    "result": ""
+  },
+  {
+    "page": "https://yourcnastory.org/career-advancement/",
+    "kind": "link-and-label",
+    "text": "  Learn About the Earn and Learn Program  ",
+    "href": "https://jobboard.yourcnastory.org/?_",
+    "result": "removed; no replacement"
+  },
+  {
+    "page": "https://yourcnastory.org/es/politica-de-privacidad/",
+    "kind": "text-substring",
+    "text": "la bolsa de trabajo de QCHF/CAHF y/o ",
+    "href": "",
+    "originalText": "Personas que utilicen la bolsa de trabajo de QCHF/CAHF y/o el sitio web apoyado por QCHF, YourCNAStory.org:",
+    "result": "Personas que utilicen el sitio web apoyado por QCHF, YourCNAStory.org:"
+  },
+  {
+    "page": "https://yourcnastory.org/es/politica-de-privacidad/",
+    "kind": "text-substring",
+    "text": "la bolsa de trabajo o en ",
+    "href": "",
+    "originalText": " Para participar en la bolsa de trabajo o en YourCNAStory.org, se pedirá a las personas que faciliten información personal limitada, como nombre, dirección, número de teléfono, dirección de correo electrónico, historial educativo, títulos obtenidos, historial laboral y tipo de empleo buscado. La información recopilada por la QCHF/CAHF a través de la bolsa de trabajo y/o YourCNAStory.org es proporcionada voluntariamente por los participantes, y se hace a discreción del participante. La información recogida por QCHF/CAHF no será editada ni modificada por QCHF, sus empleados o personal contratado.",
+    "result": " Para participar en YourCNAStory.org, se pedirá a las personas que faciliten información personal limitada, como nombre, dirección, número de teléfono, dirección de correo electrónico, historial educativo, títulos obtenidos, historial laboral y tipo de empleo buscado. La información recopilada por la QCHF/CAHF a través de la bolsa de trabajo y/o YourCNAStory.org es proporcionada voluntariamente por los participantes, y se hace a discreción del participante. La información recogida por QCHF/CAHF no será editada ni modificada por QCHF, sus empleados o personal contratado."
+  },
+  {
+    "page": "https://yourcnastory.org/es/politica-de-privacidad/",
+    "kind": "text-substring",
+    "text": "la bolsa de trabajo y/o ",
+    "href": "",
+    "originalText": " Para participar en YourCNAStory.org, se pedirá a las personas que faciliten información personal limitada, como nombre, dirección, número de teléfono, dirección de correo electrónico, historial educativo, títulos obtenidos, historial laboral y tipo de empleo buscado. La información recopilada por la QCHF/CAHF a través de la bolsa de trabajo y/o YourCNAStory.org es proporcionada voluntariamente por los participantes, y se hace a discreción del participante. La información recogida por QCHF/CAHF no será editada ni modificada por QCHF, sus empleados o personal contratado.",
+    "result": " Para participar en YourCNAStory.org, se pedirá a las personas que faciliten información personal limitada, como nombre, dirección, número de teléfono, dirección de correo electrónico, historial educativo, títulos obtenidos, historial laboral y tipo de empleo buscado. La información recopilada por la QCHF/CAHF a través de YourCNAStory.org es proporcionada voluntariamente por los participantes, y se hace a discreción del participante. La información recogida por QCHF/CAHF no será editada ni modificada por QCHF, sus empleados o personal contratado."
+  },
+  {
+    "page": "https://yourcnastory.org/es/politica-de-privacidad/",
+    "kind": "text-substring",
+    "text": "La información enviada por los usuarios a QCHF a través de la Bolsa de Trabajo de QCHF/CAHF será accesible por las entidades miembro de QCHF con el propósito de reclutar empleados, y puede ser difundida o accedida por las entidades miembro de QCHF/CAHF sin el consentimiento del individuo que envía su información a la Bolsa de Trabajo de QCHF/CAHF.",
+    "href": "",
+    "originalText": "La información enviada por los usuarios a QCHF a través de la Bolsa de Trabajo de QCHF/CAHF será accesible por las entidades miembro de QCHF con el propósito de reclutar empleados, y puede ser difundida o accedida por las entidades miembro de QCHF/CAHF sin el consentimiento del individuo que envía su información a la Bolsa de Trabajo de QCHF/CAHF.",
+    "result": ""
+  },
+  {
+    "page": "https://yourcnastory.org/es/avance-profesional/",
+    "kind": "link-and-label",
+    "text": "  Aprende sobre el programa Earn and Learn  ",
+    "href": "https://jobboard.yourcnastory.org/?_",
+    "result": "removed; no replacement"
+  }
+]

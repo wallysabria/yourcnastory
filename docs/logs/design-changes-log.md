@@ -16,3 +16,6 @@ No design/layout changes proposed or implemented. Reference screenshots and exis
 
 ## Phase 2
 D-001 implemented through the default zoomable viewport. D-002 deferred until the native form is built. Global layout follows source measurements; no additional deliberate design change approved or introduced. Employers destinations disabled as required. Screenshot evidence is a review reference, not final parity certification.
+
+## Phase 3
+No production template or design change. /api/content-review/ is an explicitly labeled, inert diagnostic rendering for content verification only; it does not replace any page layout. All public route bodies remain Phase 2 shells pending Phase 4. D-002 remains deferred until form implementation.

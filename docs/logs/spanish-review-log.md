@@ -28,3 +28,6 @@ The frozen Spanish source was only inventoried. No translation edits or new Span
 
 ## Phase 2
 New interface strings (native review pending): Cerrar menú (Close menu); Abrir menú (Open menu); Navegación principal (Main navigation); Idioma (Language); Buscar (Search); Volver arriba (Back to top). Menú and Ir al contenido are source strings. Source image alt text/provenance is preserved in global assets/content. Source header CNAP PROGRAM and PREGUNTAS FREQUENTES are retained verbatim and flagged for native review; no correction made.
+
+## Phase 3
+24 Spanish content files preserve the rendered source character stream exactly after the five logged job-board removals (four policy substrings/paragraph and one advancement button). No Spanish text correction, translation or new Spanish interface string was added. Source strings, punctuation, translated testimonials and existing terminology remain frozen. Metadata/source parity evidence is in docs/reports/phase-03-parity.*. Native review remains pending.

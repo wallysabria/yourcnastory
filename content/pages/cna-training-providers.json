@@ -1,0 +1,2663 @@
+{
+  "routeId": "/cna-training-providers/",
+  "path": "/cna-training-providers/",
+  "locale": "en",
+  "metadata": {
+    "title": "CNA Training Providers - Certified Nurse Assistant Program (CNAP) Quality Care Health Foundation",
+    "description": "",
+    "canonical": "https://yourcnastory.org/cna-training-providers/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "ogTitle": "CNA Training Providers",
+    "ogDescription": "CNA Training Programs The Certified Nurse Assistant Program (CNAP) website is a resource designed to provide you with information about the CNA profession and how to get started. Curious about becoming a CNA? Watch our video, “How to Train to Become a CNA,” to explore your options and find the path that’s right for you.…",
+    "ogImage": "https://yourcnastory.org/wp-content/uploads/2025/06/nurse-helping-elderly.jpg"
+  },
+  "blocks": [
+    {
+      "type": "document",
+      "nodes": [
+        {
+          "type": "element",
+          "tag": "div",
+          "attrs": {
+            "id": "main"
+          },
+          "children": [
+            {
+              "type": "element",
+              "tag": "div",
+              "attrs": {},
+              "children": [],
+              "source": {
+                "elementorId": "",
+                "widget": "",
+                "classes": "main-gradient"
+              }
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attrs": {
+                        "id": "content",
+                        "role": "main"
+                      },
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attrs": {},
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "section",
+                              "attrs": {},
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "div",
+                                  "attrs": {},
+                                  "children": [],
+                                  "source": {
+                                    "elementorId": "",
+                                    "widget": "",
+                                    "classes": "elementor-background-overlay"
+                                  }
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "div",
+                                  "attrs": {},
+                                  "children": [
+                                    {
+                                      "type": "element",
+                                      "tag": "div",
+                                      "attrs": {},
+                                      "children": [
+                                        {
+                                          "type": "element",
+                                          "tag": "div",
+                                          "attrs": {},
+                                          "children": [
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "h2",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "text",
+                                                          "value": "CNA Training Programs"
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": "the7-heading-title elementor-size-default"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "ab8d00b",
+                                                "widget": "the7-heading.default",
+                                                "classes": "elementor-element elementor-element-ab8d00b elementor-widget elementor-widget-the7-heading"
+                                              }
+                                            }
+                                          ],
+                                          "source": {
+                                            "elementorId": "",
+                                            "widget": "",
+                                            "classes": "elementor-widget-wrap elementor-element-populated"
+                                          }
+                                        }
+                                      ],
+                                      "source": {
+                                        "elementorId": "a969fa0",
+                                        "widget": "",
+                                        "classes": "elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a969fa0"
+                                      }
+                                    }
+                                  ],
+                                  "source": {
+                                    "elementorId": "",
+                                    "widget": "",
+                                    "classes": "elementor-container elementor-column-gap-wider"
+                                  }
+                                }
+                              ],
+                              "source": {
+                                "elementorId": "583786c",
+                                "widget": "",
+                                "classes": "elementor-section elementor-top-section elementor-element elementor-element-583786c elementor-reverse-tablet elementor-reverse-mobile elementor-section-height-min-height elementor-section-items-stretch elementor-section-boxed elementor-section-height-default"
+                              }
+                            },
+                            {
+                              "type": "element",
+                              "tag": "section",
+                              "attrs": {},
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "div",
+                                  "attrs": {},
+                                  "children": [
+                                    {
+                                      "type": "element",
+                                      "tag": "div",
+                                      "attrs": {},
+                                      "children": [
+                                        {
+                                          "type": "element",
+                                          "tag": "div",
+                                          "attrs": {},
+                                          "children": [
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "div",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "element",
+                                                          "tag": "div",
+                                                          "attrs": {},
+                                                          "children": [],
+                                                          "source": {
+                                                            "elementorId": "",
+                                                            "widget": "",
+                                                            "classes": "elementor-spacer-inner"
+                                                          }
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": "elementor-spacer"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "d2f184c",
+                                                "widget": "spacer.default",
+                                                "classes": "elementor-element elementor-element-d2f184c elementor-widget elementor-widget-spacer"
+                                              }
+                                            },
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "h2",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "text",
+                                                          "value": "The Certified Nurse Assistant Program (CNAP) website is a resource designed to provide you with information about the CNA profession and how to get started."
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": "the7-heading-title elementor-size-default"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "8f1ffd5",
+                                                "widget": "the7-heading.default",
+                                                "classes": "elementor-element elementor-element-8f1ffd5 elementor-widget__width-initial elementor-widget elementor-widget-the7-heading"
+                                              }
+                                            },
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "div",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "element",
+                                                          "tag": "div",
+                                                          "attrs": {},
+                                                          "children": [],
+                                                          "source": {
+                                                            "elementorId": "",
+                                                            "widget": "",
+                                                            "classes": "elementor-spacer-inner"
+                                                          }
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": "elementor-spacer"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "5773628",
+                                                "widget": "spacer.default",
+                                                "classes": "elementor-element elementor-element-5773628 elementor-widget elementor-widget-spacer"
+                                              }
+                                            },
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "h4",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "text",
+                                                          "value": "Curious about becoming a CNA?"
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": "the7-heading-title elementor-size-default"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "f8c2114",
+                                                "widget": "the7-heading.default",
+                                                "classes": "elementor-element elementor-element-f8c2114 elementor-widget__width-initial elementor-widget elementor-widget-the7-heading"
+                                              }
+                                            },
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "p",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "element",
+                                                          "tag": "b",
+                                                          "attrs": {},
+                                                          "children": [
+                                                            {
+                                                              "type": "text",
+                                                              "value": "Watch our video, “How to Train to Become a CNA,” to explore your options and find the path that’s right for you."
+                                                            }
+                                                          ],
+                                                          "source": {
+                                                            "elementorId": "",
+                                                            "widget": "",
+                                                            "classes": ""
+                                                          }
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": ""
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "132df0f",
+                                                "widget": "text-editor.default",
+                                                "classes": "elementor-element elementor-element-132df0f elementor-widget__width-initial elementor-widget elementor-widget-text-editor"
+                                              }
+                                            },
+                                            {
+                                              "type": "element",
+                                              "tag": "section",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "div",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "element",
+                                                          "tag": "div",
+                                                          "attrs": {},
+                                                          "children": [
+                                                            {
+                                                              "type": "element",
+                                                              "tag": "div",
+                                                              "attrs": {},
+                                                              "children": [
+                                                                {
+                                                                  "type": "element",
+                                                                  "tag": "div",
+                                                                  "attrs": {},
+                                                                  "children": [
+                                                                    {
+                                                                      "type": "text",
+                                                                      "value": " "
+                                                                    },
+                                                                    {
+                                                                      "type": "element",
+                                                                      "tag": "img",
+                                                                      "attrs": {
+                                                                        "width": "1024",
+                                                                        "height": "683",
+                                                                        "src": "https://yourcnastory.org/wp-content/uploads/2025/06/nurse-helping-elderly-1024x683.jpg",
+                                                                        "alt": "",
+                                                                        "srcset": "https://yourcnastory.org/wp-content/uploads/2025/06/nurse-helping-elderly-1024x683.jpg 1024w, https://yourcnastory.org/wp-content/uploads/2025/06/nurse-helping-elderly-300x200.jpg 300w, https://yourcnastory.org/wp-content/uploads/2025/06/nurse-helping-elderly-768x512.jpg 768w, https://yourcnastory.org/wp-content/uploads/2025/06/nurse-helping-elderly-18x12.jpg 18w, https://yourcnastory.org/wp-content/uploads/2025/06/nurse-helping-elderly.jpg 1200w",
+                                                                        "sizes": "(max-width: 1024px) 100vw, 1024px"
+                                                                      },
+                                                                      "children": [],
+                                                                      "source": {
+                                                                        "elementorId": "",
+                                                                        "widget": "",
+                                                                        "classes": "attachment-large size-large wp-image-100439"
+                                                                      }
+                                                                    }
+                                                                  ],
+                                                                  "source": {
+                                                                    "elementorId": "",
+                                                                    "widget": "",
+                                                                    "classes": "elementor-widget-container"
+                                                                  }
+                                                                }
+                                                              ],
+                                                              "source": {
+                                                                "elementorId": "284f461",
+                                                                "widget": "image.default",
+                                                                "classes": "elementor-element elementor-element-284f461 elementor-widget__width-inherit elementor-widget elementor-widget-image"
+                                                              }
+                                                            },
+                                                            {
+                                                              "type": "element",
+                                                              "tag": "div",
+                                                              "attrs": {},
+                                                              "children": [
+                                                                {
+                                                                  "type": "element",
+                                                                  "tag": "div",
+                                                                  "attrs": {},
+                                                                  "children": [
+                                                                    {
+                                                                      "type": "text",
+                                                                      "value": " "
+                                                                    }
+                                                                  ],
+                                                                  "source": {
+                                                                    "elementorId": "",
+                                                                    "widget": "",
+                                                                    "classes": "elementor-widget-container"
+                                                                  }
+                                                                }
+                                                              ],
+                                                              "source": {
+                                                                "elementorId": "a1da9d1",
+                                                                "widget": "button.default",
+                                                                "classes": "elementor-element elementor-element-a1da9d1 elementor-align-center playBtn hideEs elementor-absolute elementor-widget elementor-widget-button"
+                                                              }
+                                                            },
+                                                            {
+                                                              "type": "element",
+                                                              "tag": "div",
+                                                              "attrs": {},
+                                                              "children": [
+                                                                {
+                                                                  "type": "element",
+                                                                  "tag": "div",
+                                                                  "attrs": {},
+                                                                  "children": [
+                                                                    {
+                                                                      "type": "element",
+                                                                      "tag": "div",
+                                                                      "attrs": {},
+                                                                      "children": [
+                                                                        {
+                                                                          "type": "text",
+                                                                          "value": " "
+                                                                        },
+                                                                        {
+                                                                          "type": "element",
+                                                                          "tag": "a",
+                                                                          "attrs": {
+                                                                            "href": "#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJ0eXBlIjoidmlkZW8iLCJ2aWRlb1R5cGUiOiJ5b3V0dWJlIiwidXJsIjoiaHR0cHM6XC9cL3d3dy55b3V0dWJlLmNvbVwvZW1iZWRcL1VabHRRMlgwTkhJP2ZlYXR1cmU9b2VtYmVkIn0%3D"
+                                                                          },
+                                                                          "children": [
+                                                                            {
+                                                                              "type": "text",
+                                                                              "value": " "
+                                                                            },
+                                                                            {
+                                                                              "type": "element",
+                                                                              "tag": "span",
+                                                                              "attrs": {},
+                                                                              "children": [
+                                                                                {
+                                                                                  "type": "text",
+                                                                                  "value": " "
+                                                                                },
+                                                                                {
+                                                                                  "type": "element",
+                                                                                  "tag": "span",
+                                                                                  "attrs": {},
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "type": "text",
+                                                                                      "value": " "
+                                                                                    },
+                                                                                    {
+                                                                                      "type": "element",
+                                                                                      "tag": "i",
+                                                                                      "attrs": {
+                                                                                        "aria-hidden": "true"
+                                                                                      },
+                                                                                      "children": [],
+                                                                                      "source": {
+                                                                                        "elementorId": "",
+                                                                                        "widget": "",
+                                                                                        "classes": "fas fa-play"
+                                                                                      }
+                                                                                    },
+                                                                                    {
+                                                                                      "type": "text",
+                                                                                      "value": " "
+                                                                                    }
+                                                                                  ],
+                                                                                  "source": {
+                                                                                    "elementorId": "",
+                                                                                    "widget": "",
+                                                                                    "classes": "elementor-button-icon"
+                                                                                  }
+                                                                                },
+                                                                                {
+                                                                                  "type": "text",
+                                                                                  "value": " "
+                                                                                }
+                                                                              ],
+                                                                              "source": {
+                                                                                "elementorId": "",
+                                                                                "widget": "",
+                                                                                "classes": "elementor-button-content-wrapper"
+                                                                              }
+                                                                            },
+                                                                            {
+                                                                              "type": "text",
+                                                                              "value": " "
+                                                                            }
+                                                                          ],
+                                                                          "source": {
+                                                                            "elementorId": "",
+                                                                            "widget": "",
+                                                                            "classes": "elementor-button elementor-button-link elementor-size-sm"
+                                                                          }
+                                                                        }
+                                                                      ],
+                                                                      "source": {
+                                                                        "elementorId": "",
+                                                                        "widget": "",
+                                                                        "classes": "elementor-button-wrapper"
+                                                                      }
+                                                                    }
+                                                                  ],
+                                                                  "source": {
+                                                                    "elementorId": "",
+                                                                    "widget": "",
+                                                                    "classes": "elementor-widget-container"
+                                                                  }
+                                                                }
+                                                              ],
+                                                              "source": {
+                                                                "elementorId": "d314f84",
+                                                                "widget": "button.default",
+                                                                "classes": "elementor-element elementor-element-d314f84 elementor-align-center playBtn hideEs elementor-absolute elementor-widget elementor-widget-button"
+                                                              }
+                                                            }
+                                                          ],
+                                                          "source": {
+                                                            "elementorId": "",
+                                                            "widget": "",
+                                                            "classes": "elementor-widget-wrap elementor-element-populated"
+                                                          }
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "f8497fc",
+                                                        "widget": "",
+                                                        "classes": "elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-f8497fc"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-container elementor-column-gap-default"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "56b4373",
+                                                "widget": "",
+                                                "classes": "elementor-section elementor-inner-section elementor-element elementor-element-56b4373 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                              }
+                                            },
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "div",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "element",
+                                                          "tag": "div",
+                                                          "attrs": {},
+                                                          "children": [],
+                                                          "source": {
+                                                            "elementorId": "",
+                                                            "widget": "",
+                                                            "classes": "elementor-spacer-inner"
+                                                          }
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": "elementor-spacer"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "7045d49",
+                                                "widget": "spacer.default",
+                                                "classes": "elementor-element elementor-element-7045d49 elementor-widget elementor-widget-spacer"
+                                              }
+                                            }
+                                          ],
+                                          "source": {
+                                            "elementorId": "",
+                                            "widget": "",
+                                            "classes": "elementor-widget-wrap elementor-element-populated"
+                                          }
+                                        }
+                                      ],
+                                      "source": {
+                                        "elementorId": "4732653",
+                                        "widget": "",
+                                        "classes": "elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4732653"
+                                      }
+                                    }
+                                  ],
+                                  "source": {
+                                    "elementorId": "",
+                                    "widget": "",
+                                    "classes": "elementor-container elementor-column-gap-wider"
+                                  }
+                                }
+                              ],
+                              "source": {
+                                "elementorId": "e8c9f6c",
+                                "widget": "",
+                                "classes": "elementor-section elementor-top-section elementor-element elementor-element-e8c9f6c elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                              }
+                            },
+                            {
+                              "type": "element",
+                              "tag": "section",
+                              "attrs": {},
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "div",
+                                  "attrs": {},
+                                  "children": [
+                                    {
+                                      "type": "element",
+                                      "tag": "div",
+                                      "attrs": {},
+                                      "children": [
+                                        {
+                                          "type": "element",
+                                          "tag": "div",
+                                          "attrs": {},
+                                          "children": [
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "div",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "text",
+                                                          "value": " "
+                                                        },
+                                                        {
+                                                          "type": "element",
+                                                          "tag": "span",
+                                                          "attrs": {},
+                                                          "children": [
+                                                            {
+                                                              "type": "text",
+                                                              "value": " "
+                                                            }
+                                                          ],
+                                                          "source": {
+                                                            "elementorId": "",
+                                                            "widget": "",
+                                                            "classes": "elementor-divider-separator"
+                                                          }
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": "elementor-divider"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "efcf766",
+                                                "widget": "divider.default",
+                                                "classes": "elementor-element elementor-element-efcf766 elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+                                              }
+                                            },
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "div",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "element",
+                                                          "tag": "div",
+                                                          "attrs": {},
+                                                          "children": [],
+                                                          "source": {
+                                                            "elementorId": "",
+                                                            "widget": "",
+                                                            "classes": "elementor-spacer-inner"
+                                                          }
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": "elementor-spacer"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "134d4a7",
+                                                "widget": "spacer.default",
+                                                "classes": "elementor-element elementor-element-134d4a7 elementor-widget elementor-widget-spacer"
+                                              }
+                                            }
+                                          ],
+                                          "source": {
+                                            "elementorId": "",
+                                            "widget": "",
+                                            "classes": "elementor-widget-wrap elementor-element-populated"
+                                          }
+                                        }
+                                      ],
+                                      "source": {
+                                        "elementorId": "be7f2b3",
+                                        "widget": "",
+                                        "classes": "elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-be7f2b3"
+                                      }
+                                    }
+                                  ],
+                                  "source": {
+                                    "elementorId": "",
+                                    "widget": "",
+                                    "classes": "elementor-container elementor-column-gap-wider"
+                                  }
+                                }
+                              ],
+                              "source": {
+                                "elementorId": "8d83c4e",
+                                "widget": "",
+                                "classes": "elementor-section elementor-top-section elementor-element elementor-element-8d83c4e elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                              }
+                            },
+                            {
+                              "type": "element",
+                              "tag": "section",
+                              "attrs": {},
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "div",
+                                  "attrs": {},
+                                  "children": [
+                                    {
+                                      "type": "element",
+                                      "tag": "div",
+                                      "attrs": {},
+                                      "children": [
+                                        {
+                                          "type": "element",
+                                          "tag": "div",
+                                          "attrs": {},
+                                          "children": [
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "h4",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "text",
+                                                          "value": "PATH OPTION I"
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": "the7-heading-title elementor-size-default"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "015bb5b",
+                                                "widget": "the7-heading.default",
+                                                "classes": "elementor-element elementor-element-015bb5b elementor-widget elementor-widget-the7-heading"
+                                              }
+                                            },
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "div",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "element",
+                                                          "tag": "div",
+                                                          "attrs": {},
+                                                          "children": [],
+                                                          "source": {
+                                                            "elementorId": "",
+                                                            "widget": "",
+                                                            "classes": "elementor-spacer-inner"
+                                                          }
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": "elementor-spacer"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "102499d",
+                                                "widget": "spacer.default",
+                                                "classes": "elementor-element elementor-element-102499d elementor-widget elementor-widget-spacer"
+                                              }
+                                            },
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "h3",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "text",
+                                                          "value": "Earn and Learn Path"
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": "the7-heading-title elementor-size-default"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "b97e335",
+                                                "widget": "the7-heading.default",
+                                                "classes": "elementor-element elementor-element-b97e335 elementor-widget__width-initial elementor-widget elementor-widget-the7-heading"
+                                              }
+                                            },
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "p",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "text",
+                                                          "value": "Students are employees – ALL educational and competency testing fees are covered, and hourly wages paid through Nurse Assistance training programs."
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": ""
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "a7de0c1",
+                                                "widget": "text-editor.default",
+                                                "classes": "elementor-element elementor-element-a7de0c1 elementor-widget elementor-widget-text-editor"
+                                              }
+                                            }
+                                          ],
+                                          "source": {
+                                            "elementorId": "",
+                                            "widget": "",
+                                            "classes": "elementor-widget-wrap elementor-element-populated"
+                                          }
+                                        }
+                                      ],
+                                      "source": {
+                                        "elementorId": "26dafb0",
+                                        "widget": "",
+                                        "classes": "elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-26dafb0"
+                                      }
+                                    }
+                                  ],
+                                  "source": {
+                                    "elementorId": "",
+                                    "widget": "",
+                                    "classes": "elementor-container elementor-column-gap-wider"
+                                  }
+                                }
+                              ],
+                              "source": {
+                                "elementorId": "7d25074",
+                                "widget": "",
+                                "classes": "elementor-section elementor-top-section elementor-element elementor-element-7d25074 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                              }
+                            },
+                            {
+                              "type": "element",
+                              "tag": "section",
+                              "attrs": {},
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "div",
+                                  "attrs": {},
+                                  "children": [
+                                    {
+                                      "type": "element",
+                                      "tag": "div",
+                                      "attrs": {},
+                                      "children": [
+                                        {
+                                          "type": "element",
+                                          "tag": "div",
+                                          "attrs": {},
+                                          "children": [
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "div",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "text",
+                                                          "value": " "
+                                                        },
+                                                        {
+                                                          "type": "element",
+                                                          "tag": "a",
+                                                          "attrs": {
+                                                            "href": "https://docs.google.com/spreadsheets/d/1izJ-UEb6VyigMTIaXrdvRtY7XgcT0qQd/edit?usp=sharing&ouid=116256928001491444929&rtpof=true&sd=true",
+                                                            "target": "_blank"
+                                                          },
+                                                          "children": [
+                                                            {
+                                                              "type": "text",
+                                                              "value": " "
+                                                            },
+                                                            {
+                                                              "type": "element",
+                                                              "tag": "span",
+                                                              "attrs": {},
+                                                              "children": [
+                                                                {
+                                                                  "type": "text",
+                                                                  "value": " "
+                                                                },
+                                                                {
+                                                                  "type": "element",
+                                                                  "tag": "span",
+                                                                  "attrs": {},
+                                                                  "children": [
+                                                                    {
+                                                                      "type": "text",
+                                                                      "value": "List of CNA Earn and Learn Training Partners"
+                                                                    }
+                                                                  ],
+                                                                  "source": {
+                                                                    "elementorId": "",
+                                                                    "widget": "",
+                                                                    "classes": "elementor-button-text"
+                                                                  }
+                                                                },
+                                                                {
+                                                                  "type": "text",
+                                                                  "value": " "
+                                                                }
+                                                              ],
+                                                              "source": {
+                                                                "elementorId": "",
+                                                                "widget": "",
+                                                                "classes": "elementor-button-content-wrapper"
+                                                              }
+                                                            },
+                                                            {
+                                                              "type": "text",
+                                                              "value": " "
+                                                            }
+                                                          ],
+                                                          "source": {
+                                                            "elementorId": "",
+                                                            "widget": "",
+                                                            "classes": "elementor-button elementor-button-link elementor-size-lg"
+                                                          }
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": "elementor-button-wrapper"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "049a784",
+                                                "widget": "button.default",
+                                                "classes": "elementor-element elementor-element-049a784 elementor-align-center elementor-widget elementor-widget-button"
+                                              }
+                                            },
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "div",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "element",
+                                                          "tag": "div",
+                                                          "attrs": {},
+                                                          "children": [],
+                                                          "source": {
+                                                            "elementorId": "",
+                                                            "widget": "",
+                                                            "classes": "elementor-spacer-inner"
+                                                          }
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": "elementor-spacer"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "0f61401",
+                                                "widget": "spacer.default",
+                                                "classes": "elementor-element elementor-element-0f61401 elementor-widget elementor-widget-spacer"
+                                              }
+                                            },
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "div",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "element",
+                                                          "tag": "div",
+                                                          "attrs": {},
+                                                          "children": [
+                                                            {
+                                                              "type": "element",
+                                                              "tag": "div",
+                                                              "attrs": {},
+                                                              "children": [
+                                                                {
+                                                                  "type": "text",
+                                                                  "value": " "
+                                                                },
+                                                                {
+                                                                  "type": "element",
+                                                                  "tag": "a",
+                                                                  "attrs": {
+                                                                    "aria-label": "This is not inclusive of all CA state Earn and Learn programs, and may sporadically change. Contact CNAP directly for inclusion on this list."
+                                                                  },
+                                                                  "children": [
+                                                                    {
+                                                                      "type": "element",
+                                                                      "tag": "div",
+                                                                      "attrs": {},
+                                                                      "children": [
+                                                                        {
+                                                                          "type": "element",
+                                                                          "tag": "div",
+                                                                          "attrs": {},
+                                                                          "children": [
+                                                                            {
+                                                                              "type": "element",
+                                                                              "tag": "h4",
+                                                                              "attrs": {},
+                                                                              "children": [
+                                                                                {
+                                                                                  "type": "text",
+                                                                                  "value": " This is not inclusive of all CA state Earn and Learn programs, and may sporadically change. Contact CNAP directly for inclusion on this list."
+                                                                                }
+                                                                              ],
+                                                                              "source": {
+                                                                                "elementorId": "",
+                                                                                "widget": "",
+                                                                                "classes": "box-heading"
+                                                                              }
+                                                                            }
+                                                                          ],
+                                                                          "source": {
+                                                                            "elementorId": "",
+                                                                            "widget": "",
+                                                                            "classes": "box-content"
+                                                                          }
+                                                                        }
+                                                                      ],
+                                                                      "source": {
+                                                                        "elementorId": "",
+                                                                        "widget": "",
+                                                                        "classes": "box-content-wrapper"
+                                                                      }
+                                                                    },
+                                                                    {
+                                                                      "type": "text",
+                                                                      "value": " "
+                                                                    }
+                                                                  ],
+                                                                  "source": {
+                                                                    "elementorId": "",
+                                                                    "widget": "",
+                                                                    "classes": "the7-icon-box-grid box-hover"
+                                                                  }
+                                                                }
+                                                              ],
+                                                              "source": {
+                                                                "elementorId": "",
+                                                                "widget": "",
+                                                                "classes": "wf-cell shown"
+                                                              }
+                                                            }
+                                                          ],
+                                                          "source": {
+                                                            "elementorId": "",
+                                                            "widget": "",
+                                                            "classes": "dt-css-grid"
+                                                          }
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": "the7-box-grid-wrapper the7-elementor-widget loading-effect-none the7_icon_box_grid_widget-33dcd5d"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "33dcd5d",
+                                                "widget": "the7_icon_box_grid_widget.default",
+                                                "classes": "elementor-element elementor-element-33dcd5d icon-position-mobile-left icon-vertical-align-center content-align-center icon-box-vertical-align-top icon-position-left elementor-widget elementor-widget-the7_icon_box_grid_widget"
+                                              }
+                                            }
+                                          ],
+                                          "source": {
+                                            "elementorId": "",
+                                            "widget": "",
+                                            "classes": "elementor-widget-wrap elementor-element-populated"
+                                          }
+                                        }
+                                      ],
+                                      "source": {
+                                        "elementorId": "0681f38",
+                                        "widget": "",
+                                        "classes": "elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0681f38"
+                                      }
+                                    }
+                                  ],
+                                  "source": {
+                                    "elementorId": "",
+                                    "widget": "",
+                                    "classes": "elementor-container elementor-column-gap-default"
+                                  }
+                                }
+                              ],
+                              "source": {
+                                "elementorId": "23fdf15",
+                                "widget": "",
+                                "classes": "elementor-section elementor-top-section elementor-element elementor-element-23fdf15 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                              }
+                            },
+                            {
+                              "type": "element",
+                              "tag": "section",
+                              "attrs": {},
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "div",
+                                  "attrs": {},
+                                  "children": [
+                                    {
+                                      "type": "element",
+                                      "tag": "div",
+                                      "attrs": {},
+                                      "children": [
+                                        {
+                                          "type": "element",
+                                          "tag": "div",
+                                          "attrs": {},
+                                          "children": [
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "h4",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "text",
+                                                          "value": "PATH OPTION II"
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": "the7-heading-title elementor-size-default"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "212c9f6",
+                                                "widget": "the7-heading.default",
+                                                "classes": "elementor-element elementor-element-212c9f6 elementor-widget elementor-widget-the7-heading"
+                                              }
+                                            },
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "div",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "element",
+                                                          "tag": "div",
+                                                          "attrs": {},
+                                                          "children": [],
+                                                          "source": {
+                                                            "elementorId": "",
+                                                            "widget": "",
+                                                            "classes": "elementor-spacer-inner"
+                                                          }
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": "elementor-spacer"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "696e8d6",
+                                                "widget": "spacer.default",
+                                                "classes": "elementor-element elementor-element-696e8d6 elementor-widget elementor-widget-spacer"
+                                              }
+                                            },
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "h3",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "text",
+                                                          "value": "Self-Funded Path"
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": "the7-heading-title elementor-size-default"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "0039cba",
+                                                "widget": "the7-heading.default",
+                                                "classes": "elementor-element elementor-element-0039cba elementor-widget__width-initial elementor-widget elementor-widget-the7-heading"
+                                              }
+                                            },
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "p",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "text",
+                                                          "value": "An alternative to learning on the job, go to school to become a CNA."
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": ""
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "7b78b62",
+                                                "widget": "text-editor.default",
+                                                "classes": "elementor-element elementor-element-7b78b62 elementor-widget elementor-widget-text-editor"
+                                              }
+                                            }
+                                          ],
+                                          "source": {
+                                            "elementorId": "",
+                                            "widget": "",
+                                            "classes": "elementor-widget-wrap elementor-element-populated"
+                                          }
+                                        }
+                                      ],
+                                      "source": {
+                                        "elementorId": "2c163f6",
+                                        "widget": "",
+                                        "classes": "elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2c163f6"
+                                      }
+                                    }
+                                  ],
+                                  "source": {
+                                    "elementorId": "",
+                                    "widget": "",
+                                    "classes": "elementor-container elementor-column-gap-wider"
+                                  }
+                                }
+                              ],
+                              "source": {
+                                "elementorId": "bd9ce3f",
+                                "widget": "",
+                                "classes": "elementor-section elementor-top-section elementor-element elementor-element-bd9ce3f elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                              }
+                            },
+                            {
+                              "type": "element",
+                              "tag": "section",
+                              "attrs": {},
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "div",
+                                  "attrs": {},
+                                  "children": [
+                                    {
+                                      "type": "element",
+                                      "tag": "div",
+                                      "attrs": {},
+                                      "children": [
+                                        {
+                                          "type": "element",
+                                          "tag": "div",
+                                          "attrs": {},
+                                          "children": [
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "h3",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "text",
+                                                          "value": "Facility-Based"
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": "the7-heading-title elementor-size-default"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "081da73",
+                                                "widget": "the7-heading.default",
+                                                "classes": "elementor-element elementor-element-081da73 elementor-widget__width-initial elementor-widget elementor-widget-the7-heading"
+                                              }
+                                            },
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "p",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "text",
+                                                          "value": "Facility-based Nurse Assistant Training Program includes training through skilled nursing facilities and may offer flexible training options."
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": ""
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "23c5ef5",
+                                                "widget": "text-editor.default",
+                                                "classes": "elementor-element elementor-element-23c5ef5 elementor-widget elementor-widget-text-editor"
+                                              }
+                                            },
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "div",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "element",
+                                                          "tag": "div",
+                                                          "attrs": {},
+                                                          "children": [],
+                                                          "source": {
+                                                            "elementorId": "",
+                                                            "widget": "",
+                                                            "classes": "elementor-spacer-inner"
+                                                          }
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": "elementor-spacer"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "3b569ff",
+                                                "widget": "spacer.default",
+                                                "classes": "elementor-element elementor-element-3b569ff elementor-widget elementor-widget-spacer"
+                                              }
+                                            },
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "div",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "text",
+                                                          "value": " "
+                                                        },
+                                                        {
+                                                          "type": "element",
+                                                          "tag": "a",
+                                                          "attrs": {
+                                                            "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Facility-Based-Nurse-Assistant-Training-Programs.aspx",
+                                                            "target": "_blank"
+                                                          },
+                                                          "children": [
+                                                            {
+                                                              "type": "text",
+                                                              "value": " "
+                                                            },
+                                                            {
+                                                              "type": "element",
+                                                              "tag": "span",
+                                                              "attrs": {},
+                                                              "children": [
+                                                                {
+                                                                  "type": "text",
+                                                                  "value": " "
+                                                                },
+                                                                {
+                                                                  "type": "element",
+                                                                  "tag": "span",
+                                                                  "attrs": {},
+                                                                  "children": [
+                                                                    {
+                                                                      "type": "text",
+                                                                      "value": "List of Facility Based Training Programs"
+                                                                    }
+                                                                  ],
+                                                                  "source": {
+                                                                    "elementorId": "",
+                                                                    "widget": "",
+                                                                    "classes": "elementor-button-text"
+                                                                  }
+                                                                },
+                                                                {
+                                                                  "type": "text",
+                                                                  "value": " "
+                                                                }
+                                                              ],
+                                                              "source": {
+                                                                "elementorId": "",
+                                                                "widget": "",
+                                                                "classes": "elementor-button-content-wrapper"
+                                                              }
+                                                            },
+                                                            {
+                                                              "type": "text",
+                                                              "value": " "
+                                                            }
+                                                          ],
+                                                          "source": {
+                                                            "elementorId": "",
+                                                            "widget": "",
+                                                            "classes": "elementor-button elementor-button-link elementor-size-lg"
+                                                          }
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": "elementor-button-wrapper"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "55956ff",
+                                                "widget": "button.default",
+                                                "classes": "elementor-element elementor-element-55956ff elementor-align-center elementor-widget elementor-widget-button"
+                                              }
+                                            }
+                                          ],
+                                          "source": {
+                                            "elementorId": "",
+                                            "widget": "",
+                                            "classes": "elementor-widget-wrap elementor-element-populated"
+                                          }
+                                        }
+                                      ],
+                                      "source": {
+                                        "elementorId": "1995cbb",
+                                        "widget": "",
+                                        "classes": "elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-1995cbb"
+                                      }
+                                    },
+                                    {
+                                      "type": "element",
+                                      "tag": "div",
+                                      "attrs": {},
+                                      "children": [
+                                        {
+                                          "type": "element",
+                                          "tag": "div",
+                                          "attrs": {},
+                                          "children": [
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "h3",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "text",
+                                                          "value": "Alternative Online-Based"
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": "the7-heading-title elementor-size-default"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "b80ebc5",
+                                                "widget": "the7-heading.default",
+                                                "classes": "elementor-element elementor-element-b80ebc5 elementor-widget__width-initial elementor-widget elementor-widget-the7-heading"
+                                              }
+                                            },
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "p",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "text",
+                                                          "value": "Alternative Online Nurse Assistant Training Program (AONATP) offers “theory” training online and in-classroom training via skilled nursing facilities or vocational schools that may offer flexible training options suited to diverse schedules. "
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": ""
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "75746b3",
+                                                "widget": "text-editor.default",
+                                                "classes": "elementor-element elementor-element-75746b3 elementor-widget elementor-widget-text-editor"
+                                              }
+                                            },
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "div",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "element",
+                                                          "tag": "div",
+                                                          "attrs": {},
+                                                          "children": [],
+                                                          "source": {
+                                                            "elementorId": "",
+                                                            "widget": "",
+                                                            "classes": "elementor-spacer-inner"
+                                                          }
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": "elementor-spacer"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "d0f7390",
+                                                "widget": "spacer.default",
+                                                "classes": "elementor-element elementor-element-d0f7390 elementor-widget elementor-widget-spacer"
+                                              }
+                                            },
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "div",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "text",
+                                                          "value": " "
+                                                        },
+                                                        {
+                                                          "type": "element",
+                                                          "tag": "a",
+                                                          "attrs": {
+                                                            "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Online-CNA-Training-Providers.aspx",
+                                                            "target": "_blank"
+                                                          },
+                                                          "children": [
+                                                            {
+                                                              "type": "text",
+                                                              "value": " "
+                                                            },
+                                                            {
+                                                              "type": "element",
+                                                              "tag": "span",
+                                                              "attrs": {},
+                                                              "children": [
+                                                                {
+                                                                  "type": "text",
+                                                                  "value": " "
+                                                                },
+                                                                {
+                                                                  "type": "element",
+                                                                  "tag": "span",
+                                                                  "attrs": {},
+                                                                  "children": [
+                                                                    {
+                                                                      "type": "text",
+                                                                      "value": "List of Online Training Programs"
+                                                                    }
+                                                                  ],
+                                                                  "source": {
+                                                                    "elementorId": "",
+                                                                    "widget": "",
+                                                                    "classes": "elementor-button-text"
+                                                                  }
+                                                                },
+                                                                {
+                                                                  "type": "text",
+                                                                  "value": " "
+                                                                }
+                                                              ],
+                                                              "source": {
+                                                                "elementorId": "",
+                                                                "widget": "",
+                                                                "classes": "elementor-button-content-wrapper"
+                                                              }
+                                                            },
+                                                            {
+                                                              "type": "text",
+                                                              "value": " "
+                                                            }
+                                                          ],
+                                                          "source": {
+                                                            "elementorId": "",
+                                                            "widget": "",
+                                                            "classes": "elementor-button elementor-button-link elementor-size-lg"
+                                                          }
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": "elementor-button-wrapper"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "ec4963f",
+                                                "widget": "button.default",
+                                                "classes": "elementor-element elementor-element-ec4963f elementor-align-center elementor-widget elementor-widget-button"
+                                              }
+                                            }
+                                          ],
+                                          "source": {
+                                            "elementorId": "",
+                                            "widget": "",
+                                            "classes": "elementor-widget-wrap elementor-element-populated"
+                                          }
+                                        }
+                                      ],
+                                      "source": {
+                                        "elementorId": "9bb6d05",
+                                        "widget": "",
+                                        "classes": "elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-9bb6d05"
+                                      }
+                                    },
+                                    {
+                                      "type": "element",
+                                      "tag": "div",
+                                      "attrs": {},
+                                      "children": [
+                                        {
+                                          "type": "element",
+                                          "tag": "div",
+                                          "attrs": {},
+                                          "children": [
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "h3",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "text",
+                                                          "value": "Community-Based"
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": "the7-heading-title elementor-size-default"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "262af59",
+                                                "widget": "the7-heading.default",
+                                                "classes": "elementor-element elementor-element-262af59 elementor-widget__width-initial elementor-widget elementor-widget-the7-heading"
+                                              }
+                                            },
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "p",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "text",
+                                                          "value": "Community-based Nurse Assistant Training Program includes in-classroom via community colleges, vocational schools, or organizations such as those that work with refugee or immigrant communities. "
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": ""
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "97fe01c",
+                                                "widget": "text-editor.default",
+                                                "classes": "elementor-element elementor-element-97fe01c elementor-widget elementor-widget-text-editor"
+                                              }
+                                            },
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "div",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "element",
+                                                          "tag": "div",
+                                                          "attrs": {},
+                                                          "children": [],
+                                                          "source": {
+                                                            "elementorId": "",
+                                                            "widget": "",
+                                                            "classes": "elementor-spacer-inner"
+                                                          }
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": "elementor-spacer"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "c2f1df2",
+                                                "widget": "spacer.default",
+                                                "classes": "elementor-element elementor-element-c2f1df2 elementor-widget elementor-widget-spacer"
+                                              }
+                                            },
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "div",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "text",
+                                                          "value": " "
+                                                        },
+                                                        {
+                                                          "type": "element",
+                                                          "tag": "a",
+                                                          "attrs": {
+                                                            "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Certified-Nurse-Assistant-Training-Programs.aspx",
+                                                            "target": "_blank"
+                                                          },
+                                                          "children": [
+                                                            {
+                                                              "type": "text",
+                                                              "value": " "
+                                                            },
+                                                            {
+                                                              "type": "element",
+                                                              "tag": "span",
+                                                              "attrs": {},
+                                                              "children": [
+                                                                {
+                                                                  "type": "text",
+                                                                  "value": " "
+                                                                },
+                                                                {
+                                                                  "type": "element",
+                                                                  "tag": "span",
+                                                                  "attrs": {},
+                                                                  "children": [
+                                                                    {
+                                                                      "type": "text",
+                                                                      "value": "List of Community Based Training Programs"
+                                                                    }
+                                                                  ],
+                                                                  "source": {
+                                                                    "elementorId": "",
+                                                                    "widget": "",
+                                                                    "classes": "elementor-button-text"
+                                                                  }
+                                                                },
+                                                                {
+                                                                  "type": "text",
+                                                                  "value": " "
+                                                                }
+                                                              ],
+                                                              "source": {
+                                                                "elementorId": "",
+                                                                "widget": "",
+                                                                "classes": "elementor-button-content-wrapper"
+                                                              }
+                                                            },
+                                                            {
+                                                              "type": "text",
+                                                              "value": " "
+                                                            }
+                                                          ],
+                                                          "source": {
+                                                            "elementorId": "",
+                                                            "widget": "",
+                                                            "classes": "elementor-button elementor-button-link elementor-size-lg"
+                                                          }
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": "elementor-button-wrapper"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "43ec06f",
+                                                "widget": "button.default",
+                                                "classes": "elementor-element elementor-element-43ec06f elementor-align-center elementor-widget elementor-widget-button"
+                                              }
+                                            }
+                                          ],
+                                          "source": {
+                                            "elementorId": "",
+                                            "widget": "",
+                                            "classes": "elementor-widget-wrap elementor-element-populated"
+                                          }
+                                        }
+                                      ],
+                                      "source": {
+                                        "elementorId": "9d4db08",
+                                        "widget": "",
+                                        "classes": "elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-9d4db08"
+                                      }
+                                    }
+                                  ],
+                                  "source": {
+                                    "elementorId": "",
+                                    "widget": "",
+                                    "classes": "elementor-container elementor-column-gap-default"
+                                  }
+                                }
+                              ],
+                              "source": {
+                                "elementorId": "b3f0881",
+                                "widget": "",
+                                "classes": "elementor-section elementor-top-section elementor-element elementor-element-b3f0881 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                              }
+                            },
+                            {
+                              "type": "element",
+                              "tag": "section",
+                              "attrs": {},
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "div",
+                                  "attrs": {},
+                                  "children": [
+                                    {
+                                      "type": "element",
+                                      "tag": "div",
+                                      "attrs": {},
+                                      "children": [
+                                        {
+                                          "type": "element",
+                                          "tag": "div",
+                                          "attrs": {},
+                                          "children": [
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "div",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "element",
+                                                          "tag": "div",
+                                                          "attrs": {
+                                                            "id": "floating-chatbot-default"
+                                                          },
+                                                          "children": [],
+                                                          "source": {
+                                                            "elementorId": "",
+                                                            "widget": "",
+                                                            "classes": "floating-chatbot hidden"
+                                                          }
+                                                        },
+                                                        {
+                                                          "type": "element",
+                                                          "tag": "div",
+                                                          "attrs": {
+                                                            "id": "pre-chat-message-default"
+                                                          },
+                                                          "children": [
+                                                            {
+                                                              "type": "text",
+                                                              "value": "Hey there! Ask me anything!"
+                                                            },
+                                                            {
+                                                              "type": "element",
+                                                              "tag": "button",
+                                                              "attrs": {
+                                                                "aria-label": "Close"
+                                                              },
+                                                              "children": [
+                                                                {
+                                                                  "type": "text",
+                                                                  "value": "×"
+                                                                }
+                                                              ],
+                                                              "source": {
+                                                                "elementorId": "",
+                                                                "widget": "",
+                                                                "classes": "close-pre-chat-message"
+                                                              }
+                                                            }
+                                                          ],
+                                                          "source": {
+                                                            "elementorId": "",
+                                                            "widget": "",
+                                                            "classes": "pre-chat-message"
+                                                          }
+                                                        },
+                                                        {
+                                                          "type": "element",
+                                                          "tag": "div",
+                                                          "attrs": {
+                                                            "id": "floating-chatbot-button-default",
+                                                            "role": "button",
+                                                            "aria-label": "Open chat",
+                                                            "aria-expanded": "false",
+                                                            "aria-controls": "floating-chatbot-default"
+                                                          },
+                                                          "children": [
+                                                            {
+                                                              "type": "element",
+                                                              "tag": "div",
+                                                              "attrs": {
+                                                                "id": "chat-notification-badge-default"
+                                                              },
+                                                              "children": [
+                                                                {
+                                                                  "type": "text",
+                                                                  "value": "1"
+                                                                }
+                                                              ],
+                                                              "source": {
+                                                                "elementorId": "",
+                                                                "widget": "",
+                                                                "classes": "chat-notification-badge"
+                                                              }
+                                                            }
+                                                          ],
+                                                          "source": {
+                                                            "elementorId": "",
+                                                            "widget": "",
+                                                            "classes": "floating-chatbot-button"
+                                                          }
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": "elementor-shortcode"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "ba182f5",
+                                                "widget": "shortcode.default",
+                                                "classes": "elementor-element elementor-element-ba182f5 elementor-widget elementor-widget-shortcode"
+                                              }
+                                            }
+                                          ],
+                                          "source": {
+                                            "elementorId": "",
+                                            "widget": "",
+                                            "classes": "elementor-widget-wrap elementor-element-populated"
+                                          }
+                                        }
+                                      ],
+                                      "source": {
+                                        "elementorId": "f37ba79",
+                                        "widget": "",
+                                        "classes": "elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f37ba79"
+                                      }
+                                    }
+                                  ],
+                                  "source": {
+                                    "elementorId": "",
+                                    "widget": "",
+                                    "classes": "elementor-container elementor-column-gap-default"
+                                  }
+                                }
+                              ],
+                              "source": {
+                                "elementorId": "6f36a63",
+                                "widget": "",
+                                "classes": "elementor-section elementor-top-section elementor-element elementor-element-6f36a63 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                              }
+                            }
+                          ],
+                          "source": {
+                            "elementorId": "",
+                            "widget": "",
+                            "classes": "elementor elementor-99257"
+                          }
+                        }
+                      ],
+                      "source": {
+                        "elementorId": "",
+                        "widget": "",
+                        "classes": "content"
+                      }
+                    }
+                  ],
+                  "source": {
+                    "elementorId": "",
+                    "widget": "",
+                    "classes": "wf-container-main"
+                  }
+                }
+              ],
+              "source": {
+                "elementorId": "",
+                "widget": "",
+                "classes": "wf-wrap"
+              }
+            }
+          ],
+          "source": {
+            "elementorId": "",
+            "widget": "",
+            "classes": "sidebar-none sidebar-divider-off"
+          }
+        }
+      ]
+    }
+  ],
+  "backgrounds": [],
+  "embeds": [
+    {
+      "tag": "a",
+      "src": "",
+      "href": "#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJ0eXBlIjoidmlkZW8iLCJ2aWRlb1R5cGUiOiJ5b3V0dWJlIiwidXJsIjoiaHR0cHM6XC9cL3d3dy55b3V0dWJlLmNvbVwvZW1iZWRcL1VabHRRMlgwTkhJP2ZlYXR1cmU9b2VtYmVkIn0%3D",
+      "title": "",
+      "settings": "",
+      "configuration": {
+        "type": "video",
+        "videoType": "youtube",
+        "url": "https://www.youtube.com/embed/UZltQ2X0NHI?feature=oembed"
+      }
+    }
+  ],
+  "media": [
+    "https://yourcnastory.org/wp-content/uploads/2025/06/nurse-helping-elderly.jpg",
+    "https://yourcnastory.org/wp-content/uploads/2025/06/nurse-helping-elderly-1024x683.jpg",
+    "https://yourcnastory.org/wp-content/uploads/2025/06/nurse-helping-elderly-300x200.jpg",
+    "https://yourcnastory.org/wp-content/uploads/2025/06/nurse-helping-elderly-768x512.jpg",
+    "https://yourcnastory.org/wp-content/uploads/2025/06/nurse-helping-elderly-18x12.jpg"
+  ],
+  "provenance": {
+    "url": "https://yourcnastory.org/cna-training-providers/",
+    "capturedAt": "2026-11-07T18:07:21.068Z",
+    "snapshotHash": "1860f7fe5425c5ba33b97e79457f836aa2beeaf16157085f45d0e7fadf4078de",
+    "authority": "rendered-live-copy; owner approved 2026-11-07",
+    "normalization": "DOM-decoded text; source text-node characters retained",
+    "textCharactersHash": "d24d84685513ee275196c89ee0a790a54474bebbd596361b066c9410688bea9f"
+  },
+  "inventory": {
+    "text": "CNA Training Programs The Certified Nurse Assistant Program (CNAP) website is a resource designed to provide you with information about the CNA profession and how to get started. Curious about becoming a CNA? Watch our video, “How to Train to Become a CNA,” to explore your options and find the path that’s right for you. PATH OPTION I Earn and Learn Path Students are employees – ALL educational and competency testing fees are covered, and hourly wages paid through Nurse Assistance training programs. List of CNA Earn and Learn Training Partners This is not inclusive of all CA state Earn and Learn programs, and may sporadically change. Contact CNAP directly for inclusion on this list. PATH OPTION II Self-Funded Path An alternative to learning on the job, go to school to become a CNA. Facility-Based Facility-based Nurse Assistant Training Program includes training through skilled nursing facilities and may offer flexible training options. List of Facility Based Training Programs Alternative Online-Based Alternative Online Nurse Assistant Training Program (AONATP) offers “theory” training online and in-classroom training via skilled nursing facilities or vocational schools that may offer flexible training options suited to diverse schedules. List of Online Training Programs Community-Based Community-based Nurse Assistant Training Program includes in-classroom via community colleges, vocational schools, or organizations such as those that work with refugee or immigrant communities. List of Community Based Training Programs Hey there! Ask me anything! × 1",
+    "links": [
+      {
+        "href": "#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJ0eXBlIjoidmlkZW8iLCJ2aWRlb1R5cGUiOiJ5b3V0dWJlIiwidXJsIjoiaHR0cHM6XC9cL3d3dy55b3V0dWJlLmNvbVwvZW1iZWRcL1VabHRRMlgwTkhJP2ZlYXR1cmU9b2VtYmVkIn0%3D",
+        "text": "      "
+      },
+      {
+        "href": "https://docs.google.com/spreadsheets/d/1izJ-UEb6VyigMTIaXrdvRtY7XgcT0qQd/edit?usp=sharing&ouid=116256928001491444929&rtpof=true&sd=true",
+        "text": "  List of CNA Earn and Learn Training Partners  "
+      },
+      {
+        "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Facility-Based-Nurse-Assistant-Training-Programs.aspx",
+        "text": "  List of Facility Based Training Programs  "
+      },
+      {
+        "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Online-CNA-Training-Providers.aspx",
+        "text": "  List of Online Training Programs  "
+      },
+      {
+        "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Certified-Nurse-Assistant-Training-Programs.aspx",
+        "text": "  List of Community Based Training Programs  "
+      }
+    ],
+    "images": [
+      {
+        "src": "https://yourcnastory.org/wp-content/uploads/2025/06/nurse-helping-elderly-1024x683.jpg",
+        "alt": ""
+      }
+    ],
+    "anchors": [
+      "main",
+      "content",
+      "floating-chatbot-default",
+      "pre-chat-message-default",
+      "floating-chatbot-button-default",
+      "chat-notification-badge-default"
+    ]
+  }
+}
