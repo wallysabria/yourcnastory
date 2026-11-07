@@ -1,7 +1,7 @@
 import type { NextConfig } from 'next';
 const nextConfig: NextConfig = {
   trailingSlash: true,
-  skipTrailingSlashRedirect: true,
+  skipTrailingSlashRedirect: false,
   poweredByHeader: false,
   async headers() {
     return [

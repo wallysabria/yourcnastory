@@ -72,3 +72,8 @@ const assets = [
 for (const [source, destination] of assets) { const file = path.join(root, destination); if (fs.existsSync(file)) continue; const response = await fetch(source); if (!response.ok) throw Error(source + ' ' + response.status); fs.mkdirSync(path.dirname(file), { recursive: true }); fs.writeFileSync(file, Buffer.from(await response.arrayBuffer())); }
 write('content/global/assets.json', assets.map(([source, destination]) => ({ source, path: '/' + destination.replace(/^public\//, '') })));
 console.log(JSON.stringify({ routes: records.length, renderable: records.filter(r => r.section !== 'employers').length, activeRedirects: active.length, deferredRedirects: pending.length }));
+
+const hosting = JSON.parse(fs.readFileSync(path.join(root, 'vercel.json'), 'utf8'));
+delete hosting.trailingSlash;
+hosting.redirects = active.map(rule => ({source:rule.from,destination:rule.to,statusCode:301}));
+write('vercel.json', hosting);

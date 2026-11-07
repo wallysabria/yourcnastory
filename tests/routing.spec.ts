@@ -1,3 +1,4 @@
+import hosting from '../vercel.json' with { type: 'json' };
 import deferred from '../content/routing/deferred-redirects.json' with { type: 'json' };
 import { test, expect } from '@playwright/test';
 import {
@@ -41,6 +42,9 @@ test('employer links are inert with the gate off and active with it on', () => {
   expect(isLinkDisabled('/career-seekers/', false, false)).toBe(false);
 });
 test('all activated redirects map directly without redirect chains', () => {
+  expect(hosting.redirects).toEqual(
+    redirectRules.map((rule) => ({ source: rule.from, destination: rule.to, statusCode: 301 })),
+  );
   for (const rule of redirectRules) {
     expect(redirectDestination(rule.from)).toBe(rule.to);
     expect(redirectDestination(rule.to)).toBeNull();

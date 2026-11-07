@@ -3,7 +3,6 @@
   "framework": "nextjs",
   "installCommand": "npm ci",
   "buildCommand": "npm run build",
-  "trailingSlash": true,
   "redirects": [
     {
       "source": "/careerpaths/careers-in-certified-nurse-assistant",
