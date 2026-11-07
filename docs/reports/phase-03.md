@@ -20,7 +20,7 @@ WXR SEO cross-check: 24 original-language records, 44 fields, 42 exact matches a
 
 ## Media
 
-342 assets imported (25,813,037 bytes), including lazy/srcset variants, inlined CSS backgrounds, source video and metadata images. All have source URLs, referencing pages, local paths and SHA-256 hashes in content/media/manifest.json. No extracted internal image lacks a mapping. Files use descriptive names in public/images/content/. Source URLs remain recorded: this does not approve retiring historical upload paths at cutover.
+344 assets imported (25,904,605 bytes), including lazy/srcset variants, inlined CSS backgrounds, source video and metadata images. All have source URLs, referencing pages, local paths and SHA-256 hashes in content/media/manifest.json. No extracted internal image lacks a mapping. Files use descriptive names in public/images/content/. Source URLs remain recorded: this does not approve retiring historical upload paths at cutover.
 
 The selected current pages reference zero WordPress-upload documents. Eight unique external document URLs retain their existing hosts/paths, without replacements (phase-03-external-documents.json). The importer preserves exact /wp-content/uploads/... paths for any documents encountered. Missing full uploads archive still prevents historical-upload completeness claims.
 
@@ -28,7 +28,7 @@ The selected current pages reference zero WordPress-upload documents. Eight uniq
 
 /api/content-review/?path=/ and /api/content-review/?path=/es/ are clearly labeled content diagnostics, not new page templates. Links have no navigation targets; forms are disabled fieldsets; embeds do not execute. CSP blocks scripts, frames and submissions; all responses send noindex. Unknown/Employers/filesystem paths return 404. Public page bodies remain the Phase 2 shells. No forms, search, analytics or chatbot implemented.
 
-27 local Playwright tests passed, zero failed/skipped/flaky. Tests include all 48 review URLs, all 342 asset HEAD responses/byte lengths, restricted review scope, and existing 250 redirects, EN/ES metadata, menus and 12 zero-violation axe layout smokes. Lint, typecheck, format and production build passed. Evidence: phase-03-tests.json.
+27 local Playwright tests passed, zero failed/skipped/flaky. Tests include all 48 review URLs, all 344 asset HEAD responses/byte lengths, restricted review scope, and existing 250 redirects, EN/ES metadata, menus and 12 zero-violation axe layout smokes. Lint, typecheck, format and production build passed. Evidence: phase-03-tests.json.
 
 Preview/PR/final CI links follow deployment. PR #3 remains open: automatic approval review rejected merging the foundation into main without explicit merge/deployment approval. Phase 3 is a separate branch based on that foundation; main is unchanged.
 

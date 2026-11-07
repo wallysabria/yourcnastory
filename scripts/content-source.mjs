@@ -165,11 +165,16 @@ export function serialize(node) {
 }
 export function mediaReferences($, main, url) {
   const refs = new Set();
-  const add = (v) => {
+  const add = (v, externalImage = false) => {
     if (!v) return;
     try {
       const u = new URL(v, url);
-      if (u.origin === origin && u.pathname.startsWith('/wp-content/uploads/')) {
+      if (
+        (u.origin === origin && u.pathname.startsWith('/wp-content/uploads/')) ||
+        (externalImage &&
+          ['digitalasset.intuit.com', 'play.vidyard.com', 'i.ytimg.com'].includes(u.hostname) &&
+          u.protocol === 'https:')
+      ) {
         u.hash = '';
         u.search = '';
         refs.add(u.href);
@@ -180,9 +185,10 @@ export function mediaReferences($, main, url) {
   };
   add($('meta[property="og:image"]').attr('content'));
   main.find('img,source,video,audio,a[href]').each((_, e) => {
-    for (const attr of ['src', 'data-src', 'poster', 'href']) add($(e).attr(attr));
+    for (const attr of ['src', 'data-src', 'poster', 'href']) add($(e).attr(attr), attr !== 'href');
     for (const attr of ['srcset', 'data-srcset'])
-      for (const entry of ($(e).attr(attr) || '').split(',')) add(entry.trim().split(/\s+/)[0]);
+      for (const entry of ($(e).attr(attr) || '').split(','))
+        add(entry.trim().split(/\s+/)[0], true);
   });
   main.find('[style],[data-settings]').each((_, e) => {
     let settings = {};

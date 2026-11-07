@@ -68,13 +68,19 @@ async function worker() {
       u = new URL(r.url);
     const ext = path.extname(u.pathname).toLowerCase();
     const document = /\.(pdf|docx?|xlsx?|pptx?|csv|zip)$/i.test(u.pathname);
-    const stem =
+    const sourceStem =
       path
         .basename(u.pathname, ext)
         .normalize('NFKD')
         .replace(/[^a-zA-Z0-9]+/g, '-')
         .replace(/^-|-$/g, '')
         .toLowerCase() || 'source-image';
+    const stem =
+      u.hostname === 'play.vidyard.com'
+        ? 'community-resources-video-poster'
+        : u.hostname === 'digitalasset.intuit.com'
+          ? 'sms-phone-country-flag-us'
+          : sourceStem;
     const target = document
       ? 'public' + decodeURIComponent(u.pathname)
       : 'public/images/content/' + stem + '-' + hash(r.url).slice(0, 8) + ext;

@@ -57,7 +57,7 @@
     "path": "/career-seekers/",
     "file": "content/pages/career-seekers.json",
     "locale": "en",
-    "sha256": "efb93f92530b975ce2ec7ea9d00a7af07705fe5ab1ccce0f6d4a7d999ba5b6c3"
+    "sha256": "569f024ea2ee450041cf5447414913f0a1eea1847bff7b9f4c42b22ae3668558"
   },
   {
     "path": "/career-paths-in-long-term-care/",
@@ -69,7 +69,7 @@
     "path": "/community-resources/",
     "file": "content/pages/community-resources.json",
     "locale": "en",
-    "sha256": "1ae7549c94253c620a3aa0ba8208d86d161476b6b6394f37d29ed599dd7e494c"
+    "sha256": "ac25f3985e62991d7d92fdc6267a109e6c65f829aa98b57fdca28a792e5ba72d"
   },
   {
     "path": "/privacy-policy/",
@@ -99,49 +99,49 @@
     "path": "/career-advancement/",
     "file": "content/pages/career-advancement.json",
     "locale": "en",
-    "sha256": "bed9f3e35441af463157f40cb6a5b8c5073c88af67fad164f3b365db32a04a44"
+    "sha256": "d676cb32d59d61937a365f840628eb016484d5db55870d0332d3d8f4ef444347"
   },
   {
     "path": "/earn-and-learn-la/",
     "file": "content/pages/earn-and-learn-la.json",
     "locale": "en",
-    "sha256": "89edd9af3a0d6c9834b03b1c4bf50b920df6205733cefd88155b83f06f91b3b1"
+    "sha256": "838a54bf6b4611c9580d35105f5bf196a3cb1529b1fcccfbfb59ee21cce7e13d"
   },
   {
     "path": "/frequently-asked-questions/",
     "file": "content/pages/frequently-asked-questions.json",
     "locale": "en",
-    "sha256": "5c7d265ea57a466ee6d23887a4fafc9c1679284b9590ec9689063f1357b12c79"
+    "sha256": "8fc489b2a9d3ed03fd641950b810c7836c4ec5937847412d561cb322dfed279f"
   },
   {
     "path": "/earn-and-learn-cvalley/",
     "file": "content/pages/earn-and-learn-cvalley.json",
     "locale": "en",
-    "sha256": "d939eb6045ad2fa8ee2e63f3dbb6c380afb041eee018e936d34fa256ac38977f"
+    "sha256": "3fb195ac520b858b8209b7455757dedaf54c4fd0800ad8942068bd49573f3204"
   },
   {
     "path": "/earn-and-learn-bayarea/",
     "file": "content/pages/earn-and-learn-bayarea.json",
     "locale": "en",
-    "sha256": "b24766f32392b0d3fdef2c3347d912e1046dab80a2a3769d02ccdcc4f24378ea"
+    "sha256": "fa5b6e4c7897b02ea8bbe3a00b0c46adb06479f07c1ad056e4174625af1ac06e"
   },
   {
     "path": "/earn-and-learn-norcal/",
     "file": "content/pages/earn-and-learn-norcal.json",
     "locale": "en",
-    "sha256": "76086e0136a3c4cef2ae75dc296393ee717727a833c53e06af881559bd6f3696"
+    "sha256": "17ab5866e5c4e1901d77b49d77ea2068bf21b0ba4dd695e28bf524a87d779544"
   },
   {
     "path": "/earn-and-learn-san-diego/",
     "file": "content/pages/earn-and-learn-san-diego.json",
     "locale": "en",
-    "sha256": "f3022cb705bbcf66552f3e285731e536b8b5ea376e687287042e4553bc0b29ed"
+    "sha256": "5ff11fd4c7ae038162c71b7fdd2a6ea587b1927ecc07df9f8cd956fbf26293d9"
   },
   {
     "path": "/earn-and-learn/",
     "file": "content/pages/earn-and-learn.json",
     "locale": "en",
-    "sha256": "41a7bede858adae80fde5d31cb63e25d5e6c01ef7e66f963d5c2a4322d8d7459"
+    "sha256": "e031cb7db8066b0ece48bd05fdc386b2f92efff4c2740405f7eb3e6612785747"
   },
   {
     "path": "/es/",
@@ -159,7 +159,7 @@
     "path": "/es/recursos-comunitarios/",
     "file": "content/pages/es--recursos-comunitarios.json",
     "locale": "es",
-    "sha256": "2f332b6a830883e932caa78ece9b43c6f07141ef8958d5a2776f035ea49caa52"
+    "sha256": "281ecb8dc375a81c50ba4ee6e43037adb63428e5c72598e7837e6a117cdeb4f5"
   },
   {
     "path": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
@@ -177,7 +177,7 @@
     "path": "/es/aspirantes/",
     "file": "content/pages/es--aspirantes.json",
     "locale": "es",
-    "sha256": "2e43d056c4cd858fe4830580c26e004ed268252a284e67817a34b691dd24a1f8"
+    "sha256": "10d846284bf954fecc9c9acf3b6b5cf2f0192117ab4b1e5bec0c84abe36885ea"
   },
   {
     "path": "/es/programa-cna-2/",
@@ -189,7 +189,7 @@
     "path": "/es/preguntas-frecuentes/",
     "file": "content/pages/es--preguntas-frecuentes.json",
     "locale": "es",
-    "sha256": "6f89798fe94512d94ce88576deddaaf1c0f56207e5d82f94afb157e80ffb21e4"
+    "sha256": "00dfd5391c6d1844fef3bddb9c7c01af23af9987edc4f20fbf62920008fa1609"
   },
   {
     "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
@@ -249,42 +249,42 @@
     "path": "/es/avance-profesional/",
     "file": "content/pages/es--avance-profesional.json",
     "locale": "es",
-    "sha256": "348ba6594bb7a98af9d8863a76667bf7078f6982de383f2de889f5351340c4dd"
+    "sha256": "caef0d59afef01ecec4b42088597dda053bfae080d92b0a2546a41363bf10e0d"
   },
   {
     "path": "/es/ganar-y-aprender-la/",
     "file": "content/pages/es--ganar-y-aprender-la.json",
     "locale": "es",
-    "sha256": "fc83218c808f3750c650b18c5e362746d808229c6b0caaf60b2c8e336f73a855"
+    "sha256": "c62e0c954b5b068089ffd0639487fcc82b21d9492f9089e9c1e9ebc1caffe0b8"
   },
   {
     "path": "/es/gana-y-aprende-cvalley/",
     "file": "content/pages/es--gana-y-aprende-cvalley.json",
     "locale": "es",
-    "sha256": "68594f7c043831688f5ba6e8c3921059e7ea4b80b2ca199b0f7255a02c20ca90"
+    "sha256": "748f74b98205721ea15f1894eb498903ed4dfcae59bfa25d31a645ef38ec275c"
   },
   {
     "path": "/es/gana-y-aprende-bayarea/",
     "file": "content/pages/es--gana-y-aprende-bayarea.json",
     "locale": "es",
-    "sha256": "ec4ed324bda38d7799224ba6aabdde0cd00aa1ec081f7412983fc4677dfeecc4"
+    "sha256": "2ad41cf0340f055ec37a6177aa27c519422ec37e223970473883f5450152f550"
   },
   {
     "path": "/es/earn-and-learn-norcal/",
     "file": "content/pages/es--earn-and-learn-norcal.json",
     "locale": "es",
-    "sha256": "3439bf6ef05ec176d8f6259dea7574962c6f1fc756593548becf4a397ea75235"
+    "sha256": "9d4b93182894a2be41e556aef84cefc7492aff0802e8e6fe262ee28acdb83b17"
   },
   {
     "path": "/es/gana-y-aprende-san-diego/",
     "file": "content/pages/es--gana-y-aprende-san-diego.json",
     "locale": "es",
-    "sha256": "75343eecdd7631b95957a58442a30816558d193396440cd09e09a8511824411d"
+    "sha256": "5232e1b235fd630f012ea872121357a7b7c1363b245bfabc2000188854b724f1"
   },
   {
     "path": "/es/earn-and-learn/",
     "file": "content/pages/es--earn-and-learn.json",
     "locale": "es",
-    "sha256": "20dee62dd66a77d4bc3f8a9749229b002e6c2ec82498eccec1df7e03d8ee51b2"
+    "sha256": "ef4f1d28dd4d70027fdf7981d765745f7365d6efd5aba33c5386984963e5430d"
   }
 ]

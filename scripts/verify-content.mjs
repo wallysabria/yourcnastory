@@ -44,6 +44,12 @@ const textNodes = (root) => {
 const checks = [];
 for (const row of index) {
   const page = JSON.parse(fs.readFileSync(row.file));
+  for (const image of page.inventory.images)
+    if (/^https?:/.test(image.src))
+      assert.ok(
+        media.some((asset) => asset.url === image.src),
+        'Unmapped source image ' + image.src,
+      );
   pageSchema.parse(page);
   assert.equal(page.path, row.path);
   assert.equal(page.locale, row.locale);
