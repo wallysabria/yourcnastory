@@ -1,0 +1,77 @@
+[
+  {
+    "url": "https://yourcnastory.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/../webfonts/fa-brands-400.woff2",
+    "path": "/fonts/font-awesome-5-brands-4aa72c9f.woff2",
+    "kind": "font"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/../webfonts/fa-regular-400.woff2",
+    "path": "/fonts/font-awesome-5-free-ff570434.woff2",
+    "kind": "font"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/../webfonts/fa-solid-900.woff2",
+    "path": "/fonts/font-awesome-5-free-9d3ec649.woff2",
+    "kind": "font"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/themes/dt-the7/images/the7-exclamation-circle-fill.svg",
+    "path": "/images/icons/the7-exclamation-circle-fill-d977b682.svg",
+    "kind": "source-ui"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/themes/dt-the7/images/the7-check-circle-fill.svg",
+    "path": "/images/icons/the7-check-circle-fill-2163349a.svg",
+    "kind": "source-ui"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/themes/dt-the7/images/zoom-in.svg",
+    "path": "/images/icons/zoom-in-88bd2d35.svg",
+    "kind": "source-ui"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/themes/dt-the7/images/zoom-out.svg",
+    "path": "/images/icons/zoom-out-659f4f1b.svg",
+    "kind": "source-ui"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/themes/dt-the7/images/fullscreen.svg",
+    "path": "/images/icons/fullscreen-36a46c30.svg",
+    "kind": "source-ui"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/themes/dt-the7/images/fullscreen-exit.svg",
+    "path": "/images/icons/fullscreen-exit-eecd6d5b.svg",
+    "kind": "source-ui"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/themes/dt-the7/images/x-lg.svg",
+    "path": "/images/icons/x-lg-e20716fd.svg",
+    "kind": "source-ui"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/themes/dt-the7/images/the7-share-fill.svg",
+    "path": "/images/icons/the7-share-fill-a20b93e1.svg",
+    "kind": "source-ui"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/themes/dt-the7/images/the7-chevron-left.svg",
+    "path": "/images/icons/the7-chevron-left-9456334b.svg",
+    "kind": "source-ui"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/themes/dt-the7/images/the7-chevron-right.svg",
+    "path": "/images/icons/the7-chevron-right-95ca8a98.svg",
+    "kind": "source-ui"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/themes/dt-the7/images/the7-chevron-side.svg",
+    "path": "/images/icons/the7-chevron-side-2b8df3bb.svg",
+    "kind": "source-ui"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/themes/dt-the7/images/the7-chevron-down.svg",
+    "path": "/images/icons/the7-chevron-down-e3d4416a.svg",
+    "kind": "source-ui"
+  }
+]

@@ -56,3 +56,10 @@ Phase 3: Q-023 resolved by owner: rendered live copy/punctuation is authoritativ
 
 ## Foundation integration — 2026-11-07
 Owner explicitly approved merging foundation PR #3 into main and triggering the Vercel production deployment. Merged as d199e179857b9736ed80a56cbf9b81f8de6c2194. Main CI passed; production is ready at https://yourcnastory.vercel.app/ with noindex, no analytics, 48 verified shells and 250 verified redirects. No DNS changes were made. Phase 3 PR #4 remains open; no approval to merge it or start Phase 4 is inferred.
+
+Phase 4 plan approved by owner, including merge/deployment of Phase 3 PR #4, nine templates / 48 URLs, mock-only signup while audience mappings/test target are missing, bilingual Pagefind search, 96 screenshot comparisons, and source-styled pause controls. PR #4 merged; Phase 4 branch is phase-04-build. No live Mailchimp connection is authorized without the missing setup and approved test target.
+
+## Phase 4 current gates (2026-11-08)
+
+- D-004 declined: owner instructs retaining source contrast/link styling and flagging the resulting axe failures. Zero-axe/WCAG AA acceptance remains unmet for these inherited failures.
+- Mailchimp audience setup remains missing at _source/integrations/mailchimp/. Mock only; audience ID, API server prefix/key environment names, verified merge fields/tags/groups/SMS handling and approved test audience/tag are required before live connection. No live submissions performed.

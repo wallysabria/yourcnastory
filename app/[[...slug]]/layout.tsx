@@ -5,6 +5,7 @@ import { employersEnabled, counterpartFor, routeAt, routeFor } from '@/lib/routi
 import { SiteHeader } from '@/components/site-header';
 import { SiteFooter } from '@/components/site-footer';
 import '../globals.css';
+import '../content.css';
 const manrope = localFont({
   src: '../../public/fonts/manrope-variable.ttf',
   weight: '200 800',
@@ -35,7 +36,7 @@ export default async function RootLayout({
           enabled={employersEnabled}
           homeHref={home?.path || '/'}
           counterpartHref={counterpart?.section === 'employers' ? null : counterpart?.path || null}
-          transparent={route?.id === '/' || route?.id === '/career-seekers/'}
+          transparent={true}
         />
         {children}
         <div id="chat-root" data-chat-placeholder />

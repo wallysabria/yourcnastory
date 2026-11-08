@@ -1,0 +1,32 @@
+{
+  "en": {
+    "preview": "Preview form: no subscription will be created.",
+    "pending": "Submitting…",
+    "accepted": "Test submission received. No subscription was created.",
+    "invalid": "Please check the highlighted fields.",
+    "unavailable": "We could not process the request. Please try again.",
+    "limited": "Please wait before trying again.",
+    "name": "Enter your name.",
+    "zip": "Enter a valid ZIP Code.",
+    "email": "Enter a valid email address.",
+    "phone": "Enter a valid phone number with country code.",
+    "language": "Choose English or Español.",
+    "countryCode": "Country code",
+    "required": "This field is required."
+  },
+  "es": {
+    "preview": "Formulario de prueba: no se creará ninguna suscripción.",
+    "pending": "Enviando…",
+    "accepted": "Se recibió el envío de prueba. No se creó ninguna suscripción.",
+    "invalid": "Revisa los campos indicados.",
+    "unavailable": "No se pudo procesar la solicitud. Inténtalo de nuevo.",
+    "limited": "Espera antes de volver a intentarlo.",
+    "name": "Escribe tu nombre.",
+    "zip": "Escribe un código postal válido.",
+    "email": "Escribe una dirección de correo electrónico válida.",
+    "phone": "Escribe un número de teléfono válido con el código del país.",
+    "language": "Elige English o Español.",
+    "countryCode": "Código del país",
+    "required": "Este campo es obligatorio."
+  }
+}

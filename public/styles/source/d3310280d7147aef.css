@@ -1,0 +1,40 @@
+ .page-content .page-id-101518 section.elementor-section.headerTop {
+ display: block;
+}
+.page-content section.headerTop {
+ position: fixed;
+ top: 0;
+ left: 0;
+ width: 100%;
+ z-index: 3333;
+}
+.page-content .page-id-101518 section.elementor-section.elementor-top-section.elementor-element.elementor-element-968da6e {
+ top: 40px !important;
+ transition: .3s;
+}
+.page-content .page-id-101518 section.elementor-element-0d44549 {
+ padding-top: 140px !important;
+}
+.page-content .elementor-element.closeTop i {
+ cursor: pointer;
+}
+.page-content .closeTopHeader .headerTop {
+ display: none !important;
+}  .page-content .page-id-101518.closeTopHeader section.elementor-section.elementor-top-section.elementor-element.elementor-element-968da6e {
+ top: 0 !important;
+}
+.page-content .page-id-101518.closeTopHeader section.elementor-element-0d44549 {
+ padding-top: 100px !important;
+}
+/* mobile */
+@media only screen and (max-width: 767px) {
+.page-content .page-id-101518 section.elementor-section.elementor-top-section.elementor-element.elementor-element-968da6e {
+ top: 100px !important;
+}
+.page-content .page-id-101518 section.elementor-section.elementor-element-4b5cf4a {
+ top: 75px !important;
+}
+.page-content .page-id-101518.closeTopHeader section.elementor-section.elementor-element-4b5cf4a {
+ top: 0px !important;
+}
+ } 

@@ -1,0 +1,239 @@
+ .page-content .multipleLinx a,.page-content .multipleLinx span[aria-disabled="true"],.page-content .multipleLinx button.native-video-trigger {
+ display: flex;
+ align-items: center;
+ font-weight: 400;
+ text-decoration: none;
+ border-bottom: 1px solid #5b5b5b;
+ padding: 5px 15px;
+ margin: 10px 0px;
+ font-size: 15px;
+ color: #5b5b5b;
+ padding-left: 0;
+ padding-right: 20px;
+ justify-content: space-between;
+ position: relative;
+}
+.page-content .multipleLinx a svg,.page-content .multipleLinx span[aria-disabled="true"] svg,.page-content .multipleLinx button.native-video-trigger svg {
+ height: 20px;
+ width: 10%;
+ position: absolute;
+ right: 0;
+ top: 50%;
+ transform: translateY(-50%);
+}  .page-content .multipleLinks a,.page-content .multipleLinks span[aria-disabled="true"],.page-content .multipleLinks button.native-video-trigger {
+ display: flex;
+ align-items: center;
+ font-weight: 500;
+ text-decoration: none;
+ border-bottom: 1px solid #0159D342;
+ padding: 5px 15px;
+ margin: 10px 0px;
+ font-size: 15px;
+ padding-left: 0;
+ padding-right: 20px;
+ justify-content: space-between;
+ position: relative;
+}
+.page-content .multipleLinks a svg,.page-content .multipleLinks span[aria-disabled="true"] svg,.page-content .multipleLinks button.native-video-trigger svg {
+ height: 20px;
+ width: 10%;
+ position: absolute;
+ right: 0;
+ top: 50%;
+ transform: translateY(-50%);
+}
+.page-content .elementor-50845 .elementor-element.elementor-element-80b0dff .dt-nav-menu-horizontal > li > a .menu-item-text,.page-content .elementor-50845 .elementor-element.elementor-element-80b0dff .dt-nav-menu-horizontal > li > span[aria-disabled="true"] .menu-item-text,.page-content .elementor-50845 .elementor-element.elementor-element-80b0dff .dt-nav-menu-horizontal > li > button.native-video-trigger .menu-item-text {
+ word-spacing: initial !important;
+}
+.page-content .elementor-73689 .elementor-element.elementor-element-6b9c16b .dt-nav-menu > li > a,.page-content .elementor-73689 .elementor-element.elementor-element-6b9c16b .dt-nav-menu > li > span[aria-disabled="true"],.page-content .elementor-73689 .elementor-element.elementor-element-6b9c16b .dt-nav-menu > li > button.native-video-trigger {
+ word-spacing: 0px !important;
+}  /* Header sticky css */
+.page-content .the7-e-sticky-effects .elementor-element.elementor-element-80b0dff .dt-nav-menu-horizontal > li > a,.page-content .the7-e-sticky-effects .elementor-element.elementor-element-80b0dff .dt-nav-menu-horizontal > li > span[aria-disabled="true"],.page-content .the7-e-sticky-effects .elementor-element.elementor-element-80b0dff .dt-nav-menu-horizontal > li > button.native-video-trigger {
+ color: #2c3338;
+}  .page-content .the7-e-sticky-effects .elementor-element-59daa92 .elementor-icon svg {
+ fill: #000 !important;
+ color: #000 !important;
+}
+.page-content .the7-e-sticky-effects .mainLogo img {
+ opacity: 0;
+}
+.page-content .the7-e-sticky-effects .visibleStickyOnly {
+ width: 200px;
+ display: block !important;
+}
+.page-content .visibleStickyOnly {
+ position: absolute;
+ top: 0px;
+ left: 0;
+ opacity: 0
+}
+.page-content .the7-e-sticky-effects .visibleStickyOnly img {
+ transition: 0s !important;
+}
+.page-content .visibleStickyOnly img {
+ transition: 0s !important;
+}
+.page-content .the7-e-sticky-effects .visibleStickyOnly {
+ opacity: 1;
+}  .page-content .the7-e-sticky-effects {
+ box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
+}
+.page-content.home section.elementor-section.elementor-top-section .elementor-widget-wrap.elementor-element-populated h2,.page-content.home section.elementor-section.elementor-top-section .elementor-widget-wrap.elementor-element-populated h1.native-source-h2 {
+ margin: 0;
+ padding: 0;
+}
+.page-content .megaMenuV2 .elementor-heading-title {
+ font-size: 16px !important;
+ color: #000;
+ font-weight: 900 !important;
+}
+.page-content .megaMenuV2 ul.elementor-icon-list-items li a,.page-content .megaMenuV2 ul.elementor-icon-list-items li span[aria-disabled="true"],.page-content .megaMenuV2 ul.elementor-icon-list-items li button.native-video-trigger {
+ font-size: 14px !important;
+ font-weight: 600 !important;
+}  .page-content #content.content section:first-child {
+ padding-top: 100px;
+}
+.page-content.home #content.content section:first-child {
+ padding-top: 0;
+}
+.page-content #content.content .pTopNone section:first-child,.page-content #content.content section.pTopNone:first-child {
+ padding-top: 0;
+}
+.page-content #content.content section.pT170 {
+ padding-top: 170px;
+}  .page-content .cssforForm .fluentform .ff-el-input--label label {
+ font-size: 13px;
+ color: #2c3338;
+ line-height: 1.2em;
+ text-transform: uppercase;
+ font-weight: 600;
+}
+.page-content .cssforForm .elementor-mark-required .elementor-field-label:after {
+ color: #0bc4d9;
+}
+.page-content .cssforForm .fluentform .ff-el-input--label.ff-el-is-required.asterisk-right label:after {
+ color: #0bc4d9;
+}
+.page-content .multipleLinks a img,.page-content .multipleLinks span[aria-disabled="true"] img,.page-content .multipleLinks button.native-video-trigger img {
+ height: 20px;
+}
+.page-content .cssforForm .fluentform .ff_btn_style {
+ width: 100%;
+ height: 54px;
+ border-radius: 40px;
+ background: #0159d3;
+ font-weight: 500;
+ font-size: 18px;
+}
+.page-content .frm-fluent-form .ff-t-container {
+ display: block;
+}
+.page-content.translatepress-es_MX li.menu-item.menu-item-type-custom.menu-item-94692,.page-content .translatepress-vi li.menu-item.menu-item-type-custom.menu-item-94692,.page-content .translatepress-zh_CN li.menu-item.menu-item-type-custom.menu-item-94692{
+ display: none;
+}
+/* Default english site language toogle logic */
+.page-content .trp-language-switcher-container img{
+ display: none !important;
+}
+.page-content.translatepress-es_MX section.elementor-section.elementor-element-2a5c7b5 {
+ display: none;
+}
+.page-content.translatepress-es_MX section.elementor-section.elementor-element-abc6cb6 {
+ padding-top: 30px;
+}
+.page-content.translatepress-es_MX .elementor-element.playBtn.playDefault {
+ display: none;
+}
+.page-content.translatepress-es_MX .elementor-element.playBtn.playEs {
+ display: block !important;
+}
+.page-content.translatepress-es_MX .elementor-element.playBtn.hideEs {
+ display: none;
+}  .page-content.translatepress-en_US.single-careerpaths .trp-language-switcher-container,.page-content.translatepress-en_US.page-id-94617 .trp-language-switcher-container,.page-content.translatepress-en_US.page-id-7987 .trp-language-switcher-container,.page-content.translatepress-en_US.page-id-97314 .trp-language-switcher-container,.page-content.translatepress-en_US.page-id-94350 .trp-language-switcher-container,.page-content.translatepress-en_US.page-id-94159 .trp-language-switcher-container,.page-content.translatepress-en_US.page-id-94157 .trp-language-switcher-container {
+ display: flex !important;
+}
+/* End */
+.page-content #mc_embed_signup_scroll .mc-field-group.input-group ul {
+ display: flex;
+ gap: 20px;
+ margin-left: 15px !important;
+}
+.page-content #mc_embed_signup_scroll .mc-field-group.input-group ul li {
+ display: flex !important;
+ align-items: center;
+ gap: 3px;
+}
+.page-content #mc_embed_signup_scroll .mc-field-group.input-group ul li label {
+ margin: 0;
+}
+.page-content #mc_embed_signup span.helper_text {
+ font-size: 11px;
+}
+.page-content #mc_embed_signup_scroll .mc-field-group.input-group {
+ display: flex;
+ flex-wrap: wrap;
+}
+.page-content #mc_embed_signup_scroll .mc-field-group.input-group .helper_text {
+ flex-basis: 100%;
+}  .page-content #mc_embed_signup h2,.page-content #mc_embed_signup h1.native-source-h2 {
+ margin-bottom: 0 !important;
+ display: none !important
+}
+.page-content #mc_embed_signup .mc-field-group {
+ padding-bottom: 1% !important;
+}
+.page-content #mc_embed_signup .mc-field-group input {
+ padding: 4px 0px !important;
+}
+@media (max-width: 1024px){
+ .page-content section.elementor-section.elementor-top-section .elementor-widget-wrap.elementor-element-populated h2,.page-content section.elementor-section.elementor-top-section .elementor-widget-wrap.elementor-element-populated h1.native-source-h2 {
+ padding-top: 0px;
+ margin-bottom: 0px;
+ }
+ .page-content #content.content section:first-child {
+ padding-top: 0px;
+}
+.page-content #content.content section.pT170 {
+ padding-top: 0px;
+} 
+}
+/* This css from Shahin date: 29/11/2024 */
+.page-content .elementor-button-content-wrapper {
+ height: 38px;
+}
+.page-content section.elementor-section.heroVideo {
+ height: auto;
+ padding-top: 61px !important;
+}
+.page-content footer#footer .elementor-section .elementor-container {
+ justify-content: center;
+}
+/* End */  /* 
+This css from Shahin Date: 09/12/2024 */
+.page-content .page-id-94860 .trp-language-switcher-container,.page-content .page-id-95275 .trp-language-switcher-container,.page-content .page-id-96540 .trp-language-switcher-container,.page-content .page-id-96390 .trp-language-switcher-container,.page-content .page-id-8566 .trp-language-switcher-container,.page-content .page-id-7532 .trp-language-switcher-container
+{
+ display: none;
+}  .page-content h4 a,.page-content h4 span[aria-disabled="true"],.page-content h4 button.native-video-trigger,.page-content h1.native-source-h4 a,.page-content h4 a:hover,.page-content h4 span[aria-disabled="true"]:hover,.page-content h4 button.native-video-trigger:hover,.page-content h1.native-source-h4 a:hover {
+ color: var(--the7-links-color) !important;
+ text-decoration: underline;
+}
+.page-content footer h4 a,.page-content footer h4 span[aria-disabled="true"],.page-content footer h4 button.native-video-trigger,.page-content footer h1.native-source-h4 a {
+ color: #ffffff !important;
+}  /* End */
+.page-content .elementor-widget-the7_icon_box_grid_widget .box-button.elementor-button.no-text {
+ display: none;
+}
+/* This css for team page hide play button, only show Es site */
+.page-content .showOnlyEs {
+ display: none;
+}
+.page-content.translatepress-es_MX .showOnlyEs {
+ display: block;
+}
+/* End */
+.page-content .the7-e-tab-text-content p a,.page-content .the7-e-tab-text-content p span[aria-disabled="true"],.page-content .the7-e-tab-text-content p button.native-video-trigger,.page-content .the7-e-tab-text-content li a,.page-content .the7-e-tab-text-content li span[aria-disabled="true"],.page-content .the7-e-tab-text-content li button.native-video-trigger {
+ color: #18D6EC; 
+}
+.page-content .page-id-102049 header .current-language-menu-item {
+ display: none;
+} 

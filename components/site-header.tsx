@@ -1,11 +1,12 @@
 'use client';
-import { useRef, useState } from 'react';
+import { SearchDialog } from './search-dialog';
+import { useEffect, useRef, useState } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import type { GlobalContent, MobileItem } from '@/lib/global-content';
 import { hrefFor } from '@/lib/routing';
 import { SiteLink } from './site-link';
-import { CloseIcon, MenuIcon, SearchIcon } from './icons';
+import { CloseIcon, MenuIcon } from './icons';
 function MobileBranch({ item, enabled }: { item: MobileItem; enabled: boolean }) {
   return item.children.length ? (
     <details className="mobile-branch">
@@ -37,6 +38,17 @@ export function SiteHeader({
   transparent: boolean;
   enabled: boolean;
 }) {
+  const [scrolled, setScrolled] = useState(false);
+  useEffect(() => {
+    const update = () => setScrolled(window.scrollY > 60);
+    const frame = requestAnimationFrame(update);
+    window.addEventListener('scroll', update, { passive: true });
+    return () => {
+      cancelAnimationFrame(frame);
+      window.removeEventListener('scroll', update);
+    };
+  }, []);
+  const overHero = transparent && !scrolled;
   const [active, setActive] = useState<number | null>(null);
   const dialog = useRef<HTMLDialogElement>(null);
   const currentLabel = content.locale === 'es' ? 'Español' : 'English';
@@ -52,7 +64,12 @@ export function SiteHeader({
           {split.slice(1).join(announcement.linkLabel)}
         </div>
       )}
-      <header className={'site-header ' + (transparent ? 'over-hero' : '')} id="top">
+      <header
+        className={
+          'site-header ' + (overHero ? 'over-hero' : '') + (scrolled ? ' is-scrolled' : '')
+        }
+        id="top"
+      >
         <div className="header-inner">
           <button
             type="button"
@@ -65,7 +82,7 @@ export function SiteHeader({
           <Link href={homeHref} aria-label="CNAP" className="brand">
             <Image
               src={
-                transparent
+                overHero
                   ? '/images/brand/cnap-logo-white.webp'
                   : '/images/brand/cnap-logo-color.webp'
               }
@@ -157,9 +174,7 @@ export function SiteHeader({
               </div>
             </details>
           </nav>
-          <span className="search-placeholder" aria-hidden="true">
-            <SearchIcon />
-          </span>
+          <SearchDialog locale={content.locale === 'es' ? 'es' : 'en'} />
         </div>
       </header>
       <dialog ref={dialog} className="mobile-menu" aria-label={content.ui.navigation}>

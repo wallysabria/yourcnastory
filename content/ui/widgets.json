@@ -1,0 +1,22 @@
+{
+  "en": {
+    "previous": "Previous slide",
+    "next": "Next slide",
+    "pause": "Pause",
+    "play": "Play",
+    "playVideo": "Play video",
+    "closeVideo": "Close video",
+    "carousel": "Carousel",
+    "video": "Video"
+  },
+  "es": {
+    "previous": "Diapositiva anterior",
+    "next": "Diapositiva siguiente",
+    "pause": "Pausar",
+    "play": "Reproducir",
+    "playVideo": "Reproducir video",
+    "closeVideo": "Cerrar video",
+    "carousel": "Carrusel",
+    "video": "Video"
+  }
+}

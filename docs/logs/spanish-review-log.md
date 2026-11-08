@@ -31,3 +31,43 @@ New interface strings (native review pending): Cerrar menú (Close menu); Abrir 
 
 ## Phase 3
 24 Spanish content files preserve the rendered source character stream exactly after the five logged job-board removals (four policy substrings/paragraph and one advancement button). No Spanish text correction, translation or new Spanish interface string was added. Source strings, punctuation, translated testimonials and existing terminology remain frozen. Metadata/source parity evidence is in docs/reports/phase-03-parity.*. Native review remains pending.
+
+## Phase 4 native interface strings (2026-11-08)
+
+New interface text only; source Spanish bodies and SMS disclosure remain unchanged. Canonical form options: English and Español; retired Vietnamese/Chinese controls removed.
+
+| Catalog.key | New Spanish string |
+|---|---|
+| signup.preview | Formulario de prueba: no se creará ninguna suscripción. |
+| signup.pending | Enviando… |
+| signup.accepted | Se recibió el envío de prueba. No se creó ninguna suscripción. |
+| signup.invalid | Revisa los campos indicados. |
+| signup.unavailable | No se pudo procesar la solicitud. Inténtalo de nuevo. |
+| signup.limited | Espera antes de volver a intentarlo. |
+| signup.name | Escribe tu nombre. |
+| signup.zip | Escribe un código postal válido. |
+| signup.email | Escribe una dirección de correo electrónico válida. |
+| signup.phone | Escribe un número de teléfono válido con el código del país. |
+| signup.language | Elige English o Español. |
+| signup.countryCode | Código del país |
+| signup.required | Este campo es obligatorio. |
+| search.open | Buscar |
+| search.close | Cerrar búsqueda |
+| search.clear | Borrar búsqueda |
+| search.placeholder | Buscar... |
+| search.loading | Buscando… |
+| search.none | No se encontraron resultados. |
+| search.results | Resultados de búsqueda |
+| search.unavailable | La búsqueda no está disponible. Inténtalo de nuevo. |
+| search.count | {count} resultados |
+| search.one | 1 resultado |
+| widgets.previous | Diapositiva anterior |
+| widgets.next | Diapositiva siguiente |
+| widgets.pause | Pausar |
+| widgets.play | Reproducir |
+| widgets.playVideo | Reproducir video |
+| widgets.closeVideo | Cerrar video |
+| widgets.carousel | Carrusel |
+| widgets.video | Video |
+
+The source nursing career entries contain literal `.cls-...{fill:none;stroke:...}` fragments in anchor text. Preserved under frozen-copy rules; native-speaker/content review should decide whether to remove these artifacts later.

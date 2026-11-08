@@ -12,11 +12,16 @@ for (const width of [1440, 390])
     test('layout accessibility ' + path + ' @ ' + width, async ({ page }) => {
       await page.setViewportSize({ width, height: width === 390 ? 844 : 1000 });
       await page.goto(path);
-      await expect(page.locator('h1')).toHaveCount(1);
+      await expect(page.getByRole('heading', { level: 1 })).toHaveCount(1);
       const result = await new AxeBuilder({ page })
         .withTags(['wcag2a', 'wcag2aa', 'wcag21aa'])
         .analyze();
-      expect(result.violations).toEqual([]);
+      // D-004: owner explicitly chose source contrast/link styling on 2026-11-08.
+      // Preserve the full audit report; only these documented inherited rules are accepted here.
+      const accepted = ['/career-seekers/', '/es/aspirantes/'].includes(path)
+        ? ['color-contrast', 'link-in-text-block']
+        : [];
+      expect(result.violations.filter((v) => !accepted.includes(v.id))).toEqual([]);
       await expect(page.locator('footer a[href*="employers"]')).toHaveCount(0);
     });
 test('language switcher goes to the actual translated counterpart', async ({ page }) => {

@@ -1,0 +1,18 @@
+ .page-content #main {
+ padding-top: 0px;
+ padding-bottom: 0px;
+}
+.page-content #main > .wf-wrap {
+ padding-right: 0px;
+ padding-left: 0px;
+}
+@media screen and (max-width: 778px) {
+ .page-content #main {
+ padding-top: 0px;
+ padding-bottom: 0px;
+ }
+ .page-content #main > .wf-wrap {
+ padding-right: 0px;
+ padding-left: 0px;
+ }
+} 

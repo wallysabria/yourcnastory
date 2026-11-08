@@ -1,0 +1,26 @@
+{
+  "en": {
+    "open": "Search",
+    "close": "Close search",
+    "clear": "Clear Search",
+    "placeholder": "Search...",
+    "loading": "Searching…",
+    "none": "No results found.",
+    "results": "Search results",
+    "unavailable": "Search is unavailable. Please try again.",
+    "count": "{count} results",
+    "one": "1 result"
+  },
+  "es": {
+    "open": "Buscar",
+    "close": "Cerrar búsqueda",
+    "clear": "Borrar búsqueda",
+    "placeholder": "Buscar...",
+    "loading": "Buscando…",
+    "none": "No se encontraron resultados.",
+    "results": "Resultados de búsqueda",
+    "unavailable": "La búsqueda no está disponible. Inténtalo de nuevo.",
+    "count": "{count} resultados",
+    "one": "1 resultado"
+  }
+}
