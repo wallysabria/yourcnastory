@@ -137,3 +137,13 @@ test('search includes collapsed FAQ answer text and carousel motion controls res
     page.locator('.search-results a[href="/frequently-asked-questions/"]'),
   ).toBeVisible();
 });
+
+test('career content grids stay readable with reduced motion', async ({ page }) => {
+  await page.emulateMedia({ reducedMotion: 'reduce' });
+  await page.goto('/career-seekers/');
+  const card = page.locator('.wf-cell.shown').first();
+  await expect(card).toBeVisible();
+  await expect(card).toHaveCSS('opacity', '1');
+  await page.goto('/careerpaths/careers-in-activities/');
+  await expect(page.locator('.wf-cell.shown').first()).toHaveCSS('opacity', '1');
+});

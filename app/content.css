@@ -449,3 +449,9 @@ body:has(.site-header:not(.is-scrolled)) .back-to-top {
 .page-content .elementor-toc__body[hidden] {
   display: none !important;
 }
+
+/* Static native grids must remain readable when source entrance animations are disabled. */
+.page-content .wf-cell.shown {
+  opacity: 1 !important;
+  visibility: visible !important;
+}
