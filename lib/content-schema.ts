@@ -23,7 +23,13 @@ export const routeSchema = z.object({
 });
 export type ContentNode =
   | { type: 'text'; value: string }
-  | { type: 'element'; tag: string; attrs: Record<string, string>; children: ContentNode[] };
+  | {
+      type: 'element';
+      tag: string;
+      attrs: Record<string, string>;
+      children: ContentNode[];
+      source?: { elementorId: string; widget: string; classes: string };
+    };
 export const contentNodeSchema: z.ZodType<ContentNode> = z.lazy(() =>
   z.discriminatedUnion('type', [
     z.object({ type: z.literal('text'), value: z.string() }),

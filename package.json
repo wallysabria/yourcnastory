@@ -4,7 +4,7 @@
   "description": "YourCNAStory.org migration foundation",
   "scripts": {
     "dev": "next dev --hostname 127.0.0.1 --port 3101",
-    "build": "next build",
+    "build": "node scripts/build-site.mjs",
     "start": "next start --hostname 127.0.0.1 --port 3101",
     "lint": "eslint .",
     "typecheck": "next typegen && tsc --noEmit",
@@ -19,7 +19,9 @@
     "content:verify": "node scripts/verify-content.mjs",
     "content:verify:live": "node scripts/verify-content.mjs --live",
     "content:visible": "node scripts/check-visible-content.mjs",
-    "content:capture": "node scripts/capture-content-source.mjs"
+    "content:capture": "node scripts/capture-content-source.mjs",
+    "search:build": "node scripts/build-search.mjs",
+    "layout:prepare": "node scripts/prepare-page-layout.mjs"
   },
   "repository": {
     "type": "git",
@@ -45,6 +47,8 @@
     "eslint": "^9.39.5",
     "eslint-config-next": "^16.4.5",
     "pagefind": "^1.6.0",
+    "pixelmatch": "^8.0.0",
+    "pngjs": "^7.0.0",
     "prettier": "^3.9.10",
     "typescript": "^6.0.3"
   },

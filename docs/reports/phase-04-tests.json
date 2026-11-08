@@ -1,0 +1,207 @@
+{
+  "stats": {
+    "startTime": "2026-11-08T17:33:42.688Z",
+    "duration": 16312.294,
+    "expected": 39,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  },
+  "tests": [
+    {
+      "name": "every extracted page renders in the inert content-review endpoint",
+      "project": "content",
+      "status": "passed"
+    },
+    {
+      "name": "content-review cannot expose employer or filesystem paths",
+      "project": "content",
+      "status": "passed"
+    },
+    {
+      "name": "all imported media are served with the recorded byte length",
+      "project": "content",
+      "status": "passed"
+    },
+    {
+      "name": "public templates contain no retired chat launcher or welcome UI",
+      "project": "content",
+      "status": "passed"
+    },
+    {
+      "name": "validated route map preserves reciprocal pairs and excludes gated content",
+      "project": "unit",
+      "status": "passed"
+    },
+    {
+      "name": "both global settings validate and Spanish copy stays source-driven",
+      "project": "unit",
+      "status": "passed"
+    },
+    {
+      "name": "employer links are inert with the gate off and active with it on",
+      "project": "unit",
+      "status": "passed"
+    },
+    {
+      "name": "all activated redirects map directly without redirect chains",
+      "project": "unit",
+      "status": "passed"
+    },
+    {
+      "name": "every activated redirect returns actual HTTP 301 and the planned location",
+      "project": "unit",
+      "status": "passed"
+    },
+    {
+      "name": "every static shell has the right language, canonical, and noindex headers",
+      "project": "unit",
+      "status": "passed"
+    },
+    {
+      "name": "global navigation URLs remain accounted for in the route or reserved manifests",
+      "project": "unit",
+      "status": "passed"
+    },
+    {
+      "name": "unapproved redirect rows remain inactive even through fallback rules",
+      "project": "unit",
+      "status": "passed"
+    },
+    {
+      "name": "valid, existing, and unavailable signup transports are handled without external calls",
+      "project": "unit",
+      "status": "passed"
+    },
+    {
+      "name": "invalid fields and honeypot never reach the transport",
+      "project": "unit",
+      "status": "passed"
+    },
+    {
+      "name": "phone validation accepts national/full international input and enforces E164 length",
+      "project": "unit",
+      "status": "passed"
+    },
+    {
+      "name": "search language, clear, empty state and focus en",
+      "project": "chromium",
+      "status": "passed"
+    },
+    {
+      "name": "search language, clear, empty state and focus es",
+      "project": "chromium",
+      "status": "passed"
+    },
+    {
+      "name": "FAQ and video dialogs support keyboard and restore focus",
+      "project": "chromium",
+      "status": "passed"
+    },
+    {
+      "name": "form errors are accessible and a double submit makes one mock request",
+      "project": "chromium",
+      "status": "passed"
+    },
+    {
+      "name": "server signup validates, accepts mock input and rate limits without external requests",
+      "project": "chromium",
+      "status": "passed"
+    },
+    {
+      "name": "privacy contents links preserve anchors and collapse on mobile",
+      "project": "chromium",
+      "status": "passed"
+    },
+    {
+      "name": "search includes collapsed FAQ answer text and carousel motion controls respond",
+      "project": "chromium",
+      "status": "passed"
+    },
+    {
+      "name": "career content grids stay readable with reduced motion",
+      "project": "chromium",
+      "status": "passed"
+    },
+    {
+      "name": "layout accessibility / @ 1440",
+      "project": "chromium",
+      "status": "passed"
+    },
+    {
+      "name": "layout accessibility /es/ @ 1440",
+      "project": "chromium",
+      "status": "passed"
+    },
+    {
+      "name": "layout accessibility /career-seekers/ @ 1440",
+      "project": "chromium",
+      "status": "passed"
+    },
+    {
+      "name": "layout accessibility /es/aspirantes/ @ 1440",
+      "project": "chromium",
+      "status": "passed"
+    },
+    {
+      "name": "layout accessibility /cna-training-providers/ @ 1440",
+      "project": "chromium",
+      "status": "passed"
+    },
+    {
+      "name": "layout accessibility /es/programa-cna-2/ @ 1440",
+      "project": "chromium",
+      "status": "passed"
+    },
+    {
+      "name": "layout accessibility / @ 390",
+      "project": "chromium",
+      "status": "passed"
+    },
+    {
+      "name": "layout accessibility /es/ @ 390",
+      "project": "chromium",
+      "status": "passed"
+    },
+    {
+      "name": "layout accessibility /career-seekers/ @ 390",
+      "project": "chromium",
+      "status": "passed"
+    },
+    {
+      "name": "layout accessibility /es/aspirantes/ @ 390",
+      "project": "chromium",
+      "status": "passed"
+    },
+    {
+      "name": "layout accessibility /cna-training-providers/ @ 390",
+      "project": "chromium",
+      "status": "passed"
+    },
+    {
+      "name": "layout accessibility /es/programa-cna-2/ @ 390",
+      "project": "chromium",
+      "status": "passed"
+    },
+    {
+      "name": "language switcher goes to the actual translated counterpart",
+      "project": "chromium",
+      "status": "passed"
+    },
+    {
+      "name": "mobile menu opens, expands and restores focus on Escape",
+      "project": "chromium",
+      "status": "passed"
+    },
+    {
+      "name": "keyboard opens the career mega menu and Escape closes it",
+      "project": "chromium",
+      "status": "passed"
+    },
+    {
+      "name": "tablet uses the source mobile-navigation breakpoint",
+      "project": "chromium",
+      "status": "passed"
+    }
+  ]
+}

@@ -1,0 +1,1725 @@
+{
+  "ownerDecision": "D-004 declined: preserve source contrast/link styling and flag failures. Automated scan is not WCAG certification.",
+  "checks": [
+    {
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "width": 1440,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "width": 1440,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/careerpaths/careers-in-support-services/",
+      "width": 1440,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/careerpaths/careers-in-therapy/",
+      "width": 1440,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/careerpaths/careers-in-care-coordination/",
+      "width": 1440,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/careerpaths/careers-in-social-services/",
+      "width": 1440,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/careerpaths/careers-in-activities/",
+      "width": 1440,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/careerpaths/careers-in-administration/",
+      "width": 1440,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/",
+      "width": 1440,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/career-seekers/",
+      "width": 1440,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-element-b3c7573 > .elementor-widget-container > .elementor-button-wrapper > .elementor-size-xl.box-button.elementor-button"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#mce-MMERGE3-HELPERTEXT"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.47 (foreground color: #8d8985, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "link-in-text-block",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-heading-title.elementor-size-default[aria-level=\"4\"] > a"
+              ],
+              "summary": "Fix any of the following:\n  The link has insufficient color contrast of 2.05:1 with the surrounding text. (Minimum contrast is 3:1, link text: #0159d3, surrounding text: #2c3338)\n  The link has no styling (such as underline) to distinguish it from the surrounding text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/career-paths-in-long-term-care/",
+      "width": 1440,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/community-resources/",
+      "width": 1440,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/privacy-policy/",
+      "width": 1440,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/certified-nurse-assistant-program/",
+      "width": 1440,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-element-43ec06f > .elementor-widget-container > .elementor-button-wrapper > .elementor-size-lg.elementor-button-link.elementor-button > .elementor-button-content-wrapper > .elementor-button-text"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/cna-training-providers/",
+      "width": 1440,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/what-is-long-term-care/",
+      "width": 1440,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/career-advancement/",
+      "width": 1440,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-element-b3c7573 > .elementor-widget-container > .elementor-button-wrapper > .elementor-size-xl.box-button.elementor-button"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#mce-MMERGE3-HELPERTEXT"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.47 (foreground color: #8d8985, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "link-in-text-block",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-heading-title[aria-level=\"4\"] > a"
+              ],
+              "summary": "Fix any of the following:\n  The link has insufficient color contrast of 2.05:1 with the surrounding text. (Minimum contrast is 3:1, link text: #0159d3, surrounding text: #2c3338)\n  The link has no styling (such as underline) to distinguish it from the surrounding text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/earn-and-learn-la/",
+      "width": 1440,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-element-b3c7573 > .elementor-widget-container > .elementor-button-wrapper > .elementor-size-xl.box-button.elementor-button"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#mce-MMERGE3-HELPERTEXT"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.47 (foreground color: #8d8985, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".elementor-size-lg[target=\"_blank\"][rel=\"noopener noreferrer\"] > .elementor-button-content-wrapper > .elementor-button-text"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/frequently-asked-questions/",
+      "width": 1440,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                "#mce-MMERGE3-HELPERTEXT"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.47 (foreground color: #8d8985, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/earn-and-learn-cvalley/",
+      "width": 1440,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-element-b3c7573 > .elementor-widget-container > .elementor-button-wrapper > .elementor-size-xl.box-button.elementor-button"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#mce-MMERGE3-HELPERTEXT"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.47 (foreground color: #8d8985, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".elementor-size-lg[target=\"_blank\"][rel=\"noopener noreferrer\"] > .elementor-button-content-wrapper > .elementor-button-text"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/earn-and-learn-bayarea/",
+      "width": 1440,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-element-b3c7573 > .elementor-widget-container > .elementor-button-wrapper > .elementor-size-xl.box-button.elementor-button"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#mce-MMERGE3-HELPERTEXT"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.47 (foreground color: #8d8985, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".elementor-size-lg[target=\"_blank\"][rel=\"noopener noreferrer\"] > .elementor-button-content-wrapper > .elementor-button-text"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/earn-and-learn-norcal/",
+      "width": 1440,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-element-b3c7573 > .elementor-widget-container > .elementor-button-wrapper > .elementor-size-xl.box-button.elementor-button"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#mce-MMERGE3-HELPERTEXT"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.47 (foreground color: #8d8985, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".elementor-size-lg[target=\"_blank\"][rel=\"noopener noreferrer\"] > .elementor-button-content-wrapper > .elementor-button-text"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/earn-and-learn-san-diego/",
+      "width": 1440,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-element-b3c7573 > .elementor-widget-container > .elementor-button-wrapper > .elementor-size-xl.box-button.elementor-button"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#mce-MMERGE3-HELPERTEXT"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.47 (foreground color: #8d8985, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".elementor-size-lg[target=\"_blank\"][rel=\"noopener noreferrer\"] > .elementor-button-content-wrapper > .elementor-button-text"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/earn-and-learn/",
+      "width": 1440,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-element-b3c7573 > .elementor-widget-container > .elementor-button-wrapper > .elementor-size-xl.box-button.elementor-button"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#mce-MMERGE3-HELPERTEXT"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.47 (foreground color: #8d8985, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".elementor-size-lg[target=\"_blank\"][rel=\"noopener noreferrer\"] > .elementor-button-content-wrapper > .elementor-button-text"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/es/",
+      "width": 1440,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/es/que-es-cuidar-a-largo-plazo/",
+      "width": 1440,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/es/recursos-comunitarios/",
+      "width": 1440,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+      "width": 1440,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/es/programa-cna/",
+      "width": 1440,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-element-43ec06f > .elementor-widget-container > .elementor-button-wrapper > .elementor-size-lg.elementor-button-link.elementor-button > .elementor-button-content-wrapper > .elementor-button-text"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/es/aspirantes/",
+      "width": 1440,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-size-xl.box-button[href$=\"programa-cna/\"]"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#mce-MMERGE3-HELPERTEXT"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.47 (foreground color: #8d8985, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "link-in-text-block",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                "a[target=\"_self\"][href$=\"programa-cna/\"]"
+              ],
+              "summary": "Fix any of the following:\n  The link has insufficient color contrast of 2.05:1 with the surrounding text. (Minimum contrast is 3:1, link text: #0159d3, surrounding text: #2c3338)\n  The link has no styling (such as underline) to distinguish it from the surrounding text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/es/programa-cna-2/",
+      "width": 1440,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "width": 1440,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                "#mce-MMERGE3-HELPERTEXT"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.47 (foreground color: #8d8985, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "width": 1440,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "width": 1440,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-de-apoyo/",
+      "width": 1440,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/es/carreras/carreras-en-terapia/",
+      "width": 1440,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+      "width": 1440,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-sociales/",
+      "width": 1440,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/es/carreras/carreras-en-actividades/",
+      "width": 1440,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/es/carreras/carreras-en-administracion/",
+      "width": 1440,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/es/politica-de-privacidad/",
+      "width": 1440,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "width": 1440,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-size-xl.box-button[href$=\"programa-cna/\"]"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#mce-MMERGE3-HELPERTEXT"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.47 (foreground color: #8d8985, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "link-in-text-block",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                "a[target=\"_self\"][href$=\"programa-cna/\"]"
+              ],
+              "summary": "Fix any of the following:\n  The link has insufficient color contrast of 2.05:1 with the surrounding text. (Minimum contrast is 3:1, link text: #0159d3, surrounding text: #2c3338)\n  The link has no styling (such as underline) to distinguish it from the surrounding text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/es/ganar-y-aprender-la/",
+      "width": 1440,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-size-xl.box-button[href$=\"programa-cna/\"]"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#mce-MMERGE3-HELPERTEXT"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.47 (foreground color: #8d8985, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".elementor-size-lg[target=\"_blank\"][rel=\"noopener noreferrer\"] > .elementor-button-content-wrapper > .elementor-button-text"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/es/gana-y-aprende-cvalley/",
+      "width": 1440,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-size-xl.box-button[href$=\"programa-cna/\"]"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#mce-MMERGE3-HELPERTEXT"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.47 (foreground color: #8d8985, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".elementor-size-lg[target=\"_blank\"][rel=\"noopener noreferrer\"] > .elementor-button-content-wrapper > .elementor-button-text"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/es/gana-y-aprende-bayarea/",
+      "width": 1440,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-size-xl.box-button[href$=\"programa-cna/\"]"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#mce-MMERGE3-HELPERTEXT"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.47 (foreground color: #8d8985, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".elementor-size-lg[target=\"_blank\"][rel=\"noopener noreferrer\"] > .elementor-button-content-wrapper > .elementor-button-text"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/es/earn-and-learn-norcal/",
+      "width": 1440,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-size-xl.box-button[href$=\"programa-cna/\"]"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#mce-MMERGE3-HELPERTEXT"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.47 (foreground color: #8d8985, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".elementor-size-lg[target=\"_blank\"][rel=\"noopener noreferrer\"] > .elementor-button-content-wrapper > .elementor-button-text"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/es/gana-y-aprende-san-diego/",
+      "width": 1440,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-size-xl.box-button[href$=\"programa-cna/\"]"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#mce-MMERGE3-HELPERTEXT"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.47 (foreground color: #8d8985, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".elementor-size-lg[target=\"_blank\"][rel=\"noopener noreferrer\"] > .elementor-button-content-wrapper > .elementor-button-text"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/es/earn-and-learn/",
+      "width": 1440,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-size-xl.box-button[href$=\"programa-cna/\"]"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#mce-MMERGE3-HELPERTEXT"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.47 (foreground color: #8d8985, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".elementor-size-lg[target=\"_blank\"][rel=\"noopener noreferrer\"] > .elementor-button-content-wrapper > .elementor-button-text"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "width": 390,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "width": 390,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/careerpaths/careers-in-support-services/",
+      "width": 390,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/careerpaths/careers-in-therapy/",
+      "width": 390,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/careerpaths/careers-in-care-coordination/",
+      "width": 390,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/careerpaths/careers-in-social-services/",
+      "width": 390,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/careerpaths/careers-in-activities/",
+      "width": 390,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/careerpaths/careers-in-administration/",
+      "width": 390,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/",
+      "width": 390,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/career-seekers/",
+      "width": 390,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-element-b3c7573 > .elementor-widget-container > .elementor-button-wrapper > .elementor-size-xl.box-button.elementor-button"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#mce-MMERGE3-HELPERTEXT"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.47 (foreground color: #8d8985, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "link-in-text-block",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-heading-title.elementor-size-default[aria-level=\"4\"] > a"
+              ],
+              "summary": "Fix any of the following:\n  The link has insufficient color contrast of 2.05:1 with the surrounding text. (Minimum contrast is 3:1, link text: #0159d3, surrounding text: #2c3338)\n  The link has no styling (such as underline) to distinguish it from the surrounding text"
+            },
+            {
+              "target": [
+                "a[href$=\"iHs9UM\"]"
+              ],
+              "summary": "Fix any of the following:\n  The link has insufficient color contrast of 1.09:1 with the surrounding text. (Minimum contrast is 3:1, link text: #0159d3, surrounding text: #5b5b5b)\n  The link has no styling (such as underline) to distinguish it from the surrounding text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/career-paths-in-long-term-care/",
+      "width": 390,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/community-resources/",
+      "width": 390,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/privacy-policy/",
+      "width": 390,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/certified-nurse-assistant-program/",
+      "width": 390,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-element-43ec06f > .elementor-widget-container > .elementor-button-wrapper > .elementor-size-lg.elementor-button-link.elementor-button > .elementor-button-content-wrapper > .elementor-button-text"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/cna-training-providers/",
+      "width": 390,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/what-is-long-term-care/",
+      "width": 390,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/career-advancement/",
+      "width": 390,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-element-b3c7573 > .elementor-widget-container > .elementor-button-wrapper > .elementor-size-xl.box-button.elementor-button"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#mce-MMERGE3-HELPERTEXT"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.47 (foreground color: #8d8985, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "link-in-text-block",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-heading-title[aria-level=\"4\"] > a"
+              ],
+              "summary": "Fix any of the following:\n  The link has insufficient color contrast of 2.05:1 with the surrounding text. (Minimum contrast is 3:1, link text: #0159d3, surrounding text: #2c3338)\n  The link has no styling (such as underline) to distinguish it from the surrounding text"
+            },
+            {
+              "target": [
+                "a[href$=\"iHs9UM\"]"
+              ],
+              "summary": "Fix any of the following:\n  The link has insufficient color contrast of 1.09:1 with the surrounding text. (Minimum contrast is 3:1, link text: #0159d3, surrounding text: #5b5b5b)\n  The link has no styling (such as underline) to distinguish it from the surrounding text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/earn-and-learn-la/",
+      "width": 390,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-element-b3c7573 > .elementor-widget-container > .elementor-button-wrapper > .elementor-size-xl.box-button.elementor-button"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#mce-MMERGE3-HELPERTEXT"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.47 (foreground color: #8d8985, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".elementor-size-lg[target=\"_blank\"][rel=\"noopener noreferrer\"] > .elementor-button-content-wrapper > .elementor-button-text"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "link-in-text-block",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                "a[href$=\"iHs9UM\"]"
+              ],
+              "summary": "Fix any of the following:\n  The link has insufficient color contrast of 1.09:1 with the surrounding text. (Minimum contrast is 3:1, link text: #0159d3, surrounding text: #5b5b5b)\n  The link has no styling (such as underline) to distinguish it from the surrounding text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/frequently-asked-questions/",
+      "width": 390,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                "#mce-MMERGE3-HELPERTEXT"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.47 (foreground color: #8d8985, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "link-in-text-block",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                "a[href$=\"iHs9UM\"]"
+              ],
+              "summary": "Fix any of the following:\n  The link has insufficient color contrast of 1.09:1 with the surrounding text. (Minimum contrast is 3:1, link text: #0159d3, surrounding text: #5b5b5b)\n  The link has no styling (such as underline) to distinguish it from the surrounding text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/earn-and-learn-cvalley/",
+      "width": 390,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-element-b3c7573 > .elementor-widget-container > .elementor-button-wrapper > .elementor-size-xl.box-button.elementor-button"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#mce-MMERGE3-HELPERTEXT"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.47 (foreground color: #8d8985, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".elementor-size-lg[target=\"_blank\"][rel=\"noopener noreferrer\"] > .elementor-button-content-wrapper > .elementor-button-text"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "link-in-text-block",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                "a[href$=\"iHs9UM\"]"
+              ],
+              "summary": "Fix any of the following:\n  The link has insufficient color contrast of 1.09:1 with the surrounding text. (Minimum contrast is 3:1, link text: #0159d3, surrounding text: #5b5b5b)\n  The link has no styling (such as underline) to distinguish it from the surrounding text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/earn-and-learn-bayarea/",
+      "width": 390,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-element-b3c7573 > .elementor-widget-container > .elementor-button-wrapper > .elementor-size-xl.box-button.elementor-button"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#mce-MMERGE3-HELPERTEXT"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.47 (foreground color: #8d8985, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".elementor-size-lg[target=\"_blank\"][rel=\"noopener noreferrer\"] > .elementor-button-content-wrapper > .elementor-button-text"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "link-in-text-block",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                "a[href$=\"iHs9UM\"]"
+              ],
+              "summary": "Fix any of the following:\n  The link has insufficient color contrast of 1.09:1 with the surrounding text. (Minimum contrast is 3:1, link text: #0159d3, surrounding text: #5b5b5b)\n  The link has no styling (such as underline) to distinguish it from the surrounding text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/earn-and-learn-norcal/",
+      "width": 390,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-element-b3c7573 > .elementor-widget-container > .elementor-button-wrapper > .elementor-size-xl.box-button.elementor-button"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#mce-MMERGE3-HELPERTEXT"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.47 (foreground color: #8d8985, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".elementor-size-lg[target=\"_blank\"][rel=\"noopener noreferrer\"] > .elementor-button-content-wrapper > .elementor-button-text"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "link-in-text-block",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                "a[href$=\"iHs9UM\"]"
+              ],
+              "summary": "Fix any of the following:\n  The link has insufficient color contrast of 1.09:1 with the surrounding text. (Minimum contrast is 3:1, link text: #0159d3, surrounding text: #5b5b5b)\n  The link has no styling (such as underline) to distinguish it from the surrounding text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/earn-and-learn-san-diego/",
+      "width": 390,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-element-b3c7573 > .elementor-widget-container > .elementor-button-wrapper > .elementor-size-xl.box-button.elementor-button"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#mce-MMERGE3-HELPERTEXT"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.47 (foreground color: #8d8985, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".elementor-size-lg[target=\"_blank\"][rel=\"noopener noreferrer\"] > .elementor-button-content-wrapper > .elementor-button-text"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "link-in-text-block",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                "a[href$=\"iHs9UM\"]"
+              ],
+              "summary": "Fix any of the following:\n  The link has insufficient color contrast of 1.09:1 with the surrounding text. (Minimum contrast is 3:1, link text: #0159d3, surrounding text: #5b5b5b)\n  The link has no styling (such as underline) to distinguish it from the surrounding text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/earn-and-learn/",
+      "width": 390,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-element-b3c7573 > .elementor-widget-container > .elementor-button-wrapper > .elementor-size-xl.box-button.elementor-button"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#mce-MMERGE3-HELPERTEXT"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.47 (foreground color: #8d8985, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".elementor-size-lg[target=\"_blank\"][rel=\"noopener noreferrer\"] > .elementor-button-content-wrapper > .elementor-button-text"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "link-in-text-block",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                "a[href$=\"iHs9UM\"]"
+              ],
+              "summary": "Fix any of the following:\n  The link has insufficient color contrast of 1.09:1 with the surrounding text. (Minimum contrast is 3:1, link text: #0159d3, surrounding text: #5b5b5b)\n  The link has no styling (such as underline) to distinguish it from the surrounding text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/es/",
+      "width": 390,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/es/que-es-cuidar-a-largo-plazo/",
+      "width": 390,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/es/recursos-comunitarios/",
+      "width": 390,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+      "width": 390,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/es/programa-cna/",
+      "width": 390,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-element-43ec06f > .elementor-widget-container > .elementor-button-wrapper > .elementor-size-lg.elementor-button-link.elementor-button > .elementor-button-content-wrapper > .elementor-button-text"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/es/aspirantes/",
+      "width": 390,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-size-xl.box-button[href$=\"programa-cna/\"]"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#mce-MMERGE3-HELPERTEXT"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.47 (foreground color: #8d8985, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "link-in-text-block",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                "a[target=\"_self\"][href$=\"programa-cna/\"]"
+              ],
+              "summary": "Fix any of the following:\n  The link has insufficient color contrast of 2.05:1 with the surrounding text. (Minimum contrast is 3:1, link text: #0159d3, surrounding text: #2c3338)\n  The link has no styling (such as underline) to distinguish it from the surrounding text"
+            },
+            {
+              "target": [
+                "a[href$=\"iHs9UM\"]"
+              ],
+              "summary": "Fix any of the following:\n  The link has insufficient color contrast of 1.09:1 with the surrounding text. (Minimum contrast is 3:1, link text: #0159d3, surrounding text: #5b5b5b)\n  The link has no styling (such as underline) to distinguish it from the surrounding text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/es/programa-cna-2/",
+      "width": 390,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "width": 390,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                "#mce-MMERGE3-HELPERTEXT"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.47 (foreground color: #8d8985, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "link-in-text-block",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                "a[target=\"_blank\"]"
+              ],
+              "summary": "Fix any of the following:\n  The link has insufficient color contrast of 1.09:1 with the surrounding text. (Minimum contrast is 3:1, link text: #0159d3, surrounding text: #5b5b5b)\n  The link has no styling (such as underline) to distinguish it from the surrounding text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "width": 390,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "width": 390,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-de-apoyo/",
+      "width": 390,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/es/carreras/carreras-en-terapia/",
+      "width": 390,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+      "width": 390,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-sociales/",
+      "width": 390,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/es/carreras/carreras-en-actividades/",
+      "width": 390,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/es/carreras/carreras-en-administracion/",
+      "width": 390,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/es/politica-de-privacidad/",
+      "width": 390,
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "width": 390,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-size-xl.box-button[href$=\"programa-cna/\"]"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#mce-MMERGE3-HELPERTEXT"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.47 (foreground color: #8d8985, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "link-in-text-block",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                "a[target=\"_self\"][href$=\"programa-cna/\"]"
+              ],
+              "summary": "Fix any of the following:\n  The link has insufficient color contrast of 2.05:1 with the surrounding text. (Minimum contrast is 3:1, link text: #0159d3, surrounding text: #2c3338)\n  The link has no styling (such as underline) to distinguish it from the surrounding text"
+            },
+            {
+              "target": [
+                "a[href$=\"iHs9UM\"]"
+              ],
+              "summary": "Fix any of the following:\n  The link has insufficient color contrast of 1.09:1 with the surrounding text. (Minimum contrast is 3:1, link text: #0159d3, surrounding text: #5b5b5b)\n  The link has no styling (such as underline) to distinguish it from the surrounding text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/es/ganar-y-aprender-la/",
+      "width": 390,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-size-xl.box-button[href$=\"programa-cna/\"]"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#mce-MMERGE3-HELPERTEXT"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.47 (foreground color: #8d8985, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".elementor-size-lg[target=\"_blank\"][rel=\"noopener noreferrer\"] > .elementor-button-content-wrapper > .elementor-button-text"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "link-in-text-block",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                "a[href$=\"iHs9UM\"]"
+              ],
+              "summary": "Fix any of the following:\n  The link has insufficient color contrast of 1.09:1 with the surrounding text. (Minimum contrast is 3:1, link text: #0159d3, surrounding text: #5b5b5b)\n  The link has no styling (such as underline) to distinguish it from the surrounding text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/es/gana-y-aprende-cvalley/",
+      "width": 390,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-size-xl.box-button[href$=\"programa-cna/\"]"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#mce-MMERGE3-HELPERTEXT"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.47 (foreground color: #8d8985, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".elementor-size-lg[target=\"_blank\"][rel=\"noopener noreferrer\"] > .elementor-button-content-wrapper > .elementor-button-text"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "link-in-text-block",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                "a[href$=\"iHs9UM\"]"
+              ],
+              "summary": "Fix any of the following:\n  The link has insufficient color contrast of 1.09:1 with the surrounding text. (Minimum contrast is 3:1, link text: #0159d3, surrounding text: #5b5b5b)\n  The link has no styling (such as underline) to distinguish it from the surrounding text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/es/gana-y-aprende-bayarea/",
+      "width": 390,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-size-xl.box-button[href$=\"programa-cna/\"]"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#mce-MMERGE3-HELPERTEXT"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.47 (foreground color: #8d8985, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".elementor-size-lg[target=\"_blank\"][rel=\"noopener noreferrer\"] > .elementor-button-content-wrapper > .elementor-button-text"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "link-in-text-block",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                "a[href$=\"iHs9UM\"]"
+              ],
+              "summary": "Fix any of the following:\n  The link has insufficient color contrast of 1.09:1 with the surrounding text. (Minimum contrast is 3:1, link text: #0159d3, surrounding text: #5b5b5b)\n  The link has no styling (such as underline) to distinguish it from the surrounding text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/es/earn-and-learn-norcal/",
+      "width": 390,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-size-xl.box-button[href$=\"programa-cna/\"]"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#mce-MMERGE3-HELPERTEXT"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.47 (foreground color: #8d8985, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".elementor-size-lg[target=\"_blank\"][rel=\"noopener noreferrer\"] > .elementor-button-content-wrapper > .elementor-button-text"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "link-in-text-block",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                "a[href$=\"iHs9UM\"]"
+              ],
+              "summary": "Fix any of the following:\n  The link has insufficient color contrast of 1.09:1 with the surrounding text. (Minimum contrast is 3:1, link text: #0159d3, surrounding text: #5b5b5b)\n  The link has no styling (such as underline) to distinguish it from the surrounding text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/es/gana-y-aprende-san-diego/",
+      "width": 390,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-size-xl.box-button[href$=\"programa-cna/\"]"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#mce-MMERGE3-HELPERTEXT"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.47 (foreground color: #8d8985, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".elementor-size-lg[target=\"_blank\"][rel=\"noopener noreferrer\"] > .elementor-button-content-wrapper > .elementor-button-text"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "link-in-text-block",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                "a[href$=\"iHs9UM\"]"
+              ],
+              "summary": "Fix any of the following:\n  The link has insufficient color contrast of 1.09:1 with the surrounding text. (Minimum contrast is 3:1, link text: #0159d3, surrounding text: #5b5b5b)\n  The link has no styling (such as underline) to distinguish it from the surrounding text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/es/earn-and-learn/",
+      "width": 390,
+      "overflow": false,
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                ".elementor-size-xl.box-button[href$=\"programa-cna/\"]"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#mce-MMERGE3-HELPERTEXT"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.47 (foreground color: #8d8985, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".elementor-size-lg[target=\"_blank\"][rel=\"noopener noreferrer\"] > .elementor-button-content-wrapper > .elementor-button-text"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "link-in-text-block",
+          "impact": "serious",
+          "nodes": [
+            {
+              "target": [
+                "a[href$=\"iHs9UM\"]"
+              ],
+              "summary": "Fix any of the following:\n  The link has insufficient color contrast of 1.09:1 with the surrounding text. (Minimum contrast is 3:1, link text: #0159d3, surrounding text: #5b5b5b)\n  The link has no styling (such as underline) to distinguish it from the surrounding text"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

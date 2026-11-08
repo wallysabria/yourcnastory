@@ -1,0 +1,578 @@
+{
+  "/careerpaths/careers-in-nursing/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/careerpaths/careers-in-certified-nurse-assistant/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/careerpaths/careers-in-support-services/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/careerpaths/careers-in-therapy/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/careerpaths/careers-in-care-coordination/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/careerpaths/careers-in-social-services/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/careerpaths/careers-in-activities/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/careerpaths/careers-in-administration/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/career-seekers/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/career-paths-in-long-term-care/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/community-resources/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/privacy-policy/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/certified-nurse-assistant-program/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/cna-training-providers/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/what-is-long-term-care/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/career-advancement/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/earn-and-learn-la/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/frequently-asked-questions/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/earn-and-learn-cvalley/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/earn-and-learn-bayarea/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/earn-and-learn-norcal/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/earn-and-learn-san-diego/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/earn-and-learn/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/es/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/es/que-es-cuidar-a-largo-plazo/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/es/recursos-comunitarios/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/es/programa-cna/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/es/aspirantes/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/es/programa-cna-2/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/es/preguntas-frecuentes/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/es/carreras/carreras-en-enfermeria/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/es/carreras/carreras-en-servicios-de-apoyo/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/es/carreras/carreras-en-terapia/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/es/carreras/carreras-en-coordinacion-de-cuidados/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/es/carreras/carreras-en-servicios-sociales/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/es/carreras/carreras-en-actividades/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/es/carreras/carreras-en-administracion/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/es/politica-de-privacidad/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/es/avance-profesional/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/es/ganar-y-aprender-la/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/es/gana-y-aprende-cvalley/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/es/gana-y-aprende-bayarea/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/es/earn-and-learn-norcal/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/es/gana-y-aprende-san-diego/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/es/earn-and-learn/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  }
+}

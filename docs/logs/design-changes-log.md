@@ -19,3 +19,12 @@ D-001 implemented through the default zoomable viewport. D-002 deferred until th
 
 ## Phase 3
 No production template or design change. /api/content-review/ is an explicitly labeled, inert diagnostic rendering for content verification only; it does not replace any page layout. All public route bodies remain Phase 2 shells pending Phase 4. D-002 remains deferred until form implementation.
+
+## Phase 4 approvals
+D-003 — approved by owner with Phase 4 plan (2026-11-07): add pause/play controls for autoplay media where missing, styled to match existing controls, to support accessible motion control. D-001 pinch zoom and D-002 signup overflow remain approved. No other deliberate visual deviation is authorized.
+
+## D-004 — Accessible source contrast and inline links — declined (2026-11-08)
+
+Full Phase 4 axe checks identified white text on cyan (#0BC4D9) at 2.11:1 (needs 4.5:1), plus inline links distinguished only by color. Proposal: retain cyan backgrounds and use existing dark brand text #2C3338 (about 6.0:1) only on the affected cyan CTAs; underline inline heading links and the SMS terms link. No copy, sizing, layout, or destination changes. Applies to EN/ES Career Seekers, Career Advancement, CNA Program and Earn and Learn variants where present. Preview images: ignored _source/phase-04/contrast-before.png and contrast-proposed.png. Requires explicit approval under CLAUDE.md §4.6; not applied to shipping styles.
+
+Owner decision: keep source styling and flag accessibility failures. No D-004 styling applied. Zero-axe acceptance remains unmet for these inherited issues; no WCAG AA conformance claim.

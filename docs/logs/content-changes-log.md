@@ -30,3 +30,9 @@ Only these source substrings or link-and-label elements were removed; nothing wa
 | /es/politica-de-privacidad/ | text-substring | la bolsa de trabajo y/o | Removed; no replacement |
 | /es/politica-de-privacidad/ | text-substring | La información enviada por los usuarios a QCHF a través de la Bolsa de Trabajo de QCHF/CAHF será accesible por las entidades miembro de QCHF con el propósito de reclutar empleados, y puede ser difundida o accedida por las entidades miembro de QCHF/CAHF sin el consentimiento del individuo que envía su información a la Bolsa de Trabajo de QCHF/CAHF. | Removed; no replacement |
 | /es/avance-profesional/ | link-and-label | Aprende sobre el programa Earn and Learn — https://jobboard.yourcnastory.org/?_ | Removed; no replacement |
+
+## Phase 4 rendering (2026-11-08)
+
+No page-body rewrites. Frozen Phase 3 JSON remains unchanged. Native form retains original field IDs/labels and SMS disclosure; language preference is English / Español only. Source integration stylesheet ID is infrastructure; removed language radio IDs mce-MMERGE32/33 intentionally retire with those controls. All section anchors remain. New interface strings live in content/ui/ and Spanish strings are enumerated in spanish-review-log.md. Decorative source SVG artwork is static, self-hosted; no legacy runtime scripts.
+
+Phase 4 final visual QA found generic legacy chat IDs/classes that the original source filter did not recognize: floating-chatbot, floating-chatbot-button, pre-chat-message, chat-notification-badge and their EN/ES ID variants. The native renderer and search now exclude these retired interface roots under content/migration/legacy-ui-policy.json; each affected root is recorded in phase-04-legacy-ui-removals.json. Frozen content/pages records stay unchanged. No reader page body or SMS disclosure is rewritten; no chatbot replacement is built in Phase 4.

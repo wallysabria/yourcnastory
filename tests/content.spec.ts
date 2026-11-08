@@ -41,3 +41,14 @@ test('all imported media are served with the recorded byte length', async ({ req
     expect(Number(response.headers()['content-length']), row.path!).toBe(row.bytes);
   }
 });
+
+test('public templates contain no retired chat launcher or welcome UI', async ({ request }) => {
+  const selector =
+    '.floating-chatbot,.floating-chatbot-button,.pre-chat-message,.chat-notification-badge,[id^="floating-chatbot-"],[id^="pre-chat-message-"]';
+  for (const entry of sourceIndex) {
+    const response = await request.get(entry.path);
+    expect(response.status()).toBe(200);
+    const $ = load(await response.text());
+    expect($(selector).length, entry.path).toBe(0);
+  }
+});

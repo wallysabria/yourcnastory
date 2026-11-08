@@ -1,0 +1,10 @@
+{
+  "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence.",
+  "classNames": [
+    "floating-chatbot",
+    "floating-chatbot-button",
+    "pre-chat-message",
+    "chat-notification-badge"
+  ],
+  "idPrefixes": ["floating-chatbot-", "pre-chat-message-", "chat-notification-badge-"]
+}
