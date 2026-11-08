@@ -73,3 +73,7 @@ Owner approved merging/deploying Phase 4 PR #5. Merge 01b1dc2758aa3a606a9c992023
 - Q-027 open: approve docs/integrations/tag-plan.md, including proposed omission of two Ads destinations, two Floodlight configurations and MNTN. None have been changed on the source site.
 - Q-028 open: resolve preview DebugView validation without production analytics. Proposed protected isolated QA deployment with non-production GA4/Clarity IDs; otherwise defer live evidence and use mocks. Production IDs must not be silently tested on ordinary previews.
 - Phase 5 implementation and new Lighthouse development tooling await plan approval. Mailchimp audience configuration remains missing/mock-only. D-004 is not reopened by the Phase 5 plan.
+
+## Phase 5 owner revisions — 2026-11-08
+
+Q-026 resolved: reuse existing GTM-TLC2T6FQ, also confirmed by the owner screenshot. Q-027 resolved for scope: do NOT omit Google Ads, Floodlight or MNTN; retain existing campaigns and exact verified mappings. The earlier omission proposal is superseded. Q-028 resolved: use mocks and defer live verification; no separate test IDs requested now. Revised overall Phase 5/tag plan approval remains pending, including separate analytics/advertising consent. Owner export/configuration is needed before real container use, and the agent makes no account/workspace changes or publication.

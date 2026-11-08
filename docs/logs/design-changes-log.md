@@ -32,3 +32,5 @@ Owner decision: keep source styling and flag accessibility failures. No D-004 st
 ## D-005 — Phase 5 consent interface — proposed (2026-11-08)
 
 Native consent banner/preferences with equally prominent Accept/Decline controls, necessary/analytics categories, visible keyboard focus and a persistent footer Privacy choices link. Benefit: clear optional analytics control, browser privacy-signal handling and accessible preference management. Use existing blue/dark typography on a white panel, same-size/same-fill action buttons. Exact proposed EN/ES wording and counsel review status are in docs/recommendations/phase-05-consent-copy.md. Not implemented or published; pending plan/copy approval. Existing source body copy and D-004 decision are unchanged.
+
+D-005 revision (2026-11-08), still proposed: retain advertising as directed; preferences now separate necessary, analytics and advertising. Equal-weight Accept all optional tools / Decline all optional tools, with granular settings. Revised copy is in docs/recommendations/phase-05-consent-copy.md. No UI published.

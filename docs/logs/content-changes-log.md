@@ -40,3 +40,5 @@ Phase 4 final visual QA found generic legacy chat IDs/classes that the original 
 ## Phase 5 read-only input work — 2026-11-08
 
 Confirmed IDs recorded in ignored inputs; six public EN/ES/GPC tag-observation scenarios completed without live lead/application submissions or account configuration changes. No product copy, privacy policy, tracking or consent implementation changed. The proposed tag plan and consent UI copy are review documents only; advertising omissions have not been applied to the source site.
+
+Phase 5 planning revision (2026-11-08): supersede the advertising-omission proposal; retain Ads/Floodlight/MNTN and selected existing GTM-TLC2T6FQ. Mocks and deferred live verification are owner-selected. Only planning documents/copy proposals changed; no source or deployed tracking settings changed.
