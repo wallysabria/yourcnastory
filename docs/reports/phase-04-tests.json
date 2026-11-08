@@ -1,8 +1,8 @@
 {
   "stats": {
-    "startTime": "2026-11-08T17:16:10.871Z",
-    "duration": 16609.268,
-    "expected": 37,
+    "startTime": "2026-11-08T17:33:42.688Z",
+    "duration": 16312.294,
+    "expected": 39,
     "skipped": 0,
     "unexpected": 0,
     "flaky": 0
@@ -20,6 +20,11 @@
     },
     {
       "name": "all imported media are served with the recorded byte length",
+      "project": "content",
+      "status": "passed"
+    },
+    {
+      "name": "public templates contain no retired chat launcher or welcome UI",
       "project": "content",
       "status": "passed"
     },
@@ -110,6 +115,11 @@
     },
     {
       "name": "search includes collapsed FAQ answer text and carousel motion controls respond",
+      "project": "chromium",
+      "status": "passed"
+    },
+    {
+      "name": "career content grids stay readable with reduced motion",
       "project": "chromium",
       "status": "passed"
     },

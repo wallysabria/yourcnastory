@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-08T17:19:40.548Z",
-  "deployment": "https://yourcnastory-i6c9c6fr2-wallysabrias-projects.vercel.app",
-  "sha": "baffcc6c3dd08c8f26bd4411fb017965a339ea1b",
+  "checkedAt": "2026-11-08T17:38:01.124Z",
+  "deployment": "https://yourcnastory-or4ke84hg-wallysabrias-projects.vercel.app",
+  "sha": "2629cac6e5e58964d1f99ec8b09cb2e739057020",
   "pages": 48,
   "assets": 495,
   "search": [
@@ -21,47 +21,7 @@
   "results": [
     {
       "kind": "page",
-      "path": "/careerpaths/careers-in-administration/",
-      "status": 200
-    },
-    {
-      "kind": "page",
-      "path": "/careerpaths/careers-in-therapy/",
-      "status": 200
-    },
-    {
-      "kind": "page",
-      "path": "/careerpaths/careers-in-social-services/",
-      "status": 200
-    },
-    {
-      "kind": "page",
-      "path": "/careerpaths/careers-in-support-services/",
-      "status": 200
-    },
-    {
-      "kind": "page",
-      "path": "/careerpaths/careers-in-nursing/",
-      "status": 200
-    },
-    {
-      "kind": "page",
-      "path": "/",
-      "status": 200
-    },
-    {
-      "kind": "page",
-      "path": "/community-resources/",
-      "status": 200
-    },
-    {
-      "kind": "page",
-      "path": "/privacy-policy/",
-      "status": 200
-    },
-    {
-      "kind": "page",
-      "path": "/career-seekers/",
+      "path": "/careerpaths/careers-in-care-coordination/",
       "status": 200
     },
     {
@@ -71,22 +31,12 @@
     },
     {
       "kind": "page",
-      "path": "/certified-nurse-assistant-program/",
+      "path": "/careerpaths/careers-in-support-services/",
       "status": 200
     },
     {
       "kind": "page",
-      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
-      "status": 200
-    },
-    {
-      "kind": "page",
-      "path": "/cna-training-providers/",
-      "status": 200
-    },
-    {
-      "kind": "page",
-      "path": "/careerpaths/careers-in-care-coordination/",
+      "path": "/",
       "status": 200
     },
     {
@@ -96,7 +46,57 @@
     },
     {
       "kind": "page",
+      "path": "/careerpaths/careers-in-administration/",
+      "status": 200
+    },
+    {
+      "kind": "page",
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "status": 200
+    },
+    {
+      "kind": "page",
+      "path": "/community-resources/",
+      "status": 200
+    },
+    {
+      "kind": "page",
+      "path": "/careerpaths/careers-in-therapy/",
+      "status": 200
+    },
+    {
+      "kind": "page",
+      "path": "/privacy-policy/",
+      "status": 200
+    },
+    {
+      "kind": "page",
+      "path": "/careerpaths/careers-in-social-services/",
+      "status": 200
+    },
+    {
+      "kind": "page",
+      "path": "/careerpaths/careers-in-nursing/",
+      "status": 200
+    },
+    {
+      "kind": "page",
+      "path": "/certified-nurse-assistant-program/",
+      "status": 200
+    },
+    {
+      "kind": "page",
+      "path": "/cna-training-providers/",
+      "status": 200
+    },
+    {
+      "kind": "page",
       "path": "/what-is-long-term-care/",
+      "status": 200
+    },
+    {
+      "kind": "page",
+      "path": "/career-seekers/",
       "status": 200
     },
     {
@@ -141,11 +141,6 @@
     },
     {
       "kind": "page",
-      "path": "/es/recursos-comunitarios/",
-      "status": 200
-    },
-    {
-      "kind": "page",
       "path": "/es/",
       "status": 200
     },
@@ -161,12 +156,22 @@
     },
     {
       "kind": "page",
-      "path": "/es/programa-cna-2/",
+      "path": "/es/recursos-comunitarios/",
+      "status": 200
+    },
+    {
+      "kind": "page",
+      "path": "/es/programa-cna/",
       "status": 200
     },
     {
       "kind": "page",
       "path": "/es/aspirantes/",
+      "status": 200
+    },
+    {
+      "kind": "page",
+      "path": "/es/programa-cna-2/",
       "status": 200
     },
     {
@@ -201,17 +206,7 @@
     },
     {
       "kind": "page",
-      "path": "/es/carreras/carreras-en-actividades/",
-      "status": 200
-    },
-    {
-      "kind": "page",
       "path": "/es/carreras/carreras-en-servicios-sociales/",
-      "status": 200
-    },
-    {
-      "kind": "page",
-      "path": "/es/carreras/carreras-en-administracion/",
       "status": 200
     },
     {
@@ -221,17 +216,22 @@
     },
     {
       "kind": "page",
-      "path": "/es/programa-cna/",
+      "path": "/es/carreras/carreras-en-administracion/",
       "status": 200
     },
     {
       "kind": "page",
-      "path": "/es/avance-profesional/",
+      "path": "/es/carreras/carreras-en-actividades/",
       "status": 200
     },
     {
       "kind": "page",
       "path": "/es/ganar-y-aprender-la/",
+      "status": 200
+    },
+    {
+      "kind": "page",
+      "path": "/es/avance-profesional/",
       "status": 200
     },
     {
@@ -250,18 +250,8 @@
       "status": 200
     },
     {
-      "kind": "page",
-      "path": "/es/gana-y-aprende-san-diego/",
-      "status": 200
-    },
-    {
       "kind": "asset",
       "path": "/images/content/layered-waves-bg-03-150a1aaf.svg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/layered-waves-row-0-3d7adc2b.svg",
       "status": 200
     },
     {
@@ -270,8 +260,18 @@
       "status": 200
     },
     {
+      "kind": "asset",
+      "path": "/images/content/layered-waves-row-0-3d7adc2b.svg",
+      "status": 200
+    },
+    {
       "kind": "page",
       "path": "/es/earn-and-learn/",
+      "status": 200
+    },
+    {
+      "kind": "page",
+      "path": "/es/gana-y-aprende-san-diego/",
       "status": 200
     },
     {
@@ -281,17 +281,12 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/activities-assistant-300x200-96b1787e.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
       "path": "/images/content/community-resources-video-poster-6c4d62ea.jpg",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/images/content/activities-director-300x200-979bd2d7.jpg",
+      "path": "/images/content/activities-assistant-300x200-96b1787e.jpg",
       "status": 200
     },
     {
@@ -301,17 +296,27 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/activities-assistant-768x512-4d008b5e.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
       "path": "/images/content/activities-assistant-ab8ca481.jpg",
       "status": 200
     },
     {
       "kind": "asset",
+      "path": "/images/content/activities-director-300x200-979bd2d7.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/activities3-150x150-932de46f.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
       "path": "/images/content/activities3-12x12-bee6a182.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/activities-assistant-768x512-4d008b5e.jpg",
       "status": 200
     },
     {
@@ -331,7 +336,32 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/activities3-150x150-932de46f.jpg",
+      "path": "/images/content/activities-director-2f354760.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/administrator-1024x683-1-594650cb.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/administrator-1024x683-1-18x12-a949269a.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/administrator2-150x150-4f3f17f7.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/administrator2-200x200-8515908e.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/administrator2-12x12-e809b89e.jpg",
       "status": 200
     },
     {
@@ -346,62 +376,7 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/activities-director-2f354760.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/administrator-1024x683-1-18x12-a949269a.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/administrator-1024x683-1-594650cb.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/administrator2-12x12-e809b89e.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/administrator2-150x150-4f3f17f7.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
       "path": "/images/content/administrator2-300x300-10c1c259.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/admissions-director-18x12-96a85927.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/admissions-director-300x200-efe58b97.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/administrator2-200x200-8515908e.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/admissions-director-febf9e6b.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/admissions-director-768x512-041260f8.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/administrator2-b40f6efe.jpg",
       "status": 200
     },
     {
@@ -411,12 +386,32 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/carecoordination-12x12-8c2a7b16.jpg",
+      "path": "/images/content/administrator2-b40f6efe.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/admissions-director-18x12-96a85927.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/admissions-director-768x512-041260f8.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/admissions-director-300x200-efe58b97.jpg",
       "status": 200
     },
     {
       "kind": "asset",
       "path": "/images/content/carecoordination-150x150-70131b4b.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/carecoordination-12x12-8c2a7b16.jpg",
       "status": 200
     },
     {
@@ -431,17 +426,7 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/career-in-nursing-12x12-167b3654.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/career-in-nursing-150x150-7ceee14b.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/carecoordination-61d2515c.jpg",
+      "path": "/images/content/career-in-nursing-768x768-28947f2d.jpg",
       "status": 200
     },
     {
@@ -451,7 +436,22 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/career-in-nursing-768x768-28947f2d.jpg",
+      "path": "/images/content/career-in-nursing-150x150-7ceee14b.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/admissions-director-febf9e6b.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/career-in-nursing-12x12-167b3654.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/carecoordination-61d2515c.jpg",
       "status": 200
     },
     {
@@ -461,12 +461,7 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/careers-assistant-director-nursing-18x12-6b5f9706.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/careers-assistant-director-nursing-768x512-4d08fe18.jpg",
+      "path": "/images/content/careers-assistant-director-nursing-1024x683-b9509649.jpg",
       "status": 200
     },
     {
@@ -476,12 +471,12 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/careers-business-office-manager-18x12-42bce065.jpg",
+      "path": "/images/content/careers-assistant-director-nursing-18x12-6b5f9706.jpg",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/images/content/careers-assistant-director-nursing-b928e800.jpg",
+      "path": "/images/content/careers-business-office-manager-18x12-42bce065.jpg",
       "status": 200
     },
     {
@@ -491,17 +486,17 @@
     },
     {
       "kind": "asset",
+      "path": "/images/content/careers-assistant-director-nursing-768x512-4d08fe18.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/careers-assistant-director-nursing-b928e800.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
       "path": "/images/content/careers-business-office-manager-1024x683-2b0b262a.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/careers-assistant-director-nursing-1024x683-b9509649.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/careers-business-office-manager-efd32489.jpg",
       "status": 200
     },
     {
@@ -511,12 +506,7 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/careers-business-office-manager-768x512-79927b35.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/careers-cook-18x12-dee3a010.jpg",
+      "path": "/images/content/careers-business-office-manager-efd32489.jpg",
       "status": 200
     },
     {
@@ -526,7 +516,7 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/careers-cook-b775eb58.jpg",
+      "path": "/images/content/careers-business-office-manager-768x512-79927b35.jpg",
       "status": 200
     },
     {
@@ -536,7 +526,22 @@
     },
     {
       "kind": "asset",
+      "path": "/images/content/careers-cook-18x12-dee3a010.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/careers-cook-b775eb58.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
       "path": "/images/content/careers-dietarytech-1024x683-f95278d2.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/careers-director-staff-development-300x200-23f4fd9b.jpg",
       "status": 200
     },
     {
@@ -566,6 +571,11 @@
     },
     {
       "kind": "asset",
+      "path": "/images/content/careers-director-staff-development-768x512-ce87248b.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
       "path": "/images/content/careers-director-staff-development-1024x683-193afde1.jpg",
       "status": 200
     },
@@ -576,17 +586,7 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/careers-director-staff-development-768x512-ce87248b.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/careers-housekeeping2-1024x683-7da995a8.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/careers-director-staff-development-300x200-23f4fd9b.jpg",
+      "path": "/images/content/careers-housekeeping2-4409604a.jpg",
       "status": 200
     },
     {
@@ -596,22 +596,17 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/careers-housekeeping2-18x12-a64fd75b.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
       "path": "/images/content/careers-housekeeping2-768x512-74aceee5.jpg",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/images/content/careers-housekeeping2-4409604a.jpg",
+      "path": "/images/content/careers-housekeeping2-18x12-a64fd75b.jpg",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/images/content/careers-housekeeping3-300x200-0a0cc2b1.jpg",
+      "path": "/images/content/careers-housekeeping2-1024x683-7da995a8.jpg",
       "status": 200
     },
     {
@@ -621,17 +616,17 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/careers-housekeeping3-768x512-a363fc36.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
       "path": "/images/content/careers-housekeeping3-18x12-7fb98ec0.jpg",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/images/content/careers-maintenance-1024x683-b2f0bb74.jpg",
+      "path": "/images/content/careers-housekeeping3-300x200-0a0cc2b1.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/careers-housekeeping3-768x512-a363fc36.jpg",
       "status": 200
     },
     {
@@ -641,7 +636,7 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/careers-housekeeping3-f6d9c7b2.jpg",
+      "path": "/images/content/careers-maintenance-768x512-c339be8f.jpg",
       "status": 200
     },
     {
@@ -651,22 +646,22 @@
     },
     {
       "kind": "asset",
+      "path": "/images/content/careers-maintenance-1024x683-b2f0bb74.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/careers-housekeeping3-f6d9c7b2.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
       "path": "/images/content/careers-maintenance-c794320f.jpg",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/images/content/careers-maintenance-768x512-c339be8f.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
       "path": "/images/content/careers-mds-coordinator-1024x683-f891c9cd.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/careers-mds-coordinator-768x512-742ffecf.jpg",
       "status": 200
     },
     {
@@ -686,7 +681,7 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/careers-quality-assurance-nurse-1024x683-1a0438fe.jpg",
+      "path": "/images/content/careers-mds-coordinator-768x512-742ffecf.jpg",
       "status": 200
     },
     {
@@ -696,7 +691,7 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/careers-quality-assurance-nurse-768x512-419417d4.jpg",
+      "path": "/images/content/careers-quality-assurance-nurse-1024x683-1a0438fe.jpg",
       "status": 200
     },
     {
@@ -711,12 +706,17 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/careers-rehab-therpist-1024x683-982c1193.jpg",
+      "path": "/images/content/careers-quality-assurance-nurse-768x512-419417d4.jpg",
       "status": 200
     },
     {
       "kind": "asset",
       "path": "/images/content/careers-rehab-therpist-18x12-df1bcbbe.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/careers-rehab-therpist-1024x683-982c1193.jpg",
       "status": 200
     },
     {
@@ -736,7 +736,7 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/careers-rehab-therpist2-18x12-caced02d.jpg",
+      "path": "/images/content/careers-rehab-therpist2-1024x683-654bfd0a.jpg",
       "status": 200
     },
     {
@@ -746,12 +746,17 @@
     },
     {
       "kind": "asset",
+      "path": "/images/content/careers-rehab-therpist2-18x12-caced02d.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
       "path": "/images/content/careers-rehab-therpist2-768x512-3e0bf9df.jpg",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/images/content/careers-rehab-therpist2-1024x683-654bfd0a.jpg",
+      "path": "/images/content/careers-rehab-therpist2-399da1fb.jpg",
       "status": 200
     },
     {
@@ -766,17 +771,7 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/careers-rehab-therpist2-399da1fb.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
       "path": "/images/content/careers-social-services-designee-300x200-b5a5cfd0.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/careers-social-services-designee-768x512-02a8a1b4.jpg",
       "status": 200
     },
     {
@@ -786,27 +781,7 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/careers-social-services-director-300x200-a9cfeda9.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/careers-social-services-director-f2e741b9.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/careers-social-services-director-18x12-fe16b142.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/careers-social-services-director-768x512-de3d6b94.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/careers-social-worker-18x12-fb1b11d6.jpg",
+      "path": "/images/content/careers-social-services-designee-768x512-02a8a1b4.jpg",
       "status": 200
     },
     {
@@ -816,7 +791,22 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/careers-social-worker-300x200-636291e3.jpg",
+      "path": "/images/content/careers-social-services-director-18x12-fe16b142.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/careers-social-services-director-300x200-a9cfeda9.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/careers-social-services-director-768x512-de3d6b94.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/careers-social-services-director-f2e741b9.jpg",
       "status": 200
     },
     {
@@ -826,12 +816,7 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/cna-1024x683-1-300x200-a0704dac.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/careers-social-worker-6347c428.jpg",
+      "path": "/images/content/careers-social-worker-300x200-636291e3.jpg",
       "status": 200
     },
     {
@@ -841,7 +826,22 @@
     },
     {
       "kind": "asset",
+      "path": "/images/content/careers-social-worker-18x12-fb1b11d6.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/careers-social-worker-6347c428.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
       "path": "/images/content/cna-1024x683-1-18x12-3507e5b2.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/cna-1024x683-1-300x200-a0704dac.jpg",
       "status": 200
     },
     {
@@ -856,7 +856,7 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/cna3-12x12-12f5a1aa.jpg",
+      "path": "/images/content/cna3-200x200-22f0bb01.jpg",
       "status": 200
     },
     {
@@ -866,7 +866,12 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/cna3-200x200-22f0bb01.jpg",
+      "path": "/images/content/cna3-300x300-c73a4953.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/cna3-12x12-12f5a1aa.jpg",
       "status": 200
     },
     {
@@ -876,12 +881,7 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/cna3-300x300-c73a4953.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/customer-care-coordinator-300x200-5f744fef.jpg",
+      "path": "/images/content/cna3-9db71cf9.jpg",
       "status": 200
     },
     {
@@ -891,27 +891,27 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/customer-care-coordinator-768x512-32d47f63.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
       "path": "/images/content/dietary-manager-1024x683-1-18x12-165be839.jpg",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/images/content/cna3-9db71cf9.jpg",
+      "path": "/images/content/customer-care-coordinator-300x200-5f744fef.jpg",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/images/content/dietary-manager-1024x683-1-768x512-047c7dc0.jpg",
+      "path": "/images/content/customer-care-coordinator-768x512-32d47f63.jpg",
       "status": 200
     },
     {
       "kind": "asset",
       "path": "/images/content/dietary-manager-1024x683-1-300x200-c31961d0.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/dietary-manager-1024x683-1-d2842d2a.jpg",
       "status": 200
     },
     {
@@ -926,12 +926,12 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/director-of-nursing-300x200-e43b7525.jpg",
+      "path": "/images/content/dietary-manager-1024x683-1-768x512-047c7dc0.jpg",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/images/content/dietary-manager-1024x683-1-d2842d2a.jpg",
+      "path": "/images/content/director-of-nursing-300x200-e43b7525.jpg",
       "status": 200
     },
     {
@@ -956,6 +956,21 @@
     },
     {
       "kind": "asset",
+      "path": "/images/content/director-of-rehab-services-3645713d.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/lpn-copy-1024x683-1-18x12-3d5f268e.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/registered-nurse-18x12-d9961d51.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
       "path": "/images/content/lpn-copy-1024x683-1-300x200-1e2e7df7.jpg",
       "status": 200
     },
@@ -971,32 +986,12 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/registered-nurse-18x12-d9961d51.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/director-of-rehab-services-3645713d.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/lpn-copy-1024x683-1-18x12-3d5f268e.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
       "path": "/images/content/registered-nurse-300x200-749de3f6.jpg",
       "status": 200
     },
     {
       "kind": "asset",
       "path": "/images/content/registered-nurse-768x512-aeab1dee.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/socialservices-300x300-4dfe55d8.jpg",
       "status": 200
     },
     {
@@ -1011,7 +1006,12 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/socialservices-12x12-654c5ee0.jpg",
+      "path": "/images/content/socialservices-300x300-4dfe55d8.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/supportservices-12x12-7358f0c5.jpg",
       "status": 200
     },
     {
@@ -1026,7 +1026,12 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/supportservices-12x12-7358f0c5.jpg",
+      "path": "/images/content/supportservices-200x200-a9a9a65b.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/socialservices-12x12-654c5ee0.jpg",
       "status": 200
     },
     {
@@ -1036,12 +1041,22 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/supportservices-200x200-a9a9a65b.jpg",
+      "path": "/images/content/supportservices-300x300-387a6854.jpg",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/images/content/supportservices-300x300-387a6854.jpg",
+      "path": "/images/content/supportservices-768x769-7d12b9e8.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/therapy2-12x12-fb109e9c.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/therapy2-150x150-b75a8848.jpg",
       "status": 200
     },
     {
@@ -1056,37 +1071,7 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/supportservices-768x769-7d12b9e8.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/therapy2-150x150-b75a8848.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/therapy2-12x12-fb109e9c.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/therapy2-6dd2b9b5.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
       "path": "/images/content/unit-manager-18x12-4c6ca26d.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/unit-manager-768x512-4c2c1d06.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/unit-manager-da88a8e2.jpg",
       "status": 200
     },
     {
@@ -1101,7 +1086,27 @@
     },
     {
       "kind": "asset",
+      "path": "/images/content/unit-manager-da88a8e2.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/unit-manager-768x512-4c2c1d06.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/therapy2-6dd2b9b5.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
       "path": "/images/content/buena-vista-e1700498537285-15x12-584afaf4.jpeg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/buena-vista-e1700498537285-1200x949-52af5dcf.jpeg",
       "status": 200
     },
     {
@@ -1116,7 +1121,7 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/cna-flyer1-1024x683-4c771fe4.jpg",
+      "path": "/images/content/buena-vista-e1700498537285-300x237-40bb8ded.jpeg",
       "status": 200
     },
     {
@@ -1136,22 +1141,17 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/buena-vista-e1700498537285-1200x949-52af5dcf.jpeg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/cna-flyer1-768x512-6f2c3737.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
       "path": "/images/content/cna-flyer1-ec29098d.jpg",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/images/content/buena-vista-e1700498537285-300x237-40bb8ded.jpeg",
+      "path": "/images/content/cna-flyer1-1024x683-4c771fe4.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/cna-flyer1-768x512-6f2c3737.jpg",
       "status": 200
     },
     {
@@ -1176,22 +1176,22 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/cna-practice-exam-1024x683-7afd484c.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
       "path": "/images/content/cna-online-training-8c8f04d3.jpg",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/images/content/cna-practice-exam-18x12-1f92fcad.jpg",
+      "path": "/images/content/cna-practice-exam-300x200-06e99ac1.jpg",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/images/content/cna-practice-exam-300x200-06e99ac1.jpg",
+      "path": "/images/content/cna-practice-exam-1024x683-7afd484c.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/cna-practice-exam-18x12-1f92fcad.jpg",
       "status": 200
     },
     {
@@ -1216,17 +1216,12 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/compass-h-300x225-b70bf115.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
       "path": "/images/content/compass-h-768x576-065efad8.jpg",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/images/content/image-2-1-18x12-cc8404d5.png",
+      "path": "/images/content/compass-h-300x225-b70bf115.jpg",
       "status": 200
     },
     {
@@ -1236,22 +1231,7 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/image-2-1-300x214-27108eae.png",
-      "status": 200
-    },
-    {
-      "kind": "asset",
       "path": "/images/content/image-2-1-1024x731-6d92cf26.png",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/memorycare2-1024x683-1-18x12-eeece4b9.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/image-2-1-768x549-72b8e1ab.png",
       "status": 200
     },
     {
@@ -1261,17 +1241,32 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/memorycare2-1024x683-1-300x200-6b430c04.jpg",
+      "path": "/images/content/image-2-1-18x12-cc8404d5.png",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/images/content/memorycare2-1024x683-1-768x512-88cfe7d9.jpg",
+      "path": "/images/content/image-2-1-768x549-72b8e1ab.png",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/image-2-1-300x214-27108eae.png",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/memorycare2-1024x683-1-18x12-eeece4b9.jpg",
       "status": 200
     },
     {
       "kind": "asset",
       "path": "/images/content/image-2-1-e4e90fe6.png",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/memorycare2-1024x683-1-768x512-88cfe7d9.jpg",
       "status": 200
     },
     {
@@ -1286,7 +1281,7 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/qchf-header-insert-8-768x653-52650431.jpg",
+      "path": "/images/content/qchf-header-insert-8-300x255-594537ab.jpg",
       "status": 200
     },
     {
@@ -1296,7 +1291,17 @@
     },
     {
       "kind": "asset",
+      "path": "/images/content/qchf-header-insert-8-768x653-52650431.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
       "path": "/images/content/qchf-header-insert-8-01ca7309.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/memorycare2-1024x683-1-300x200-6b430c04.jpg",
       "status": 200
     },
     {
@@ -1306,17 +1311,7 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/qchf-header-insert-9-300x255-fe996ec9.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
       "path": "/images/content/qchf-header-insert-9-e14ffe25.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/qchf-header-insert-9-768x653-525a3595.jpg",
       "status": 200
     },
     {
@@ -1326,12 +1321,7 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/servingseniors-1024x683-1-300x200-c262aa8c.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/qchf-header-insert-8-300x255-594537ab.jpg",
+      "path": "/images/content/qchf-header-insert-9-768x653-525a3595.jpg",
       "status": 200
     },
     {
@@ -1341,17 +1331,27 @@
     },
     {
       "kind": "asset",
+      "path": "/images/content/qchf-header-insert-9-300x255-fe996ec9.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
       "path": "/images/content/servingseniors-1024x683-1-bf669792.jpg",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/images/content/short-stay-rehab-14x12-407e54b3.jpg",
+      "path": "/images/content/servingseniors-1024x683-1-300x200-c262aa8c.jpg",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/images/content/short-stay-rehab-c9cd262b.jpg",
+      "path": "/images/content/short-stay-rehab-300x258-a2956e13.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/short-stay-rehab-14x12-407e54b3.jpg",
       "status": 200
     },
     {
@@ -1366,7 +1366,12 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/short-stay-rehab-300x258-a2956e13.jpg",
+      "path": "/images/content/skillednursing-1024x683-1-0cb46144.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/short-stay-rehab-c9cd262b.jpg",
       "status": 200
     },
     {
@@ -1376,27 +1381,7 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/skillednursing-1024x683-1-0cb46144.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/skillednursing-1024x683-1-768x512-ee24a082.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
       "path": "/images/content/toolkit-newamericans-1024x683-0da6de82.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/toolkit-newamericans-768x512-0c49bd7f.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/toolkit-newamericans-442acf18.jpg",
       "status": 200
     },
     {
@@ -1411,12 +1396,17 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/cna-form-background-2-20c9d27d.jpg",
+      "path": "/images/content/toolkit-newamericans-768x512-0c49bd7f.jpg",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/images/content/cusp-graphic-2024-01-11-163416-1024x578-80ef4849.png",
+      "path": "/images/content/toolkit-newamericans-442acf18.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/cna-form-background-2-20c9d27d.jpg",
       "status": 200
     },
     {
@@ -1426,12 +1416,12 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/cusp-graphic-2024-01-11-163416-768x433-f3a70ff5.png",
+      "path": "/images/content/cusp-graphic-2024-01-11-163416-1024x578-80ef4849.png",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/images/content/cusp-graphic-2024-01-11-163416-300x169-edc4f752.png",
+      "path": "/images/content/cusp-graphic-2024-01-11-163416-768x433-f3a70ff5.png",
       "status": 200
     },
     {
@@ -1441,7 +1431,7 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/2023-natp-group-pictures-300x212-75cec8a9.jpg",
+      "path": "/images/content/cusp-graphic-2024-01-11-163416-300x169-edc4f752.png",
       "status": 200
     },
     {
@@ -1456,7 +1446,12 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/gettyimages-1354166323-1200x798-05146027.jpg",
+      "path": "/images/content/2023-natp-group-pictures-d085d6e0.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/2023-natp-group-pictures-300x212-75cec8a9.jpg",
       "status": 200
     },
     {
@@ -1466,7 +1461,12 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/2023-natp-group-pictures-d085d6e0.jpg",
+      "path": "/images/content/gettyimages-1354166323-1200x798-05146027.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/skillednursing-1024x683-1-768x512-ee24a082.jpg",
       "status": 200
     },
     {
@@ -1486,16 +1486,6 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/gettyimages-1354166323-2048x1363-4ae704eb.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/website-rotater-78dcd196.webm",
-      "status": 200
-    },
-    {
-      "kind": "asset",
       "path": "/images/content/gettyimages-1354166323-768x511-daea8b51.jpg",
       "status": 200
     },
@@ -1506,12 +1496,17 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/img2768086434016407330-16x12-c967d47a.jpg",
+      "path": "/images/content/gettyimages-1354166323-scaled-b5966bd1.jpg",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/images/content/img2768086434016407330-1536x1152-8aeeb18c.jpg",
+      "path": "/images/content/gettyimages-1354166323-2048x1363-4ae704eb.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/website-rotater-78dcd196.webm",
       "status": 200
     },
     {
@@ -1521,22 +1516,12 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/img2768086434016407330-2048x1536-9a1e20c5.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/southern-inyo-d418fe4d.png",
-      "status": 200
-    },
-    {
-      "kind": "asset",
       "path": "/images/content/img2768086434016407330-300x225-38d8cdd7.jpg",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/images/content/southern-inyo-18x12-4cbe0a29.png",
+      "path": "/images/content/img2768086434016407330-16x12-c967d47a.jpg",
       "status": 200
     },
     {
@@ -1546,27 +1531,17 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/cna-form-background-2-c18868e0.webp",
+      "path": "/images/content/img2768086434016407330-1536x1152-8aeeb18c.jpg",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/images/content/cna-header-fallback-32529c1e.webp",
+      "path": "/images/content/img2768086434016407330-2048x1536-9a1e20c5.jpg",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/images/content/img2768086434016407330-scaled-bbf685b2.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/partners-cares-300x188-9a2c98a0.webp",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/partners-cares-7870e198.webp",
+      "path": "/images/content/southern-inyo-18x12-4cbe0a29.png",
       "status": 200
     },
     {
@@ -1576,17 +1551,42 @@
     },
     {
       "kind": "asset",
+      "path": "/images/content/img2768086434016407330-scaled-bbf685b2.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/cna-header-fallback-32529c1e.webp",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/southern-inyo-d418fe4d.png",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/partners-cares-300x188-9a2c98a0.webp",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/cna-form-background-2-c18868e0.webp",
+      "status": 200
+    },
+    {
+      "kind": "asset",
       "path": "/images/content/partners-clovis-18x12-7c3d2515.webp",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/images/content/gettyimages-1354166323-scaled-b5966bd1.jpg",
+      "path": "/images/content/partners-cares-7870e198.webp",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/images/content/partners-clovis-300x188-4a72e843.webp",
+      "path": "/images/content/partners-facets-ezgif-com-png-to-webp-converter-300x188-5c0dd2ae.webp",
       "status": 200
     },
     {
@@ -1606,7 +1606,12 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/partners-facets-ezgif-com-png-to-webp-converter-300x188-5c0dd2ae.webp",
+      "path": "/images/content/partners-clovis-300x188-4a72e843.webp",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/partners-ncna-ezgif-com-png-to-webp-converter-dac5efe1.webp",
       "status": 200
     },
     {
@@ -1621,11 +1626,6 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/partners-ncna-ezgif-com-png-to-webp-converter-dac5efe1.webp",
-      "status": 200
-    },
-    {
-      "kind": "asset",
       "path": "/images/content/partners-sisu-ezgif-com-png-to-webp-converter-18x12-30e24a39.webp",
       "status": 200
     },
@@ -1636,17 +1636,12 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/partners-unitek-ezgif-com-png-to-webp-converter-18x12-fe4c6ffe.webp",
-      "status": 200
-    },
-    {
-      "kind": "asset",
       "path": "/images/content/partners-sisu-ezgif-com-png-to-webp-converter-1e165118.webp",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/images/content/synergy-logo-18x12-9e059dfb.png",
+      "path": "/images/content/partners-unitek-ezgif-com-png-to-webp-converter-18x12-fe4c6ffe.webp",
       "status": 200
     },
     {
@@ -1661,7 +1656,7 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/synergy-logo-300x188-dfb44f1c.png",
+      "path": "/images/content/synergy-logo-18x12-9e059dfb.png",
       "status": 200
     },
     {
@@ -1671,12 +1666,12 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/cusp-graphic-esp-1024x576-37eea697.png",
+      "path": "/images/content/cusp-graphic-esp-1536x864-5e4805d9.png",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/images/content/cusp-graphic-esp-1536x864-5e4805d9.png",
+      "path": "/images/content/synergy-logo-300x188-dfb44f1c.png",
       "status": 200
     },
     {
@@ -1686,12 +1681,12 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/cusp-graphic-esp-18x10-c246aafb.png",
+      "path": "/images/content/cusp-graphic-esp-1024x576-37eea697.png",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/images/content/cusp-graphic-esp-403cf487.png",
+      "path": "/images/content/cusp-graphic-esp-18x10-c246aafb.png",
       "status": 200
     },
     {
@@ -1701,22 +1696,17 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/bw-careers-business-office-manager-e91c1ce9.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/bw-careers-quality-assurance-nurse-5c5b0fa2.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/bw-cna-header-fallback-e816adfa.jpg",
+      "path": "/images/content/cusp-graphic-esp-403cf487.png",
       "status": 200
     },
     {
       "kind": "asset",
       "path": "/images/content/bw-cna-practice-exam-77225e32.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/bw-careers-business-office-manager-e91c1ce9.jpg",
       "status": 200
     },
     {
@@ -1731,7 +1721,12 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/nurse-helping-elderly-300x200-442ce3f9.jpg",
+      "path": "/images/content/bw-careers-quality-assurance-nurse-5c5b0fa2.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/bw-cna-header-fallback-e816adfa.jpg",
       "status": 200
     },
     {
@@ -1746,12 +1741,12 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/nurse-helping-elderly-18x12-3807006b.jpg",
+      "path": "/images/content/nurse-helping-elderly-768x512-82fe72af.jpg",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/images/content/nurse-helping-elderly-768x512-82fe72af.jpg",
+      "path": "/images/content/nurse-helping-elderly-300x200-442ce3f9.jpg",
       "status": 200
     },
     {
@@ -1761,12 +1756,7 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/female-nurse-youtube-clip-3-18x12-c7744d6f.avif",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/female-nurse-youtube-clip-3-300x185-8b947f3b.avif",
+      "path": "/images/content/nurse-helping-elderly-18x12-3807006b.jpg",
       "status": 200
     },
     {
@@ -1781,6 +1771,16 @@
     },
     {
       "kind": "asset",
+      "path": "/images/content/female-nurse-youtube-clip-3-18x12-c7744d6f.avif",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/female-nurse-youtube-clip-3-300x185-8b947f3b.avif",
+      "status": 200
+    },
+    {
+      "kind": "asset",
       "path": "/images/content/female-nurse-youtube-clip-3-9d880fd0.avif",
       "status": 200
     },
@@ -1791,12 +1791,12 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/female-nurse-youtube-clip-3-768x472-ecbfffca.avif",
+      "path": "/images/content/the-pine-at-placerville-v2-300x200-de419782.png",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/images/content/the-pine-at-placerville-v2-300x200-de419782.png",
+      "path": "/images/content/female-nurse-youtube-clip-3-768x472-ecbfffca.avif",
       "status": 200
     },
     {
@@ -1816,6 +1816,11 @@
     },
     {
       "kind": "asset",
+      "path": "/images/content/the-pine-at-placerville-v2-768x512-ed1d2162.png",
+      "status": 200
+    },
+    {
+      "kind": "asset",
       "path": "/images/content/gettyimages-2205543807-768x653-49d1e925.webp",
       "status": 200
     },
@@ -1826,22 +1831,22 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/dmsans-rp2wp2ywxg089uriczasexd86j3t9jz86mvyykk58vxh-84a9da13.woff2",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/the-pine-at-placerville-v2-768x512-ed1d2162.png",
-      "status": 200
-    },
-    {
-      "kind": "asset",
       "path": "/images/content/dmsans-rp2wp2ywxg089uriczasexd86j3t9jz86mvyyky58q-885f22fa.woff2",
       "status": 200
     },
     {
       "kind": "asset",
+      "path": "/images/content/dmsans-rp2yp2ywxg089urii5-g4vlh9vod8cmcqbu0-k4-2fdae54b.woff2",
+      "status": 200
+    },
+    {
+      "kind": "asset",
       "path": "/images/content/dmsans-rp2yp2ywxg089urii5-g4vlh9vod8cmcqbu6-k6h9q-3ab07190.woff2",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/dmsans-rp2wp2ywxg089uriczasexd86j3t9jz86mvyykk58vxh-84a9da13.woff2",
       "status": 200
     },
     {
@@ -1856,7 +1861,7 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/dmsans-rp2yp2ywxg089urii5-g4vlh9vod8cmcqbu0-k4-2fdae54b.woff2",
+      "path": "/images/content/manrope-xn7gyhe41ni1adirggoxsuxd-f9e14d5b.woff2",
       "status": 200
     },
     {
@@ -1866,12 +1871,7 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/manrope-xn7gyhe41ni1adirggoxsuxd-f9e14d5b.woff2",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/activities3-qc6z4gs7uj3q5s33gibg440u1c7mbkr6s9qths350o-d08eaf8f.jpg",
+      "path": "/images/content/manrope-xn7gyhe41ni1adirggqxsuxd-2595d788.woff2",
       "status": 200
     },
     {
@@ -1881,7 +1881,12 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/manrope-xn7gyhe41ni1adirggqxsuxd-2595d788.woff2",
+      "path": "/images/content/activities3-qc6z4gs7uj3q5s33gibg440u1c7mbkr6s9qths350o-d08eaf8f.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/manrope-xn7gyhe41ni1adirggmxsuxd-77060964.woff2",
       "status": 200
     },
     {
@@ -1896,16 +1901,6 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/manrope-xn7gyhe41ni1adirggmxsuxd-77060964.woff2",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/content/cna3-qc6z4hq21d50he1qb0q2olsamq2zj9ux4eeaz21qug-429b290b.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
       "path": "/images/content/cnap-cta-banner-background2-1-qc8m6uah7d5sr98xi8ec2y6eqld7i63pl21llqt740-c4d0444d.jpg",
       "status": 200
     },
@@ -1916,17 +1911,17 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/gettyimages-2163493163-rodt8lg35hekyyto3y02wpp29c8za6rkei4s7zfbk0-034df809.webp",
-      "status": 200
-    },
-    {
-      "kind": "asset",
       "path": "/images/content/gettyimages-1081965320-rodhlsgu2w3c1n5tmww7yebhwwhhp4505m0ihoe3wg-4d233a96.webp",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/images/content/gettyimages-1435010406-rodt0ltjhw1piaqxlbekxvyqk41x6bh52jojo488i8-c98cd3dd.webp",
+      "path": "/images/content/gettyimages-2163493163-rodt8lg35hekyyto3y02wpp29c8za6rkei4s7zfbk0-034df809.webp",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/cna3-qc6z4hq21d50he1qb0q2olsamq2zj9ux4eeaz21qug-429b290b.jpg",
       "status": 200
     },
     {
@@ -1936,7 +1931,17 @@
     },
     {
       "kind": "asset",
+      "path": "/images/content/gettyimages-1435010406-rodt0ltjhw1piaqxlbekxvyqk41x6bh52jojo488i8-c98cd3dd.webp",
+      "status": 200
+    },
+    {
+      "kind": "asset",
       "path": "/images/content/gettyimages-871227182-rodh7uj352l31vqdvpns72o2rtmqu97s06tkiq0s9c-498de022.webp",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/content/qchf-header-insert-2-qc8mcps8css6jj1713jqe4hugyu1xkur5q06vt22a8-0dea4afb.jpg",
       "status": 200
     },
     {
@@ -1951,11 +1956,6 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/qchf-header-insert-2-qc8mcps8css6jj1713jqe4hugyu1xkur5q06vt22a8-0dea4afb.jpg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
       "path": "/images/content/supportservices-qc6z4hq21d50he1qb0q2olsamq2zj9ux4eeaz21qug-c7becc21.jpg",
       "status": 200
     },
@@ -1966,7 +1966,7 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/therapy2-qc6z4gs7uj3q5s33gibg440u1c7mbkr6s9qths350o-a3ddd5fe.jpg",
+      "path": "/images/content/istock-2208896971-v2-rodhh9usgep5v3vrfdgxl4746kymd8f5r1qom7kfu0-35b31dea.webp",
       "status": 200
     },
     {
@@ -1976,12 +1976,32 @@
     },
     {
       "kind": "asset",
-      "path": "/images/content/istock-2208896971-v2-rodhh9usgep5v3vrfdgxl4746kymd8f5r1qom7kfu0-35b31dea.webp",
+      "path": "/images/content/therapy2-qc6z4gs7uj3q5s33gibg440u1c7mbkr6s9qths350o-a3ddd5fe.jpg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/styles/source/d70ef69c90f9bac8.css",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/styles/source/f68e889145cb0e47.css",
       "status": 200
     },
     {
       "kind": "asset",
       "path": "/styles/source/781823dcfe7fed42.css",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/styles/source/ff321f175b31b5d9.css",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/styles/source/d9c370831c74b185.css",
       "status": 200
     },
     {
@@ -1996,27 +2016,12 @@
     },
     {
       "kind": "asset",
-      "path": "/styles/source/f68e889145cb0e47.css",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/styles/source/d70ef69c90f9bac8.css",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/styles/source/d9c370831c74b185.css",
-      "status": 200
-    },
-    {
-      "kind": "asset",
       "path": "/styles/source/fb8690e594b2f9b8.css",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/styles/source/ff321f175b31b5d9.css",
+      "path": "/styles/source/9ceff9f3e5be963f.css",
       "status": 200
     },
     {
@@ -2031,17 +2036,12 @@
     },
     {
       "kind": "asset",
-      "path": "/styles/source/9ceff9f3e5be963f.css",
+      "path": "/styles/source/a031b18ee93bc396.css",
       "status": 200
     },
     {
       "kind": "asset",
       "path": "/styles/source/7039967b5aa6e532.css",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/styles/source/a031b18ee93bc396.css",
       "status": 200
     },
     {
@@ -2056,7 +2056,7 @@
     },
     {
       "kind": "asset",
-      "path": "/styles/source/b28096880608e461.css",
+      "path": "/styles/source/acab0fc1d79e8c52.css",
       "status": 200
     },
     {
@@ -2066,17 +2066,7 @@
     },
     {
       "kind": "asset",
-      "path": "/styles/source/6a9a23e7b36f8a8a.css",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/styles/source/d3310280d7147aef.css",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/styles/source/443d2f0cf95c46ac.css",
+      "path": "/styles/source/b28096880608e461.css",
       "status": 200
     },
     {
@@ -2086,7 +2076,22 @@
     },
     {
       "kind": "asset",
+      "path": "/styles/source/443d2f0cf95c46ac.css",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/styles/source/6a9a23e7b36f8a8a.css",
+      "status": 200
+    },
+    {
+      "kind": "asset",
       "path": "/styles/source/e9c6847451bd6a1e.css",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/styles/source/d3310280d7147aef.css",
       "status": 200
     },
     {
@@ -2096,7 +2101,7 @@
     },
     {
       "kind": "asset",
-      "path": "/styles/source/acab0fc1d79e8c52.css",
+      "path": "/styles/source/af2e959f36e656f7.css",
       "status": 200
     },
     {
@@ -2106,17 +2111,12 @@
     },
     {
       "kind": "asset",
-      "path": "/styles/source/af2e959f36e656f7.css",
+      "path": "/styles/source/d22175fb16feb8ee.css",
       "status": 200
     },
     {
       "kind": "asset",
       "path": "/styles/source/843f3e339d99e5f8.css",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/styles/source/d22175fb16feb8ee.css",
       "status": 200
     },
     {
@@ -2131,12 +2131,12 @@
     },
     {
       "kind": "asset",
-      "path": "/styles/source/b486c18a9406674a.css",
+      "path": "/styles/source/64982b945a392594.css",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/styles/source/64982b945a392594.css",
+      "path": "/styles/source/b486c18a9406674a.css",
       "status": 200
     },
     {
@@ -2146,17 +2146,7 @@
     },
     {
       "kind": "asset",
-      "path": "/styles/source/e992acca8390dabc.css",
-      "status": 200
-    },
-    {
-      "kind": "asset",
       "path": "/styles/source/2f43905bf4eafb91.css",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/styles/source/df5e5128cd17af35.css",
       "status": 200
     },
     {
@@ -2166,7 +2156,12 @@
     },
     {
       "kind": "asset",
-      "path": "/styles/source/4d7581823e70d109.css",
+      "path": "/styles/source/e992acca8390dabc.css",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/styles/source/df5e5128cd17af35.css",
       "status": 200
     },
     {
@@ -2176,22 +2171,12 @@
     },
     {
       "kind": "asset",
-      "path": "/styles/source/3665c7a2313c68cd.css",
+      "path": "/styles/source/4d7581823e70d109.css",
       "status": 200
     },
     {
       "kind": "asset",
       "path": "/styles/source/31aae63883cb34d6.css",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/styles/source/a1b0d940ad032a3f.css",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/styles/source/f042f3243af9c3e3.css",
       "status": 200
     },
     {
@@ -2202,6 +2187,21 @@
     {
       "kind": "asset",
       "path": "/styles/source/e57facfb4d4ffa1b.css",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/styles/source/f042f3243af9c3e3.css",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/styles/source/a1b0d940ad032a3f.css",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/styles/source/3665c7a2313c68cd.css",
       "status": 200
     },
     {
@@ -2221,12 +2221,7 @@
     },
     {
       "kind": "asset",
-      "path": "/styles/source/c7f82bed8fc4e709.css",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/styles/source/c289f3fc3383e37b.css",
+      "path": "/styles/source/eb24520f65eb7dd6.css",
       "status": 200
     },
     {
@@ -2236,7 +2231,12 @@
     },
     {
       "kind": "asset",
-      "path": "/styles/source/eb24520f65eb7dd6.css",
+      "path": "/styles/source/c7f82bed8fc4e709.css",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/styles/source/e081edd244d877cf.css",
       "status": 200
     },
     {
@@ -2246,7 +2246,7 @@
     },
     {
       "kind": "asset",
-      "path": "/styles/source/e081edd244d877cf.css",
+      "path": "/styles/source/c289f3fc3383e37b.css",
       "status": 200
     },
     {
@@ -2261,11 +2261,6 @@
     },
     {
       "kind": "asset",
-      "path": "/styles/source/edc0ff4655634816.css",
-      "status": 200
-    },
-    {
-      "kind": "asset",
       "path": "/styles/source/597b07e6f1ae6ea6.css",
       "status": 200
     },
@@ -2276,7 +2271,7 @@
     },
     {
       "kind": "asset",
-      "path": "/styles/source/74d489f59e4b0ecf.css",
+      "path": "/styles/source/edc0ff4655634816.css",
       "status": 200
     },
     {
@@ -2291,12 +2286,12 @@
     },
     {
       "kind": "asset",
-      "path": "/styles/source/6df1ec84c956ca02.css",
+      "path": "/styles/source/74d489f59e4b0ecf.css",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/styles/source/ce9ab6f5f945762a.css",
+      "path": "/styles/source/6df1ec84c956ca02.css",
       "status": 200
     },
     {
@@ -2306,12 +2301,12 @@
     },
     {
       "kind": "asset",
-      "path": "/styles/source/1eb43ddc99118c45.css",
+      "path": "/styles/source/ce9ab6f5f945762a.css",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/styles/source/5883e7efce2f2f63.css",
+      "path": "/styles/source/1eb43ddc99118c45.css",
       "status": 200
     },
     {
@@ -2321,12 +2316,12 @@
     },
     {
       "kind": "asset",
-      "path": "/styles/source/7263363f11b6184f.css",
+      "path": "/styles/source/5883e7efce2f2f63.css",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/styles/source/2ac872106cf33d3b.css",
+      "path": "/styles/source/7263363f11b6184f.css",
       "status": 200
     },
     {
@@ -2336,12 +2331,12 @@
     },
     {
       "kind": "asset",
-      "path": "/styles/source/e62bb0cb7ef482e6.css",
+      "path": "/styles/source/2ac872106cf33d3b.css",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/styles/source/8902a3c4dbfe5a4e.css",
+      "path": "/styles/source/e62bb0cb7ef482e6.css",
       "status": 200
     },
     {
@@ -2356,7 +2351,7 @@
     },
     {
       "kind": "asset",
-      "path": "/styles/source/d110b321542794cf.css",
+      "path": "/styles/source/8902a3c4dbfe5a4e.css",
       "status": 200
     },
     {
@@ -2372,6 +2367,11 @@
     {
       "kind": "asset",
       "path": "/styles/source/72cfd7bdee15d882.css",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/styles/source/d110b321542794cf.css",
       "status": 200
     },
     {
@@ -2396,7 +2396,7 @@
     },
     {
       "kind": "asset",
-      "path": "/styles/source/b099795858a2b424.css",
+      "path": "/styles/source/5d68cff4278598d6.css",
       "status": 200
     },
     {
@@ -2406,7 +2406,7 @@
     },
     {
       "kind": "asset",
-      "path": "/styles/source/5d68cff4278598d6.css",
+      "path": "/styles/source/b099795858a2b424.css",
       "status": 200
     },
     {
@@ -2416,22 +2416,17 @@
     },
     {
       "kind": "asset",
-      "path": "/styles/source/54d44cf35e98264c.css",
-      "status": 200
-    },
-    {
-      "kind": "asset",
       "path": "/styles/source/3d332b4e1872eedd.css",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/styles/source/4759073a2d9847b8.css",
+      "path": "/styles/source/54d44cf35e98264c.css",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/styles/source/8e2eab03ad869e1c.css",
+      "path": "/styles/source/4759073a2d9847b8.css",
       "status": 200
     },
     {
@@ -2451,12 +2446,22 @@
     },
     {
       "kind": "asset",
+      "path": "/styles/source/917a8a12ed15f595.css",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/styles/source/8e2eab03ad869e1c.css",
+      "status": 200
+    },
+    {
+      "kind": "asset",
       "path": "/styles/source/e10793df9cea1494.css",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/styles/source/917a8a12ed15f595.css",
+      "path": "/styles/source/7a4d9f5758894f81.css",
       "status": 200
     },
     {
@@ -2481,16 +2486,6 @@
     },
     {
       "kind": "asset",
-      "path": "/styles/source/7a4d9f5758894f81.css",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/styles/source/7cbe929480190e6c.css",
-      "status": 200
-    },
-    {
-      "kind": "asset",
       "path": "/styles/source/52a2bbb2d85e878d.css",
       "status": 200
     },
@@ -2501,17 +2496,7 @@
     },
     {
       "kind": "asset",
-      "path": "/styles/source/ec4be904195e384a.css",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/styles/source/0c3fe148bbb062ea.css",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/styles/source/835aaae60a5374fd.css",
+      "path": "/styles/source/7cbe929480190e6c.css",
       "status": 200
     },
     {
@@ -2521,17 +2506,17 @@
     },
     {
       "kind": "asset",
-      "path": "/styles/source/f9c67b230e65e173.css",
+      "path": "/styles/source/ec4be904195e384a.css",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/fonts/font-awesome-5-brands-4aa72c9f.woff2",
+      "path": "/styles/source/835aaae60a5374fd.css",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/styles/source/fonts.css",
+      "path": "/styles/source/0c3fe148bbb062ea.css",
       "status": 200
     },
     {
@@ -2541,7 +2526,12 @@
     },
     {
       "kind": "asset",
-      "path": "/fonts/font-awesome-5-free-ff570434.woff2",
+      "path": "/styles/source/fonts.css",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/styles/source/f9c67b230e65e173.css",
       "status": 200
     },
     {
@@ -2551,17 +2541,17 @@
     },
     {
       "kind": "asset",
-      "path": "/images/icons/fullscreen-36a46c30.svg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
       "path": "/images/icons/fullscreen-exit-eecd6d5b.svg",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/images/icons/source-1d5d468e34d82baf.svg",
+      "path": "/fonts/font-awesome-5-brands-4aa72c9f.woff2",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/icons/fullscreen-36a46c30.svg",
       "status": 200
     },
     {
@@ -2571,7 +2561,12 @@
     },
     {
       "kind": "asset",
-      "path": "/images/icons/source-3cd7d4793dc02a75.svg",
+      "path": "/images/icons/source-1d5d468e34d82baf.svg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/fonts/font-awesome-5-free-ff570434.woff2",
       "status": 200
     },
     {
@@ -2586,47 +2581,17 @@
     },
     {
       "kind": "asset",
-      "path": "/images/icons/source-460d68b1152e8cb8.svg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
       "path": "/images/icons/source-4e9293ddd2276ab7.svg",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/images/icons/source-4f9f316ca9dc2ee4.svg",
+      "path": "/images/icons/source-3cd7d4793dc02a75.svg",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/images/icons/source-5c2bbafca734c8e1.svg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/icons/source-74b827a251a23481.svg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/icons/source-77e20b7a79ecbaf8.svg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/icons/source-6ff63f63f68cdb05.svg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/icons/source-7a8c22d7336451fe.svg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/icons/source-7b722b11584d7e59.svg",
+      "path": "/images/icons/source-460d68b1152e8cb8.svg",
       "status": 200
     },
     {
@@ -2636,7 +2601,52 @@
     },
     {
       "kind": "asset",
+      "path": "/images/icons/source-6ff63f63f68cdb05.svg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/icons/source-74b827a251a23481.svg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/icons/source-4f9f316ca9dc2ee4.svg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/icons/source-77e20b7a79ecbaf8.svg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/icons/source-7b722b11584d7e59.svg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/icons/source-5c2bbafca734c8e1.svg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/icons/source-7a8c22d7336451fe.svg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/icons/source-835b2eb7718cd2b6.svg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
       "path": "/images/icons/source-9aa9a9cae55d4dfc.svg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/icons/source-b0158671a42d9a1a.svg",
       "status": 200
     },
     {
@@ -2651,17 +2661,7 @@
     },
     {
       "kind": "asset",
-      "path": "/images/icons/source-835b2eb7718cd2b6.svg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/icons/source-b0158671a42d9a1a.svg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/icons/source-cfad0477ce3700e8.svg",
+      "path": "/images/icons/source-b6fea91d21905d4c.svg",
       "status": 200
     },
     {
@@ -2676,22 +2676,27 @@
     },
     {
       "kind": "asset",
-      "path": "/images/icons/source-b6fea91d21905d4c.svg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/icons/the7-chevron-down-e3d4416a.svg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/icons/the7-chevron-left-9456334b.svg",
+      "path": "/images/icons/source-cfad0477ce3700e8.svg",
       "status": 200
     },
     {
       "kind": "asset",
       "path": "/images/icons/source-d7dcbe8ea6f6e871.svg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/icons/the7-check-circle-fill-2163349a.svg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/icons/the7-chevron-right-95ca8a98.svg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/icons/the7-chevron-down-e3d4416a.svg",
       "status": 200
     },
     {
@@ -2706,12 +2711,17 @@
     },
     {
       "kind": "asset",
-      "path": "/images/icons/the7-chevron-right-95ca8a98.svg",
+      "path": "/images/icons/the7-share-fill-a20b93e1.svg",
       "status": 200
     },
     {
       "kind": "asset",
-      "path": "/images/icons/the7-share-fill-a20b93e1.svg",
+      "path": "/images/icons/the7-chevron-left-9456334b.svg",
+      "status": 200
+    },
+    {
+      "kind": "asset",
+      "path": "/images/icons/x-lg-e20716fd.svg",
       "status": 200
     },
     {
@@ -2722,16 +2732,6 @@
     {
       "kind": "asset",
       "path": "/images/icons/zoom-in-88bd2d35.svg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/icons/x-lg-e20716fd.svg",
-      "status": 200
-    },
-    {
-      "kind": "asset",
-      "path": "/images/icons/the7-check-circle-fill-2163349a.svg",
       "status": 200
     }
   ]
