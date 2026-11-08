@@ -57,3 +57,5 @@ Phase 5 final verification: all 48 body-copy/anchor checks pass. Fixed the mobil
 Owner explicitly approved merging/publishing Phase 5 and proceeding to Phase 6. PR #6 merged as 7ec7e686f5df405add69960b5315c1db94cbd272. Public alias https://yourcnastory.vercel.app/ verified for 48 pages/534 assets, EN/ES consent, retained vendor mocks, GPC and click-to-load media. Production tracking stays disabled; no DNS/custom-domain cutover. Evidence: docs/reports/phase-05-production-checks.json. Phase 5 acceptance exceptions remain recorded.
 
 Phase 6 planning only: docs/phases/phase-06-plan.md and docs/recommendations/phase-06-test-set-draft.md. No knowledge base built yet; no source page/policy copy or signup behavior changed.
+
+Phase 6 source boundary narrowed by owner to Career Seekers section only. Planning/test documents updated; no published copy or runtime knowledge base changed.

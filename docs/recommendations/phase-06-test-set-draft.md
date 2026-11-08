@@ -1,6 +1,6 @@
 # Phase 6 bilingual evaluation matrix — draft for approval
 
-Planning proposal only, 2026-11-08. Not the authoritative missing `_source/chatbot/test-set.md`. 32 scenarios × EN/ES = 64 prompts before adversarial/redaction/limit expansions. Source scope, expected factual spans and thresholds must be approved and frozen before any paid model evaluation. No live model calls were run. All apparent personal data below is synthetic test data.
+Planning proposal only, 2026-11-08. These are sample visitor questions to check the bot before release; they are not programming work the owner needs to perform. Owner approved Career Seekers section content only; homepage/shared/Employers/external sources are excluded. Not the authoritative missing `_source/chatbot/test-set.md`. 32 scenarios × EN/ES = 64 prompts before adversarial/redaction/limit expansions. Source scope, expected factual spans and thresholds must be approved and frozen before any paid model evaluation. No live model calls were run. All apparent personal data below is synthetic test data.
 
 ## Grounded factual cases
 

@@ -4,15 +4,15 @@ Prepared 2026-11-08. Planning only; **not approved for implementation**. Owner e
 
 ## Input gates
 
-`_source/chatbot/` does not exist; knowledge-source approval/refresh schedule and `_source/chatbot/test-set.md` are missing. Owner questions are pending. No API key was read or requested in chat. Anthropic account ownership, model, spend ceilings, durable storage/account and alert destination are undecided. Existing Mailchimp mappings/test destination remain missing, so signup must remain explicitly mock-only until separately configured.
+`_source/chatbot/` does not exist and the authoritative test set remains unapproved. Owner approved using Career Seekers section content only on 2026-11-08; this narrows and supersedes the original homepage/shared-content proposal. Owner requested a storage proposal for approval. Refresh details, factual answer rubrics and other owner questions remain pending. No API key was read or requested in chat. Anthropic account ownership, model, spend ceilings, durable storage/account and alert destination are undecided. Existing Mailchimp mappings/test destination remain missing, so signup must remain explicitly mock-only until separately configured.
 
 The Phase 6 prompt and CLAUDE.md §6/§7 require approval of this plan and decisions before implementation. Do not create services/accounts, provision storage, make paid model calls, publish a chatbot to preview or change source copy while these gates are open.
 
 ## Proposed source scope and retrieval
 
-Start with the already approved Career Seekers EN/ES body content and relevant homepage/shared content. Exclude Employers blocks/pages, signup fields/disclosures as answer material, retired UI, job-board references and unapproved external content. The homepage must be filtered by block scope rather than treating the whole mixed-audience page as Career Seekers knowledge. CUSP material is usable only if an approved Career Seekers source actually supports it; otherwise use the contact fallback while Employers stays gated.
+Use only approved EN/ES page bodies classified as Career Seekers. Exclude the homepage, shared/privacy pages, Employers pages/blocks, signup fields/disclosures as answer material, retired UI, job-board references and all external content. A link from a Career Seekers page does not approve the linked external page/document as knowledge. Only separately approved, imported in-scope documents may be added later. CUSP material is usable only if an approved Career Seekers source actually supports it; otherwise use the contact fallback while Employers stays gated.
 
-Produce a source manifest with exact route, language/counterpart, heading/anchor, checksum, update date and approval status. Chunk by headings, preserving source text and attribution. Rebuild from repo content during deploy; no runtime browsing or arbitrary user URLs. A small deterministic lexical index and bilingual matching rules avoid a separate embeddings service initially; evaluate retrieval quality before accepting this approach. Source documents/PDFs must have a readable imported copy, permission and scope review before inclusion; link-only/failed extraction never becomes invented knowledge. Approved external summaries preserve URLs and refresh only under the owner-approved schedule, with diffs for review and stale-source fallback.
+Produce a source manifest with exact route, language/counterpart, heading/anchor, checksum, update date and approval status. Chunk by headings, preserving source text and attribution. Rebuild from repo content during deploy; no runtime browsing or arbitrary user URLs. A small deterministic lexical index and bilingual matching rules avoid a separate embeddings service initially; evaluate retrieval quality before accepting this approach. Source documents/PDFs must have a readable imported copy, permission and scope review before inclusion; link-only/failed extraction never becomes invented knowledge. External sources remain excluded; any later addition and refresh schedule require separate approval.
 
 The draft evaluation matrix is docs/recommendations/phase-06-test-set-draft.md. It is an approval proposal, not the missing owner's authoritative source file. Expected factual assertions will be grounded in reviewed source spans and frozen before the live eval, not written from model memory.
 
@@ -81,9 +81,11 @@ Proposed new runtime libraries, only after plan approval: official Anthropic Typ
 
 ## Decisions required
 
-1. Approve site-content-only initial source scope and deploy refresh, or supply sources/approved external schedule; approve/edit the proposed test matrix and expected answers.
+1. Source scope resolved: Career Seekers section only. Approve deploy refresh and the proposed sample-question matrix/expected answers; external/shared/homepage knowledge is excluded.
 2. Identify Anthropic owner/account; approve model, daily/monthly limits, bounded eval budget and actual traffic assumptions. Key remains outside chat.
 3. Identify existing database or approve a storage proposal/account/region; identify review access owner and authorized alert destination.
 4. Approve the full plan, acceptance thresholds and later concrete D-007 prototype/copy. New accounts/costs and counsel-dependent releases remain explicit gates.
 
 No Phase 6 runtime code or paid request has been made while these decisions are pending.
+
+Storage proposal for approval: docs/recommendations/phase-06-storage-proposal.md. “Draft tests” means sample visitor questions plus reviewed expected answers/behaviors, used to catch incorrect facts, missing citations, unsafe answers and privacy failures before release. Source approval does not automatically approve the test answers or full implementation plan.

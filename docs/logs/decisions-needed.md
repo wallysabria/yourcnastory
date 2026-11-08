@@ -94,3 +94,7 @@ Implementation is complete for review under the approved revised plan. Phase 5 m
 Owner explicitly approved merging/publishing Phase 5 and proceeding to Phase 6. PR #6 merged as 7ec7e686f5df405add69960b5315c1db94cbd272. Public alias https://yourcnastory.vercel.app/ verified for 48 pages/534 assets, EN/ES consent, retained vendor mocks, GPC and click-to-load media. Production tracking stays disabled; no DNS/custom-domain cutover. Evidence: docs/reports/phase-05-production-checks.json. Phase 5 acceptance exceptions remain recorded.
 
 Phase 6 gate: _source/chatbot/ and test-set.md are missing. Source/refresh/test approval, Anthropic account/model and budgets, storage/account and alert destination remain undecided. Proposed plan and bilingual draft tests are prepared; no implementation, new account or paid call is authorized by these proposals. Pending owner questions are in chat.
+
+## Phase 6 source clarification — 2026-11-08
+
+Owner approved Career Seekers section content only, superseding the broader homepage/shared-source proposal. External sources/documents are not approved just because a Career Seekers page links to them. Owner requested a storage proposal for approval; no database/account was provisioned. Draft tests were clarified as bilingual sample visitor questions with expected-answer/safety checks. Model/plan approval, Anthropic owner and budgets, storage approval and final evaluation rubrics remain pending.
