@@ -1,4 +1,4 @@
-import { renderableRoutes } from '@/lib/routing';
+import { indexableRoutes } from '@/lib/seo';
 import { origin } from '@/lib/metadata';
 export const dynamic = 'force-static';
 export function GET() {
@@ -14,7 +14,7 @@ export function GET() {
   ];
   for (const locale of ['en', 'es']) {
     if (locale === 'es') lines.push('', '## Español');
-    for (const route of renderableRoutes().filter(
+    for (const route of indexableRoutes().filter(
       (r) => r.locale === locale && r.section === 'career-seekers',
     ))
       lines.push(
@@ -27,7 +27,7 @@ export function GET() {
       );
   }
   lines.push('', '## Shared pages');
-  for (const route of renderableRoutes().filter((r) => r.section === 'shared'))
+  for (const route of indexableRoutes().filter((r) => r.section === 'shared'))
     lines.push(
       '- [' +
         clean(route.heading || route.metadata?.title || route.path) +

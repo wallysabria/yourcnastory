@@ -58,3 +58,6 @@ Read-only analysis of owner-supplied Search Console XLSX exports; originals unch
 ## Phase 7 implementation — 2026-11-08
 
 Approved plan implemented: source title/description/robots/OG wording retained; restored archived OG type/locale/site/image fields and supported article timestamps. Added source-backed JSON-LD, per-language sitemaps, sitemap index and llms.txt. Source-specific noindex remains on 32 pages; only 16 eligible pages are in sitemaps. New llms directory prose is approved Phase 7 auxiliary text, not a rewrite of page copy. Restored 18 exact upload paths (13 social images, two Career Seekers toolkits, three Search Console Career Seekers images); original derivatives remain. All 48 rendered body-copy/anchor checks pass. Approved Spanish FAQ alias redirect recorded separately; ambiguous legacy/Employer dispositions remain open. English content recommendations are draft-only.
+
+
+Phase 7 final owner decision — 2026-11-08: the three retired-language direct redirects in phase-07-retired-counterparts.json are approved and implemented (including slash and percent-encoding case variants). Destinations use declared English counterparts. No page copy or styling changes. Phase 6 and Employers remain deferred.

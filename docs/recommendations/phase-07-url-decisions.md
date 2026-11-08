@@ -14,3 +14,6 @@ Explicit owner approval is required under CLAUDE.md §4.1/§7 before changing a 
 ## Additional retired-language counterparts — proposed
 
 Fresh source GETs identify three historical URLs whose declared English counterpart is /career-paths-in-long-term-care/: /zh/careerpaths/, /vi/careerpaths/ and /zh/职业路径/护理协调职业/. The current generic migration fallback sends them to homepage. Proposed: direct single-hop 301 to the declared existing English career index instead, covering slash and equivalent percent-encoding variants. Total exported demand: one click / 155 impressions. Exact paths, source rows and declared URLs are in phase-07-retired-counterparts.json. No Employer target or new copy; pending owner approval before activation.
+
+
+Owner approved all three retired-language counterpart redirects on 2026-11-08; implemented as direct 301s with slash and percent-encoding case variants. Earlier pending status is superseded.

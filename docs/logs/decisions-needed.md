@@ -103,3 +103,6 @@ Owner approved the Phase 7 implementation plan and chose allow search/discovery,
 Owner approved the Spanish Career Seekers FAQ alias 301 on 2026-11-08. Both slash variants now target /es/preguntas-frecuentes/ directly; no Employer FAQ consolidation.
 
 Phase 7 checks: all 59 regression tests pass; 48 metadata/heading/source-copy checks, 96 controlled visual views and 192 accessibility states checked. An isolated launch build exposed and fixed an invalid empty Next header rule; launch checks passed and staging build was restored. No Vercel launch/indexing flag, account, DNS or live tracking setting changed. Model-training restrictions apply to four documented vendor controls, with Google-Extended mixed-purpose limitation documented. Source noindex overrides, Employer assets and historical URL dispositions remain future review/launch gates. Three newly evidenced retired-language redirects are pending their separate owner reply.
+
+
+Phase 7 final owner decision — 2026-11-08: the three retired-language direct redirects in phase-07-retired-counterparts.json are approved and implemented (including slash and percent-encoding case variants). Destinations use declared English counterparts. No page copy or styling changes. Phase 6 and Employers remain deferred.

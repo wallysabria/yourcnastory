@@ -141,6 +141,8 @@ test('language sitemap/index and llms links exclude Employers, retired languages
   const llms = await (await request.get('/llms.txt')).text();
   expect(llms).toContain('/es/programa-cna/');
   expect(llms).not.toContain('/employers/');
+  for (const route of renderableRoutes().filter((r) => r.metadata?.robots.includes('noindex')))
+    expect(llms).not.toContain(origin + route.path);
   expect(llms).not.toContain('jobboard.');
 });
 for (const [locale, path, query] of [

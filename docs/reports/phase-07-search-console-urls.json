@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-08T21:58:07.065Z",
+  "checkedAt": "2026-11-08T22:48:08.590Z",
   "method": "All 332 original page rows fetched on the WordPress source with GET. Final local HEAD probes use placeholder values for original parameter keys, avoiding private tracking tokens; query pass-through is separately tested. Includes explicit gated/unapproved exceptions. Source snapshot and migration are distinct.",
   "rows": 332,
-  "acceptedRows": 170,
-  "exceptionRows": 162,
+  "acceptedRows": 173,
+  "exceptionRows": 159,
   "allRowsAccountedFor": true,
   "summary": {
     "preserved-built-url": {
@@ -17,9 +17,9 @@
       "impressions": 80025
     },
     "approved-301-or-retired-parent-fallback": {
-      "rows": 132,
-      "clicks": 332,
-      "impressions": 49513
+      "rows": 135,
+      "clicks": 333,
+      "impressions": 49668
     },
     "retired-counterpart-outside-current-build": {
       "rows": 13,
@@ -45,11 +45,6 @@
       "rows": 5,
       "clicks": 1,
       "impressions": 40
-    },
-    "retired-counterpart-redirect-pending": {
-      "rows": 3,
-      "clicks": 1,
-      "impressions": 155
     },
     "retired-job-board": {
       "rows": 1,
@@ -1650,14 +1645,13 @@
           "status": 301
         },
         {
-          "path": "/",
+          "path": "/career-paths-in-long-term-care/",
           "status": 200
         }
       ],
       "redirectCount": 1,
-      "category": "retired-counterpart-redirect-pending",
-      "accepted": false,
-      "reason": "Declared English counterpart differs from generic fallback; no preservation pass claimed without approved disposition."
+      "category": "approved-301-or-retired-parent-fallback",
+      "accepted": true
     },
     {
       "sourceRow": 75,
@@ -2232,14 +2226,13 @@
           "status": 301
         },
         {
-          "path": "/",
+          "path": "/career-paths-in-long-term-care/",
           "status": 200
         }
       ],
       "redirectCount": 1,
-      "category": "retired-counterpart-redirect-pending",
-      "accepted": false,
-      "reason": "Declared English counterpart differs from generic fallback; no preservation pass claimed without approved disposition."
+      "category": "approved-301-or-retired-parent-fallback",
+      "accepted": true
     },
     {
       "sourceRow": 101,
@@ -3447,14 +3440,13 @@
           "status": 301
         },
         {
-          "path": "/",
+          "path": "/career-paths-in-long-term-care/",
           "status": 200
         }
       ],
       "redirectCount": 1,
-      "category": "retired-counterpart-redirect-pending",
-      "accepted": false,
-      "reason": "Declared English counterpart differs from generic fallback; no preservation pass claimed without approved disposition."
+      "category": "approved-301-or-retired-parent-fallback",
+      "accepted": true
     },
     {
       "sourceRow": 155,

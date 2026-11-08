@@ -150,3 +150,6 @@ Search Console confirms the Spanish CNA Program page is a preservation priority.
 ## Phase 7 implementation — 2026-11-08
 
 Spanish body copy, title/description wording, FAQ questions/answers and alt text remain unchanged. JSON-LD reuses exact normalized existing Q&A and visible heading labels. Restored source OG locale rather than the prior generic fallback. No new Spanish interface translation; the llms directory uses existing labels, including Español. SEO recommendations flag Spanish description/social-image opportunities for native review without drafting replacement Spanish. Approved /es/preguntas-frecuentes-2/ canonical alias redirects directly to the existing Career Seekers FAQ; /faqs/ remains separate/gated.
+
+
+Phase 7 final owner decision — 2026-11-08: the three retired-language direct redirects in phase-07-retired-counterparts.json are approved and implemented (including slash and percent-encoding case variants). Destinations use declared English counterparts. No page copy or styling changes. Phase 6 and Employers remain deferred.

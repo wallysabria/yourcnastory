@@ -52,3 +52,6 @@ No design change implemented or approved. Planned semantic heading corrections m
 ## Phase 7 semantic and search verification — 2026-11-08
 
 No deliberate visual redesign. Actual HTML heading tags now match the existing logical/ARIA hierarchy. Derived CSS preserves original type specificity and source styles; 96 controlled desktop/mobile views have identical heading geometry/typography and zero changed screenshot pixels. Original source CSS retained. Source-style ?s= links open the existing search dialog; Escape now closes a populated search field dialog and restores focus. No new UI styling or breadcrumb row. D-004 remains declined; the full 192-state axe scan retains only its contrast/link failures.
+
+
+Phase 7 final owner decision — 2026-11-08: the three retired-language direct redirects in phase-07-retired-counterparts.json are approved and implemented (including slash and percent-encoding case variants). Destinations use declared English counterparts. No page copy or styling changes. Phase 6 and Employers remain deferred.

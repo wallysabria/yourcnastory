@@ -3,6 +3,8 @@ import { renderableRoutes, counterpartFor } from './routing';
 import { isIndexable, origin } from './metadata';
 import heads from '@/content/seo/source-head.json' with { type: 'json' };
 import type { Locale } from './content-schema';
+export const indexableRoutes = () =>
+  renderableRoutes().filter((route) => !route.metadata?.robots.includes('noindex'));
 export const trainingAgents = ['GPTBot', 'ClaudeBot', 'Google-Extended', 'Applebot-Extended'];
 export function robotsPolicy(indexable = isIndexable): MetadataRoute.Robots {
   if (!indexable) return { rules: { userAgent: '*', disallow: '/' } };
@@ -32,8 +34,8 @@ export function sitemapIndex() {
 export function languageSitemap(locale: Locale) {
   return (
     '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">' +
-    renderableRoutes()
-      .filter((route) => route.locale === locale && !route.metadata?.robots.includes('noindex'))
+    indexableRoutes()
+      .filter((route) => route.locale === locale)
       .map((route) => {
         const counterpart = counterpartFor(route);
         const alternatives = [
