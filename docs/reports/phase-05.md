@@ -47,3 +47,8 @@ The public https://yourcnastory.vercel.app/ alias remains Phase 4 until the owne
 Owner review/merge approval is the next action. Phase 6 requires its own approved plan and the Career Seekers knowledge sources, ownership/model/credential decisions, redaction/retention implementation requirements and test-question set. No Phase 6 work was started.
 
 Verified review deployment: https://yourcnastory-o950o8nng-wallysabrias-projects.vercel.app (code SHA e2c9fe6a585008cba4f86cdf69bb6b6c4a4a8b2d). Final encoded first-party JavaScript: 200.94 KiB across 8 resources; includes JavaScript discovered by module preload.
+
+
+## Phase 5 publication / Phase 6 planning — 2026-11-08
+
+Owner explicitly approved merging/publishing Phase 5 and proceeding to Phase 6. PR #6 merged as 7ec7e686f5df405add69960b5315c1db94cbd272. Public alias https://yourcnastory.vercel.app/ verified for 48 pages/534 assets, EN/ES consent, retained vendor mocks, GPC and click-to-load media. Production tracking stays disabled; no DNS/custom-domain cutover. Evidence: docs/reports/phase-05-production-checks.json. Phase 5 acceptance exceptions remain recorded.

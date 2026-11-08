@@ -142,3 +142,7 @@ New UI copy under approved D-005; counsel/native-language review before release.
 The proposed Spanish policy additions are recorded in docs/recommendations/privacy-policy-draft.md in full; all are new draft-only text for counsel/native-language review, not published or substituted into frozen policy content.
 
 Phase 5 handoff: both language consent paths, footer reopening, signal overrides and media Play labels were verified. The Spanish counsel draft external-media paragraph now describes approved D-006 click-to-load behavior. All draft Spanish remains in docs/recommendations/privacy-policy-draft.md for counsel/native-language review; original Spanish policy and page JSON are unchanged.
+
+## Phase 6 planning — 2026-11-08
+
+The bilingual evaluation question draft is in docs/recommendations/phase-06-test-set-draft.md (32 paired scenarios). These are new draft test prompts, not rewritten page copy or published UI. Native-language/source/rubric approval remains required. No new chatbot interface strings are shipped; all original Spanish pages/policy remain frozen.

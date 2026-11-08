@@ -87,3 +87,10 @@ D-006 resolved: owner approved click-to-load external inline video players. No r
 ## Phase 5 review handoff — 2026-11-08
 
 Implementation is complete for review under the approved revised plan. Phase 5 merge/launch and Phase 6 remain unapproved. Retained vendor live verification is explicitly deferred; owner export and per-category configuration remain future activation gates. D-004 remains declined; LCP/score and manual assistive-technology limits are documented in phase-05 reports. Counsel review is required before release. No further input is required to finish this mock implementation.
+
+
+## Phase 5 publication / Phase 6 planning — 2026-11-08
+
+Owner explicitly approved merging/publishing Phase 5 and proceeding to Phase 6. PR #6 merged as 7ec7e686f5df405add69960b5315c1db94cbd272. Public alias https://yourcnastory.vercel.app/ verified for 48 pages/534 assets, EN/ES consent, retained vendor mocks, GPC and click-to-load media. Production tracking stays disabled; no DNS/custom-domain cutover. Evidence: docs/reports/phase-05-production-checks.json. Phase 5 acceptance exceptions remain recorded.
+
+Phase 6 gate: _source/chatbot/ and test-set.md are missing. Source/refresh/test approval, Anthropic account/model and budgets, storage/account and alert destination remain undecided. Proposed plan and bilingual draft tests are prepared; no implementation, new account or paid call is authorized by these proposals. Pending owner questions are in chat.
