@@ -1,7 +1,7 @@
 <!-- Owner explicitly approved implementation and allow-search/discovery, block-model-training policy in chat on 2026-11-08. -->
 # Phase 7 plan — SEO/AEO (approved 2026-11-08)
 
-Prepared 2026-11-08. Owner approved proceeding to Phase 7 while explicitly deferring Phase 6. This document is the required implementation plan; no SEO runtime changes have started. Branch phase-07-seo-aeo starts from published Phase 5 main (7ec7e686f5df405add69960b5315c1db94cbd272). Career Seekers, homepage and shared pages are in scope; Employers remain gated. Existing body copy, source URL paths, visual design, D-004 decision, disabled live tracking and staging noindex remain in force.
+Prepared 2026-11-08. Owner approved proceeding to Phase 7 while explicitly deferring Phase 6. This document records the approved implementation plan. Implementation is now complete for review; see docs/reports/phase-07.md. Branch phase-07-seo-aeo starts from published Phase 5 main (7ec7e686f5df405add69960b5315c1db94cbd272). Career Seekers, homepage and shared pages are in scope; Employers remain gated. Existing body copy, source URL paths, visual design, D-004 decision, disabled live tracking and staging noindex remain in force.
 
 ## Inputs and priorities
 

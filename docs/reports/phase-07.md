@@ -30,6 +30,6 @@ The two MOU attachments have ambiguous inventory parent references and remain sc
 
 ## Review / next steps
 
-Review the protected preview linked by the PR and cloud report. The public `yourcnastory.vercel.app` alias remains Phase 5 pending explicit merge/publication approval. No DNS, Search Console account changes, production tracking, live form submissions or chatbot activation.
+Review PR https://github.com/wallysabria/yourcnastory/pull/7 and the verified protected preview https://yourcnastory-npt65qy2s-wallysabrias-projects.vercel.app (runtime SHA 5bb73df2afa3ddb375bc649f5f11e07328752f8e). Final protected checks passed, including all eight approved counterpart rule variants with query preservation; temporary test access was revoked. The public `yourcnastory.vercel.app` alias remains Phase 5 pending explicit merge/publication approval. No DNS, Search Console account changes, production tracking, live form submissions or chatbot activation.
 
 Future gates: review unresolved URL/document dispositions, source noindex choices, recommendations and existing Phase 5 accessibility/performance/counsel/live-integration exceptions. Employers require explicit authorization; Phase 6 is deferred. No next phase has started.

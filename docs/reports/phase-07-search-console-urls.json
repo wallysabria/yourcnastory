@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-08T22:48:08.590Z",
+  "checkedAt": "2026-11-08T22:49:39.012Z",
   "method": "All 332 original page rows fetched on the WordPress source with GET. Final local HEAD probes use placeholder values for original parameter keys, avoiding private tracking tokens; query pass-through is separately tested. Includes explicit gated/unapproved exceptions. Source snapshot and migration are distinct.",
   "rows": 332,
   "acceptedRows": 173,
@@ -846,7 +846,7 @@
       "redirectCount": 0,
       "category": "deferred-employer-upload",
       "accepted": false,
-      "reason": "Five remaining PDF paths are employer forms/MOUs and partnership material; no publication in Phase 7."
+      "reason": "Five remaining PDF paths are Employer forms/partnership material or unattached MOUs with scope unresolved; no publication in Phase 7."
     },
     {
       "sourceRow": 39,
@@ -1180,7 +1180,7 @@
       "redirectCount": 0,
       "category": "deferred-employer-upload",
       "accepted": false,
-      "reason": "Five remaining PDF paths are employer forms/MOUs and partnership material; no publication in Phase 7."
+      "reason": "Five remaining PDF paths are Employer forms/partnership material or unattached MOUs with scope unresolved; no publication in Phase 7."
     },
     {
       "sourceRow": 54,
@@ -1516,7 +1516,7 @@
       "redirectCount": 0,
       "category": "deferred-employer-upload",
       "accepted": false,
-      "reason": "Five remaining PDF paths are employer forms/MOUs and partnership material; no publication in Phase 7."
+      "reason": "Five remaining PDF paths are Employer forms/partnership material or unattached MOUs with scope unresolved; no publication in Phase 7."
     },
     {
       "sourceRow": 69,
@@ -1787,7 +1787,7 @@
       "redirectCount": 0,
       "category": "deferred-employer-upload",
       "accepted": false,
-      "reason": "Five remaining PDF paths are employer forms/MOUs and partnership material; no publication in Phase 7."
+      "reason": "Five remaining PDF paths are Employer forms/partnership material or unattached MOUs with scope unresolved; no publication in Phase 7."
     },
     {
       "sourceRow": 81,
@@ -2994,7 +2994,7 @@
       "redirectCount": 0,
       "category": "deferred-employer-upload",
       "accepted": false,
-      "reason": "Five remaining PDF paths are employer forms/MOUs and partnership material; no publication in Phase 7."
+      "reason": "Five remaining PDF paths are Employer forms/partnership material or unattached MOUs with scope unresolved; no publication in Phase 7."
     },
     {
       "sourceRow": 135,
