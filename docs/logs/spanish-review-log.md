@@ -142,3 +142,14 @@ New UI copy under approved D-005; counsel/native-language review before release.
 The proposed Spanish policy additions are recorded in docs/recommendations/privacy-policy-draft.md in full; all are new draft-only text for counsel/native-language review, not published or substituted into frozen policy content.
 
 Phase 5 handoff: both language consent paths, footer reopening, signal overrides and media Play labels were verified. The Spanish counsel draft external-media paragraph now describes approved D-006 click-to-load behavior. All draft Spanish remains in docs/recommendations/privacy-policy-draft.md for counsel/native-language review; original Spanish policy and page JSON are unchanged.
+
+## Phase 7 planning — 2026-11-08
+
+Search Console confirms the Spanish CNA Program page is a preservation priority. No Spanish copy or metadata was rewritten. Proposed SEO content recommendations are English drafts only; Spanish opportunities are flagged for native speakers. No new Spanish UI string has been added.
+
+## Phase 7 implementation — 2026-11-08
+
+Spanish body copy, title/description wording, FAQ questions/answers and alt text remain unchanged. JSON-LD reuses exact normalized existing Q&A and visible heading labels. Restored source OG locale rather than the prior generic fallback. No new Spanish interface translation; the llms directory uses existing labels, including Español. SEO recommendations flag Spanish description/social-image opportunities for native review without drafting replacement Spanish. Approved /es/preguntas-frecuentes-2/ canonical alias redirects directly to the existing Career Seekers FAQ; /faqs/ remains separate/gated.
+
+
+Phase 7 final owner decision — 2026-11-08: the three retired-language direct redirects in phase-07-retired-counterparts.json are approved and implemented (including slash and percent-encoding case variants). Destinations use declared English counterparts. No page copy or styling changes. Phase 6 and Employers remain deferred.

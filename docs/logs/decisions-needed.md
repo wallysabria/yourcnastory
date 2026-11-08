@@ -87,3 +87,22 @@ D-006 resolved: owner approved click-to-load external inline video players. No r
 ## Phase 5 review handoff — 2026-11-08
 
 Implementation is complete for review under the approved revised plan. Phase 5 merge/launch and Phase 6 remain unapproved. Retained vendor live verification is explicitly deferred; owner export and per-category configuration remain future activation gates. D-004 remains declined; LCP/score and manual assistive-technology limits are documented in phase-05 reports. Counsel review is required before release. No further input is required to finish this mock implementation.
+
+## Phase 6 deferred / Phase 7 intake — 2026-11-08
+
+Owner explicitly deferred Phase 6 and approved proceeding to Phase 7. Chatbot plan/test/storage proposals remain saved on phase-06-chatbot-career-seekers; no account, database, paid calls or chatbot code. Phase 7 branch starts from published main. Required _source/seo/ is missing: last 16 months Search Console pages/queries and indexing report are needed. Per the Phase 7 prompt, stop before implementation and request these inputs. Indexing remains disabled; Employers remain gated.
+
+## Phase 7 inputs received — 2026-11-08
+
+Owner provided the Search Console performance/indexing workbooks in Migration. Required input gate resolved. Performance covers 2025-07-07 through 2026-11-06 (332 page rows; 1000 query rows without page-query pairing). Indexing provides reasons/totals but no URL examples. Proposed Phase 7 plan and future AI-crawler policy await approval. Additional issue examples are optional diagnostic input, not invented evidence. Exact document scope/ambiguous URL dispositions remain approval gates; Employers and Phase 6 remain deferred.
+
+## Phase 7 approved — 2026-11-08
+
+Owner approved the Phase 7 implementation plan and chose allow search/discovery, block model training for eventual launch. Staging remains blocked/noindex. Newly evidenced Spanish FAQ alias proposal is docs/recommendations/phase-07-url-decisions.md; approval pending before activation. Every exported URL has source/local probes; gated/historical exceptions remain explicit.
+
+Owner approved the Spanish Career Seekers FAQ alias 301 on 2026-11-08. Both slash variants now target /es/preguntas-frecuentes/ directly; no Employer FAQ consolidation.
+
+Phase 7 checks: all 59 regression tests pass; 48 metadata/heading/source-copy checks, 96 controlled visual views and 192 accessibility states checked. An isolated launch build exposed and fixed an invalid empty Next header rule; launch checks passed and staging build was restored. No Vercel launch/indexing flag, account, DNS or live tracking setting changed. Model-training restrictions apply to four documented vendor controls, with Google-Extended mixed-purpose limitation documented. Source noindex overrides, Employer assets and historical URL dispositions remain future review/launch gates. Three newly evidenced retired-language redirects are pending their separate owner reply.
+
+
+Phase 7 final owner decision — 2026-11-08: the three retired-language direct redirects in phase-07-retired-counterparts.json are approved and implemented (including slash and percent-encoding case variants). Destinations use declared English counterparts. No page copy or styling changes. Phase 6 and Employers remain deferred.

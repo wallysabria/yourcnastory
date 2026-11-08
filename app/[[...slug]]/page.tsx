@@ -1,4 +1,5 @@
 /* eslint-disable @next/next/no-css-tags -- Audited route-specific CSS uses React stylesheet precedence and resource deduplication. */
+import { structuredData, serializeStructuredData } from '@/lib/structured-data';
 import { contentAt } from '@/lib/content-pages';
 import layouts from '@/content/layout/pages.json' with { type: 'json' };
 import styleBundles from '@/content/layout/style-bundles.json' with { type: 'json' };
@@ -75,6 +76,10 @@ export default async function Page({ params }: { params: Promise<{ slug?: string
   } as CSSProperties;
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: serializeStructuredData(structuredData(route)) }}
+      />
       {layout.template === 'homepage' && (
         <link
           rel="preload"

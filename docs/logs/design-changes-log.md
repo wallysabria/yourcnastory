@@ -44,3 +44,14 @@ Owner explicitly approved the revised Phase 5/tag plan in chat, including the th
 Owner explicitly approved click-to-load inline YouTube/Vidyard players on both Community Resources pages. Preserve original self-hosted thumbnails, 16:9 placement and existing localized Play labels. Provider iframe is created only after activation; keyboard focus moves to it. No analytics grant is required to watch requested media. Prototype and proposal: docs/recommendations/phase-05-external-media.md. External providers may collect data after playback is requested; no no-tracking-after-Play claim.
 
 Phase 5 final checks preserve D-004 and approved D-005/D-006. Mobile contents now starts collapsed before hydration, matching its existing final mobile state and removing CLS; this is a native rendering correction, not a new design. Eight original/compressed-font screenshot checks show zero changed pixels. Whole-site pixel parity is not claimed.
+
+## Phase 7 planning — 2026-11-08
+
+No design change implemented or approved. Planned semantic heading corrections must preserve source styling; any new visible breadcrumb/interface design requires a separate concrete proposal. Proposed source-style search query support reuses the existing search interface and awaits Phase 7 plan approval.
+
+## Phase 7 semantic and search verification — 2026-11-08
+
+No deliberate visual redesign. Actual HTML heading tags now match the existing logical/ARIA hierarchy. Derived CSS preserves original type specificity and source styles; 96 controlled desktop/mobile views have identical heading geometry/typography and zero changed screenshot pixels. Original source CSS retained. Source-style ?s= links open the existing search dialog; Escape now closes a populated search field dialog and restores focus. No new UI styling or breadcrumb row. D-004 remains declined; the full 192-state axe scan retains only its contrast/link failures.
+
+
+Phase 7 final owner decision — 2026-11-08: the three retired-language direct redirects in phase-07-retired-counterparts.json are approved and implemented (including slash and percent-encoding case variants). Destinations use declared English counterparts. No page copy or styling changes. Phase 6 and Employers remain deferred.
