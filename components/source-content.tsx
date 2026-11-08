@@ -1,3 +1,5 @@
+import { InlineVideo } from './inline-video';
+import videoPosters from '@/content/integrations/external-video-posters.json';
 import { isLegacyChat } from '@/lib/legacy-ui';
 import { createElement, type ReactNode } from 'react';
 import type { ContentNode, Locale } from '@/lib/content-schema';
@@ -10,7 +12,6 @@ import {
   TableOfContents,
 } from './content-widgets';
 import { SignupForm, CountryCode } from './signup-form';
-import widgetLabels from '@/content/ui/widgets.json';
 import mediaSource from '@/content/media/manifest.json' with { type: 'json' };
 export type NodeLayout = {
   attrs: Record<string, string>;
@@ -119,29 +120,28 @@ export function renderSourceNode(node: ContentNode, key: string, ctx: Context): 
   if (has(node, 'elementor-background-video-container')) return null;
   if (tag === 'img' && raw['data-uuid'])
     return (
-      <iframe
+      <InlineVideo
         key={key}
-        className="native-inline-video"
-        title={widgetLabels[ctx.locale].video}
+        locale={ctx.locale}
         src={'https://play.vidyard.com/' + encodeURIComponent(raw['data-uuid']) + '.html'}
-        loading="lazy"
-        allow="autoplay; fullscreen; picture-in-picture"
-        allowFullScreen
+        poster={localAsset(
+          node.attrs.src || 'https://play.vidyard.com/' + raw['data-uuid'] + '.jpg',
+        )}
       />
     );
   if (has(node, 'elementor-video') && widgetSettings?.video_type === 'youtube') {
     const id = new URL(String(widgetSettings.youtube_url)).pathname.split('/').pop();
-    return (
-      <iframe
-        key={key}
-        className="elementor-video native-inline-video"
-        title={widgetLabels[ctx.locale].video}
-        src={'https://www.youtube.com/embed/' + id}
-        loading="lazy"
-        allow="autoplay; fullscreen; picture-in-picture"
-        allowFullScreen
-      />
-    );
+    const poster = videoPosters.find((item) => item.videoId === id);
+    if (poster)
+      return (
+        <InlineVideo
+          key={key}
+          locale={ctx.locale}
+          src={'https://www.youtube.com/embed/' + id}
+          poster={poster.path}
+        />
+      );
+    return null;
   }
   if (tag === 'form')
     return (
@@ -212,6 +212,7 @@ export function renderSourceNode(node: ContentNode, key: string, ctx: Context): 
   ])
     if (raw[name]) props[name] = raw[name];
   if (node.attrs.role) props.role = node.attrs.role;
+  if (node.attrs.id === 'content') props.tabIndex = -1;
   if (has(node, 'e-loop-item')) props.role = 'listitem';
   const tocItem = ctx.toc?.find((item) => item.key === key);
   if (tocItem && !props.id) props.id = tocItem.id;

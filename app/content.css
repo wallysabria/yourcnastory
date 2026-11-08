@@ -455,3 +455,38 @@ body:has(.site-header:not(.is-scrolled)) .back-to-top {
   opacity: 1 !important;
   visibility: visible !important;
 }
+
+/* D-006: external players load only after an explicit request. */
+.page-content .native-video-poster {
+  display: block;
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16/9;
+  border: 0;
+  padding: 0;
+  background: #151515;
+  cursor: pointer;
+  overflow: hidden;
+}
+.page-content .native-video-poster img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.page-content .native-video-play {
+  position: absolute;
+  left: calc(50% - 36px);
+  top: calc(50% - 26px);
+  width: 72px;
+  height: 52px;
+  background: #182c48e8;
+  border-radius: 10px;
+  color: #fff;
+  display: grid;
+  place-items: center;
+}
+.page-content .native-video-poster:focus-visible {
+  outline: 3px solid #005fcc;
+  outline-offset: 4px;
+}

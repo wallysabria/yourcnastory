@@ -34,3 +34,11 @@ Owner decision: keep source styling and flag accessibility failures. No D-004 st
 Native consent banner/preferences with equally prominent Accept/Decline controls, necessary/analytics categories, visible keyboard focus and a persistent footer Privacy choices link. Benefit: clear optional analytics control, browser privacy-signal handling and accessible preference management. Use existing blue/dark typography on a white panel, same-size/same-fill action buttons. Exact proposed EN/ES wording and counsel review status are in docs/recommendations/phase-05-consent-copy.md. Not implemented or published; pending plan/copy approval. Existing source body copy and D-004 decision are unchanged.
 
 D-005 revision (2026-11-08), still proposed: retain advertising as directed; preferences now separate necessary, analytics and advertising. Equal-weight Accept all optional tools / Decline all optional tools, with granular settings. Revised copy is in docs/recommendations/phase-05-consent-copy.md. No UI published.
+
+## D-005 approval — 2026-11-08
+
+Owner explicitly approved the revised Phase 5/tag plan in chat, including the three-category bilingual consent interface. D-005 is approved and implemented on the Phase 5 branch. Existing policy body and D-004 source styling remain unchanged. Counsel review is required before release.
+
+## D-006 — approved 2026-11-08
+
+Owner explicitly approved click-to-load inline YouTube/Vidyard players on both Community Resources pages. Preserve original self-hosted thumbnails, 16:9 placement and existing localized Play labels. Provider iframe is created only after activation; keyboard focus moves to it. No analytics grant is required to watch requested media. Prototype and proposal: docs/recommendations/phase-05-external-media.md. External providers may collect data after playback is requested; no no-tracking-after-Play claim.

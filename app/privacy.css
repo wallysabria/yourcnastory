@@ -1,0 +1,207 @@
+html {
+  scroll-padding-bottom: calc(var(--privacy-banner-height, 0px) + 20px);
+}
+body:has(.privacy-banner) {
+  padding-bottom: var(--privacy-banner-height, 0);
+}
+.privacy-banner,
+.privacy-dialog {
+  font: 400 16px/1.6 var(--font-body);
+  color: #2c3338;
+  background: #fff;
+}
+.privacy-banner {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  box-shadow: 0 -3px 22px #0003;
+  border-top: 1px solid #cbd4df;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(400px, 520px);
+  gap: 28px;
+  padding: 24px max(24px, calc((100vw - 1240px) / 2));
+  max-height: 70dvh;
+  overflow: auto;
+}
+.privacy-banner h2,
+.privacy-dialog h2 {
+  font: 600 24px/1.3 var(--font-body);
+  color: #2c3338;
+  margin: 0 0 10px;
+}
+.privacy-banner p,
+.privacy-dialog p {
+  margin: 0 0 12px;
+}
+.privacy-banner a,
+.privacy-dialog a {
+  color: #0159d3;
+  text-decoration: underline;
+}
+.privacy-actions {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  align-content: center;
+}
+.privacy-action {
+  border: 2px solid #0159d3;
+  border-radius: 100px;
+  background: #0159d3;
+  color: #fff;
+  padding: 12px 20px;
+  min-height: 48px;
+  font: 600 16px/1.4 var(--font-body);
+  cursor: pointer;
+  white-space: normal;
+}
+.privacy-action:hover {
+  background: #00347d;
+  border-color: #00347d;
+}
+.privacy-manage,
+.privacy-choices-button {
+  border: 0;
+  background: transparent;
+  color: inherit;
+  text-decoration: underline;
+  cursor: pointer;
+  font: inherit;
+  padding: 5px 0;
+  min-height: 44px;
+}
+.privacy-manage {
+  grid-column: 1/-1;
+  color: #0159d3;
+}
+.privacy-banner :focus-visible,
+.privacy-dialog :focus-visible,
+.privacy-choices-button:focus-visible {
+  outline: 3px solid #0056c7;
+  outline-offset: 4px;
+}
+.privacy-dialog {
+  border: 0;
+  border-radius: 8px;
+  padding: 0;
+  width: min(640px, calc(100vw - 32px));
+  max-width: none;
+  max-height: calc(100dvh - 32px);
+  overflow: auto;
+}
+.privacy-dialog::backdrop {
+  background: #032c5cb3;
+}
+.privacy-dialog-content {
+  padding: 28px;
+}
+.privacy-dialog-heading {
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+  gap: 15px;
+}
+.privacy-close {
+  border: 0;
+  background: transparent;
+  color: #2c3338;
+  cursor: pointer;
+  font: 400 32px/1 var(--font-body);
+  min-width: 44px;
+  min-height: 44px;
+}
+.privacy-categories {
+  border: 0;
+  padding: 0;
+  margin: 20px 0;
+  min-width: 0;
+}
+.privacy-categories label {
+  display: flex;
+  align-items: start;
+  gap: 14px;
+  padding: 16px 0;
+  border-bottom: 1px solid #d7dde5;
+  cursor: pointer;
+}
+.privacy-categories input {
+  width: 22px;
+  height: 22px;
+  margin: 4px 0 0;
+  flex: 0 0 22px;
+  accent-color: #0159d3;
+}
+.privacy-categories strong,
+.privacy-categories label span span {
+  display: block;
+}
+.privacy-categories label span span {
+  font-size: 14px;
+  margin-top: 5px;
+}
+.privacy-dialog-actions {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+.privacy-signal {
+  background: #edf4ff;
+  border-left: 4px solid #0159d3;
+  padding: 12px;
+}
+.privacy-sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
+}
+.footer-privacy-links {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.footer-privacy-links .privacy-choices-button {
+  color: #bfc3c6;
+  font-size: 14px;
+}
+@media (max-width: 767px) {
+  .privacy-banner {
+    grid-template-columns: 1fr;
+    gap: 8px;
+    padding: 18px 20px;
+  }
+  .privacy-banner h2,
+  .privacy-dialog h2 {
+    font-size: 21px;
+  }
+  .privacy-banner p {
+    font-size: 14px;
+  }
+  .privacy-dialog-content {
+    padding: 20px;
+  }
+  .privacy-action {
+    padding: 10px 12px;
+  }
+  .privacy-dialog-actions {
+    grid-template-columns: 1fr;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+.site-footer .privacy-choices-button:focus-visible {
+  outline-color: #fff;
+}

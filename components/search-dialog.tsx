@@ -3,6 +3,7 @@ import { useEffect, useRef, useState } from 'react';
 import type { Locale } from '@/lib/content-schema';
 import messages from '@/content/ui/search.json';
 import { SearchIcon, CloseIcon } from './icons';
+import { emitSiteEvent } from '@/lib/telemetry';
 type Result = { url: string; meta: { title?: string }; excerpt: string };
 type Index = { search: (query: string) => Promise<{ results: { data: () => Promise<Result> }[] }> };
 const decode = (text: string) =>
@@ -76,6 +77,17 @@ export function SearchDialog({ locale }: { locale: Locale }) {
     }, 200);
     return () => clearTimeout(timer);
   }, [query, locale]);
+  const lastTracked = useRef('');
+  function trackSearch() {
+    if (query.trim() && state === 'ready' && lastTracked.current !== query.trim()) {
+      emitSiteEvent({
+        name: 'site_search',
+        queryLength: query.trim().length,
+        resultCount: results.length,
+      });
+      lastTracked.current = query.trim();
+    }
+  }
   function close() {
     dialog.current?.close();
     setOpen(false);
@@ -89,6 +101,7 @@ export function SearchDialog({ locale }: { locale: Locale }) {
         className="search-toggle icon-button"
         aria-label={t.open}
         onClick={() => {
+          lastTracked.current = '';
           setOpen(true);
           dialog.current?.showModal();
           input.current?.focus();
@@ -118,7 +131,10 @@ export function SearchDialog({ locale }: { locale: Locale }) {
           <form
             role="search"
             className="search-input-shell"
-            onSubmit={(event) => event.preventDefault()}
+            onSubmit={(event) => {
+              event.preventDefault();
+              trackSearch();
+            }}
           >
             <input
               ref={input}
@@ -132,6 +148,7 @@ export function SearchDialog({ locale }: { locale: Locale }) {
                 sequence.current++;
                 setQuery(event.target.value);
                 if (!event.target.value) {
+                  lastTracked.current = '';
                   setResults([]);
                   setState('idle');
                 }
@@ -181,9 +198,21 @@ export function SearchDialog({ locale }: { locale: Locale }) {
                   : ''}
           </p>
           <ul id="site-search-results" className="search-results" aria-label={t.results}>
-            {results.map((result) => (
+            {results.map((result, position) => (
               <li key={result.url}>
-                <a href={result.url}>{decode(result.meta.title || result.url)}</a>
+                <a
+                  href={result.url}
+                  onClick={() => {
+                    trackSearch();
+                    emitSiteEvent({
+                      name: 'search_result_click',
+                      resultPath: result.url,
+                      position: position + 1,
+                    });
+                  }}
+                >
+                  {decode(result.meta.title || result.url)}
+                </a>
                 <p>{decode(result.excerpt)}</p>
               </li>
             ))}

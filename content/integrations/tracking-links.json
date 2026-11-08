@@ -1,0 +1,72 @@
+{
+  "hosts": [
+    "clovisadult.cusd.com",
+    "docs.google.com",
+    "drive.google.com",
+    "eepurl.com",
+    "facetshealthcare.com",
+    "go.unitekcollege.edu",
+    "hcinteractive.com",
+    "sisucare.com",
+    "synergyhealthcareeducation.com",
+    "www.bvnpt.ca.gov",
+    "www.cahf.org",
+    "www.cdc.gov",
+    "www.cdph.ca.gov",
+    "www.cdss.ca.gov",
+    "www.census.gov",
+    "www.consumeraffairs.com",
+    "www.ncnursingacademy.com",
+    "www.rn.ca.gov"
+  ],
+  "documents": [
+    {
+      "key": "document-1",
+      "host": "docs.google.com",
+      "path": "/spreadsheets/d/1izJ-UEb6VyigMTIaXrdvRtY7XgcT0qQd/edit",
+      "extension": "external-document"
+    },
+    {
+      "key": "document-2",
+      "host": "drive.google.com",
+      "path": "/file/d/114OUsMQ6hWJjK9dYjgDSrZjI7I_wzzaa/view",
+      "extension": "external-document"
+    },
+    {
+      "key": "document-3",
+      "host": "drive.google.com",
+      "path": "/file/d/1P6Srr1oBXeeAM034cER6kEKhmNdc7l7Z/view",
+      "extension": "external-document"
+    },
+    {
+      "key": "document-4",
+      "host": "drive.google.com",
+      "path": "/file/d/1rlGe70HR0bkqizvaxI_rlKGDBIEgapoQ/view",
+      "extension": "external-document"
+    },
+    {
+      "key": "document-5",
+      "host": "drive.google.com",
+      "path": "/file/d/1drGdgN4XRBPNkQmXMX44Ax13kltzDBHc/view",
+      "extension": "external-document"
+    },
+    {
+      "key": "document-6",
+      "host": "drive.google.com",
+      "path": "/file/d/1tr0xYcmPYDrd9dYWqT5uWC0dMkt4nXFc/view",
+      "extension": "external-document"
+    },
+    {
+      "key": "document-7",
+      "host": "drive.google.com",
+      "path": "/file/d/1oRWGmAkiB2NhDsSIzmTk49G0yMp81iAn/view",
+      "extension": "external-document"
+    },
+    {
+      "key": "document-8",
+      "host": "drive.google.com",
+      "path": "/file/d/1-w0RmKzAzfodbZhzFIb8k8NZZOIUZ5Kl/view",
+      "extension": "external-document"
+    }
+  ]
+}

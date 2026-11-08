@@ -6,6 +6,7 @@ const routes = JSON.parse(fs.readFileSync('content/routing/slug-map.json')).filt
 );
 const browser = await chromium.launch();
 const checks = [];
+const phase5 = process.argv.includes('--phase5');
 try {
   for (const width of [1440, 390]) {
     const context = await browser.newContext({
@@ -15,12 +16,15 @@ try {
     await context.route(/youtube.com|play.vidyard.com/, (r) => r.abort());
     const page = await context.newPage();
     for (const route of routes) {
+      if (phase5 && page.url().startsWith('http')) await page.evaluate(() => localStorage.removeItem('ycna_privacy_v1'));
       await page.goto('http://127.0.0.1:3101' + route.path, { waitUntil: 'load' });
       await page.evaluate(() => document.fonts.ready);
       const result = await new AxeBuilder({ page })
         .withTags(['wcag2a', 'wcag2aa', 'wcag21aa'])
         .analyze();
+      const choice = phase5 ? 'no-choice' : 'not-audited';
       checks.push({
+        choice,
         path: route.path,
         width,
         overflow: await page.evaluate(() => document.documentElement.scrollWidth > innerWidth),
@@ -30,6 +34,11 @@ try {
           nodes: v.nodes.map((n) => ({ target: n.target, summary: n.failureSummary })),
         })),
       });
+      if (phase5) {
+        await page.locator('.privacy-banner .privacy-action').nth(1).click();
+        const declined = await new AxeBuilder({page}).withTags(['wcag2a','wcag2aa','wcag21aa']).analyze();
+        checks.push({path:route.path,width,choice:'declined',overflow:await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),violations:declined.violations.map(v=>({id:v.id,impact:v.impact,nodes:v.nodes.map(n=>({target:n.target,summary:n.failureSummary}))}))});
+      }
     }
     await context.close();
     console.log('checked', width);
@@ -38,7 +47,7 @@ try {
   await browser.close();
 }
 fs.writeFileSync(
-  'docs/reports/phase-04-accessibility.json',
+  phase5 ? 'docs/reports/phase-05-accessibility.json' : 'docs/reports/phase-04-accessibility.json',
   JSON.stringify(
     {
       ownerDecision:

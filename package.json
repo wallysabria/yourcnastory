@@ -46,6 +46,7 @@
     "cheerio": "^1.2.0",
     "eslint": "^9.39.5",
     "eslint-config-next": "^16.4.5",
+    "lighthouse": "13.6.0",
     "pagefind": "^1.6.0",
     "pixelmatch": "^8.0.0",
     "pngjs": "^7.0.0",

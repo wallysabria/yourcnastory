@@ -1,10 +1,11 @@
-# Phase 5 plan — proposed for approval
+<!-- Owner approved the revised Phase 5/tag plan in chat on 2026-11-08. Implementation uses mocks; live verification deferred. -->
+# Phase 5 plan — approved 2026-11-08
 
 ## Starting point
 
 Phase 4 PR #5 was approved for merge in chat and merged as 01b1dc2758aa3a606a9c992023a793a15f4658f7 on 2026-11-08. The public Vercel alias was verified for 48 pages, bilingual search and reduced-motion grids. It remains noindex with analytics off and mock Mailchimp. The 96 visual flags remain review items; the merge is not a claim of pixel parity. D-004 source contrast/link styling remains declined and must not be silently changed.
 
-Owner confirmed GA4 Property 407144160, Measurement G-RC2WSP3DYG and Clarity yr1ps67xpa. The owner authorized creation of the missing read-only public tag audit. That input work is complete; this plan does not authorize implementation until approved. Branch: phase-05-integrations. Subsequent owner decisions retain Ads/Floodlight/MNTN, reuse GTM-TLC2T6FQ and use mocks with live verification deferred. The revised overall plan still awaits approval.
+Owner confirmed GA4 Property 407144160, Measurement G-RC2WSP3DYG and Clarity yr1ps67xpa. The owner authorized creation of the missing read-only public tag audit. That input work is complete; the revised plan was subsequently approved for implementation. Branch: phase-05-integrations. Subsequent owner decisions retain Ads/Floodlight/MNTN, reuse GTM-TLC2T6FQ and use mocks with live verification deferred. The revised overall plan was explicitly approved in chat on 2026-11-08.
 
 ## Work sequence
 
@@ -33,3 +34,7 @@ Only proposed new package: Lighthouse, development/audit-only, pinned when appro
 - Source accessibility styling decision D-004 remains in force. This plan does not reopen it or claim zero violations; report the acceptance exception candidly.
 
 No chatbot, structured data/SEO, Employers pages, live Mailchimp connection, DNS change or production tracking activation in this planning step.
+
+## Approved implementation detail — 2026-11-08
+
+Build-only helper wawoff2 2.0.1 (MIT; isolated ignored tooling) compresses the existing Manrope variable font to WOFF2 without adding runtime dependencies. The original TTF and OFL are retained. Consecutive source stylesheets are concatenated in original order during build, with content-hashed files. D-006 click-to-load external media was separately approved in chat after demonstrating passive provider tracking.

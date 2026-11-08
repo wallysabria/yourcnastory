@@ -6,8 +6,11 @@ import { SiteHeader } from '@/components/site-header';
 import { SiteFooter } from '@/components/site-footer';
 import '../globals.css';
 import '../content.css';
+import '../privacy.css';
+import { PrivacyCenter } from '@/components/privacy-center';
+import { trackingConfig } from '@/lib/tracking-config';
 const manrope = localFont({
-  src: '../../public/fonts/manrope-variable.ttf',
+  src: '../../public/fonts/manrope-variable.woff2',
   weight: '200 800',
   display: 'swap',
   variable: '--font-manrope',
@@ -41,6 +44,7 @@ export default async function RootLayout({
         {children}
         <div id="chat-root" data-chat-placeholder />
         <SiteFooter content={content} />
+        <PrivacyCenter locale={locale} tracking={trackingConfig()} />
       </body>
     </html>
   );

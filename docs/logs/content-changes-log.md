@@ -42,3 +42,9 @@ Phase 4 final visual QA found generic legacy chat IDs/classes that the original 
 Confirmed IDs recorded in ignored inputs; six public EN/ES/GPC tag-observation scenarios completed without live lead/application submissions or account configuration changes. No product copy, privacy policy, tracking or consent implementation changed. The proposed tag plan and consent UI copy are review documents only; advertising omissions have not been applied to the source site.
 
 Phase 5 planning revision (2026-11-08): supersede the advertising-omission proposal; retain Ads/Floodlight/MNTN and selected existing GTM-TLC2T6FQ. Mocks and deferred live verification are owner-selected. Only planning documents/copy proposals changed; no source or deployed tracking settings changed.
+
+## Phase 5 — 2026-11-08
+
+New reusable consent interface copy is in content/ui/privacy.json, approved under the revised plan/D-005 and subject to counsel review before release. Source article/page JSON, URLs, policy bodies and original media are unchanged. Manrope is delivered as WOFF2 generated from the existing variable TTF; original font/license retained. Adjacent source CSS resources are bundled in their original order; selectors and declarations are unchanged. Lighthouse 13.6.0 is an audit-only dependency; ignored isolated wawoff2 2.0.1 is a build-only font compression helper (MIT), with no runtime dependency.
+
+D-006 approved: added two original YouTube provider thumbnails, with source URL/hash provenance in content/integrations/external-video-posters.json. Reused the already imported original Vidyard poster and existing Play video / Reproducir video strings. No new media artwork or source copy.

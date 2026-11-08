@@ -77,3 +77,9 @@ Owner approved merging/deploying Phase 4 PR #5. Merge 01b1dc2758aa3a606a9c992023
 ## Phase 5 owner revisions — 2026-11-08
 
 Q-026 resolved: reuse existing GTM-TLC2T6FQ, also confirmed by the owner screenshot. Q-027 resolved for scope: do NOT omit Google Ads, Floodlight or MNTN; retain existing campaigns and exact verified mappings. The earlier omission proposal is superseded. Q-028 resolved: use mocks and defer live verification; no separate test IDs requested now. Revised overall Phase 5/tag plan approval remains pending, including separate analytics/advertising consent. Owner export/configuration is needed before real container use, and the agent makes no account/workspace changes or publication.
+
+## Phase 5 implementation approval — 2026-11-08
+
+The owner explicitly approved the revised Phase 5/tag plan. Earlier pending-plan text is superseded. Reuse GTM-TLC2T6FQ; retain Ads/Floodlight/MNTN; implement separate analytics/advertising choices with mocks and deferred live verification. Exact owner-controlled campaign mappings and consent configuration remain prerequisites for future live use. No new account IDs are requested for mock implementation.
+
+D-006 resolved: owner approved click-to-load external inline video players. No remaining approval gate for that implementation.

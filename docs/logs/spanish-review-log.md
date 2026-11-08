@@ -113,3 +113,30 @@ Supersedes the analytics-only proposal above, following owner retention of adver
 | Footer               | Privacy choices                                                                                                                                                                                                                                                      | Opciones de privacidad                                                                                                                                                                                                                                                                                                      |
 | GPC state            | Global Privacy Control is enabled in your browser. Analytics and advertising remain off.                                                                                                                                                                             | El Control Global de Privacidad está activado en tu navegador. El análisis y la publicidad permanecen desactivados.                                                                                                                                                                                                         |
 | DNT state            | Do Not Track is enabled in your browser. Analytics remains off.                                                                                                                                                                                                      | No rastrear está activado en tu navegador. El análisis permanece desactivado.                                                                                                                                                                                                                                               |
+
+## Phase 5 consent interface — 2026-11-08
+
+New UI copy under approved D-005; counsel/native-language review before release. Existing Spanish source copy remains frozen. Every new catalog string follows:
+
+- `privacy.title`: Tus opciones de privacidad
+- `privacy.description`: Usamos herramientas de análisis opcionales para entender cómo se utiliza este sitio web y herramientas publicitarias opcionales para medir campañas y apoyar publicidad relevante. Puedes aceptar o rechazar las herramientas opcionales, administrar cada categoría y cambiar tu elección mediante Opciones de privacidad.
+- `privacy.accept`: Aceptar todas las herramientas opcionales
+- `privacy.decline`: Rechazar todas las herramientas opcionales
+- `privacy.manage`: Administrar preferencias
+- `privacy.necessary`: Necesarias — siempre activas
+- `privacy.necessaryDescription`: Necesarias para el sitio web y tus opciones de privacidad guardadas.
+- `privacy.analytics`: Análisis — opcional
+- `privacy.analyticsDescription`: Nos ayuda a entender el uso del sitio web mediante Google Analytics y Microsoft Clarity.
+- `privacy.advertising`: Publicidad — opcional
+- `privacy.advertisingDescription`: Permite medir campañas y apoyar publicidad relevante mediante Google Ads, Floodlight y MNTN.
+- `privacy.save`: Guardar opciones
+- `privacy.close`: Cerrar
+- `privacy.footer`: Opciones de privacidad
+- `privacy.gpc`: El Control Global de Privacidad está activado en tu navegador. El análisis y la publicidad permanecen desactivados.
+- `privacy.dnt`: No rastrear está activado en tu navegador. El análisis y la publicidad permanecen desactivados.
+- `privacy.storageUnavailable`: Tu navegador no pudo guardar esta elección. Se aplica solo a esta página.
+- `privacy.saved`: Se han guardado tus opciones de privacidad.
+- `privacy.savedSession`: Tus opciones de privacidad se aplican a esta página.
+- `privacy.policy`: Política de privacidad
+
+The proposed Spanish policy additions are recorded in docs/recommendations/privacy-policy-draft.md in full; all are new draft-only text for counsel/native-language review, not published or substituted into frozen policy content.

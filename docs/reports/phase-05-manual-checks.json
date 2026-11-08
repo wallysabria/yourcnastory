@@ -1,0 +1,1613 @@
+{
+  "method": "Chromium keyboard, DOM accessibility names, reduced-motion emulation and viewport reflow equivalent to 100/200/400% browser zoom at 1280 physical pixels (1280/640/320 CSS px); not actual browser-menu zoom. External player requests blocked for this isolated check. Not an OS screen-reader or browser-menu zoom certification.",
+  "checks": [
+    {
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "template": "careerpath-entry",
+      "locale": "en",
+      "zoom": [
+        {
+          "factor": 1,
+          "cssViewport": 1280,
+          "overflow": {
+            "scroll": 1280,
+            "client": 1280,
+            "body": 1280
+          },
+          "visibleHeading": true
+        },
+        {
+          "factor": 2,
+          "cssViewport": 640,
+          "overflow": {
+            "scroll": 640,
+            "client": 640,
+            "body": 640
+          },
+          "visibleHeading": true
+        },
+        {
+          "factor": 4,
+          "cssViewport": 320,
+          "overflow": {
+            "scroll": 320,
+            "client": 320,
+            "body": 320
+          },
+          "visibleHeading": true
+        }
+      ],
+      "keyboard": {
+        "skipFocused": true,
+        "skipTarget": "content",
+        "searchFocus": true,
+        "searchRestored": true,
+        "privacyRestored": true
+      },
+      "labels": [
+        {
+          "tag": "INPUT",
+          "type": "search",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        }
+      ],
+      "images": {
+        "total": 10,
+        "missingAlt": 0,
+        "emptyAlt": 1
+      },
+      "motion": {
+        "reduce": true,
+        "visibleCards": true,
+        "autoplayingVideos": 0
+      }
+    },
+    {
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "template": "careerpath-entry",
+      "locale": "es",
+      "zoom": [
+        {
+          "factor": 1,
+          "cssViewport": 1280,
+          "overflow": {
+            "scroll": 1280,
+            "client": 1280,
+            "body": 1280
+          },
+          "visibleHeading": true
+        },
+        {
+          "factor": 2,
+          "cssViewport": 640,
+          "overflow": {
+            "scroll": 640,
+            "client": 640,
+            "body": 640
+          },
+          "visibleHeading": true
+        },
+        {
+          "factor": 4,
+          "cssViewport": 320,
+          "overflow": {
+            "scroll": 320,
+            "client": 320,
+            "body": 320
+          },
+          "visibleHeading": true
+        }
+      ],
+      "keyboard": {
+        "skipFocused": true,
+        "skipTarget": "content",
+        "searchFocus": true,
+        "searchRestored": true,
+        "privacyRestored": true
+      },
+      "labels": [
+        {
+          "tag": "INPUT",
+          "type": "search",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        }
+      ],
+      "images": {
+        "total": 10,
+        "missingAlt": 0,
+        "emptyAlt": 1
+      },
+      "motion": {
+        "reduce": true,
+        "visibleCards": true,
+        "autoplayingVideos": 0
+      }
+    },
+    {
+      "path": "/",
+      "template": "homepage",
+      "locale": "en",
+      "zoom": [
+        {
+          "factor": 1,
+          "cssViewport": 1280,
+          "overflow": {
+            "scroll": 1280,
+            "client": 1280,
+            "body": 1280
+          },
+          "visibleHeading": true
+        },
+        {
+          "factor": 2,
+          "cssViewport": 640,
+          "overflow": {
+            "scroll": 640,
+            "client": 640,
+            "body": 640
+          },
+          "visibleHeading": true
+        },
+        {
+          "factor": 4,
+          "cssViewport": 320,
+          "overflow": {
+            "scroll": 320,
+            "client": 320,
+            "body": 320
+          },
+          "visibleHeading": true
+        }
+      ],
+      "keyboard": {
+        "skipFocused": true,
+        "skipTarget": "content",
+        "searchFocus": true,
+        "searchRestored": true,
+        "privacyRestored": true
+      },
+      "labels": [
+        {
+          "tag": "INPUT",
+          "type": "search",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        }
+      ],
+      "images": {
+        "total": 14,
+        "missingAlt": 0,
+        "emptyAlt": 9
+      },
+      "motion": {
+        "reduce": true,
+        "visibleCards": true,
+        "autoplayingVideos": 0
+      }
+    },
+    {
+      "path": "/es/",
+      "template": "homepage",
+      "locale": "es",
+      "zoom": [
+        {
+          "factor": 1,
+          "cssViewport": 1280,
+          "overflow": {
+            "scroll": 1280,
+            "client": 1280,
+            "body": 1280
+          },
+          "visibleHeading": true
+        },
+        {
+          "factor": 2,
+          "cssViewport": 640,
+          "overflow": {
+            "scroll": 640,
+            "client": 640,
+            "body": 640
+          },
+          "visibleHeading": true
+        },
+        {
+          "factor": 4,
+          "cssViewport": 320,
+          "overflow": {
+            "scroll": 320,
+            "client": 320,
+            "body": 320
+          },
+          "visibleHeading": true
+        }
+      ],
+      "keyboard": {
+        "skipFocused": true,
+        "skipTarget": "content",
+        "searchFocus": true,
+        "searchRestored": true,
+        "privacyRestored": true
+      },
+      "labels": [
+        {
+          "tag": "INPUT",
+          "type": "search",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        }
+      ],
+      "images": {
+        "total": 14,
+        "missingAlt": 0,
+        "emptyAlt": 9
+      },
+      "motion": {
+        "reduce": true,
+        "visibleCards": true,
+        "autoplayingVideos": 0
+      }
+    },
+    {
+      "path": "/career-seekers/",
+      "template": "career-section-landing",
+      "locale": "en",
+      "zoom": [
+        {
+          "factor": 1,
+          "cssViewport": 1280,
+          "overflow": {
+            "scroll": 1280,
+            "client": 1280,
+            "body": 1280
+          },
+          "visibleHeading": true
+        },
+        {
+          "factor": 2,
+          "cssViewport": 640,
+          "overflow": {
+            "scroll": 640,
+            "client": 640,
+            "body": 640
+          },
+          "visibleHeading": true
+        },
+        {
+          "factor": 4,
+          "cssViewport": 320,
+          "overflow": {
+            "scroll": 320,
+            "client": 320,
+            "body": 320
+          },
+          "visibleHeading": true
+        }
+      ],
+      "keyboard": {
+        "skipFocused": true,
+        "skipTarget": "content",
+        "searchFocus": true,
+        "searchRestored": true,
+        "privacyRestored": true
+      },
+      "labels": [
+        {
+          "tag": "INPUT",
+          "type": "search",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "email",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "tel",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "tel",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "radio",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "radio",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        }
+      ],
+      "images": {
+        "total": 17,
+        "missingAlt": 0,
+        "emptyAlt": 2
+      },
+      "motion": {
+        "reduce": true,
+        "visibleCards": true,
+        "autoplayingVideos": 0
+      }
+    },
+    {
+      "path": "/es/aspirantes/",
+      "template": "career-section-landing",
+      "locale": "es",
+      "zoom": [
+        {
+          "factor": 1,
+          "cssViewport": 1280,
+          "overflow": {
+            "scroll": 1280,
+            "client": 1280,
+            "body": 1280
+          },
+          "visibleHeading": true
+        },
+        {
+          "factor": 2,
+          "cssViewport": 640,
+          "overflow": {
+            "scroll": 640,
+            "client": 640,
+            "body": 640
+          },
+          "visibleHeading": true
+        },
+        {
+          "factor": 4,
+          "cssViewport": 320,
+          "overflow": {
+            "scroll": 320,
+            "client": 320,
+            "body": 320
+          },
+          "visibleHeading": true
+        }
+      ],
+      "keyboard": {
+        "skipFocused": true,
+        "skipTarget": "content",
+        "searchFocus": true,
+        "searchRestored": true,
+        "privacyRestored": true
+      },
+      "labels": [
+        {
+          "tag": "INPUT",
+          "type": "search",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "email",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "tel",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "tel",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "radio",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "radio",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        }
+      ],
+      "images": {
+        "total": 18,
+        "missingAlt": 0,
+        "emptyAlt": 2
+      },
+      "motion": {
+        "reduce": true,
+        "visibleCards": true,
+        "autoplayingVideos": 0
+      }
+    },
+    {
+      "path": "/career-paths-in-long-term-care/",
+      "template": "careerpath-index",
+      "locale": "en",
+      "zoom": [
+        {
+          "factor": 1,
+          "cssViewport": 1280,
+          "overflow": {
+            "scroll": 1280,
+            "client": 1280,
+            "body": 1280
+          },
+          "visibleHeading": true
+        },
+        {
+          "factor": 2,
+          "cssViewport": 640,
+          "overflow": {
+            "scroll": 640,
+            "client": 640,
+            "body": 640
+          },
+          "visibleHeading": true
+        },
+        {
+          "factor": 4,
+          "cssViewport": 320,
+          "overflow": {
+            "scroll": 320,
+            "client": 320,
+            "body": 320
+          },
+          "visibleHeading": true
+        }
+      ],
+      "keyboard": {
+        "skipFocused": true,
+        "skipTarget": "content",
+        "searchFocus": true,
+        "searchRestored": true,
+        "privacyRestored": true
+      },
+      "labels": [
+        {
+          "tag": "INPUT",
+          "type": "search",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        }
+      ],
+      "images": {
+        "total": 9,
+        "missingAlt": 0,
+        "emptyAlt": 1
+      },
+      "motion": {
+        "reduce": true,
+        "visibleCards": true,
+        "autoplayingVideos": 0
+      }
+    },
+    {
+      "path": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+      "template": "careerpath-index",
+      "locale": "es",
+      "zoom": [
+        {
+          "factor": 1,
+          "cssViewport": 1280,
+          "overflow": {
+            "scroll": 1280,
+            "client": 1280,
+            "body": 1280
+          },
+          "visibleHeading": true
+        },
+        {
+          "factor": 2,
+          "cssViewport": 640,
+          "overflow": {
+            "scroll": 640,
+            "client": 640,
+            "body": 640
+          },
+          "visibleHeading": true
+        },
+        {
+          "factor": 4,
+          "cssViewport": 320,
+          "overflow": {
+            "scroll": 320,
+            "client": 320,
+            "body": 320
+          },
+          "visibleHeading": true
+        }
+      ],
+      "keyboard": {
+        "skipFocused": true,
+        "skipTarget": "content",
+        "searchFocus": true,
+        "searchRestored": true,
+        "privacyRestored": true
+      },
+      "labels": [
+        {
+          "tag": "INPUT",
+          "type": "search",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        }
+      ],
+      "images": {
+        "total": 9,
+        "missingAlt": 0,
+        "emptyAlt": 1
+      },
+      "motion": {
+        "reduce": true,
+        "visibleCards": true,
+        "autoplayingVideos": 0
+      }
+    },
+    {
+      "path": "/community-resources/",
+      "template": "anchored-resources",
+      "locale": "en",
+      "zoom": [
+        {
+          "factor": 1,
+          "cssViewport": 1280,
+          "overflow": {
+            "scroll": 1280,
+            "client": 1280,
+            "body": 1280
+          },
+          "visibleHeading": true
+        },
+        {
+          "factor": 2,
+          "cssViewport": 640,
+          "overflow": {
+            "scroll": 640,
+            "client": 640,
+            "body": 640
+          },
+          "visibleHeading": true
+        },
+        {
+          "factor": 4,
+          "cssViewport": 320,
+          "overflow": {
+            "scroll": 320,
+            "client": 320,
+            "body": 320
+          },
+          "visibleHeading": true
+        }
+      ],
+      "keyboard": {
+        "skipFocused": true,
+        "skipTarget": "content",
+        "searchFocus": true,
+        "searchRestored": true,
+        "privacyRestored": true
+      },
+      "labels": [
+        {
+          "tag": "INPUT",
+          "type": "search",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        }
+      ],
+      "images": {
+        "total": 6,
+        "missingAlt": 0,
+        "emptyAlt": 3
+      },
+      "motion": {
+        "reduce": true,
+        "visibleCards": true,
+        "autoplayingVideos": 0
+      }
+    },
+    {
+      "path": "/es/recursos-comunitarios/",
+      "template": "anchored-resources",
+      "locale": "es",
+      "zoom": [
+        {
+          "factor": 1,
+          "cssViewport": 1280,
+          "overflow": {
+            "scroll": 1280,
+            "client": 1280,
+            "body": 1280
+          },
+          "visibleHeading": true
+        },
+        {
+          "factor": 2,
+          "cssViewport": 640,
+          "overflow": {
+            "scroll": 640,
+            "client": 640,
+            "body": 640
+          },
+          "visibleHeading": true
+        },
+        {
+          "factor": 4,
+          "cssViewport": 320,
+          "overflow": {
+            "scroll": 320,
+            "client": 320,
+            "body": 320
+          },
+          "visibleHeading": true
+        }
+      ],
+      "keyboard": {
+        "skipFocused": true,
+        "skipTarget": "content",
+        "searchFocus": true,
+        "searchRestored": true,
+        "privacyRestored": true
+      },
+      "labels": [
+        {
+          "tag": "INPUT",
+          "type": "search",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        }
+      ],
+      "images": {
+        "total": 6,
+        "missingAlt": 0,
+        "emptyAlt": 3
+      },
+      "motion": {
+        "reduce": true,
+        "visibleCards": true,
+        "autoplayingVideos": 0
+      }
+    },
+    {
+      "path": "/privacy-policy/",
+      "template": "policy",
+      "locale": "en",
+      "zoom": [
+        {
+          "factor": 1,
+          "cssViewport": 1280,
+          "overflow": {
+            "scroll": 1280,
+            "client": 1280,
+            "body": 1280
+          },
+          "visibleHeading": true
+        },
+        {
+          "factor": 2,
+          "cssViewport": 640,
+          "overflow": {
+            "scroll": 640,
+            "client": 640,
+            "body": 640
+          },
+          "visibleHeading": true
+        },
+        {
+          "factor": 4,
+          "cssViewport": 320,
+          "overflow": {
+            "scroll": 320,
+            "client": 320,
+            "body": 320
+          },
+          "visibleHeading": true
+        }
+      ],
+      "keyboard": {
+        "skipFocused": true,
+        "skipTarget": "content",
+        "searchFocus": true,
+        "searchRestored": true,
+        "privacyRestored": true
+      },
+      "labels": [
+        {
+          "tag": "INPUT",
+          "type": "search",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        }
+      ],
+      "images": {
+        "total": 0,
+        "missingAlt": 0,
+        "emptyAlt": 0
+      },
+      "motion": {
+        "reduce": true,
+        "visibleCards": true,
+        "autoplayingVideos": 0
+      }
+    },
+    {
+      "path": "/es/politica-de-privacidad/",
+      "template": "policy",
+      "locale": "es",
+      "zoom": [
+        {
+          "factor": 1,
+          "cssViewport": 1280,
+          "overflow": {
+            "scroll": 1280,
+            "client": 1280,
+            "body": 1280
+          },
+          "visibleHeading": true
+        },
+        {
+          "factor": 2,
+          "cssViewport": 640,
+          "overflow": {
+            "scroll": 640,
+            "client": 640,
+            "body": 640
+          },
+          "visibleHeading": true
+        },
+        {
+          "factor": 4,
+          "cssViewport": 320,
+          "overflow": {
+            "scroll": 320,
+            "client": 320,
+            "body": 320
+          },
+          "visibleHeading": true
+        }
+      ],
+      "keyboard": {
+        "skipFocused": true,
+        "skipTarget": "content",
+        "searchFocus": true,
+        "searchRestored": true,
+        "privacyRestored": true
+      },
+      "labels": [
+        {
+          "tag": "INPUT",
+          "type": "search",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        }
+      ],
+      "images": {
+        "total": 0,
+        "missingAlt": 0,
+        "emptyAlt": 0
+      },
+      "motion": {
+        "reduce": true,
+        "visibleCards": true,
+        "autoplayingVideos": 0
+      }
+    },
+    {
+      "path": "/certified-nurse-assistant-program/",
+      "template": "standard-content-or-legacy",
+      "locale": "en",
+      "zoom": [
+        {
+          "factor": 1,
+          "cssViewport": 1280,
+          "overflow": {
+            "scroll": 1280,
+            "client": 1280,
+            "body": 1280
+          },
+          "visibleHeading": true
+        },
+        {
+          "factor": 2,
+          "cssViewport": 640,
+          "overflow": {
+            "scroll": 640,
+            "client": 640,
+            "body": 640
+          },
+          "visibleHeading": true
+        },
+        {
+          "factor": 4,
+          "cssViewport": 320,
+          "overflow": {
+            "scroll": 320,
+            "client": 320,
+            "body": 320
+          },
+          "visibleHeading": true
+        }
+      ],
+      "keyboard": {
+        "skipFocused": true,
+        "skipTarget": "content",
+        "searchFocus": true,
+        "searchRestored": true,
+        "privacyRestored": true
+      },
+      "labels": [
+        {
+          "tag": "INPUT",
+          "type": "search",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        }
+      ],
+      "images": {
+        "total": 5,
+        "missingAlt": 0,
+        "emptyAlt": 2
+      },
+      "motion": {
+        "reduce": true,
+        "visibleCards": true,
+        "autoplayingVideos": 0
+      }
+    },
+    {
+      "path": "/es/que-es-cuidar-a-largo-plazo/",
+      "template": "standard-content-or-legacy",
+      "locale": "es",
+      "zoom": [
+        {
+          "factor": 1,
+          "cssViewport": 1280,
+          "overflow": {
+            "scroll": 1280,
+            "client": 1280,
+            "body": 1280
+          },
+          "visibleHeading": true
+        },
+        {
+          "factor": 2,
+          "cssViewport": 640,
+          "overflow": {
+            "scroll": 640,
+            "client": 640,
+            "body": 640
+          },
+          "visibleHeading": true
+        },
+        {
+          "factor": 4,
+          "cssViewport": 320,
+          "overflow": {
+            "scroll": 320,
+            "client": 320,
+            "body": 320
+          },
+          "visibleHeading": true
+        }
+      ],
+      "keyboard": {
+        "skipFocused": true,
+        "skipTarget": "content",
+        "searchFocus": true,
+        "searchRestored": true,
+        "privacyRestored": true
+      },
+      "labels": [
+        {
+          "tag": "INPUT",
+          "type": "search",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        }
+      ],
+      "images": {
+        "total": 11,
+        "missingAlt": 0,
+        "emptyAlt": 1
+      },
+      "motion": {
+        "reduce": true,
+        "visibleCards": true,
+        "autoplayingVideos": 0
+      }
+    },
+    {
+      "path": "/earn-and-learn-la/",
+      "template": "campaign-signup",
+      "locale": "en",
+      "zoom": [
+        {
+          "factor": 1,
+          "cssViewport": 1280,
+          "overflow": {
+            "scroll": 1280,
+            "client": 1280,
+            "body": 1280
+          },
+          "visibleHeading": true
+        },
+        {
+          "factor": 2,
+          "cssViewport": 640,
+          "overflow": {
+            "scroll": 640,
+            "client": 640,
+            "body": 640
+          },
+          "visibleHeading": true
+        },
+        {
+          "factor": 4,
+          "cssViewport": 320,
+          "overflow": {
+            "scroll": 320,
+            "client": 320,
+            "body": 320
+          },
+          "visibleHeading": true
+        }
+      ],
+      "keyboard": {
+        "skipFocused": true,
+        "skipTarget": "content",
+        "searchFocus": true,
+        "searchRestored": true,
+        "privacyRestored": true
+      },
+      "labels": [
+        {
+          "tag": "INPUT",
+          "type": "search",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "email",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "tel",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "tel",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "radio",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "radio",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        }
+      ],
+      "images": {
+        "total": 9,
+        "missingAlt": 0,
+        "emptyAlt": 0
+      },
+      "motion": {
+        "reduce": true,
+        "visibleCards": true,
+        "autoplayingVideos": 0
+      }
+    },
+    {
+      "path": "/es/ganar-y-aprender-la/",
+      "template": "campaign-signup",
+      "locale": "es",
+      "zoom": [
+        {
+          "factor": 1,
+          "cssViewport": 1280,
+          "overflow": {
+            "scroll": 1280,
+            "client": 1280,
+            "body": 1280
+          },
+          "visibleHeading": true
+        },
+        {
+          "factor": 2,
+          "cssViewport": 640,
+          "overflow": {
+            "scroll": 640,
+            "client": 640,
+            "body": 640
+          },
+          "visibleHeading": true
+        },
+        {
+          "factor": 4,
+          "cssViewport": 320,
+          "overflow": {
+            "scroll": 320,
+            "client": 320,
+            "body": 320
+          },
+          "visibleHeading": true
+        }
+      ],
+      "keyboard": {
+        "skipFocused": true,
+        "skipTarget": "content",
+        "searchFocus": true,
+        "searchRestored": true,
+        "privacyRestored": true
+      },
+      "labels": [
+        {
+          "tag": "INPUT",
+          "type": "search",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "email",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "tel",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "tel",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "radio",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "radio",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        }
+      ],
+      "images": {
+        "total": 9,
+        "missingAlt": 0,
+        "emptyAlt": 0
+      },
+      "motion": {
+        "reduce": true,
+        "visibleCards": true,
+        "autoplayingVideos": 0
+      }
+    },
+    {
+      "path": "/frequently-asked-questions/",
+      "template": "faq-accordion",
+      "locale": "en",
+      "zoom": [
+        {
+          "factor": 1,
+          "cssViewport": 1280,
+          "overflow": {
+            "scroll": 1280,
+            "client": 1280,
+            "body": 1280
+          },
+          "visibleHeading": true
+        },
+        {
+          "factor": 2,
+          "cssViewport": 640,
+          "overflow": {
+            "scroll": 640,
+            "client": 640,
+            "body": 640
+          },
+          "visibleHeading": true
+        },
+        {
+          "factor": 4,
+          "cssViewport": 320,
+          "overflow": {
+            "scroll": 320,
+            "client": 320,
+            "body": 320
+          },
+          "visibleHeading": true
+        }
+      ],
+      "keyboard": {
+        "skipFocused": true,
+        "skipTarget": "content",
+        "searchFocus": true,
+        "searchRestored": true,
+        "privacyRestored": true
+      },
+      "labels": [
+        {
+          "tag": "INPUT",
+          "type": "search",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "email",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "tel",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "tel",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "radio",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "radio",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        }
+      ],
+      "images": {
+        "total": 4,
+        "missingAlt": 0,
+        "emptyAlt": 0
+      },
+      "motion": {
+        "reduce": true,
+        "visibleCards": true,
+        "autoplayingVideos": 0
+      }
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "template": "faq-accordion",
+      "locale": "es",
+      "zoom": [
+        {
+          "factor": 1,
+          "cssViewport": 1280,
+          "overflow": {
+            "scroll": 1280,
+            "client": 1280,
+            "body": 1280
+          },
+          "visibleHeading": true
+        },
+        {
+          "factor": 2,
+          "cssViewport": 640,
+          "overflow": {
+            "scroll": 640,
+            "client": 640,
+            "body": 640
+          },
+          "visibleHeading": true
+        },
+        {
+          "factor": 4,
+          "cssViewport": 320,
+          "overflow": {
+            "scroll": 320,
+            "client": 320,
+            "body": 320
+          },
+          "visibleHeading": true
+        }
+      ],
+      "keyboard": {
+        "skipFocused": true,
+        "skipTarget": "content",
+        "searchFocus": true,
+        "searchRestored": true,
+        "privacyRestored": true
+      },
+      "labels": [
+        {
+          "tag": "INPUT",
+          "type": "search",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "email",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "tel",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "tel",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "radio",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "radio",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "named": true
+        }
+      ],
+      "images": {
+        "total": 4,
+        "missingAlt": 0,
+        "emptyAlt": 0
+      },
+      "motion": {
+        "reduce": true,
+        "visibleCards": true,
+        "autoplayingVideos": 0
+      }
+    }
+  ]
+}
