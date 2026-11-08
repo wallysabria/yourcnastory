@@ -87,3 +87,7 @@ D-006 resolved: owner approved click-to-load external inline video players. No r
 ## Phase 5 review handoff — 2026-11-08
 
 Implementation is complete for review under the approved revised plan. Phase 5 merge/launch and Phase 6 remain unapproved. Retained vendor live verification is explicitly deferred; owner export and per-category configuration remain future activation gates. D-004 remains declined; LCP/score and manual assistive-technology limits are documented in phase-05 reports. Counsel review is required before release. No further input is required to finish this mock implementation.
+
+## Phase 6 deferred / Phase 7 intake — 2026-11-08
+
+Owner explicitly deferred Phase 6 and approved proceeding to Phase 7. Chatbot plan/test/storage proposals remain saved on phase-06-chatbot-career-seekers; no account, database, paid calls or chatbot code. Phase 7 branch starts from published main. Required _source/seo/ is missing: last 16 months Search Console pages/queries and indexing report are needed. Per the Phase 7 prompt, stop before implementation and request these inputs. Indexing remains disabled; Employers remain gated.
