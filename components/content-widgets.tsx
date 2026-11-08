@@ -345,3 +345,62 @@ export function VideoTrigger({
     </>
   );
 }
+
+export function TableOfContents({
+  className,
+  title,
+  id,
+  items,
+  locale,
+}: {
+  className: string;
+  title: string;
+  id: string;
+  items: { id: string; text: string; level: number }[];
+  locale: Locale;
+}) {
+  const [open, setOpen] = useState(true);
+  useEffect(() => {
+    const query = matchMedia('(min-width:768px)');
+    const update = () => setOpen(query.matches);
+    update();
+    query.addEventListener('change', update);
+    return () => query.removeEventListener('change', update);
+  }, []);
+  const t = labels[locale];
+  return (
+    <nav
+      className={className + (open ? '' : ' elementor-toc--collapsed')}
+      aria-label={title.trim()}
+    >
+      <div className="elementor-widget-container">
+        <div className="elementor-toc__header">
+          <h4 className="elementor-toc__header-title">{title}</h4>
+          <button
+            type="button"
+            className="elementor-toc__toggle-button native-toc-toggle"
+            aria-controls={id}
+            aria-expanded={open}
+            aria-label={open ? t.collapseContents : t.expandContents}
+            onClick={() => setOpen(!open)}
+          >
+            <Glyph kind={open ? 'previous' : 'next'} />
+          </button>
+        </div>
+        <div className="elementor-toc__body" id={id} hidden={!open}>
+          <ol className="elementor-toc__list-wrapper" data-content-control data-pagefind-ignore>
+            {items.map((item) => (
+              <li className="elementor-toc__list-item" key={item.id}>
+                <div className="elementor-toc__list-item-text-wrapper">
+                  <a className="elementor-toc__list-item-text" href={'#' + item.id}>
+                    {item.text}
+                  </a>
+                </div>
+              </li>
+            ))}
+          </ol>
+        </div>
+      </div>
+    </nav>
+  );
+}

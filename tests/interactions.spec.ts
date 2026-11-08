@@ -108,3 +108,32 @@ test('server signup validates, accepts mock input and rate limits without extern
     ).status(),
   ).toBe(400);
 });
+
+test('privacy contents links preserve anchors and collapse on mobile', async ({ page }) => {
+  await page.goto('/privacy-policy/');
+  const contents = page.locator('nav.elementor-widget-table-of-contents');
+  await expect(contents.locator('ol a')).toHaveCount(8);
+  const security = contents.getByRole('link', { name: 'Security', exact: true });
+  await security.click();
+  await expect(page).toHaveURL(/#elementor-toc__heading-anchor-2$/);
+  await expect(page.locator('#elementor-toc__heading-anchor-2')).toHaveText('Security');
+  await page.setViewportSize({ width: 390, height: 844 });
+  const toggle = contents.locator('button');
+  await expect(toggle).toHaveAttribute('aria-expanded', 'false');
+  await toggle.focus();
+  await toggle.press('Enter');
+  await expect(toggle).toHaveAttribute('aria-expanded', 'true');
+});
+test('search includes collapsed FAQ answer text and carousel motion controls respond', async ({
+  page,
+}) => {
+  await page.goto('/');
+  const pause = page.locator('.native-carousel .native-motion-toggle').first();
+  await pause.click();
+  await expect(pause).toHaveAttribute('aria-label', 'Play');
+  await page.locator('.search-toggle').click();
+  await page.getByRole('searchbox').fill('steppingstone');
+  await expect(
+    page.locator('.search-results a[href="/frequently-asked-questions/"]'),
+  ).toBeVisible();
+});

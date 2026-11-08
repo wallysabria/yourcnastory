@@ -437,3 +437,15 @@ body:has(.site-header:not(.is-scrolled)) .back-to-top {
   visibility: hidden;
   pointer-events: none;
 }
+
+.page-content .native-toc-toggle {
+  background: transparent;
+  border: 0;
+  color: inherit;
+  padding: 0;
+  cursor: pointer;
+  transform: rotate(90deg);
+}
+.page-content .elementor-toc__body[hidden] {
+  display: none !important;
+}

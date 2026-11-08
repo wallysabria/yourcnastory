@@ -29,11 +29,20 @@ export default async function Page({ params }: { params: Promise<{ slug?: string
   )[route.path];
   const headings: Record<string, number> = {};
   let previousLevel = 0;
-  const headingEntries: { key: string; level: number }[] = [];
+  const headingEntries: { key: string; level: number; text: string; tag: string; id?: string }[] =
+    [];
+  const nodeText = (node: ContentNode): string =>
+    node.type === 'text' ? node.value : node.children.map(nodeText).join('');
   function collect(node: ContentNode, key: string) {
     if (node.type !== 'element') return;
     if (/^h[1-6]$/.test(node.tag)) {
-      headingEntries.push({ key, level: Number(node.tag[1]) });
+      headingEntries.push({
+        key,
+        level: Number(node.tag[1]),
+        text: nodeText(node),
+        tag: node.tag,
+        id: node.attrs.id,
+      });
     }
     node.children.forEach((child, i) => collect(child, key + '.' + i));
   }
@@ -46,6 +55,19 @@ export default async function Page({ params }: { params: Promise<{ slug?: string
     headings[entry.key] = level;
     previousLevel = level;
   }
+  const toc =
+    layout.template === 'privacy' ||
+    route.path.includes('privacy-policy') ||
+    route.path.includes('politica-de-privacidad')
+      ? headingEntries
+          .filter((entry) => ['h2', 'h3'].includes(entry.tag))
+          .map((entry, index) => ({
+            key: entry.key,
+            id: entry.id || 'elementor-toc__heading-anchor-' + index,
+            text: entry.text,
+            level: entry.level,
+          }))
+      : [];
   const style = {
     '--desktop-header-space': measurement.desktop.headerSpace + 'px',
     '--mobile-header-space': measurement.mobile.headerSpace + 'px',
@@ -68,7 +90,12 @@ export default async function Page({ params }: { params: Promise<{ slug?: string
             {page.blocks.flatMap((block) =>
               block.type === 'document'
                 ? block.nodes.map((node, i) =>
-                    renderSourceNode(node, String(i), { locale: route.locale, layout, headings }),
+                    renderSourceNode(node, String(i), {
+                      locale: route.locale,
+                      layout,
+                      headings,
+                      toc,
+                    }),
                   )
                 : [],
             )}

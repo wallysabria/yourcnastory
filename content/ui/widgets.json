@@ -7,7 +7,9 @@
     "playVideo": "Play video",
     "closeVideo": "Close video",
     "carousel": "Carousel",
-    "video": "Video"
+    "video": "Video",
+    "expandContents": "Expand table of contents",
+    "collapseContents": "Collapse table of contents"
   },
   "es": {
     "previous": "Diapositiva anterior",
@@ -17,6 +19,8 @@
     "playVideo": "Reproducir video",
     "closeVideo": "Cerrar video",
     "carousel": "Carrusel",
-    "video": "Video"
+    "video": "Video",
+    "expandContents": "Expandir tabla de contenido",
+    "collapseContents": "Contraer tabla de contenido"
   }
 }

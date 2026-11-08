@@ -151,6 +151,8 @@ function scoped(css) {
           );
           if (promoted !== selector) variants.push(promoted);
         }
+        if (selector.includes('.elementor-flip-box') && selector.includes(':hover'))
+          variants.push(selector.replaceAll(':hover', ':focus-within'));
         return variants;
       })
       .join(',');

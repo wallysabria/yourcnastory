@@ -1,7 +1,13 @@
 import { createElement, type ReactNode } from 'react';
 import type { ContentNode, Locale } from '@/lib/content-schema';
 import { routes, reservedRoutes, employersEnabled, normalizePath } from '@/lib/routing';
-import { AccordionItem, Carousel, BackgroundVideo, VideoTrigger } from './content-widgets';
+import {
+  AccordionItem,
+  Carousel,
+  BackgroundVideo,
+  VideoTrigger,
+  TableOfContents,
+} from './content-widgets';
 import { SignupForm, CountryCode } from './signup-form';
 import widgetLabels from '@/content/ui/widgets.json';
 import mediaSource from '@/content/media/manifest.json' with { type: 'json' };
@@ -24,6 +30,7 @@ type Context = {
   inLanguageGroup?: boolean;
   languageOption?: string;
   headings?: Record<string, number>;
+  toc?: { key: string; id: string; text: string; level: number }[];
 };
 const media = new Map(mediaSource.map((r) => [r.url, r.path]));
 const gated = new Set(
@@ -93,6 +100,20 @@ export function renderSourceNode(node: ContentNode, key: string, ctx: Context): 
   const children = (inContext = context) =>
     node.children.map((child, i) => renderSourceNode(child, key + '.' + i, inContext));
   if (!tagNames.has(tag)) return children();
+  if (raw['data-widget_type'] === 'table-of-contents.default') {
+    const title = first(node, (n) => n.type === 'element' && has(n, 'elementor-toc__header-title'));
+    const body = first(node, (n) => n.type === 'element' && has(n, 'elementor-toc__body'));
+    return (
+      <TableOfContents
+        key={key}
+        className={classes}
+        title={title ? texts(title) : ''}
+        id={body?.type === 'element' ? body.attrs.id : 'page-toc'}
+        items={ctx.toc || []}
+        locale={ctx.locale}
+      />
+    );
+  }
   if (has(node, 'elementor-background-video-container')) return null;
   if (tag === 'img' && raw['data-uuid'])
     return (
@@ -190,6 +211,12 @@ export function renderSourceNode(node: ContentNode, key: string, ctx: Context): 
     if (raw[name]) props[name] = raw[name];
   if (node.attrs.role) props.role = node.attrs.role;
   if (has(node, 'e-loop-item')) props.role = 'listitem';
+  const tocItem = ctx.toc?.find((item) => item.key === key);
+  if (tocItem && !props.id) props.id = tocItem.id;
+  if (has(node, 'elementor-flip-box')) {
+    props.tabIndex = 0;
+    props.role = 'group';
+  }
   if ((tag === 'div' || tag === 'span' || (tag === 'a' && !node.attrs.href)) && !props.role)
     delete props['aria-label'];
   if (ctx.headings?.[key]) {

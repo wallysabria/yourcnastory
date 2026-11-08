@@ -71,3 +71,5 @@ New interface text only; source Spanish bodies and SMS disclosure remain unchang
 | widgets.video | Video |
 
 The source nursing career entries contain literal `.cls-...{fill:none;stroke:...}` fragments in anchor text. Preserved under frozen-copy rules; native-speaker/content review should decide whether to remove these artifacts later.
+
+Phase 4 additional native TOC interface: `widgets.expandContents` = “Expandir tabla de contenido”; `widgets.collapseContents` = “Contraer tabla de contenido”. Existing privacy section headings are reused verbatim as TOC links; source body copy remains frozen.
