@@ -91,3 +91,7 @@ Implementation is complete for review under the approved revised plan. Phase 5 m
 ## Phase 6 deferred / Phase 7 intake — 2026-11-08
 
 Owner explicitly deferred Phase 6 and approved proceeding to Phase 7. Chatbot plan/test/storage proposals remain saved on phase-06-chatbot-career-seekers; no account, database, paid calls or chatbot code. Phase 7 branch starts from published main. Required _source/seo/ is missing: last 16 months Search Console pages/queries and indexing report are needed. Per the Phase 7 prompt, stop before implementation and request these inputs. Indexing remains disabled; Employers remain gated.
+
+## Phase 7 inputs received — 2026-11-08
+
+Owner provided the Search Console performance/indexing workbooks in Migration. Required input gate resolved. Performance covers 2025-07-07 through 2026-11-06 (332 page rows; 1000 query rows without page-query pairing). Indexing provides reasons/totals but no URL examples. Proposed Phase 7 plan and future AI-crawler policy await approval. Additional issue examples are optional diagnostic input, not invented evidence. Exact document scope/ambiguous URL dispositions remain approval gates; Employers and Phase 6 remain deferred.

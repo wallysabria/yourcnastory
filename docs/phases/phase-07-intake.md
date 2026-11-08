@@ -17,3 +17,7 @@ Requested input: relevant property name (domain or URL-prefix), export date/date
 - Source copy remains frozen. Employers remain gated. Chatbot unanswered logs do not exist because Phase 6 is deferred; no such evidence may be invented for recommendations.
 
 After the missing inputs arrive: inspect coverage, inventory known source/metadata gaps, consult current primary search/schema guidance, propose the implementation/crawler policy and obtain plan approval. No new service, account, external publication or content change is inferred from this intake.
+
+## Inputs received — 2026-11-08
+
+The owner supplied performance and indexing XLSX workbooks in the Migration folder. Originals are now copied unchanged into ignored _source/seo/. The missing-input gate above is resolved; workbook coverage/limits are documented in docs/audit/phase-07-search-console-inputs.md/.json. Proposed implementation plan: docs/phases/phase-07-plan.md. Implementation and crawler-policy approval remain pending.

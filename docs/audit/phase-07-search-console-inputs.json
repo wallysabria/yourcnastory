@@ -1,0 +1,255 @@
+{
+  "receivedOn": "2026-11-08",
+  "performance": {
+    "sourceFile": "performance-2026-11-08.xlsx",
+    "dateFilter": "Last 16 months",
+    "searchType": "Web (text-based)",
+    "start": "2025-07-07",
+    "end": "2026-11-06",
+    "dailyRows": 488,
+    "pageRows": 332,
+    "queryRows": 1000,
+    "chartTotals": {
+      "clicks": 2892,
+      "impressions": 570363
+    },
+    "pageAggregationTotals": {
+      "clicks": 2923,
+      "impressions": 617463
+    },
+    "queryAggregationTotals": {
+      "clicks": 700,
+      "impressions": 273171
+    },
+    "queryTopics": [
+      {
+        "topic": "cna-training",
+        "rows": 123,
+        "clicks": 105,
+        "impressions": 14349
+      },
+      {
+        "topic": "online",
+        "rows": 19,
+        "clicks": 4,
+        "impressions": 1570
+      },
+      {
+        "topic": "free-or-cost",
+        "rows": 21,
+        "clicks": 8,
+        "impressions": 875
+      },
+      {
+        "topic": "exam-or-certification",
+        "rows": 77,
+        "clicks": 47,
+        "impressions": 7718
+      },
+      {
+        "topic": "long-term-care",
+        "rows": 72,
+        "clicks": 54,
+        "impressions": 12509
+      }
+    ],
+    "limits": [
+      "Exactly 1000 query rows; no evidence this is exhaustive.",
+      "No query-to-page pairing.",
+      "Different aggregation totals preserved without forced reconciliation."
+    ]
+  },
+  "indexing": {
+    "sourceFile": "coverage-2026-11-08.xlsx",
+    "start": "2026-08-09",
+    "end": "2026-10-22",
+    "dailyRows": 75,
+    "latest": {
+      "notIndexed": 244,
+      "indexed": 74
+    },
+    "reasons": [
+      {
+        "reason": "Page with redirect",
+        "source": "Website",
+        "validation": "Failed",
+        "pages": 33
+      },
+      {
+        "reason": "Not found (404)",
+        "source": "Website",
+        "validation": "Failed",
+        "pages": 28
+      },
+      {
+        "reason": "Alternate page with proper canonical tag",
+        "source": "Website",
+        "validation": "Not Started",
+        "pages": 98
+      },
+      {
+        "reason": "Excluded by ‘noindex’ tag",
+        "source": "Website",
+        "validation": "Not Started",
+        "pages": 73
+      },
+      {
+        "reason": "Crawled - currently not indexed",
+        "source": "Google systems",
+        "validation": "Not Started",
+        "pages": 10
+      },
+      {
+        "reason": "Blocked due to other 4xx issue",
+        "source": "Website",
+        "validation": "Started",
+        "pages": 1
+      },
+      {
+        "reason": "Blocked due to access forbidden (403)",
+        "source": "Website",
+        "validation": "Started",
+        "pages": 1
+      },
+      {
+        "reason": "Redirect error",
+        "source": "Website",
+        "validation": "N/A",
+        "pages": 0
+      },
+      {
+        "reason": "Discovered - currently not indexed",
+        "source": "Google systems",
+        "validation": "Passed",
+        "pages": 0
+      }
+    ],
+    "affectedUrlExamplesProvided": false
+  },
+  "workbooks": [
+    {
+      "file": "coverage-2026-11-08.xlsx",
+      "sha256": "90b6f6376d3fd7d45b8fea32db89a090a1a3287236f63874b2450a62bc3bba0c",
+      "sheets": [
+        {
+          "name": "Chart",
+          "rows": 75,
+          "headers": [
+            "Date",
+            "Not indexed",
+            "Indexed",
+            "Impressions"
+          ]
+        },
+        {
+          "name": "Critical issues",
+          "rows": 9,
+          "headers": [
+            "Reason",
+            "Source",
+            "Validation",
+            "Pages"
+          ]
+        },
+        {
+          "name": "Non-critical issues",
+          "rows": 0,
+          "headers": [
+            "Reason",
+            "Source",
+            "Validation",
+            "Pages"
+          ]
+        },
+        {
+          "name": "Metadata",
+          "rows": 1,
+          "headers": [
+            "Property",
+            "Value"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "performance-2026-11-08.xlsx",
+      "sha256": "551ba25c0e2b6d13214622343885dd58cb662631e080b9a7f47a2519cdbf2ac9",
+      "sheets": [
+        {
+          "name": "Chart",
+          "rows": 488,
+          "headers": [
+            "Date",
+            "Clicks",
+            "Impressions",
+            "CTR",
+            "Position"
+          ]
+        },
+        {
+          "name": "Queries",
+          "rows": 1000,
+          "headers": [
+            "Top queries",
+            "Clicks",
+            "Impressions",
+            "CTR",
+            "Position"
+          ]
+        },
+        {
+          "name": "Pages",
+          "rows": 332,
+          "headers": [
+            "Top pages",
+            "Clicks",
+            "Impressions",
+            "CTR",
+            "Position"
+          ]
+        },
+        {
+          "name": "Countries",
+          "rows": 209,
+          "headers": [
+            "Country",
+            "Clicks",
+            "Impressions",
+            "CTR",
+            "Position"
+          ]
+        },
+        {
+          "name": "Devices",
+          "rows": 3,
+          "headers": [
+            "Device",
+            "Clicks",
+            "Impressions",
+            "CTR",
+            "Position"
+          ]
+        },
+        {
+          "name": "Search appearance",
+          "rows": 1,
+          "headers": [
+            "Search Appearance",
+            "Clicks",
+            "Impressions",
+            "CTR",
+            "Position"
+          ]
+        },
+        {
+          "name": "Filters",
+          "rows": 2,
+          "headers": [
+            "Filter",
+            "Value"
+          ]
+        }
+      ]
+    }
+  ]
+}
