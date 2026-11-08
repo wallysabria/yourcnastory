@@ -63,3 +63,13 @@ Phase 4 plan approved by owner, including merge/deployment of Phase 3 PR #4, nin
 
 - D-004 declined: owner instructs retaining source contrast/link styling and flagging the resulting axe failures. Zero-axe/WCAG AA acceptance remains unmet for these inherited failures.
 - Mailchimp audience setup remains missing at _source/integrations/mailchimp/. Mock only; audience ID, API server prefix/key environment names, verified merge fields/tags/groups/SMS handling and approved test audience/tag are required before live connection. No live submissions performed.
+
+## Phase 4 integration and Phase 5 inputs — 2026-11-08
+
+Owner approved merging/deploying Phase 4 PR #5. Merge 01b1dc2758aa3a606a9c992023a793a15f4658f7 is deployed at yourcnastory.vercel.app; all 48 pages, bilingual search and reduced-motion grids were verified. This is not a blanket pixel-parity/zero-axe claim; D-004 remains declined and the documented visual flags remain review items.
+
+- Q-025 resolved: owner confirmed GA4 Property 407144160 / Measurement G-RC2WSP3DYG and Clarity yr1ps67xpa. Stored in ignored _source/integrations/ids.md. Owner authorized creation of the missing public tag audit; six sanitized scenarios are complete.
+- Q-026 open: owner creates/selects a clean replacement GTM container and supplies its ID; no agent account changes.
+- Q-027 open: approve docs/integrations/tag-plan.md, including proposed omission of two Ads destinations, two Floodlight configurations and MNTN. None have been changed on the source site.
+- Q-028 open: resolve preview DebugView validation without production analytics. Proposed protected isolated QA deployment with non-production GA4/Clarity IDs; otherwise defer live evidence and use mocks. Production IDs must not be silently tested on ordinary previews.
+- Phase 5 implementation and new Lighthouse development tooling await plan approval. Mailchimp audience configuration remains missing/mock-only. D-004 is not reopened by the Phase 5 plan.

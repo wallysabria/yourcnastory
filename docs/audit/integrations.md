@@ -92,3 +92,7 @@ These are audit references, not rewritten copy. Duplicate Spanish terms text is 
 ## Limits
 
 No WordPress admin login, live form submissions, account changes, production settings, or content changes. Database-only settings and consent/tag firing details require later inputs and browser/tag-assistant verification. Runtime-loaded popup links are in browser evidence and must be reconciled with server menus.
+
+## Phase 5 input update — 2026-11-08
+
+Owner confirmed GA4 Property 407144160, Measurement G-RC2WSP3DYG and Clarity project yr1ps67xpa in chat. Earlier ownership-unverified statements describe the Phase 1 capture, not current confirmation status. Fresh authorized public observations and their limits are in phase-05-tag-audit.md / phase-05-tag-audit.json. Replacement GTM ID and tag-plan approval remain pending.
