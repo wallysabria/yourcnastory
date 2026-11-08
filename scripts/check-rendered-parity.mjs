@@ -3,6 +3,12 @@ import { chromium } from '@playwright/test';
 const index = JSON.parse(fs.readFileSync('content/pages/index.json'));
 const normalize = (s) => s.replace(/\s+/g, ' ').trim();
 const checks = [];
+const legacy = JSON.parse(fs.readFileSync('content/migration/legacy-ui-policy.json'));
+const isLegacy = (node) =>
+  node.type === 'element' &&
+  (legacy.classNames.some((name) => (node.source?.classes || '').split(/\s+/).includes(name)) ||
+    legacy.idPrefixes.some((prefix) => (node.attrs.id || '').startsWith(prefix)));
+const removals = [];
 const browser = await chromium.launch();
 const context = await browser.newContext();
 await context.route(/youtube.com|play.vidyard.com/, (r) => r.abort());
@@ -11,7 +17,24 @@ try {
   for (const entry of index) {
     const record = JSON.parse(fs.readFileSync(entry.file));
     let expected = '';
+    const ignoredAnchors = new Set();
+    function ignoreTree(node) {
+      if (node.type === 'element') {
+        if (node.attrs.id) ignoredAnchors.add(node.attrs.id);
+        node.children.forEach(ignoreTree);
+      }
+    }
     function text(n, language) {
+      if (isLegacy(n)) {
+        ignoreTree(n);
+        removals.push({
+          path: entry.path,
+          id: n.attrs.id,
+          classes: n.source?.classes,
+          reason: legacy.reason,
+        });
+        return;
+      }
       if (n.type === 'text') {
         expected += n.value;
         return;
@@ -42,7 +65,8 @@ try {
     const missingAnchors = record.inventory.anchors.filter(
       (id) =>
         !['52e9a9a2a8415a874a4337279c6a13e0', 'mce-MMERGE32', 'mce-MMERGE33'].includes(id) &&
-        !ids.includes(id),
+        !ids.includes(id) &&
+        !ignoredAnchors.has(id),
     );
     checks.push({
       path: entry.path,
@@ -60,6 +84,10 @@ try {
 } finally {
   await browser.close();
 }
+fs.writeFileSync(
+  'docs/reports/phase-04-legacy-ui-removals.json',
+  JSON.stringify(removals, null, 2) + '\n',
+);
 fs.writeFileSync(
   'docs/reports/phase-04-rendered-parity.json',
   JSON.stringify(checks, null, 2) + '\n',

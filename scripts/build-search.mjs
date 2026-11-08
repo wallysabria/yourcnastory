@@ -3,9 +3,15 @@ import path from 'node:path';
 import { execFileSync } from 'node:child_process';
 import assert from 'node:assert/strict';
 import { serialize } from './content-source.mjs';
+const legacy = JSON.parse(fs.readFileSync('content/migration/legacy-ui-policy.json'));
 const index = JSON.parse(fs.readFileSync('content/pages/index.json'));
 function indexable(node) {
   if (node.type === 'text') return node;
+  if (
+    legacy.classNames.some((name) => (node.source?.classes || '').split(/\s+/).includes(name)) ||
+    legacy.idPrefixes.some((prefix) => (node.attrs.id || '').startsWith(prefix))
+  )
+    return null;
   if (['form', 'script', 'style', 'link', 'iframe', 'video', 'audio'].includes(node.tag))
     return null;
   return { ...node, children: node.children.map(indexable).filter(Boolean) };

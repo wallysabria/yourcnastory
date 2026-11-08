@@ -1,3 +1,4 @@
+import { isLegacyChat } from '@/lib/legacy-ui';
 import { createElement, type ReactNode } from 'react';
 import type { ContentNode, Locale } from '@/lib/content-schema';
 import { routes, reservedRoutes, employersEnabled, normalizePath } from '@/lib/routing';
@@ -80,6 +81,7 @@ const tagNames = new Set(
 );
 export function renderSourceNode(node: ContentNode, key: string, ctx: Context): ReactNode {
   if (node.type === 'text') return node.value;
+  if (isLegacyChat(node)) return null;
   const extra = ctx.layout.nodes[key] || { attrs: {} };
   const raw = extra.attrs;
   const classes = [
