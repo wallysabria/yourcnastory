@@ -111,3 +111,7 @@ Phase 7 final owner decision — 2026-11-08: the three retired-language direct r
 ## Phase 7 publication — owner approved 2026-11-08
 
 Owner explicitly requested merge, lint and publish. PR #7 merged as d8e2c3f995f17d27b76caa4836e7d9342df72b37. Lint/build and post-merge CI passed. Vercel production deployment https://yourcnastory-oer5dgshv-wallysabrias-projects.vercel.app is READY and owns https://yourcnastory.vercel.app/. Public-alias verification passed all 48 pages, 552 assets, five SEO endpoints, ten Phase 7 redirect variants with query preservation, EN/ES search, retained consent mocks, GPC and click-to-load video checks. Evidence: docs/reports/phase-07-production-checks.json. Indexing remains blocked; production tracking stays off/mocked. No custom-domain cutover. Earlier unmerged/unpublished statements describe the review handoff and are superseded by this approval. Phase 6 remains deferred and Employers remain gated.
+
+## Employer scope clarification and preliminary QA — 2026-11-08
+
+Owner confirmed Employers is English only and its content is pending/not ready. This supersedes bilingual Employer implementation assumptions, but does not authorize deletion or redirection of existing Spanish Employer URLs. Phase 8 remains on hold; links remain inactive. Phase 6 remains deferred. Owner approved preparing a limited Phase 10 QA pass for existing Career Seekers/shared EN/ES pages. Concrete plan: docs/phases/phase-10-preliminary-plan.md; implementation awaits its approval. Full-site Phase 10 acceptance and launch remain deferred.
