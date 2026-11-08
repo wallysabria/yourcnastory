@@ -42,3 +42,5 @@ Owner explicitly approved the revised Phase 5/tag plan in chat, including the th
 ## D-006 — approved 2026-11-08
 
 Owner explicitly approved click-to-load inline YouTube/Vidyard players on both Community Resources pages. Preserve original self-hosted thumbnails, 16:9 placement and existing localized Play labels. Provider iframe is created only after activation; keyboard focus moves to it. No analytics grant is required to watch requested media. Prototype and proposal: docs/recommendations/phase-05-external-media.md. External providers may collect data after playback is requested; no no-tracking-after-Play claim.
+
+Phase 5 final checks preserve D-004 and approved D-005/D-006. Mobile contents now starts collapsed before hydration, matching its existing final mobile state and removing CLS; this is a native rendering correction, not a new design. Eight original/compressed-font screenshot checks show zero changed pixels. Whole-site pixel parity is not claimed.

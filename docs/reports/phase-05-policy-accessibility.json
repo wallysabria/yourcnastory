@@ -1,0 +1,25 @@
+{
+  "reason": "Targeted recheck after contents first-paint stability fix.",
+  "checks": [
+    {
+      "path": "/privacy-policy/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/es/politica-de-privacidad/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/privacy-policy/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "path": "/es/politica-de-privacidad/",
+      "width": 1440,
+      "violations": []
+    }
+  ]
+}

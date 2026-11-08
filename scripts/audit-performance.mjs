@@ -33,8 +33,9 @@ const flags = {
   skipAudits: ['screenshot-thumbnails', 'final-screenshot', 'full-page-screenshot'],
 };
 const runs = existing.runs;
-const total = cases.length * origins.length * 3;
-for (const route of cases.filter(route => !process.env.PERF_PATHS || process.env.PERF_PATHS.split(',').includes(route.path)))
+const selectedCases = cases.filter(route => !process.env.PERF_PATHS || process.env.PERF_PATHS.split(',').includes(route.path));
+const total = selectedCases.length * origins.length * 3;
+for (const route of selectedCases)
   for (const [kind, origin] of origins)
     for (let repeat = 1; repeat <= 3; repeat++) {
       const key = kind + route.path + repeat;

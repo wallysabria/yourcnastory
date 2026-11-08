@@ -1,7 +1,7 @@
 <!-- Owner approved the revised Phase 5/tag plan in chat on 2026-11-08. Implementation uses mocks; live verification deferred. -->
-# Proposed tag plan — Phase 5
+# Approved tag plan — Phase 5
 
-Status: proposed; owner approval required before implementation. Based on docs/audit/phase-05-tag-audit.md and the existing integrations inventory. This document does not configure any account or enable tracking.
+Status: revised plan approved explicitly by the owner in chat on 2026-11-08. Based on docs/audit/phase-05-tag-audit.md and the existing integrations inventory. This document does not configure any account or enable tracking.
 
 ## Destinations and account ownership
 
