@@ -251,6 +251,9 @@ test('consented document and outbound events exclude full URLs and consent updat
     .filter({ hasNotText: /^$/ })
     .first();
   await external.click();
+  await expect
+    .poll(async () => (await records(page)).some((r) => r.event === 'outbound_click'))
+    .toBe(true);
   const serialized = JSON.stringify(await records(page));
   expect(serialized).not.toContain('never-collect');
   expect(serialized).not.toContain('.pdf?');

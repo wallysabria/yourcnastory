@@ -1,4 +1,5 @@
 import fs from 'node:fs';
+import puppeteer from 'puppeteer-core';
 import lighthouse from 'lighthouse';
 import { launch } from 'chrome-launcher';
 import { chromium } from '@playwright/test';
@@ -33,7 +34,7 @@ const flags = {
 };
 const runs = existing.runs;
 const total = cases.length * origins.length * 3;
-for (const route of cases)
+for (const route of cases.filter(route => !process.env.PERF_PATHS || process.env.PERF_PATHS.split(',').includes(route.path)))
   for (const [kind, origin] of origins)
     for (let repeat = 1; repeat <= 3; repeat++) {
       const key = kind + route.path + repeat;
@@ -43,6 +44,13 @@ for (const route of cases)
         chromeFlags: ['--headless=new', '--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu'],
       });
       try {
+        if (process.env.PERF_AUTH_COOKIE) {
+          // Host-only temporary authentication cookie; never add auth headers to vendor requests.
+          const cookie = JSON.parse(process.env.PERF_AUTH_COOKIE);
+          const browser = await puppeteer.connect({ browserURL: 'http://127.0.0.1:' + chrome.port });
+          await browser.setCookie({ ...cookie, domain: new URL(origin).hostname, path: '/', secure: true, httpOnly: true });
+          browser.disconnect();
+        }
         const result = await lighthouse(origin + route.path, { ...flags, port: chrome.port });
         const lhr = result.lhr;
         const metrics = {};

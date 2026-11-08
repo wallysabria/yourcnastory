@@ -490,3 +490,10 @@ body:has(.site-header:not(.is-scrolled)) .back-to-top {
   outline: 3px solid #005fcc;
   outline-offset: 4px;
 }
+
+/* Keep the source mobile contents state stable before hydration. */
+@media (max-width: 767px) {
+  .page-content .native-toc-initial .elementor-toc__body {
+    display: none;
+  }
+}

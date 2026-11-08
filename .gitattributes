@@ -2,3 +2,6 @@
 *.png binary
 *.jpg binary
 *.pdf binary
+
+# Generated bundles retain source CSS bytes, including inherited whitespace.
+public/styles/bundles/*.css -whitespace
