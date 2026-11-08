@@ -1,4 +1,5 @@
-# Phase 7 plan — SEO/AEO (proposed for approval)
+<!-- Owner explicitly approved implementation and allow-search/discovery, block-model-training policy in chat on 2026-11-08. -->
+# Phase 7 plan — SEO/AEO (approved 2026-11-08)
 
 Prepared 2026-11-08. Owner approved proceeding to Phase 7 while explicitly deferring Phase 6. This document is the required implementation plan; no SEO runtime changes have started. Branch phase-07-seo-aeo starts from published Phase 5 main (7ec7e686f5df405add69960b5315c1db94cbd272). Career Seekers, homepage and shared pages are in scope; Employers remain gated. Existing body copy, source URL paths, visual design, D-004 decision, disabled live tracking and staging noindex remain in force.
 
@@ -74,3 +75,5 @@ Draft suggested edits in English only. Flag Spanish opportunities for native spe
 ## Approval requested
 
 Approve this plan (including functional source-style search URLs, preserved source content and documented acceptance limits), and choose the future AI-crawler policy. Newly discovered ambiguous redirects, document scope conflicts and deliberate visual changes still require their own concrete approvals. Document sitemap inclusion is deferred by default. Additional indexing-issue URL exports and page-query detail would improve diagnosis but are not required to begin the approved technical work.
+
+Implementation detail: use the existing Next-provided build-time PostCSS parser to adapt type selectors for corrected heading tags without changing selector specificity. Original source CSS files remain untouched; derived bundles are compared against 96 desktop/mobile reference views. No new runtime dependency.

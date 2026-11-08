@@ -95,3 +95,11 @@ Owner explicitly deferred Phase 6 and approved proceeding to Phase 7. Chatbot pl
 ## Phase 7 inputs received — 2026-11-08
 
 Owner provided the Search Console performance/indexing workbooks in Migration. Required input gate resolved. Performance covers 2025-07-07 through 2026-11-06 (332 page rows; 1000 query rows without page-query pairing). Indexing provides reasons/totals but no URL examples. Proposed Phase 7 plan and future AI-crawler policy await approval. Additional issue examples are optional diagnostic input, not invented evidence. Exact document scope/ambiguous URL dispositions remain approval gates; Employers and Phase 6 remain deferred.
+
+## Phase 7 approved — 2026-11-08
+
+Owner approved the Phase 7 implementation plan and chose allow search/discovery, block model training for eventual launch. Staging remains blocked/noindex. Newly evidenced Spanish FAQ alias proposal is docs/recommendations/phase-07-url-decisions.md; approval pending before activation. Every exported URL has source/local probes; gated/historical exceptions remain explicit.
+
+Owner approved the Spanish Career Seekers FAQ alias 301 on 2026-11-08. Both slash variants now target /es/preguntas-frecuentes/ directly; no Employer FAQ consolidation.
+
+Phase 7 checks: all 59 regression tests pass; 48 metadata/heading/source-copy checks, 96 controlled visual views and 192 accessibility states checked. An isolated launch build exposed and fixed an invalid empty Next header rule; launch checks passed and staging build was restored. No Vercel launch/indexing flag, account, DNS or live tracking setting changed. Model-training restrictions apply to four documented vendor controls, with Google-Extended mixed-purpose limitation documented. Source noindex overrides, Employer assets and historical URL dispositions remain future review/launch gates. Three newly evidenced retired-language redirects are pending their separate owner reply.

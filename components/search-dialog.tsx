@@ -36,6 +36,18 @@ export function SearchDialog({ locale }: { locale: Locale }) {
     [state, setState] = useState<'idle' | 'loading' | 'ready' | 'error'>('idle');
   const t = messages[locale];
   useEffect(() => {
+    const search = new URLSearchParams(location.search).get('s')?.trim().slice(0, 256);
+    if (search) {
+      const launch = () => {
+        setQuery(search);
+        setOpen(true);
+        dialog.current?.showModal();
+        input.current?.focus();
+      };
+      launch();
+    }
+  }, [locale]);
+  useEffect(() => {
     if (!open) return;
     const previous = document.body.style.overflow;
     document.body.style.overflow = 'hidden';
@@ -113,9 +125,16 @@ export function SearchDialog({ locale }: { locale: Locale }) {
         ref={dialog}
         className="site-search-dialog"
         aria-label={t.open}
-        onCancel={() => {
-          setOpen(false);
-          trigger.current?.focus();
+        onKeyDownCapture={(event) => {
+          if (event.key === 'Escape') {
+            event.preventDefault();
+            event.stopPropagation();
+            close();
+          }
+        }}
+        onCancel={(event) => {
+          event.preventDefault();
+          close();
         }}
         onClose={() => setOpen(false)}
       >

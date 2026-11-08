@@ -5,7 +5,11 @@ export function proxy(request: NextRequest) {
   const response = target
     ? NextResponse.redirect(new URL(target + request.nextUrl.search, request.url), 301)
     : NextResponse.next();
-  if (process.env.VERCEL_ENV !== 'production' || process.env.SITE_LAUNCH_APPROVED !== 'true')
+  if (
+    request.nextUrl.searchParams.has('s') ||
+    process.env.VERCEL_ENV !== 'production' ||
+    process.env.SITE_LAUNCH_APPROVED !== 'true'
+  )
     response.headers.set('X-Robots-Tag', 'noindex, nofollow, noarchive');
   return response;
 }

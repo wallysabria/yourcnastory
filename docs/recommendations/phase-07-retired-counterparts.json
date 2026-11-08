@@ -1,0 +1,29 @@
+[
+  {
+    "from": "/zh/careerpaths/",
+    "to": "/career-paths-in-long-term-care/",
+    "status": 301,
+    "sourceRow": 74,
+    "clicks": 1,
+    "impressions": 29,
+    "english": "https://yourcnastory.org/career-paths-in-long-term-care/"
+  },
+  {
+    "from": "/vi/careerpaths/",
+    "to": "/career-paths-in-long-term-care/",
+    "status": 301,
+    "sourceRow": 154,
+    "clicks": 0,
+    "impressions": 10,
+    "english": "https://yourcnastory.org/career-paths-in-long-term-care/"
+  },
+  {
+    "from": "/zh/%E8%81%8C%E4%B8%9A%E8%B7%AF%E5%BE%84/%E6%8A%A4%E7%90%86%E5%8D%8F%E8%B0%83%E8%81%8C%E4%B8%9A/",
+    "to": "/career-paths-in-long-term-care/",
+    "status": 301,
+    "sourceRow": 100,
+    "clicks": 0,
+    "impressions": 116,
+    "english": "https://yourcnastory.org/career-paths-in-long-term-care/"
+  }
+]

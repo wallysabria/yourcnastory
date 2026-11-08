@@ -6,7 +6,7 @@ const routes = JSON.parse(fs.readFileSync('content/routing/slug-map.json')).filt
 );
 const browser = await chromium.launch();
 const checks = [];
-const phase5 = process.argv.includes('--phase5');
+const phase5 = process.argv.includes('--phase5') || process.argv.includes('--phase7');
 try {
   for (const width of [1440, 390]) {
     const context = await browser.newContext({
@@ -47,7 +47,7 @@ try {
   await browser.close();
 }
 fs.writeFileSync(
-  phase5 ? 'docs/reports/phase-05-accessibility.json' : 'docs/reports/phase-04-accessibility.json',
+  process.argv.includes('--phase7') ? 'docs/reports/phase-07-accessibility.json' : phase5 ? 'docs/reports/phase-05-accessibility.json' : 'docs/reports/phase-04-accessibility.json',
   JSON.stringify(
     {
       ownerDecision:

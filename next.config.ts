@@ -17,13 +17,12 @@ const nextConfig: NextConfig = {
   },
   poweredByHeader: false,
   async headers() {
+    if (process.env.VERCEL_ENV === 'production' && process.env.SITE_LAUNCH_APPROVED === 'true')
+      return [];
     return [
       {
         source: '/:path*',
-        headers:
-          process.env.VERCEL_ENV === 'production' && process.env.SITE_LAUNCH_APPROVED === 'true'
-            ? []
-            : [{ key: 'X-Robots-Tag', value: 'noindex, nofollow, noarchive' }],
+        headers: [{ key: 'X-Robots-Tag', value: 'noindex, nofollow, noarchive' }],
       },
     ];
   },

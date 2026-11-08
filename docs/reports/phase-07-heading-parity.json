@@ -1,0 +1,677 @@
+{
+  "method": "Same-page comparison after fonts/all images decode: semantic headings versus former tags restored in DOM, with corrected selectors retaining original type specificity. Reduced motion and saved decline; 96 desktop/mobile views. Avoids independent-load lazy-image timing differences. Also compared independent before/after load geometry; one mobile nursing image timing shift required this controlled recheck.",
+  "checks": [
+    {
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "width": 390,
+      "headingCount": 17,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "width": 390,
+      "headingCount": 59,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/careerpaths/careers-in-support-services/",
+      "width": 390,
+      "headingCount": 47,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/careerpaths/careers-in-therapy/",
+      "width": 390,
+      "headingCount": 29,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/careerpaths/careers-in-care-coordination/",
+      "width": 390,
+      "headingCount": 29,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/careerpaths/careers-in-social-services/",
+      "width": 390,
+      "headingCount": 29,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/careerpaths/careers-in-activities/",
+      "width": 390,
+      "headingCount": 23,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/careerpaths/careers-in-administration/",
+      "width": 390,
+      "headingCount": 17,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/",
+      "width": 390,
+      "headingCount": 25,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/career-seekers/",
+      "width": 390,
+      "headingCount": 41,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/career-paths-in-long-term-care/",
+      "width": 390,
+      "headingCount": 21,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/community-resources/",
+      "width": 390,
+      "headingCount": 21,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/privacy-policy/",
+      "width": 390,
+      "headingCount": 8,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/certified-nurse-assistant-program/",
+      "width": 390,
+      "headingCount": 28,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/cna-training-providers/",
+      "width": 390,
+      "headingCount": 11,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/what-is-long-term-care/",
+      "width": 390,
+      "headingCount": 16,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/career-advancement/",
+      "width": 390,
+      "headingCount": 33,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/earn-and-learn-la/",
+      "width": 390,
+      "headingCount": 26,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/frequently-asked-questions/",
+      "width": 390,
+      "headingCount": 10,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/earn-and-learn-cvalley/",
+      "width": 390,
+      "headingCount": 26,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/earn-and-learn-bayarea/",
+      "width": 390,
+      "headingCount": 26,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/earn-and-learn-norcal/",
+      "width": 390,
+      "headingCount": 26,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/earn-and-learn-san-diego/",
+      "width": 390,
+      "headingCount": 26,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/earn-and-learn/",
+      "width": 390,
+      "headingCount": 26,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/",
+      "width": 390,
+      "headingCount": 25,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/que-es-cuidar-a-largo-plazo/",
+      "width": 390,
+      "headingCount": 16,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/recursos-comunitarios/",
+      "width": 390,
+      "headingCount": 21,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+      "width": 390,
+      "headingCount": 21,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/programa-cna/",
+      "width": 390,
+      "headingCount": 28,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/aspirantes/",
+      "width": 390,
+      "headingCount": 41,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/programa-cna-2/",
+      "width": 390,
+      "headingCount": 11,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "width": 390,
+      "headingCount": 10,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "width": 390,
+      "headingCount": 17,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "width": 390,
+      "headingCount": 59,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-de-apoyo/",
+      "width": 390,
+      "headingCount": 47,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/carreras/carreras-en-terapia/",
+      "width": 390,
+      "headingCount": 29,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+      "width": 390,
+      "headingCount": 29,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-sociales/",
+      "width": 390,
+      "headingCount": 29,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/carreras/carreras-en-actividades/",
+      "width": 390,
+      "headingCount": 23,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/carreras/carreras-en-administracion/",
+      "width": 390,
+      "headingCount": 17,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/politica-de-privacidad/",
+      "width": 390,
+      "headingCount": 8,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "width": 390,
+      "headingCount": 33,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/ganar-y-aprender-la/",
+      "width": 390,
+      "headingCount": 26,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/gana-y-aprende-cvalley/",
+      "width": 390,
+      "headingCount": 26,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/gana-y-aprende-bayarea/",
+      "width": 390,
+      "headingCount": 26,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/earn-and-learn-norcal/",
+      "width": 390,
+      "headingCount": 26,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/gana-y-aprende-san-diego/",
+      "width": 390,
+      "headingCount": 26,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/earn-and-learn/",
+      "width": 390,
+      "headingCount": 26,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "width": 1440,
+      "headingCount": 17,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "width": 1440,
+      "headingCount": 59,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/careerpaths/careers-in-support-services/",
+      "width": 1440,
+      "headingCount": 47,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/careerpaths/careers-in-therapy/",
+      "width": 1440,
+      "headingCount": 29,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/careerpaths/careers-in-care-coordination/",
+      "width": 1440,
+      "headingCount": 29,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/careerpaths/careers-in-social-services/",
+      "width": 1440,
+      "headingCount": 29,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/careerpaths/careers-in-activities/",
+      "width": 1440,
+      "headingCount": 23,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/careerpaths/careers-in-administration/",
+      "width": 1440,
+      "headingCount": 17,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/",
+      "width": 1440,
+      "headingCount": 25,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/career-seekers/",
+      "width": 1440,
+      "headingCount": 41,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/career-paths-in-long-term-care/",
+      "width": 1440,
+      "headingCount": 21,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/community-resources/",
+      "width": 1440,
+      "headingCount": 21,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/privacy-policy/",
+      "width": 1440,
+      "headingCount": 8,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/certified-nurse-assistant-program/",
+      "width": 1440,
+      "headingCount": 28,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/cna-training-providers/",
+      "width": 1440,
+      "headingCount": 11,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/what-is-long-term-care/",
+      "width": 1440,
+      "headingCount": 16,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/career-advancement/",
+      "width": 1440,
+      "headingCount": 33,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/earn-and-learn-la/",
+      "width": 1440,
+      "headingCount": 26,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/frequently-asked-questions/",
+      "width": 1440,
+      "headingCount": 10,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/earn-and-learn-cvalley/",
+      "width": 1440,
+      "headingCount": 26,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/earn-and-learn-bayarea/",
+      "width": 1440,
+      "headingCount": 26,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/earn-and-learn-norcal/",
+      "width": 1440,
+      "headingCount": 26,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/earn-and-learn-san-diego/",
+      "width": 1440,
+      "headingCount": 26,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/earn-and-learn/",
+      "width": 1440,
+      "headingCount": 26,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/",
+      "width": 1440,
+      "headingCount": 25,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/que-es-cuidar-a-largo-plazo/",
+      "width": 1440,
+      "headingCount": 16,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/recursos-comunitarios/",
+      "width": 1440,
+      "headingCount": 21,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+      "width": 1440,
+      "headingCount": 21,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/programa-cna/",
+      "width": 1440,
+      "headingCount": 28,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/aspirantes/",
+      "width": 1440,
+      "headingCount": 41,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/programa-cna-2/",
+      "width": 1440,
+      "headingCount": 11,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "width": 1440,
+      "headingCount": 10,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "width": 1440,
+      "headingCount": 17,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "width": 1440,
+      "headingCount": 59,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-de-apoyo/",
+      "width": 1440,
+      "headingCount": 47,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/carreras/carreras-en-terapia/",
+      "width": 1440,
+      "headingCount": 29,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+      "width": 1440,
+      "headingCount": 29,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-sociales/",
+      "width": 1440,
+      "headingCount": 29,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/carreras/carreras-en-actividades/",
+      "width": 1440,
+      "headingCount": 23,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/carreras/carreras-en-administracion/",
+      "width": 1440,
+      "headingCount": 17,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/politica-de-privacidad/",
+      "width": 1440,
+      "headingCount": 8,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "width": 1440,
+      "headingCount": 33,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/ganar-y-aprender-la/",
+      "width": 1440,
+      "headingCount": 26,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/gana-y-aprende-cvalley/",
+      "width": 1440,
+      "headingCount": 26,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/gana-y-aprende-bayarea/",
+      "width": 1440,
+      "headingCount": 26,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/earn-and-learn-norcal/",
+      "width": 1440,
+      "headingCount": 26,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/gana-y-aprende-san-diego/",
+      "width": 1440,
+      "headingCount": 26,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/earn-and-learn/",
+      "width": 1440,
+      "headingCount": 26,
+      "identicalGeometryAndStyles": true,
+      "changedPixels": 0
+    }
+  ]
+}

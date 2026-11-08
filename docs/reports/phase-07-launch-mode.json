@@ -1,0 +1,248 @@
+{
+  "method": "Isolated localhost-only production/launch build; tracking forced off. No Vercel environment or public launch gate changed. Staging build restored in finally.",
+  "robots": "User-Agent: *\nAllow: /\nDisallow: /api/\nDisallow: /internal/\nDisallow: /*?s=\n\nUser-Agent: GPTBot\nUser-Agent: ClaudeBot\nUser-Agent: Google-Extended\nUser-Agent: Applebot-Extended\nDisallow: /\n\nSitemap: https://yourcnastory.org/sitemap.xml\n",
+  "checks": [
+    {
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "sourceRobots": "noindex, follow",
+      "status": 200
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "sourceRobots": "noindex, follow",
+      "status": 200
+    },
+    {
+      "path": "/careerpaths/careers-in-support-services/",
+      "sourceRobots": "noindex, follow",
+      "status": 200
+    },
+    {
+      "path": "/careerpaths/careers-in-therapy/",
+      "sourceRobots": "noindex, follow",
+      "status": 200
+    },
+    {
+      "path": "/careerpaths/careers-in-care-coordination/",
+      "sourceRobots": "noindex, follow",
+      "status": 200
+    },
+    {
+      "path": "/careerpaths/careers-in-social-services/",
+      "sourceRobots": "noindex, follow",
+      "status": 200
+    },
+    {
+      "path": "/careerpaths/careers-in-activities/",
+      "sourceRobots": "noindex, follow",
+      "status": 200
+    },
+    {
+      "path": "/careerpaths/careers-in-administration/",
+      "sourceRobots": "noindex, follow",
+      "status": 200
+    },
+    {
+      "path": "/",
+      "sourceRobots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "status": 200
+    },
+    {
+      "path": "/career-seekers/",
+      "sourceRobots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "status": 200
+    },
+    {
+      "path": "/career-paths-in-long-term-care/",
+      "sourceRobots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "status": 200
+    },
+    {
+      "path": "/community-resources/",
+      "sourceRobots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "status": 200
+    },
+    {
+      "path": "/privacy-policy/",
+      "sourceRobots": "noindex, nofollow",
+      "status": 200
+    },
+    {
+      "path": "/certified-nurse-assistant-program/",
+      "sourceRobots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "status": 200
+    },
+    {
+      "path": "/cna-training-providers/",
+      "sourceRobots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "status": 200
+    },
+    {
+      "path": "/what-is-long-term-care/",
+      "sourceRobots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "status": 200
+    },
+    {
+      "path": "/career-advancement/",
+      "sourceRobots": "noindex, follow",
+      "status": 200
+    },
+    {
+      "path": "/earn-and-learn-la/",
+      "sourceRobots": "noindex, follow",
+      "status": 200
+    },
+    {
+      "path": "/frequently-asked-questions/",
+      "sourceRobots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "status": 200
+    },
+    {
+      "path": "/earn-and-learn-cvalley/",
+      "sourceRobots": "noindex, follow",
+      "status": 200
+    },
+    {
+      "path": "/earn-and-learn-bayarea/",
+      "sourceRobots": "noindex, follow",
+      "status": 200
+    },
+    {
+      "path": "/earn-and-learn-norcal/",
+      "sourceRobots": "noindex, follow",
+      "status": 200
+    },
+    {
+      "path": "/earn-and-learn-san-diego/",
+      "sourceRobots": "noindex, follow",
+      "status": 200
+    },
+    {
+      "path": "/earn-and-learn/",
+      "sourceRobots": "noindex, follow",
+      "status": 200
+    },
+    {
+      "path": "/es/",
+      "sourceRobots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "status": 200
+    },
+    {
+      "path": "/es/que-es-cuidar-a-largo-plazo/",
+      "sourceRobots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "status": 200
+    },
+    {
+      "path": "/es/recursos-comunitarios/",
+      "sourceRobots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "status": 200
+    },
+    {
+      "path": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+      "sourceRobots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "status": 200
+    },
+    {
+      "path": "/es/programa-cna/",
+      "sourceRobots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "status": 200
+    },
+    {
+      "path": "/es/aspirantes/",
+      "sourceRobots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "status": 200
+    },
+    {
+      "path": "/es/programa-cna-2/",
+      "sourceRobots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "status": 200
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "sourceRobots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "status": 200
+    },
+    {
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "sourceRobots": "noindex, follow",
+      "status": 200
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "sourceRobots": "noindex, follow",
+      "status": 200
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-de-apoyo/",
+      "sourceRobots": "noindex, follow",
+      "status": 200
+    },
+    {
+      "path": "/es/carreras/carreras-en-terapia/",
+      "sourceRobots": "noindex, follow",
+      "status": 200
+    },
+    {
+      "path": "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+      "sourceRobots": "noindex, follow",
+      "status": 200
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-sociales/",
+      "sourceRobots": "noindex, follow",
+      "status": 200
+    },
+    {
+      "path": "/es/carreras/carreras-en-actividades/",
+      "sourceRobots": "noindex, follow",
+      "status": 200
+    },
+    {
+      "path": "/es/carreras/carreras-en-administracion/",
+      "sourceRobots": "noindex, follow",
+      "status": 200
+    },
+    {
+      "path": "/es/politica-de-privacidad/",
+      "sourceRobots": "noindex, nofollow",
+      "status": 200
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "sourceRobots": "noindex, follow",
+      "status": 200
+    },
+    {
+      "path": "/es/ganar-y-aprender-la/",
+      "sourceRobots": "noindex, follow",
+      "status": 200
+    },
+    {
+      "path": "/es/gana-y-aprende-cvalley/",
+      "sourceRobots": "noindex, follow",
+      "status": 200
+    },
+    {
+      "path": "/es/gana-y-aprende-bayarea/",
+      "sourceRobots": "noindex, follow",
+      "status": 200
+    },
+    {
+      "path": "/es/earn-and-learn-norcal/",
+      "sourceRobots": "noindex, follow",
+      "status": 200
+    },
+    {
+      "path": "/es/gana-y-aprende-san-diego/",
+      "sourceRobots": "noindex, follow",
+      "status": 200
+    },
+    {
+      "path": "/es/earn-and-learn/",
+      "sourceRobots": "noindex, follow",
+      "status": 200
+    }
+  ],
+  "searchNoindex": true,
+  "aliasSingleHop301": true
+}

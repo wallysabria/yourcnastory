@@ -83,6 +83,7 @@ const tagNames = new Set(
 export function renderSourceNode(node: ContentNode, key: string, ctx: Context): ReactNode {
   if (node.type === 'text') return node.value;
   if (isLegacyChat(node)) return null;
+  const headingLevel = ctx.headings?.[key] || 0;
   const extra = ctx.layout.nodes[key] || { attrs: {} };
   const raw = extra.attrs;
   const classes = [
@@ -92,11 +93,12 @@ export function renderSourceNode(node: ContentNode, key: string, ctx: Context): 
       .join(' '),
     extra.styleClass,
     node.tag === 'img' ? 'is-loaded' : '',
-    ctx.headings?.[key] === 1 && node.tag !== 'h1' ? 'native-source-' + node.tag : '',
+    headingLevel === 1 && node.tag !== 'h1' ? 'native-source-' + node.tag : '',
+    headingLevel > 1 && node.tag !== 'h' + headingLevel ? 'semantic-source-' + node.tag : '',
   ]
     .filter(Boolean)
     .join(' ');
-  let tag = ctx.headings?.[key] === 1 ? 'h1' : node.tag;
+  let tag = headingLevel ? 'h' + headingLevel : node.tag;
   const settings = setting(raw);
   const widgetSettings = raw['data-widget_type'] ? settings : ctx.widgetSettings;
   const context = { ...ctx, widgetSettings };

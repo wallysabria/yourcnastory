@@ -1498,5 +1498,17 @@
     "to": "/",
     "status": 301,
     "policy": "retired-language"
+  },
+  {
+    "from": "/es/preguntas-frecuentes-2/",
+    "to": "/es/preguntas-frecuentes/",
+    "status": 301,
+    "policy": "phase-07-owner-approved-canonical-alias"
+  },
+  {
+    "from": "/es/preguntas-frecuentes-2",
+    "to": "/es/preguntas-frecuentes/",
+    "status": 301,
+    "policy": "phase-07-owner-approved-canonical-alias"
   }
 ]
