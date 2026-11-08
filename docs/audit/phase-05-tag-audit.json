@@ -1,0 +1,320 @@
+{
+  "capturedAt": "2026-11-08T17:59:35.633Z",
+  "scope": "Read-only public EN/ES pages, fresh contexts, 5 seconds after DOMContentLoaded and 2-second scroll observation. One Sec-GPC + navigator.globalPrivacyControl scenario. No consent choices clicked, no live lead/application forms submitted, no account changes. Collection payload/cookie values/visitor IDs not retained. Observed behavior is not an exhaustive GTM/account export.",
+  "confirmedIds": {
+    "ga4Property": "407144160",
+    "measurement": "G-RC2WSP3DYG",
+    "clarity": "yr1ps67xpa"
+  },
+  "legacyTagIds": [
+    "AW-11464482635",
+    "AW-18269807080",
+    "DC-14019833",
+    "DC-14063874",
+    "G-RC2WSP3DYG",
+    "GT-NB3VX8H",
+    "GTM-TLC2T6FQ"
+  ],
+  "scenarios": [
+    {
+      "path": "/",
+      "gpc": false,
+      "status": 200,
+      "requestCount": 22,
+      "hosts": [
+        "ad.doubleclick.net",
+        "b.clarity.ms",
+        "c.clarity.ms",
+        "dx.mountain.com",
+        "googleads.g.doubleclick.net",
+        "gs.mountain.com",
+        "px.mountain.com",
+        "scripts.clarity.ms",
+        "www.clarity.ms",
+        "www.google-analytics.com",
+        "www.googletagmanager.com"
+      ],
+      "events": [
+        "page_view",
+        "gtag.config"
+      ],
+      "cookies": [
+        "ANONCHK",
+        "CLID",
+        "MR",
+        "MR",
+        "MUID",
+        "MUID",
+        "SM",
+        "SRM_B",
+        "_clck",
+        "_clsk",
+        "_ga",
+        "_ga_RC2WSP3DYG",
+        "_gcl_au",
+        "_mpxl_guid",
+        "guid",
+        "rt",
+        "test_cookie",
+        "tt"
+      ],
+      "consentControls": [],
+      "observedConsentCommands": [],
+      "ga4PageViewRequests": 1
+    },
+    {
+      "path": "/es/",
+      "gpc": false,
+      "status": 200,
+      "requestCount": 22,
+      "hosts": [
+        "ad.doubleclick.net",
+        "c.clarity.ms",
+        "dx.mountain.com",
+        "googleads.g.doubleclick.net",
+        "gs.mountain.com",
+        "k.clarity.ms",
+        "px.mountain.com",
+        "scripts.clarity.ms",
+        "www.clarity.ms",
+        "www.google-analytics.com",
+        "www.googletagmanager.com"
+      ],
+      "events": [
+        "page_view",
+        "gtag.config"
+      ],
+      "cookies": [
+        "ANONCHK",
+        "CLID",
+        "MR",
+        "MR",
+        "MUID",
+        "MUID",
+        "SM",
+        "SRM_B",
+        "_clck",
+        "_clsk",
+        "_ga",
+        "_ga_RC2WSP3DYG",
+        "_gcl_au",
+        "_mpxl_guid",
+        "guid",
+        "rt",
+        "test_cookie",
+        "tt"
+      ],
+      "consentControls": [],
+      "observedConsentCommands": [],
+      "ga4PageViewRequests": 1
+    },
+    {
+      "path": "/career-seekers/",
+      "gpc": false,
+      "status": 200,
+      "requestCount": 31,
+      "hosts": [
+        "14063874.fls.doubleclick.net",
+        "ad.doubleclick.net",
+        "b.clarity.ms",
+        "c.clarity.ms",
+        "cdn-images.mailchimp.com",
+        "dx.mountain.com",
+        "googleads.g.doubleclick.net",
+        "gs.mountain.com",
+        "px.mountain.com",
+        "scripts.clarity.ms",
+        "www.clarity.ms",
+        "www.google-analytics.com",
+        "www.googleadservices.com",
+        "www.googletagmanager.com"
+      ],
+      "events": [
+        "page_view",
+        "conversion",
+        "gtag.config"
+      ],
+      "cookies": [
+        "ANONCHK",
+        "CLID",
+        "IDE",
+        "MR",
+        "MR",
+        "MUID",
+        "MUID",
+        "SM",
+        "SRM_B",
+        "_clck",
+        "_clsk",
+        "_ga",
+        "_ga_RC2WSP3DYG",
+        "_gcl_au",
+        "_mpxl_guid",
+        "guid",
+        "rt",
+        "tt"
+      ],
+      "consentControls": [],
+      "observedConsentCommands": [],
+      "ga4PageViewRequests": 1
+    },
+    {
+      "path": "/es/aspirantes/",
+      "gpc": false,
+      "status": 200,
+      "requestCount": 22,
+      "hosts": [
+        "ad.doubleclick.net",
+        "c.clarity.ms",
+        "cdn-images.mailchimp.com",
+        "dx.mountain.com",
+        "g.clarity.ms",
+        "googleads.g.doubleclick.net",
+        "gs.mountain.com",
+        "px.mountain.com",
+        "scripts.clarity.ms",
+        "www.clarity.ms",
+        "www.google-analytics.com",
+        "www.googletagmanager.com"
+      ],
+      "events": [
+        "page_view",
+        "gtag.config"
+      ],
+      "cookies": [
+        "ANONCHK",
+        "CLID",
+        "MR",
+        "MR",
+        "MUID",
+        "MUID",
+        "SM",
+        "SRM_B",
+        "_clck",
+        "_clsk",
+        "_ga",
+        "_ga_RC2WSP3DYG",
+        "_gcl_au",
+        "_mpxl_guid",
+        "guid",
+        "rt",
+        "test_cookie",
+        "tt"
+      ],
+      "consentControls": [],
+      "observedConsentCommands": [],
+      "ga4PageViewRequests": 1
+    },
+    {
+      "path": "/privacy-policy/",
+      "gpc": false,
+      "status": 200,
+      "requestCount": 22,
+      "hosts": [
+        "a.clarity.ms",
+        "ad.doubleclick.net",
+        "c.clarity.ms",
+        "dx.mountain.com",
+        "googleads.g.doubleclick.net",
+        "gs.mountain.com",
+        "px.mountain.com",
+        "scripts.clarity.ms",
+        "www.clarity.ms",
+        "www.google-analytics.com",
+        "www.googletagmanager.com"
+      ],
+      "events": [
+        "page_view",
+        "gtag.config"
+      ],
+      "cookies": [
+        "ANONCHK",
+        "CLID",
+        "MR",
+        "MR",
+        "MUID",
+        "MUID",
+        "SM",
+        "SRM_B",
+        "_clck",
+        "_clsk",
+        "_ga",
+        "_ga_RC2WSP3DYG",
+        "_gcl_au",
+        "_mpxl_guid",
+        "guid",
+        "rt",
+        "test_cookie",
+        "tt"
+      ],
+      "consentControls": [],
+      "observedConsentCommands": [],
+      "ga4PageViewRequests": 1
+    },
+    {
+      "path": "/",
+      "gpc": true,
+      "status": 200,
+      "requestCount": 15,
+      "hosts": [
+        "ad.doubleclick.net",
+        "dx.mountain.com",
+        "googleads.g.doubleclick.net",
+        "gs.mountain.com",
+        "px.mountain.com",
+        "www.clarity.ms",
+        "www.google-analytics.com",
+        "www.googletagmanager.com"
+      ],
+      "events": [
+        "page_view",
+        "gtag.config"
+      ],
+      "cookies": [
+        "_ga",
+        "_ga_RC2WSP3DYG",
+        "_gcl_au",
+        "_mpxl_guid",
+        "guid",
+        "rt",
+        "test_cookie",
+        "tt"
+      ],
+      "consentControls": [],
+      "observedConsentCommands": [],
+      "ga4PageViewRequests": 1
+    }
+  ],
+  "compiledContainer": {
+    "source": "https://www.googletagmanager.com/gtm.js?id=GTM-TLC2T6FQ",
+    "tagIds": [
+      "DC-14019833",
+      "DC-14063874",
+      "AW-11464482635",
+      "AW-18269807080",
+      "GTM-TLC2T6FQ"
+    ],
+    "mentionedEvents": [],
+    "compiledFunctionTypes": [
+      "__awct",
+      "__e",
+      "__f",
+      "__flc",
+      "__gclidw",
+      "__googtag",
+      "__html",
+      "__r",
+      "__u",
+      "_cn",
+      "_eq",
+      "_re"
+    ]
+  },
+  "limits": [
+    "Public sampling, not a complete account/container export.",
+    "Requests observed do not prove successful backend collection or key-event configuration.",
+    "No form submissions, consent-button clicks, account configuration changes or synthetic lead events.",
+    "No visitor identifiers, cookie values or collection payloads retained.",
+    "No ad conversion labels/purposes or all custom triggers established; require owner export if exhaustive reconciliation is needed."
+  ]
+}

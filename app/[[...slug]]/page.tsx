@@ -1,6 +1,7 @@
 /* eslint-disable @next/next/no-css-tags -- Audited route-specific CSS uses React stylesheet precedence and resource deduplication. */
 import { contentAt } from '@/lib/content-pages';
 import layouts from '@/content/layout/pages.json' with { type: 'json' };
+import styleBundles from '@/content/layout/style-bundles.json' with { type: 'json' };
 import metrics from '@/content/layout/metrics.json' with { type: 'json' };
 import { renderSourceNode, type PageLayout } from '@/components/source-content';
 import type { CSSProperties } from 'react';
@@ -74,8 +75,16 @@ export default async function Page({ params }: { params: Promise<{ slug?: string
   } as CSSProperties;
   return (
     <>
+      {layout.template === 'homepage' && (
+        <link
+          rel="preload"
+          as="image"
+          href="/images/content/cna-header-fallback-32529c1e.webp"
+          fetchPriority="high"
+        />
+      )}
       <link rel="stylesheet" href="/styles/source/fonts.css" precedence="content-fonts" />
-      {layout.styles.map((url) => (
+      {(styleBundles as Record<string, string[]>)[route.path].map((url) => (
         <link key={url} rel="stylesheet" href={url} precedence="source-content" />
       ))}
       <div className="source-document">

@@ -1,0 +1,1232 @@
+{
+  "phase": "cloud-policy",
+  "lighthouse": "13.6.0",
+  "method": "Serial cold fresh Chrome profiles; mobile simulated throttling, 390x844, three runs per locale/template/origin. Audit navigation bounded at 15s; timeout warnings retained. No lead forms submitted. No network query strings/payloads or trace retained.",
+  "flags": {
+    "logLevel": "silent",
+    "onlyCategories": [
+      "performance"
+    ],
+    "formFactor": "mobile",
+    "screenEmulation": {
+      "mobile": true,
+      "width": 390,
+      "height": 844,
+      "deviceScaleFactor": 1,
+      "disabled": false
+    },
+    "maxWaitForLoad": 15000,
+    "pauseAfterFcpMs": 1000,
+    "pauseAfterLoadMs": 1000,
+    "networkQuietThresholdMs": 1000,
+    "cpuQuietThresholdMs": 1000,
+    "disableFullPageScreenshot": true,
+    "skipAudits": [
+      "screenshot-thumbnails",
+      "final-screenshot",
+      "full-page-screenshot"
+    ]
+  },
+  "runs": [
+    {
+      "key": "native-after/privacy-policy/1",
+      "kind": "native-after",
+      "origin": "https://yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+      "path": "/privacy-policy/",
+      "locale": "en",
+      "template": "policy",
+      "repeat": 1,
+      "status": "ok",
+      "performance": 0.93,
+      "metrics": {
+        "largest-contentful-paint": {
+          "value": 3081.8105,
+          "score": 0.76,
+          "display": "3.1 s"
+        },
+        "cumulative-layout-shift": {
+          "value": 0,
+          "score": 1,
+          "display": "0"
+        },
+        "total-blocking-time": {
+          "value": 96.5,
+          "score": 0.98,
+          "display": "100 ms"
+        },
+        "first-contentful-paint": {
+          "value": 1731.8105,
+          "score": 0.91,
+          "display": "1.7 s"
+        },
+        "speed-index": {
+          "value": 1731.8105,
+          "score": 1,
+          "display": "1.7 s"
+        },
+        "interactive": {
+          "value": 3941.3104999999996,
+          "score": 0.88,
+          "display": "3.9 s"
+        },
+        "total-byte-weight": {
+          "value": 751121,
+          "score": 1,
+          "display": "Total size was 734 KiB"
+        },
+        "unused-css-rules": {
+          "value": 750,
+          "score": 0,
+          "display": "Est savings of 143 KiB"
+        },
+        "unused-javascript": {
+          "value": 300,
+          "score": 0,
+          "display": "Est savings of 50 KiB"
+        }
+      },
+      "resources": [
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/privacy-policy/",
+          "type": "Document",
+          "bytes": 13790
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/media/manrope_variable-s.p.2uusv1oyjugct.woff2",
+          "type": "Font",
+          "bytes": 53988
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/image/",
+          "type": "Image",
+          "bytes": 6925
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/37xdgo5y6kdkn.css",
+          "type": "Stylesheet",
+          "bytes": 5683
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/styles/source/fonts.css",
+          "type": "Stylesheet",
+          "bytes": 711
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/styles/bundles/a9754d8d7bf01141.css",
+          "type": "Stylesheet",
+          "bytes": 155912
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/2u4qmx_tw_9-v.js",
+          "type": "Script",
+          "bytes": 8058
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/0salggx7o11e9.js",
+          "type": "Script",
+          "bytes": 49177
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/0j3zhhdyorphn.js",
+          "type": "Script",
+          "bytes": 73319
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/turbopack-3xd-7z66s-4wg.js",
+          "type": "Script",
+          "bytes": 4343
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/3sav3yefleyvp.js",
+          "type": "Script",
+          "bytes": 3827
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/2rsm2gxl-enqd.js",
+          "type": "Script",
+          "bytes": 32929
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/08codfrf85o5f.js",
+          "type": "Script",
+          "bytes": 30710
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/0o8_p7s0fycd6.js",
+          "type": "Script",
+          "bytes": 5143
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/images/brand/cnap-logo-color.webp",
+          "type": "Image",
+          "bytes": 15578
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/images/content/layered-waves-row-0-3d7adc2b.svg",
+          "type": "Image",
+          "bytes": 815
+        },
+        {
+          "host": "vercel.live",
+          "path": "/_next-live/feedback/feedback.js",
+          "type": "Script",
+          "bytes": 157
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/",
+          "type": "Fetch",
+          "bytes": 845
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/favicon.ico",
+          "type": "Other",
+          "bytes": 2310
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/images/content/cna-header-fallback-32529c1e.webp",
+          "type": "Image",
+          "bytes": 105219
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/styles/bundles/6f0b6e39a51dc05b.css",
+          "type": "Stylesheet",
+          "bytes": 163971
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/",
+          "type": "Fetch",
+          "bytes": 3998
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/",
+          "type": "Fetch",
+          "bytes": 13713
+        }
+      ],
+      "warnings": [],
+      "checkedAt": "2026-11-08T20:13:59.778Z"
+    },
+    {
+      "key": "native-after/privacy-policy/2",
+      "kind": "native-after",
+      "origin": "https://yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+      "path": "/privacy-policy/",
+      "locale": "en",
+      "template": "policy",
+      "repeat": 2,
+      "status": "ok",
+      "performance": 0.93,
+      "metrics": {
+        "largest-contentful-paint": {
+          "value": 2990.7435,
+          "score": 0.78,
+          "display": "3.0 s"
+        },
+        "cumulative-layout-shift": {
+          "value": 0,
+          "score": 1,
+          "display": "0"
+        },
+        "total-blocking-time": {
+          "value": 92.5,
+          "score": 0.98,
+          "display": "90 ms"
+        },
+        "first-contentful-paint": {
+          "value": 1715.7435,
+          "score": 0.92,
+          "display": "1.7 s"
+        },
+        "speed-index": {
+          "value": 1715.7435,
+          "score": 1,
+          "display": "1.7 s"
+        },
+        "interactive": {
+          "value": 3923.2435000000005,
+          "score": 0.88,
+          "display": "3.9 s"
+        },
+        "total-byte-weight": {
+          "value": 751190,
+          "score": 1,
+          "display": "Total size was 734 KiB"
+        },
+        "unused-css-rules": {
+          "value": 600,
+          "score": 0,
+          "display": "Est savings of 143 KiB"
+        },
+        "unused-javascript": {
+          "value": 150,
+          "score": 0,
+          "display": "Est savings of 50 KiB"
+        }
+      },
+      "resources": [
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/privacy-policy/",
+          "type": "Document",
+          "bytes": 13785
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/media/manrope_variable-s.p.2uusv1oyjugct.woff2",
+          "type": "Font",
+          "bytes": 53958
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/image/",
+          "type": "Image",
+          "bytes": 6890
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/37xdgo5y6kdkn.css",
+          "type": "Stylesheet",
+          "bytes": 5679
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/styles/source/fonts.css",
+          "type": "Stylesheet",
+          "bytes": 731
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/styles/bundles/a9754d8d7bf01141.css",
+          "type": "Stylesheet",
+          "bytes": 155955
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/2u4qmx_tw_9-v.js",
+          "type": "Script",
+          "bytes": 8105
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/0salggx7o11e9.js",
+          "type": "Script",
+          "bytes": 49177
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/0j3zhhdyorphn.js",
+          "type": "Script",
+          "bytes": 73286
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/turbopack-3xd-7z66s-4wg.js",
+          "type": "Script",
+          "bytes": 4368
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/3sav3yefleyvp.js",
+          "type": "Script",
+          "bytes": 3908
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/2rsm2gxl-enqd.js",
+          "type": "Script",
+          "bytes": 32929
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/08codfrf85o5f.js",
+          "type": "Script",
+          "bytes": 30737
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/0o8_p7s0fycd6.js",
+          "type": "Script",
+          "bytes": 5093
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/images/brand/cnap-logo-color.webp",
+          "type": "Image",
+          "bytes": 15593
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/images/content/layered-waves-row-0-3d7adc2b.svg",
+          "type": "Image",
+          "bytes": 815
+        },
+        {
+          "host": "vercel.live",
+          "path": "/_next-live/feedback/feedback.js",
+          "type": "Script",
+          "bytes": 157
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/",
+          "type": "Fetch",
+          "bytes": 827
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/images/content/cna-header-fallback-32529c1e.webp",
+          "type": "Image",
+          "bytes": 105292
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/styles/bundles/6f0b6e39a51dc05b.css",
+          "type": "Stylesheet",
+          "bytes": 163957
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/",
+          "type": "Fetch",
+          "bytes": 4016
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/",
+          "type": "Fetch",
+          "bytes": 13713
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/favicon.ico",
+          "type": "Other",
+          "bytes": 2219
+        }
+      ],
+      "warnings": [],
+      "checkedAt": "2026-11-08T20:14:06.280Z"
+    },
+    {
+      "key": "native-after/privacy-policy/3",
+      "kind": "native-after",
+      "origin": "https://yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+      "path": "/privacy-policy/",
+      "locale": "en",
+      "template": "policy",
+      "repeat": 3,
+      "status": "ok",
+      "performance": 0.93,
+      "metrics": {
+        "largest-contentful-paint": {
+          "value": 3071.9045,
+          "score": 0.76,
+          "display": "3.1 s"
+        },
+        "cumulative-layout-shift": {
+          "value": 0,
+          "score": 1,
+          "display": "0"
+        },
+        "total-blocking-time": {
+          "value": 90.5,
+          "score": 0.99,
+          "display": "90 ms"
+        },
+        "first-contentful-paint": {
+          "value": 1721.9045,
+          "score": 0.91,
+          "display": "1.7 s"
+        },
+        "speed-index": {
+          "value": 1722.9760147379127,
+          "score": 1,
+          "display": "1.7 s"
+        },
+        "interactive": {
+          "value": 3927.4045000000006,
+          "score": 0.88,
+          "display": "3.9 s"
+        },
+        "total-byte-weight": {
+          "value": 751158,
+          "score": 1,
+          "display": "Total size was 734 KiB"
+        },
+        "unused-css-rules": {
+          "value": 750,
+          "score": 0,
+          "display": "Est savings of 143 KiB"
+        },
+        "unused-javascript": {
+          "value": 300,
+          "score": 0,
+          "display": "Est savings of 49 KiB"
+        }
+      },
+      "resources": [
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/privacy-policy/",
+          "type": "Document",
+          "bytes": 13786
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/media/manrope_variable-s.p.2uusv1oyjugct.woff2",
+          "type": "Font",
+          "bytes": 53958
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/image/",
+          "type": "Image",
+          "bytes": 6957
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/37xdgo5y6kdkn.css",
+          "type": "Stylesheet",
+          "bytes": 5702
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/styles/source/fonts.css",
+          "type": "Stylesheet",
+          "bytes": 706
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/styles/bundles/a9754d8d7bf01141.css",
+          "type": "Stylesheet",
+          "bytes": 155980
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/2u4qmx_tw_9-v.js",
+          "type": "Script",
+          "bytes": 7998
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/0salggx7o11e9.js",
+          "type": "Script",
+          "bytes": 49177
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/0j3zhhdyorphn.js",
+          "type": "Script",
+          "bytes": 73313
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/turbopack-3xd-7z66s-4wg.js",
+          "type": "Script",
+          "bytes": 4312
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/3sav3yefleyvp.js",
+          "type": "Script",
+          "bytes": 3827
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/2rsm2gxl-enqd.js",
+          "type": "Script",
+          "bytes": 32958
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/08codfrf85o5f.js",
+          "type": "Script",
+          "bytes": 30771
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/0o8_p7s0fycd6.js",
+          "type": "Script",
+          "bytes": 5124
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/images/brand/cnap-logo-color.webp",
+          "type": "Image",
+          "bytes": 15583
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/images/content/layered-waves-row-0-3d7adc2b.svg",
+          "type": "Image",
+          "bytes": 814
+        },
+        {
+          "host": "vercel.live",
+          "path": "/_next-live/feedback/feedback.js",
+          "type": "Script",
+          "bytes": 157
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/",
+          "type": "Fetch",
+          "bytes": 830
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/images/content/cna-header-fallback-32529c1e.webp",
+          "type": "Image",
+          "bytes": 105302
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/styles/bundles/6f0b6e39a51dc05b.css",
+          "type": "Stylesheet",
+          "bytes": 163954
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/",
+          "type": "Fetch",
+          "bytes": 3993
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/",
+          "type": "Fetch",
+          "bytes": 13713
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/favicon.ico",
+          "type": "Other",
+          "bytes": 2243
+        }
+      ],
+      "warnings": [],
+      "checkedAt": "2026-11-08T20:14:12.910Z"
+    },
+    {
+      "key": "native-after/es/politica-de-privacidad/1",
+      "kind": "native-after",
+      "origin": "https://yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+      "path": "/es/politica-de-privacidad/",
+      "locale": "es",
+      "template": "policy",
+      "repeat": 1,
+      "status": "ok",
+      "performance": 0.99,
+      "metrics": {
+        "largest-contentful-paint": {
+          "value": 1711.7595000000001,
+          "score": 0.99,
+          "display": "1.7 s"
+        },
+        "cumulative-layout-shift": {
+          "value": 0,
+          "score": 1,
+          "display": "0"
+        },
+        "total-blocking-time": {
+          "value": 88.5,
+          "score": 0.99,
+          "display": "90 ms"
+        },
+        "first-contentful-paint": {
+          "value": 1711.7595000000001,
+          "score": 0.92,
+          "display": "1.7 s"
+        },
+        "speed-index": {
+          "value": 1711.7595000000001,
+          "score": 1,
+          "display": "1.7 s"
+        },
+        "interactive": {
+          "value": 3917.2595,
+          "score": 0.88,
+          "display": "3.9 s"
+        },
+        "total-byte-weight": {
+          "value": 752746,
+          "score": 1,
+          "display": "Total size was 735 KiB"
+        },
+        "unused-css-rules": {
+          "value": 750,
+          "score": 0,
+          "display": "Est savings of 143 KiB"
+        },
+        "unused-javascript": {
+          "value": 0,
+          "score": 0.5,
+          "display": "Est savings of 50 KiB"
+        }
+      },
+      "resources": [
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/es/politica-de-privacidad/",
+          "type": "Document",
+          "bytes": 14489
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/media/manrope_variable-s.p.2uusv1oyjugct.woff2",
+          "type": "Font",
+          "bytes": 53931
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/image/",
+          "type": "Image",
+          "bytes": 6998
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/37xdgo5y6kdkn.css",
+          "type": "Stylesheet",
+          "bytes": 5654
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/styles/source/fonts.css",
+          "type": "Stylesheet",
+          "bytes": 721
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/styles/bundles/a9754d8d7bf01141.css",
+          "type": "Stylesheet",
+          "bytes": 155938
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/2u4qmx_tw_9-v.js",
+          "type": "Script",
+          "bytes": 8067
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/0salggx7o11e9.js",
+          "type": "Script",
+          "bytes": 49177
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/0j3zhhdyorphn.js",
+          "type": "Script",
+          "bytes": 73312
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/turbopack-3xd-7z66s-4wg.js",
+          "type": "Script",
+          "bytes": 4287
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/3sav3yefleyvp.js",
+          "type": "Script",
+          "bytes": 3914
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/2rsm2gxl-enqd.js",
+          "type": "Script",
+          "bytes": 32929
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/08codfrf85o5f.js",
+          "type": "Script",
+          "bytes": 30737
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/0o8_p7s0fycd6.js",
+          "type": "Script",
+          "bytes": 5099
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/images/brand/cnap-logo-color.webp",
+          "type": "Image",
+          "bytes": 15578
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/images/content/layered-waves-row-0-3d7adc2b.svg",
+          "type": "Image",
+          "bytes": 815
+        },
+        {
+          "host": "vercel.live",
+          "path": "/_next-live/feedback/feedback.js",
+          "type": "Script",
+          "bytes": 157
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/es/",
+          "type": "Fetch",
+          "bytes": 848
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/favicon.ico",
+          "type": "Other",
+          "bytes": 2308
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/images/content/cna-header-fallback-32529c1e.webp",
+          "type": "Image",
+          "bytes": 105219
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/styles/bundles/6f0b6e39a51dc05b.css",
+          "type": "Stylesheet",
+          "bytes": 163957
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/es/",
+          "type": "Fetch",
+          "bytes": 4244
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/es/",
+          "type": "Fetch",
+          "bytes": 14367
+        }
+      ],
+      "warnings": [],
+      "checkedAt": "2026-11-08T20:14:19.356Z"
+    },
+    {
+      "key": "native-after/es/politica-de-privacidad/2",
+      "kind": "native-after",
+      "origin": "https://yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+      "path": "/es/politica-de-privacidad/",
+      "locale": "es",
+      "template": "policy",
+      "repeat": 2,
+      "status": "ok",
+      "performance": 0.98,
+      "metrics": {
+        "largest-contentful-paint": {
+          "value": 1702.493,
+          "score": 0.99,
+          "display": "1.7 s"
+        },
+        "cumulative-layout-shift": {
+          "value": 0,
+          "score": 1,
+          "display": "0"
+        },
+        "total-blocking-time": {
+          "value": 94.5,
+          "score": 0.98,
+          "display": "90 ms"
+        },
+        "first-contentful-paint": {
+          "value": 1702.493,
+          "score": 0.92,
+          "display": "1.7 s"
+        },
+        "speed-index": {
+          "value": 1702.493,
+          "score": 1,
+          "display": "1.7 s"
+        },
+        "interactive": {
+          "value": 3907.9930000000004,
+          "score": 0.88,
+          "display": "3.9 s"
+        },
+        "total-byte-weight": {
+          "value": 752745,
+          "score": 1,
+          "display": "Total size was 735 KiB"
+        },
+        "unused-css-rules": {
+          "value": 750,
+          "score": 0,
+          "display": "Est savings of 143 KiB"
+        },
+        "unused-javascript": {
+          "value": 0,
+          "score": 0.5,
+          "display": "Est savings of 50 KiB"
+        }
+      },
+      "resources": [
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/es/politica-de-privacidad/",
+          "type": "Document",
+          "bytes": 14483
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/media/manrope_variable-s.p.2uusv1oyjugct.woff2",
+          "type": "Font",
+          "bytes": 54006
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/image/",
+          "type": "Image",
+          "bytes": 6884
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/37xdgo5y6kdkn.css",
+          "type": "Stylesheet",
+          "bytes": 5680
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/styles/source/fonts.css",
+          "type": "Stylesheet",
+          "bytes": 775
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/styles/bundles/a9754d8d7bf01141.css",
+          "type": "Stylesheet",
+          "bytes": 155912
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/2u4qmx_tw_9-v.js",
+          "type": "Script",
+          "bytes": 7997
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/0salggx7o11e9.js",
+          "type": "Script",
+          "bytes": 49204
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/0j3zhhdyorphn.js",
+          "type": "Script",
+          "bytes": 73313
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/turbopack-3xd-7z66s-4wg.js",
+          "type": "Script",
+          "bytes": 4287
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/3sav3yefleyvp.js",
+          "type": "Script",
+          "bytes": 3862
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/2rsm2gxl-enqd.js",
+          "type": "Script",
+          "bytes": 32977
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/08codfrf85o5f.js",
+          "type": "Script",
+          "bytes": 30748
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/0o8_p7s0fycd6.js",
+          "type": "Script",
+          "bytes": 5138
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/images/brand/cnap-logo-color.webp",
+          "type": "Image",
+          "bytes": 15586
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/images/content/layered-waves-row-0-3d7adc2b.svg",
+          "type": "Image",
+          "bytes": 821
+        },
+        {
+          "host": "vercel.live",
+          "path": "/_next-live/feedback/feedback.js",
+          "type": "Script",
+          "bytes": 156
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/es/",
+          "type": "Fetch",
+          "bytes": 865
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/favicon.ico",
+          "type": "Other",
+          "bytes": 2244
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/images/content/cna-header-fallback-32529c1e.webp",
+          "type": "Image",
+          "bytes": 105219
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/styles/bundles/6f0b6e39a51dc05b.css",
+          "type": "Stylesheet",
+          "bytes": 164001
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/es/",
+          "type": "Fetch",
+          "bytes": 4243
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/es/",
+          "type": "Fetch",
+          "bytes": 14344
+        }
+      ],
+      "warnings": [],
+      "checkedAt": "2026-11-08T20:14:25.812Z"
+    },
+    {
+      "key": "native-after/es/politica-de-privacidad/3",
+      "kind": "native-after",
+      "origin": "https://yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+      "path": "/es/politica-de-privacidad/",
+      "locale": "es",
+      "template": "policy",
+      "repeat": 3,
+      "status": "ok",
+      "performance": 0.98,
+      "metrics": {
+        "largest-contentful-paint": {
+          "value": 1712.6625,
+          "score": 0.99,
+          "display": "1.7 s"
+        },
+        "cumulative-layout-shift": {
+          "value": 0,
+          "score": 1,
+          "display": "0"
+        },
+        "total-blocking-time": {
+          "value": 93.5,
+          "score": 0.98,
+          "display": "90 ms"
+        },
+        "first-contentful-paint": {
+          "value": 1712.6625,
+          "score": 0.92,
+          "display": "1.7 s"
+        },
+        "speed-index": {
+          "value": 1712.6625,
+          "score": 1,
+          "display": "1.7 s"
+        },
+        "interactive": {
+          "value": 3928.8187500000004,
+          "score": 0.88,
+          "display": "3.9 s"
+        },
+        "total-byte-weight": {
+          "value": 752709,
+          "score": 1,
+          "display": "Total size was 735 KiB"
+        },
+        "unused-css-rules": {
+          "value": 750,
+          "score": 0,
+          "display": "Est savings of 143 KiB"
+        },
+        "unused-javascript": {
+          "value": 0,
+          "score": 0.5,
+          "display": "Est savings of 50 KiB"
+        }
+      },
+      "resources": [
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/es/politica-de-privacidad/",
+          "type": "Document",
+          "bytes": 14485
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/media/manrope_variable-s.p.2uusv1oyjugct.woff2",
+          "type": "Font",
+          "bytes": 53931
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/image/",
+          "type": "Image",
+          "bytes": 6885
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/37xdgo5y6kdkn.css",
+          "type": "Stylesheet",
+          "bytes": 5679
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/styles/source/fonts.css",
+          "type": "Stylesheet",
+          "bytes": 705
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/styles/bundles/a9754d8d7bf01141.css",
+          "type": "Stylesheet",
+          "bytes": 155941
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/2u4qmx_tw_9-v.js",
+          "type": "Script",
+          "bytes": 8076
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/0salggx7o11e9.js",
+          "type": "Script",
+          "bytes": 49177
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/0j3zhhdyorphn.js",
+          "type": "Script",
+          "bytes": 73392
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/turbopack-3xd-7z66s-4wg.js",
+          "type": "Script",
+          "bytes": 4287
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/3sav3yefleyvp.js",
+          "type": "Script",
+          "bytes": 3854
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/2rsm2gxl-enqd.js",
+          "type": "Script",
+          "bytes": 32958
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/08codfrf85o5f.js",
+          "type": "Script",
+          "bytes": 30718
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/_next/static/immutable/chunks/0o8_p7s0fycd6.js",
+          "type": "Script",
+          "bytes": 5117
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/images/brand/cnap-logo-color.webp",
+          "type": "Image",
+          "bytes": 15588
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/images/content/layered-waves-row-0-3d7adc2b.svg",
+          "type": "Image",
+          "bytes": 838
+        },
+        {
+          "host": "vercel.live",
+          "path": "/_next-live/feedback/feedback.js",
+          "type": "Script",
+          "bytes": 157
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/es/",
+          "type": "Fetch",
+          "bytes": 839
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/favicon.ico",
+          "type": "Other",
+          "bytes": 2300
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/images/content/cna-header-fallback-32529c1e.webp",
+          "type": "Image",
+          "bytes": 105196
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/styles/bundles/6f0b6e39a51dc05b.css",
+          "type": "Stylesheet",
+          "bytes": 163972
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/es/",
+          "type": "Fetch",
+          "bytes": 4244
+        },
+        {
+          "host": "yourcnastory-f8ql3zr0e-wallysabrias-projects.vercel.app",
+          "path": "/es/",
+          "type": "Fetch",
+          "bytes": 14370
+        }
+      ],
+      "warnings": [],
+      "checkedAt": "2026-11-08T20:14:32.266Z"
+    }
+  ]
+}

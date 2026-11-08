@@ -360,9 +360,13 @@ export function TableOfContents({
   locale: Locale;
 }) {
   const [open, setOpen] = useState(true);
+  const [ready, setReady] = useState(false);
   useEffect(() => {
     const query = matchMedia('(min-width:768px)');
-    const update = () => setOpen(query.matches);
+    const update = () => {
+      setOpen(query.matches);
+      setReady(true);
+    };
     update();
     query.addEventListener('change', update);
     return () => query.removeEventListener('change', update);
@@ -370,7 +374,9 @@ export function TableOfContents({
   const t = labels[locale];
   return (
     <nav
-      className={className + (open ? '' : ' elementor-toc--collapsed')}
+      className={
+        className + (open ? '' : ' elementor-toc--collapsed') + (ready ? '' : ' native-toc-initial')
+      }
       aria-label={title.trim()}
     >
       <div className="elementor-widget-container">

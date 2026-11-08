@@ -1,0 +1,542 @@
+{
+  "method": "Three cold mobile runs per representative and origin. Final policy medians replace pre-fix policy measurements; originals retained. Lighthouse 13.6.0; field INP unavailable.",
+  "baselineRuns": 108,
+  "cloudRuns": 54,
+  "targetedPolicyRuns": 6,
+  "budgets": {
+    "score90": 14,
+    "lcp2500": 6,
+    "cls01": 18,
+    "tbt200": 18,
+    "representatives": 18
+  },
+  "scriptBudget": {
+    "encodedBodyBytes": 205760,
+    "transferBytes": 208160,
+    "count": 8
+  },
+  "rows": [
+    {
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "template": "careerpath-entry",
+      "locale": "en",
+      "source": {
+        "runs": 3,
+        "score": 97,
+        "lcpMs": 1980,
+        "cls": 0,
+        "tbtMs": 102,
+        "scriptTransferKiB": 417.8
+      },
+      "nativeBefore": {
+        "runs": 3,
+        "score": 98,
+        "lcpMs": 1882,
+        "cls": 0,
+        "tbtMs": 73,
+        "scriptTransferKiB": 198.2
+      },
+      "nativeAfter": {
+        "runs": 3,
+        "score": 98,
+        "lcpMs": 1720,
+        "cls": 0,
+        "tbtMs": 110,
+        "scriptTransferKiB": 202.9
+      }
+    },
+    {
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "template": "careerpath-entry",
+      "locale": "es",
+      "source": {
+        "runs": 3,
+        "score": 97,
+        "lcpMs": 1988,
+        "cls": 0,
+        "tbtMs": 110,
+        "scriptTransferKiB": 423.5
+      },
+      "nativeBefore": {
+        "runs": 3,
+        "score": 98,
+        "lcpMs": 1881,
+        "cls": 0,
+        "tbtMs": 75,
+        "scriptTransferKiB": 198.2
+      },
+      "nativeAfter": {
+        "runs": 3,
+        "score": 98,
+        "lcpMs": 1721,
+        "cls": 0,
+        "tbtMs": 100,
+        "scriptTransferKiB": 202.9
+      }
+    },
+    {
+      "path": "/",
+      "template": "homepage",
+      "locale": "en",
+      "source": {
+        "runs": 3,
+        "score": 91,
+        "lcpMs": 3066,
+        "cls": 0,
+        "tbtMs": 46,
+        "scriptTransferKiB": 288.3
+      },
+      "nativeBefore": {
+        "runs": 3,
+        "score": 86,
+        "lcpMs": 3843,
+        "cls": 0,
+        "tbtMs": 142,
+        "scriptTransferKiB": 198.2
+      },
+      "nativeAfter": {
+        "runs": 3,
+        "score": 88,
+        "lcpMs": 3603,
+        "cls": 0,
+        "tbtMs": 114,
+        "scriptTransferKiB": 202.8
+      }
+    },
+    {
+      "path": "/es/",
+      "template": "homepage",
+      "locale": "es",
+      "source": {
+        "runs": 3,
+        "score": 92,
+        "lcpMs": 2998,
+        "cls": 0,
+        "tbtMs": 52,
+        "scriptTransferKiB": 196.8
+      },
+      "nativeBefore": {
+        "runs": 3,
+        "score": 85,
+        "lcpMs": 3862,
+        "cls": 0,
+        "tbtMs": 143,
+        "scriptTransferKiB": 198.2
+      },
+      "nativeAfter": {
+        "runs": 3,
+        "score": 88,
+        "lcpMs": 3595,
+        "cls": 0,
+        "tbtMs": 113,
+        "scriptTransferKiB": 202.9
+      }
+    },
+    {
+      "path": "/career-seekers/",
+      "template": "career-section-landing",
+      "locale": "en",
+      "source": {
+        "runs": 3,
+        "score": 73,
+        "lcpMs": 5623,
+        "cls": 0,
+        "tbtMs": 198,
+        "scriptTransferKiB": 558.7
+      },
+      "nativeBefore": {
+        "runs": 3,
+        "score": 97,
+        "lcpMs": 2046,
+        "cls": 0,
+        "tbtMs": 73,
+        "scriptTransferKiB": 198.3
+      },
+      "nativeAfter": {
+        "runs": 3,
+        "score": 84,
+        "lcpMs": 4201,
+        "cls": 0,
+        "tbtMs": 89,
+        "scriptTransferKiB": 202.9
+      }
+    },
+    {
+      "path": "/es/aspirantes/",
+      "template": "career-section-landing",
+      "locale": "es",
+      "source": {
+        "runs": 3,
+        "score": 71,
+        "lcpMs": 5610,
+        "cls": 0,
+        "tbtMs": 247,
+        "scriptTransferKiB": 564.4
+      },
+      "nativeBefore": {
+        "runs": 3,
+        "score": 97,
+        "lcpMs": 2030,
+        "cls": 0,
+        "tbtMs": 74,
+        "scriptTransferKiB": 198.3
+      },
+      "nativeAfter": {
+        "runs": 3,
+        "score": 98,
+        "lcpMs": 1850,
+        "cls": 0,
+        "tbtMs": 85,
+        "scriptTransferKiB": 202.8
+      }
+    },
+    {
+      "path": "/career-paths-in-long-term-care/",
+      "template": "careerpath-index",
+      "locale": "en",
+      "source": {
+        "runs": 3,
+        "score": 98,
+        "lcpMs": 2021,
+        "cls": 0,
+        "tbtMs": 40,
+        "scriptTransferKiB": 263.7
+      },
+      "nativeBefore": {
+        "runs": 3,
+        "score": 90,
+        "lcpMs": 3230,
+        "cls": 0.0186,
+        "tbtMs": 142,
+        "scriptTransferKiB": 198.2
+      },
+      "nativeAfter": {
+        "runs": 3,
+        "score": 91,
+        "lcpMs": 3346,
+        "cls": 0,
+        "tbtMs": 109,
+        "scriptTransferKiB": 202.8
+      }
+    },
+    {
+      "path": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+      "template": "careerpath-index",
+      "locale": "es",
+      "source": {
+        "runs": 3,
+        "score": 98,
+        "lcpMs": 2098,
+        "cls": 0,
+        "tbtMs": 43,
+        "scriptTransferKiB": 269.4
+      },
+      "nativeBefore": {
+        "runs": 3,
+        "score": 90,
+        "lcpMs": 3241,
+        "cls": 0,
+        "tbtMs": 137,
+        "scriptTransferKiB": 198.1
+      },
+      "nativeAfter": {
+        "runs": 3,
+        "score": 93,
+        "lcpMs": 3065,
+        "cls": 0,
+        "tbtMs": 105,
+        "scriptTransferKiB": 202.8
+      }
+    },
+    {
+      "path": "/community-resources/",
+      "template": "anchored-resources",
+      "locale": "en",
+      "source": {
+        "runs": 3,
+        "score": 92,
+        "lcpMs": 2950,
+        "cls": 0,
+        "tbtMs": 100,
+        "scriptTransferKiB": 417.8
+      },
+      "nativeBefore": {
+        "runs": 3,
+        "score": 88,
+        "lcpMs": 3758,
+        "cls": 0,
+        "tbtMs": 82,
+        "scriptTransferKiB": 1457.4
+      },
+      "nativeAfter": {
+        "runs": 3,
+        "score": 90,
+        "lcpMs": 3427,
+        "cls": 0,
+        "tbtMs": 95,
+        "scriptTransferKiB": 202.8
+      }
+    },
+    {
+      "path": "/es/recursos-comunitarios/",
+      "template": "anchored-resources",
+      "locale": "es",
+      "source": {
+        "runs": 3,
+        "score": 92,
+        "lcpMs": 2954,
+        "cls": 0,
+        "tbtMs": 27,
+        "scriptTransferKiB": 294
+      },
+      "nativeBefore": {
+        "runs": 3,
+        "score": 89,
+        "lcpMs": 3642,
+        "cls": 0,
+        "tbtMs": 76,
+        "scriptTransferKiB": 1833
+      },
+      "nativeAfter": {
+        "runs": 3,
+        "score": 90,
+        "lcpMs": 3429,
+        "cls": 0,
+        "tbtMs": 98,
+        "scriptTransferKiB": 202.8
+      }
+    },
+    {
+      "path": "/privacy-policy/",
+      "template": "policy",
+      "locale": "en",
+      "source": {
+        "runs": 3,
+        "score": 98,
+        "lcpMs": 2022,
+        "cls": 0,
+        "tbtMs": 26,
+        "scriptTransferKiB": 288.3
+      },
+      "nativeBefore": {
+        "runs": 3,
+        "score": 91,
+        "lcpMs": 3217,
+        "cls": 0,
+        "tbtMs": 138,
+        "scriptTransferKiB": 198.1
+      },
+      "nativeAfter": {
+        "runs": 3,
+        "score": 93,
+        "lcpMs": 3072,
+        "cls": 0,
+        "tbtMs": 93,
+        "scriptTransferKiB": 202.8
+      }
+    },
+    {
+      "path": "/es/politica-de-privacidad/",
+      "template": "policy",
+      "locale": "es",
+      "source": {
+        "runs": 3,
+        "score": 98,
+        "lcpMs": 2019,
+        "cls": 0,
+        "tbtMs": 46,
+        "scriptTransferKiB": 423.5
+      },
+      "nativeBefore": {
+        "runs": 3,
+        "score": 86,
+        "lcpMs": 3220,
+        "cls": 0.1404,
+        "tbtMs": 138,
+        "scriptTransferKiB": 198.2
+      },
+      "nativeAfter": {
+        "runs": 3,
+        "score": 98,
+        "lcpMs": 1712,
+        "cls": 0,
+        "tbtMs": 94,
+        "scriptTransferKiB": 202.8
+      }
+    },
+    {
+      "path": "/certified-nurse-assistant-program/",
+      "template": "standard-content-or-legacy",
+      "locale": "en",
+      "source": {
+        "runs": 3,
+        "score": 97,
+        "lcpMs": 2088,
+        "cls": 0,
+        "tbtMs": 60,
+        "scriptTransferKiB": 417.8
+      },
+      "nativeBefore": {
+        "runs": 3,
+        "score": 98,
+        "lcpMs": 1868,
+        "cls": 0,
+        "tbtMs": 99,
+        "scriptTransferKiB": 198.2
+      },
+      "nativeAfter": {
+        "runs": 3,
+        "score": 89,
+        "lcpMs": 3584,
+        "cls": 0,
+        "tbtMs": 92,
+        "scriptTransferKiB": 202.8
+      }
+    },
+    {
+      "path": "/es/que-es-cuidar-a-largo-plazo/",
+      "template": "standard-content-or-legacy",
+      "locale": "es",
+      "source": {
+        "runs": 3,
+        "score": 97,
+        "lcpMs": 2098,
+        "cls": 0,
+        "tbtMs": 5,
+        "scriptTransferKiB": 269.5
+      },
+      "nativeBefore": {
+        "runs": 3,
+        "score": 90,
+        "lcpMs": 3223,
+        "cls": 0,
+        "tbtMs": 155,
+        "scriptTransferKiB": 198.1
+      },
+      "nativeAfter": {
+        "runs": 3,
+        "score": 93,
+        "lcpMs": 3055,
+        "cls": 0,
+        "tbtMs": 100,
+        "scriptTransferKiB": 202.8
+      }
+    },
+    {
+      "path": "/earn-and-learn-la/",
+      "template": "campaign-signup",
+      "locale": "en",
+      "source": {
+        "runs": 3,
+        "score": 71,
+        "lcpMs": 6504,
+        "cls": 0,
+        "tbtMs": 230,
+        "scriptTransferKiB": 332.1
+      },
+      "nativeBefore": {
+        "runs": 3,
+        "score": 98,
+        "lcpMs": 1874,
+        "cls": 0,
+        "tbtMs": 71,
+        "scriptTransferKiB": 198.2
+      },
+      "nativeAfter": {
+        "runs": 3,
+        "score": 98,
+        "lcpMs": 1866,
+        "cls": 0,
+        "tbtMs": 72,
+        "scriptTransferKiB": 202.8
+      }
+    },
+    {
+      "path": "/es/ganar-y-aprender-la/",
+      "template": "campaign-signup",
+      "locale": "es",
+      "source": {
+        "runs": 3,
+        "score": 72,
+        "lcpMs": 6539,
+        "cls": 0,
+        "tbtMs": 192,
+        "scriptTransferKiB": 409.4
+      },
+      "nativeBefore": {
+        "runs": 3,
+        "score": 98,
+        "lcpMs": 1877,
+        "cls": 0,
+        "tbtMs": 71,
+        "scriptTransferKiB": 198.3
+      },
+      "nativeAfter": {
+        "runs": 3,
+        "score": 98,
+        "lcpMs": 1846,
+        "cls": 0,
+        "tbtMs": 73,
+        "scriptTransferKiB": 202.9
+      }
+    },
+    {
+      "path": "/frequently-asked-questions/",
+      "template": "faq-accordion",
+      "locale": "en",
+      "source": {
+        "runs": 3,
+        "score": 86,
+        "lcpMs": 3159,
+        "cls": 0,
+        "tbtMs": 227,
+        "scriptTransferKiB": 558.7
+      },
+      "nativeBefore": {
+        "runs": 3,
+        "score": 87,
+        "lcpMs": 3669,
+        "cls": 0,
+        "tbtMs": 139,
+        "scriptTransferKiB": 198.1
+      },
+      "nativeAfter": {
+        "runs": 3,
+        "score": 92,
+        "lcpMs": 3124,
+        "cls": 0,
+        "tbtMs": 96,
+        "scriptTransferKiB": 202.8
+      }
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "template": "faq-accordion",
+      "locale": "es",
+      "source": {
+        "runs": 3,
+        "score": 90,
+        "lcpMs": 3056,
+        "cls": 0,
+        "tbtMs": 169,
+        "scriptTransferKiB": 353.8
+      },
+      "nativeBefore": {
+        "runs": 3,
+        "score": 87,
+        "lcpMs": 3665,
+        "cls": 0,
+        "tbtMs": 149,
+        "scriptTransferKiB": 198.4
+      },
+      "nativeAfter": {
+        "runs": 3,
+        "score": 90,
+        "lcpMs": 3495,
+        "cls": 0,
+        "tbtMs": 96,
+        "scriptTransferKiB": 202.9
+      }
+    }
+  ]
+}

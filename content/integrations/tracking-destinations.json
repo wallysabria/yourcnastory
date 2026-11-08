@@ -1,0 +1,20 @@
+{
+  "containerId": "GTM-TLC2T6FQ",
+  "ga4": { "propertyId": "407144160", "measurementId": "G-RC2WSP3DYG" },
+  "clarity": { "projectId": "yr1ps67xpa" },
+  "googleAds": [
+    { "id": "AW-11464482635", "mappingStatus": "owner-export-required" },
+    { "id": "AW-18269807080", "mappingStatus": "owner-export-required" }
+  ],
+  "floodlight": [
+    { "id": "DC-14019833", "mappingStatus": "owner-export-required" },
+    { "id": "DC-14063874", "mappingStatus": "owner-export-required" }
+  ],
+  "mntn": {
+    "hosts": ["dx.mountain.com", "gs.mountain.com", "px.mountain.com"],
+    "mappingStatus": "owner-export-required"
+  },
+  "productionHosts": ["yourcnastory.org", "www.yourcnastory.org"],
+  "liveVerification": "deferred-by-owner",
+  "accountPublication": "owner-controlled"
+}

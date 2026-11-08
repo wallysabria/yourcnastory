@@ -2,6 +2,7 @@ import Image from 'next/image';
 import type { GlobalContent } from '@/lib/global-content';
 import { employersEnabled } from '@/lib/routing';
 import { SiteLink } from './site-link';
+import { PrivacyChoices } from './privacy-center';
 export function SiteFooter({ content }: { content: GlobalContent }) {
   const footer = content.footer;
   const copyright = footer.copyright.split(footer.copyrightLinkLabel);
@@ -48,7 +49,10 @@ export function SiteFooter({ content }: { content: GlobalContent }) {
           <a href={footer.foundationHref}>{footer.copyrightLinkLabel}</a>
           {copyright.slice(1).join(footer.copyrightLinkLabel)}
         </p>
-        <SiteLink href={footer.policy.href}>{footer.policy.label}</SiteLink>
+        <div className="footer-privacy-links">
+          <SiteLink href={footer.policy.href}>{footer.policy.label}</SiteLink>
+          <PrivacyChoices locale={content.locale === 'es' ? 'es' : 'en'} />
+        </div>
       </div>
       <a className="back-to-top" href="#top" aria-label={content.ui.top}>
         ↑

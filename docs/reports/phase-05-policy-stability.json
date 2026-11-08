@@ -1,0 +1,13 @@
+{
+  "method": "Fresh mobile Chromium first paint and hydration; 500ms after load, no interaction.",
+  "checks": [
+    {
+      "path": "/privacy-policy/",
+      "cls": 0
+    },
+    {
+      "path": "/es/politica-de-privacidad/",
+      "cls": 0
+    }
+  ]
+}

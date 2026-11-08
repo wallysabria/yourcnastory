@@ -10,10 +10,10 @@ export default defineConfig({
   },
   projects: [
     { name: 'content', testMatch: 'content.spec.ts' },
-    { name: 'unit', testMatch: /(?:routing|signup)\.spec\.ts/ },
+    { name: 'unit', testMatch: /(?:routing|signup|privacy)\.spec\.ts/ },
     {
       name: 'chromium',
-      testMatch: /(?:layout|interactions)\.spec\.ts/,
+      testMatch: /(?:layout|interactions|consent)\.spec\.ts/,
       use: { ...devices['Desktop Chrome'], viewport: { width: 1440, height: 1000 } },
     },
   ],

@@ -1,0 +1,1913 @@
+{
+  "method": "Three fresh Chromium contexts per template/locale, declined load then grant both optional categories. Network/script delta and eligible mock records; click-to-two-animation-frames includes Playwright overhead and is not field INP or isolated CPU timing.",
+  "checks": [
+    {
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "template": "careerpath-entry",
+      "locale": "en",
+      "runs": [
+        {
+          "repeat": 1,
+          "automationClickToTwoFramesMs": 59,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        },
+        {
+          "repeat": 2,
+          "automationClickToTwoFramesMs": 58,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        },
+        {
+          "repeat": 3,
+          "automationClickToTwoFramesMs": 61,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "template": "careerpath-entry",
+      "locale": "es",
+      "runs": [
+        {
+          "repeat": 1,
+          "automationClickToTwoFramesMs": 62,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        },
+        {
+          "repeat": 2,
+          "automationClickToTwoFramesMs": 61,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        },
+        {
+          "repeat": 3,
+          "automationClickToTwoFramesMs": 61,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/",
+      "template": "homepage",
+      "locale": "en",
+      "runs": [
+        {
+          "repeat": 1,
+          "automationClickToTwoFramesMs": 61,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        },
+        {
+          "repeat": 2,
+          "automationClickToTwoFramesMs": 62,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        },
+        {
+          "repeat": 3,
+          "automationClickToTwoFramesMs": 78,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/es/",
+      "template": "homepage",
+      "locale": "es",
+      "runs": [
+        {
+          "repeat": 1,
+          "automationClickToTwoFramesMs": 61,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        },
+        {
+          "repeat": 2,
+          "automationClickToTwoFramesMs": 59,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        },
+        {
+          "repeat": 3,
+          "automationClickToTwoFramesMs": 60,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/career-seekers/",
+      "template": "career-section-landing",
+      "locale": "en",
+      "runs": [
+        {
+          "repeat": 1,
+          "automationClickToTwoFramesMs": 61,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        },
+        {
+          "repeat": 2,
+          "automationClickToTwoFramesMs": 76,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        },
+        {
+          "repeat": 3,
+          "automationClickToTwoFramesMs": 78,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/es/aspirantes/",
+      "template": "career-section-landing",
+      "locale": "es",
+      "runs": [
+        {
+          "repeat": 1,
+          "automationClickToTwoFramesMs": 76,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        },
+        {
+          "repeat": 2,
+          "automationClickToTwoFramesMs": 62,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        },
+        {
+          "repeat": 3,
+          "automationClickToTwoFramesMs": 61,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/career-paths-in-long-term-care/",
+      "template": "careerpath-index",
+      "locale": "en",
+      "runs": [
+        {
+          "repeat": 1,
+          "automationClickToTwoFramesMs": 79,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        },
+        {
+          "repeat": 2,
+          "automationClickToTwoFramesMs": 62,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        },
+        {
+          "repeat": 3,
+          "automationClickToTwoFramesMs": 54,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+      "template": "careerpath-index",
+      "locale": "es",
+      "runs": [
+        {
+          "repeat": 1,
+          "automationClickToTwoFramesMs": 54,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        },
+        {
+          "repeat": 2,
+          "automationClickToTwoFramesMs": 55,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        },
+        {
+          "repeat": 3,
+          "automationClickToTwoFramesMs": 57,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/community-resources/",
+      "template": "anchored-resources",
+      "locale": "en",
+      "runs": [
+        {
+          "repeat": 1,
+          "automationClickToTwoFramesMs": 62,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        },
+        {
+          "repeat": 2,
+          "automationClickToTwoFramesMs": 58,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        },
+        {
+          "repeat": 3,
+          "automationClickToTwoFramesMs": 88,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/es/recursos-comunitarios/",
+      "template": "anchored-resources",
+      "locale": "es",
+      "runs": [
+        {
+          "repeat": 1,
+          "automationClickToTwoFramesMs": 56,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        },
+        {
+          "repeat": 2,
+          "automationClickToTwoFramesMs": 59,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        },
+        {
+          "repeat": 3,
+          "automationClickToTwoFramesMs": 60,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/privacy-policy/",
+      "template": "policy",
+      "locale": "en",
+      "runs": [
+        {
+          "repeat": 1,
+          "automationClickToTwoFramesMs": 72,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        },
+        {
+          "repeat": 2,
+          "automationClickToTwoFramesMs": 81,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        },
+        {
+          "repeat": 3,
+          "automationClickToTwoFramesMs": 83,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/es/politica-de-privacidad/",
+      "template": "policy",
+      "locale": "es",
+      "runs": [
+        {
+          "repeat": 1,
+          "automationClickToTwoFramesMs": 89,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        },
+        {
+          "repeat": 2,
+          "automationClickToTwoFramesMs": 84,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        },
+        {
+          "repeat": 3,
+          "automationClickToTwoFramesMs": 87,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/certified-nurse-assistant-program/",
+      "template": "standard-content-or-legacy",
+      "locale": "en",
+      "runs": [
+        {
+          "repeat": 1,
+          "automationClickToTwoFramesMs": 105,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        },
+        {
+          "repeat": 2,
+          "automationClickToTwoFramesMs": 73,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        },
+        {
+          "repeat": 3,
+          "automationClickToTwoFramesMs": 101,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/es/que-es-cuidar-a-largo-plazo/",
+      "template": "standard-content-or-legacy",
+      "locale": "es",
+      "runs": [
+        {
+          "repeat": 1,
+          "automationClickToTwoFramesMs": 75,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        },
+        {
+          "repeat": 2,
+          "automationClickToTwoFramesMs": 61,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        },
+        {
+          "repeat": 3,
+          "automationClickToTwoFramesMs": 88,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/earn-and-learn-la/",
+      "template": "campaign-signup",
+      "locale": "en",
+      "runs": [
+        {
+          "repeat": 1,
+          "automationClickToTwoFramesMs": 58,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        },
+        {
+          "repeat": 2,
+          "automationClickToTwoFramesMs": 74,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        },
+        {
+          "repeat": 3,
+          "automationClickToTwoFramesMs": 57,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/es/ganar-y-aprender-la/",
+      "template": "campaign-signup",
+      "locale": "es",
+      "runs": [
+        {
+          "repeat": 1,
+          "automationClickToTwoFramesMs": 65,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        },
+        {
+          "repeat": 2,
+          "automationClickToTwoFramesMs": 69,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        },
+        {
+          "repeat": 3,
+          "automationClickToTwoFramesMs": 87,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/frequently-asked-questions/",
+      "template": "faq-accordion",
+      "locale": "en",
+      "runs": [
+        {
+          "repeat": 1,
+          "automationClickToTwoFramesMs": 70,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        },
+        {
+          "repeat": 2,
+          "automationClickToTwoFramesMs": 61,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        },
+        {
+          "repeat": 3,
+          "automationClickToTwoFramesMs": 66,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "template": "faq-accordion",
+      "locale": "es",
+      "runs": [
+        {
+          "repeat": 1,
+          "automationClickToTwoFramesMs": 53,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        },
+        {
+          "repeat": 2,
+          "automationClickToTwoFramesMs": 58,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        },
+        {
+          "repeat": 3,
+          "automationClickToTwoFramesMs": 64,
+          "additionalScriptResources": 0,
+          "externalHosts": [],
+          "mockRecords": [
+            {
+              "vendor": "ga4",
+              "action": "eligible"
+            },
+            {
+              "vendor": "clarity",
+              "action": "eligible"
+            },
+            {
+              "vendor": "ga4",
+              "action": "event",
+              "event": "page_view"
+            },
+            {
+              "vendor": "google_ads",
+              "action": "eligible"
+            },
+            {
+              "vendor": "floodlight",
+              "action": "eligible"
+            },
+            {
+              "vendor": "mntn",
+              "action": "eligible"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

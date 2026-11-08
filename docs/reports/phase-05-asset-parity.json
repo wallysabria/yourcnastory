@@ -1,0 +1,54 @@
+{
+  "cssRoutesExactOrderedBytes": 48,
+  "font": "Original TTF versus generated WOFF2 served into otherwise identical final pages; Chromium screenshots with reduced motion and saved decline.",
+  "checks": [
+    {
+      "path": "/",
+      "width": 390,
+      "changedPixels": 0,
+      "pixels": 351000
+    },
+    {
+      "path": "/",
+      "width": 1440,
+      "changedPixels": 0,
+      "pixels": 1296000
+    },
+    {
+      "path": "/es/",
+      "width": 390,
+      "changedPixels": 0,
+      "pixels": 351000
+    },
+    {
+      "path": "/es/",
+      "width": 1440,
+      "changedPixels": 0,
+      "pixels": 1296000
+    },
+    {
+      "path": "/career-paths-in-long-term-care/",
+      "width": 390,
+      "changedPixels": 0,
+      "pixels": 351000
+    },
+    {
+      "path": "/career-paths-in-long-term-care/",
+      "width": 1440,
+      "changedPixels": 0,
+      "pixels": 1296000
+    },
+    {
+      "path": "/es/politica-de-privacidad/",
+      "width": 390,
+      "changedPixels": 0,
+      "pixels": 351000
+    },
+    {
+      "path": "/es/politica-de-privacidad/",
+      "width": 1440,
+      "changedPixels": 0,
+      "pixels": 1296000
+    }
+  ]
+}
