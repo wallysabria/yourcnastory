@@ -23,6 +23,7 @@
           "heading": "CNA PROGRAM",
           "items": [
             {
+              "clickable": true,
               "label": "WRITE YOUR CNA STORY",
               "nested": false,
               "padding": "0px",
@@ -32,6 +33,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": true,
               "label": "WHAT IS LONG-TERM CARE?",
               "nested": false,
               "padding": "0px",
@@ -41,6 +43,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": true,
               "label": "CNA PROGRAM",
               "nested": false,
               "padding": "0px",
@@ -50,6 +53,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": true,
               "label": "HOW TO TRAIN TO BECOME A CNA",
               "nested": false,
               "padding": "0px",
@@ -59,6 +63,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": true,
               "label": "FREQUENTLY ASKED QUESTIONS",
               "nested": false,
               "padding": "0px",
@@ -73,6 +78,7 @@
           "heading": "CAREER PATHS",
           "items": [
             {
+              "clickable": true,
               "label": "CAREER PATHS IN LONG-TERM CARE",
               "nested": false,
               "padding": "0px",
@@ -82,6 +88,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": true,
               "label": "Certified Nursing Assistant",
               "nested": true,
               "padding": "22.5px",
@@ -91,6 +98,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Nursing",
               "nested": true,
               "padding": "22.5px",
@@ -100,6 +108,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Administration",
               "nested": true,
               "padding": "22.5px",
@@ -109,6 +118,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Social Services",
               "nested": true,
               "padding": "22.5px",
@@ -118,6 +128,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Therapy",
               "nested": true,
               "padding": "22.5px",
@@ -127,6 +138,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Care Coordination",
               "nested": true,
               "padding": "22.5px",
@@ -136,6 +148,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Support Services",
               "nested": true,
               "padding": "22.5px",
@@ -145,6 +158,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Activities",
               "nested": true,
               "padding": "22.5px",
@@ -159,6 +173,7 @@
           "heading": "RESOURCES",
           "items": [
             {
+              "clickable": true,
               "label": "CNA RESOURCES",
               "nested": false,
               "padding": "0px",
@@ -168,6 +183,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": true,
               "label": "CNA Training Providers",
               "nested": true,
               "padding": "22.5px",
@@ -177,6 +193,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "CNAs Share Their Experiences",
               "nested": true,
               "padding": "22.5px",
@@ -186,6 +203,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Becoming a CNA",
               "nested": true,
               "padding": "22.5px",
@@ -195,6 +213,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "CNA Practice Exam",
               "nested": true,
               "padding": "22.5px",
@@ -204,6 +223,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "CNA Flyer",
               "nested": true,
               "padding": "22.5px",
@@ -226,6 +246,7 @@
           "heading": "CNAP PROGRAM",
           "items": [
             {
+              "clickable": null,
               "label": "PROGRAM OVERVIEW",
               "nested": false,
               "padding": "0px",
@@ -235,6 +256,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": null,
               "label": "CNAP FINANCIAL AWARDS",
               "nested": false,
               "padding": "0px",
@@ -244,6 +266,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": null,
               "label": "CNA UPSKILLING PROGRAM (CUSP)",
               "nested": false,
               "padding": "0px",
@@ -253,6 +276,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": null,
               "label": "FREQUENTLY ASKED QUESTIONS",
               "nested": false,
               "padding": "0px",
@@ -267,6 +291,7 @@
           "heading": "RESOURCES",
           "items": [
             {
+              "clickable": null,
               "label": "EMPLOYER RESOURCES",
               "nested": false,
               "padding": "0px",
@@ -276,6 +301,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": null,
               "label": "CNA Training Providers",
               "nested": true,
               "padding": "22.5px",
@@ -285,6 +311,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": null,
               "label": "DSD Approval Packet",
               "nested": true,
               "padding": "22.5px",
@@ -294,6 +321,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": null,
               "label": "Develop your CNA Workforce",
               "nested": true,
               "padding": "22.5px",
@@ -303,6 +331,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": null,
               "label": "Establish an Earn and Learn Program",
               "nested": true,
               "padding": "22.5px",
@@ -312,6 +341,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": null,
               "label": "Become a Community NATP",
               "nested": true,
               "padding": "22.5px",
@@ -321,6 +351,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": null,
               "label": "Become a Facility NATP",
               "nested": true,
               "padding": "22.5px",
@@ -330,6 +361,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": null,
               "label": "Partnering with your Workforce Board",
               "nested": true,
               "padding": "22.5px",
@@ -344,6 +376,7 @@
           "heading": "CONTACT",
           "items": [
             {
+              "clickable": null,
               "label": "CNAP AWARD APPLICATION",
               "nested": false,
               "padding": "0px",
@@ -366,6 +399,7 @@
           "heading": "PROGRAMA CNA",
           "items": [
             {
+              "clickable": true,
               "label": "ASISTENTE DE ENFERMERÍA CERTIFICADO (CNA)",
               "nested": false,
               "padding": "0px",
@@ -375,6 +409,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": true,
               "label": "¿QUÉ ES CUIDAR A LARGO PLAZO?",
               "nested": false,
               "padding": "0px",
@@ -384,6 +419,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": true,
               "label": "PROGRAMA CNA",
               "nested": false,
               "padding": "0px",
@@ -393,6 +429,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": true,
               "label": "CÓMO CAPACITARTE PARA SER CNA",
               "nested": false,
               "padding": "0px",
@@ -402,6 +439,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": true,
               "label": "PREGUNTAS FREQUENTES",
               "nested": false,
               "padding": "0px",
@@ -416,6 +454,7 @@
           "heading": "TRAYECTORIAS PROFESIONALES",
           "items": [
             {
+              "clickable": false,
               "label": "CAMINOS PROFESIONALES EN EL CUIDADO A LARGO PLAZO",
               "nested": false,
               "padding": "0px",
@@ -425,6 +464,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": true,
               "label": "Asistente de Enfermería Certificado",
               "nested": true,
               "padding": "22.5px",
@@ -434,6 +474,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Enfermería",
               "nested": true,
               "padding": "22.5px",
@@ -443,6 +484,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Administración",
               "nested": true,
               "padding": "22.5px",
@@ -452,6 +494,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Servicios Sociales",
               "nested": true,
               "padding": "22.5px",
@@ -461,6 +504,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Terapia",
               "nested": true,
               "padding": "22.5px",
@@ -470,6 +514,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Coordinación de Cuidados",
               "nested": true,
               "padding": "22.5px",
@@ -479,6 +524,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Servicios de Apoyo",
               "nested": true,
               "padding": "22.5px",
@@ -488,6 +534,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Actividades",
               "nested": true,
               "padding": "22.5px",
@@ -502,6 +549,7 @@
           "heading": "RECURSOS",
           "items": [
             {
+              "clickable": false,
               "label": "RECURSOS PARA ASISTENTES DE ENFERMERÍA CERTIFICADOS",
               "nested": false,
               "padding": "0px",
@@ -511,6 +559,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": true,
               "label": "Proveedores de Capacitación",
               "nested": true,
               "padding": "22.5px",
@@ -520,6 +569,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "CNAs cuentan sus experiencias",
               "nested": true,
               "padding": "22.5px",
@@ -529,6 +579,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Conviértete en un CNA",
               "nested": true,
               "padding": "22.5px",
@@ -538,6 +589,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Examen de Práctica de CNA",
               "nested": true,
               "padding": "22.5px",
@@ -547,6 +599,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Folleto de CNA",
               "nested": true,
               "padding": "22.5px",
@@ -569,6 +622,7 @@
           "heading": "CNAP PROGRAM",
           "items": [
             {
+              "clickable": null,
               "label": "RESUMEN DEL PROGRAMA",
               "nested": false,
               "padding": "0px",
@@ -578,6 +632,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": null,
               "label": "PREMIOS FINANCIEROS CNAP",
               "nested": false,
               "padding": "0px",
@@ -587,6 +642,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": null,
               "label": "PROGRAMA DE PERFECCIONAMIENTO DE CNA (CUSP)",
               "nested": false,
               "padding": "0px",
@@ -596,6 +652,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": null,
               "label": "PREGUNTAS FREQUENTES",
               "nested": false,
               "padding": "0px",
@@ -610,6 +667,7 @@
           "heading": "RECURSOS",
           "items": [
             {
+              "clickable": null,
               "label": "RECURSOS PARA EMPRESARIOS",
               "nested": false,
               "padding": "0px",
@@ -619,6 +677,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": null,
               "label": "Proveedores de Capacitación",
               "nested": true,
               "padding": "22.5px",
@@ -628,6 +687,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": null,
               "label": "Paquete de aprobación DSD",
               "nested": true,
               "padding": "22.5px",
@@ -637,6 +697,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": null,
               "label": "Desarrolle su plantilla de CNA",
               "nested": true,
               "padding": "22.5px",
@@ -646,6 +707,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": null,
               "label": "Establecer un programa de aprendizaje",
               "nested": true,
               "padding": "22.5px",
@@ -655,6 +717,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": null,
               "label": "Conviértase en un NATP comunitario",
               "nested": true,
               "padding": "22.5px",
@@ -664,6 +727,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": null,
               "label": "Conviértase en un NATP de las instalaciones",
               "nested": true,
               "padding": "22.5px",
@@ -673,6 +737,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": null,
               "label": "Colaboración con el comité de empleo",
               "nested": true,
               "padding": "22.5px",
@@ -687,6 +752,7 @@
           "heading": "CONTACTO",
           "items": [
             {
+              "clickable": null,
               "label": "SOLICITUD DE PREMIO CNAP",
               "nested": false,
               "padding": "0px",
@@ -709,6 +775,7 @@
           "heading": "CNA PROGRAM",
           "items": [
             {
+              "clickable": true,
               "label": "WRITE YOUR CNA STORY",
               "nested": false,
               "padding": "0px",
@@ -718,6 +785,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": true,
               "label": "WHAT IS LONG-TERM CARE?",
               "nested": false,
               "padding": "0px",
@@ -727,6 +795,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": true,
               "label": "CNA PROGRAM",
               "nested": false,
               "padding": "0px",
@@ -736,6 +805,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": true,
               "label": "HOW TO TRAIN TO BECOME A CNA",
               "nested": false,
               "padding": "0px",
@@ -745,6 +815,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": true,
               "label": "FREQUENTLY ASKED QUESTIONS",
               "nested": false,
               "padding": "0px",
@@ -759,6 +830,7 @@
           "heading": "CAREER PATHS",
           "items": [
             {
+              "clickable": true,
               "label": "CAREER PATHS IN LONG-TERM CARE",
               "nested": false,
               "padding": "0px",
@@ -768,6 +840,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": true,
               "label": "Certified Nursing Assistant",
               "nested": true,
               "padding": "22.5px",
@@ -777,6 +850,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Nursing",
               "nested": true,
               "padding": "22.5px",
@@ -786,6 +860,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Administration",
               "nested": true,
               "padding": "22.5px",
@@ -795,6 +870,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Social Services",
               "nested": true,
               "padding": "22.5px",
@@ -804,6 +880,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Therapy",
               "nested": true,
               "padding": "22.5px",
@@ -813,6 +890,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Care Coordination",
               "nested": true,
               "padding": "22.5px",
@@ -822,6 +900,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Support Services",
               "nested": true,
               "padding": "22.5px",
@@ -831,6 +910,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Activities",
               "nested": true,
               "padding": "22.5px",
@@ -845,6 +925,7 @@
           "heading": "RESOURCES",
           "items": [
             {
+              "clickable": true,
               "label": "CNA RESOURCES",
               "nested": false,
               "padding": "0px",
@@ -854,6 +935,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": true,
               "label": "CNA Training Providers",
               "nested": true,
               "padding": "22.5px",
@@ -863,6 +945,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "CNAs Share Their Experiences",
               "nested": true,
               "padding": "22.5px",
@@ -872,6 +955,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Becoming a CNA",
               "nested": true,
               "padding": "22.5px",
@@ -881,6 +965,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "CNA Practice Exam",
               "nested": true,
               "padding": "22.5px",
@@ -890,6 +975,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "CNA Flyer",
               "nested": true,
               "padding": "22.5px",
@@ -912,6 +998,7 @@
           "heading": "CNAP PROGRAM",
           "items": [
             {
+              "clickable": null,
               "label": "PROGRAM OVERVIEW",
               "nested": false,
               "padding": "0px",
@@ -921,6 +1008,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": null,
               "label": "CNAP FINANCIAL AWARDS",
               "nested": false,
               "padding": "0px",
@@ -930,6 +1018,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": null,
               "label": "CNA UPSKILLING PROGRAM (CUSP)",
               "nested": false,
               "padding": "0px",
@@ -939,6 +1028,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": null,
               "label": "FREQUENTLY ASKED QUESTIONS",
               "nested": false,
               "padding": "0px",
@@ -953,6 +1043,7 @@
           "heading": "RESOURCES",
           "items": [
             {
+              "clickable": null,
               "label": "EMPLOYER RESOURCES",
               "nested": false,
               "padding": "0px",
@@ -962,6 +1053,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": null,
               "label": "CNA Training Providers",
               "nested": true,
               "padding": "22.5px",
@@ -971,6 +1063,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": null,
               "label": "DSD Approval Packet",
               "nested": true,
               "padding": "22.5px",
@@ -980,6 +1073,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": null,
               "label": "Develop your CNA Workforce",
               "nested": true,
               "padding": "22.5px",
@@ -989,6 +1083,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": null,
               "label": "Establish an Earn and Learn Program",
               "nested": true,
               "padding": "22.5px",
@@ -998,6 +1093,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": null,
               "label": "Become a Community NATP",
               "nested": true,
               "padding": "22.5px",
@@ -1007,6 +1103,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": null,
               "label": "Become a Facility NATP",
               "nested": true,
               "padding": "22.5px",
@@ -1016,6 +1113,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": null,
               "label": "Partnering with your Workforce Board",
               "nested": true,
               "padding": "22.5px",
@@ -1030,6 +1128,7 @@
           "heading": "CONTACT",
           "items": [
             {
+              "clickable": null,
               "label": "CNAP AWARD APPLICATION",
               "nested": false,
               "padding": "0px",
@@ -1052,6 +1151,7 @@
           "heading": "PROGRAMA CNA",
           "items": [
             {
+              "clickable": true,
               "label": "ASISTENTE DE ENFERMERÍA CERTIFICADO (CNA)",
               "nested": false,
               "padding": "0px",
@@ -1061,6 +1161,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": true,
               "label": "¿QUÉ ES CUIDAR A LARGO PLAZO?",
               "nested": false,
               "padding": "0px",
@@ -1070,6 +1171,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": true,
               "label": "PROGRAMA CNA",
               "nested": false,
               "padding": "0px",
@@ -1079,6 +1181,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": true,
               "label": "CÓMO CAPACITARTE PARA SER CNA",
               "nested": false,
               "padding": "0px",
@@ -1088,6 +1191,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": true,
               "label": "PREGUNTAS FREQUENTES",
               "nested": false,
               "padding": "0px",
@@ -1102,6 +1206,7 @@
           "heading": "TRAYECTORIAS PROFESIONALES",
           "items": [
             {
+              "clickable": false,
               "label": "CAMINOS PROFESIONALES EN EL CUIDADO A LARGO PLAZO",
               "nested": false,
               "padding": "0px",
@@ -1111,6 +1216,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": true,
               "label": "Asistente de Enfermería Certificado",
               "nested": true,
               "padding": "22.5px",
@@ -1120,6 +1226,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Enfermería",
               "nested": true,
               "padding": "22.5px",
@@ -1129,6 +1236,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Administración",
               "nested": true,
               "padding": "22.5px",
@@ -1138,6 +1246,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Servicios Sociales",
               "nested": true,
               "padding": "22.5px",
@@ -1147,6 +1256,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Terapia",
               "nested": true,
               "padding": "22.5px",
@@ -1156,6 +1266,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Coordinación de Cuidados",
               "nested": true,
               "padding": "22.5px",
@@ -1165,6 +1276,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Servicios de Apoyo",
               "nested": true,
               "padding": "22.5px",
@@ -1174,6 +1286,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Actividades",
               "nested": true,
               "padding": "22.5px",
@@ -1188,6 +1301,7 @@
           "heading": "RECURSOS",
           "items": [
             {
+              "clickable": false,
               "label": "RECURSOS PARA ASISTENTES DE ENFERMERÍA CERTIFICADOS",
               "nested": false,
               "padding": "0px",
@@ -1197,6 +1311,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": true,
               "label": "Proveedores de Capacitación",
               "nested": true,
               "padding": "22.5px",
@@ -1206,6 +1321,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "CNAs cuentan sus experiencias",
               "nested": true,
               "padding": "22.5px",
@@ -1215,6 +1331,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Conviértete en un CNA",
               "nested": true,
               "padding": "22.5px",
@@ -1224,6 +1341,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Examen de Práctica de CNA",
               "nested": true,
               "padding": "22.5px",
@@ -1233,6 +1351,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Folleto de CNA",
               "nested": true,
               "padding": "22.5px",
@@ -1255,6 +1374,7 @@
           "heading": "CNAP PROGRAM",
           "items": [
             {
+              "clickable": null,
               "label": "RESUMEN DEL PROGRAMA",
               "nested": false,
               "padding": "0px",
@@ -1264,6 +1384,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": null,
               "label": "PREMIOS FINANCIEROS CNAP",
               "nested": false,
               "padding": "0px",
@@ -1273,6 +1394,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": null,
               "label": "PROGRAMA DE PERFECCIONAMIENTO DE CNA (CUSP)",
               "nested": false,
               "padding": "0px",
@@ -1282,6 +1404,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": null,
               "label": "PREGUNTAS FREQUENTES",
               "nested": false,
               "padding": "0px",
@@ -1296,6 +1419,7 @@
           "heading": "RECURSOS",
           "items": [
             {
+              "clickable": null,
               "label": "RECURSOS PARA EMPRESARIOS",
               "nested": false,
               "padding": "0px",
@@ -1305,6 +1429,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": null,
               "label": "Proveedores de Capacitación",
               "nested": true,
               "padding": "22.5px",
@@ -1314,6 +1439,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": null,
               "label": "Paquete de aprobación DSD",
               "nested": true,
               "padding": "22.5px",
@@ -1323,6 +1449,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": null,
               "label": "Desarrolle su plantilla de CNA",
               "nested": true,
               "padding": "22.5px",
@@ -1332,6 +1459,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": null,
               "label": "Establecer un programa de aprendizaje",
               "nested": true,
               "padding": "22.5px",
@@ -1341,6 +1469,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": null,
               "label": "Conviértase en un NATP comunitario",
               "nested": true,
               "padding": "22.5px",
@@ -1350,6 +1479,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": null,
               "label": "Conviértase en un NATP de las instalaciones",
               "nested": true,
               "padding": "22.5px",
@@ -1359,6 +1489,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": null,
               "label": "Colaboración con el comité de empleo",
               "nested": true,
               "padding": "22.5px",
@@ -1373,6 +1504,7 @@
           "heading": "CONTACTO",
           "items": [
             {
+              "clickable": null,
               "label": "SOLICITUD DE PREMIO CNAP",
               "nested": false,
               "padding": "0px",
@@ -1395,6 +1527,7 @@
           "heading": "CNA PROGRAM",
           "items": [
             {
+              "clickable": true,
               "label": "WRITE YOUR CNA STORY",
               "nested": false,
               "padding": "0px",
@@ -1404,6 +1537,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": true,
               "label": "WHAT IS LONG-TERM CARE?",
               "nested": false,
               "padding": "0px",
@@ -1413,6 +1547,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": true,
               "label": "CNA PROGRAM",
               "nested": false,
               "padding": "0px",
@@ -1422,6 +1557,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": true,
               "label": "HOW TO TRAIN TO BECOME A CNA",
               "nested": false,
               "padding": "0px",
@@ -1431,6 +1567,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": true,
               "label": "FREQUENTLY ASKED QUESTIONS",
               "nested": false,
               "padding": "0px",
@@ -1445,6 +1582,7 @@
           "heading": "CAREER PATHS",
           "items": [
             {
+              "clickable": true,
               "label": "CAREER PATHS IN LONG-TERM CARE",
               "nested": false,
               "padding": "0px",
@@ -1454,6 +1592,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": true,
               "label": "Certified Nursing Assistant",
               "nested": true,
               "padding": "22.5px",
@@ -1463,6 +1602,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Nursing",
               "nested": true,
               "padding": "22.5px",
@@ -1472,6 +1612,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Administration",
               "nested": true,
               "padding": "22.5px",
@@ -1481,6 +1622,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Social Services",
               "nested": true,
               "padding": "22.5px",
@@ -1490,6 +1632,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Therapy",
               "nested": true,
               "padding": "22.5px",
@@ -1499,6 +1642,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Care Coordination",
               "nested": true,
               "padding": "22.5px",
@@ -1508,6 +1652,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Support Services",
               "nested": true,
               "padding": "22.5px",
@@ -1517,6 +1662,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Activities",
               "nested": true,
               "padding": "22.5px",
@@ -1531,6 +1677,7 @@
           "heading": "RESOURCES",
           "items": [
             {
+              "clickable": true,
               "label": "CNA RESOURCES",
               "nested": false,
               "padding": "0px",
@@ -1540,6 +1687,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": true,
               "label": "CNA Training Providers",
               "nested": true,
               "padding": "22.5px",
@@ -1549,6 +1697,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "CNAs Share Their Experiences",
               "nested": true,
               "padding": "22.5px",
@@ -1558,6 +1707,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Becoming a CNA",
               "nested": true,
               "padding": "22.5px",
@@ -1567,6 +1717,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "CNA Practice Exam",
               "nested": true,
               "padding": "22.5px",
@@ -1576,6 +1727,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "CNA Flyer",
               "nested": true,
               "padding": "22.5px",
@@ -1598,6 +1750,7 @@
           "heading": "CNAP PROGRAM",
           "items": [
             {
+              "clickable": null,
               "label": "PROGRAM OVERVIEW",
               "nested": false,
               "padding": "0px",
@@ -1607,6 +1760,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": null,
               "label": "CNAP FINANCIAL AWARDS",
               "nested": false,
               "padding": "0px",
@@ -1616,6 +1770,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": null,
               "label": "CNA UPSKILLING PROGRAM (CUSP)",
               "nested": false,
               "padding": "0px",
@@ -1625,6 +1780,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": null,
               "label": "FREQUENTLY ASKED QUESTIONS",
               "nested": false,
               "padding": "0px",
@@ -1639,6 +1795,7 @@
           "heading": "RESOURCES",
           "items": [
             {
+              "clickable": null,
               "label": "EMPLOYER RESOURCES",
               "nested": false,
               "padding": "0px",
@@ -1648,6 +1805,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": null,
               "label": "CNA Training Providers",
               "nested": true,
               "padding": "22.5px",
@@ -1657,6 +1815,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": null,
               "label": "DSD Approval Packet",
               "nested": true,
               "padding": "22.5px",
@@ -1666,6 +1825,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": null,
               "label": "Develop your CNA Workforce",
               "nested": true,
               "padding": "22.5px",
@@ -1675,6 +1835,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": null,
               "label": "Establish an Earn and Learn Program",
               "nested": true,
               "padding": "22.5px",
@@ -1684,6 +1845,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": null,
               "label": "Become a Community NATP",
               "nested": true,
               "padding": "22.5px",
@@ -1693,6 +1855,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": null,
               "label": "Become a Facility NATP",
               "nested": true,
               "padding": "22.5px",
@@ -1702,6 +1865,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": null,
               "label": "Partnering with your Workforce Board",
               "nested": true,
               "padding": "22.5px",
@@ -1716,6 +1880,7 @@
           "heading": "CONTACT",
           "items": [
             {
+              "clickable": null,
               "label": "CNAP AWARD APPLICATION",
               "nested": false,
               "padding": "0px",
@@ -1738,6 +1903,7 @@
           "heading": "PROGRAMA CNA",
           "items": [
             {
+              "clickable": true,
               "label": "ASISTENTE DE ENFERMERÍA CERTIFICADO (CNA)",
               "nested": false,
               "padding": "0px",
@@ -1747,6 +1913,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": true,
               "label": "¿QUÉ ES CUIDAR A LARGO PLAZO?",
               "nested": false,
               "padding": "0px",
@@ -1756,6 +1923,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": true,
               "label": "PROGRAMA CNA",
               "nested": false,
               "padding": "0px",
@@ -1765,6 +1933,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": true,
               "label": "CÓMO CAPACITARTE PARA SER CNA",
               "nested": false,
               "padding": "0px",
@@ -1774,6 +1943,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": true,
               "label": "PREGUNTAS FREQUENTES",
               "nested": false,
               "padding": "0px",
@@ -1788,6 +1958,7 @@
           "heading": "TRAYECTORIAS PROFESIONALES",
           "items": [
             {
+              "clickable": false,
               "label": "CAMINOS PROFESIONALES EN EL CUIDADO A LARGO PLAZO",
               "nested": false,
               "padding": "0px",
@@ -1797,6 +1968,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": true,
               "label": "Asistente de Enfermería Certificado",
               "nested": true,
               "padding": "22.5px",
@@ -1806,6 +1978,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Enfermería",
               "nested": true,
               "padding": "22.5px",
@@ -1815,6 +1988,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Administración",
               "nested": true,
               "padding": "22.5px",
@@ -1824,6 +1998,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Servicios Sociales",
               "nested": true,
               "padding": "22.5px",
@@ -1833,6 +2008,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Terapia",
               "nested": true,
               "padding": "22.5px",
@@ -1842,6 +2018,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Coordinación de Cuidados",
               "nested": true,
               "padding": "22.5px",
@@ -1851,6 +2028,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Servicios de Apoyo",
               "nested": true,
               "padding": "22.5px",
@@ -1860,6 +2038,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Actividades",
               "nested": true,
               "padding": "22.5px",
@@ -1874,6 +2053,7 @@
           "heading": "RECURSOS",
           "items": [
             {
+              "clickable": false,
               "label": "RECURSOS PARA ASISTENTES DE ENFERMERÍA CERTIFICADOS",
               "nested": false,
               "padding": "0px",
@@ -1883,6 +2063,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": true,
               "label": "Proveedores de Capacitación",
               "nested": true,
               "padding": "22.5px",
@@ -1892,6 +2073,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "CNAs cuentan sus experiencias",
               "nested": true,
               "padding": "22.5px",
@@ -1901,6 +2083,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Conviértete en un CNA",
               "nested": true,
               "padding": "22.5px",
@@ -1910,6 +2093,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Examen de Práctica de CNA",
               "nested": true,
               "padding": "22.5px",
@@ -1919,6 +2103,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": true,
               "label": "Folleto de CNA",
               "nested": true,
               "padding": "22.5px",
@@ -1941,6 +2126,7 @@
           "heading": "CNAP PROGRAM",
           "items": [
             {
+              "clickable": null,
               "label": "RESUMEN DEL PROGRAMA",
               "nested": false,
               "padding": "0px",
@@ -1950,6 +2136,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": null,
               "label": "PREMIOS FINANCIEROS CNAP",
               "nested": false,
               "padding": "0px",
@@ -1959,6 +2146,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": null,
               "label": "PROGRAMA DE PERFECCIONAMIENTO DE CNA (CUSP)",
               "nested": false,
               "padding": "0px",
@@ -1968,6 +2156,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": null,
               "label": "PREGUNTAS FREQUENTES",
               "nested": false,
               "padding": "0px",
@@ -1982,6 +2171,7 @@
           "heading": "RECURSOS",
           "items": [
             {
+              "clickable": null,
               "label": "RECURSOS PARA EMPRESARIOS",
               "nested": false,
               "padding": "0px",
@@ -1991,6 +2181,7 @@
               "markerContent": "none"
             },
             {
+              "clickable": null,
               "label": "Proveedores de Capacitación",
               "nested": true,
               "padding": "22.5px",
@@ -2000,6 +2191,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": null,
               "label": "Paquete de aprobación DSD",
               "nested": true,
               "padding": "22.5px",
@@ -2009,6 +2201,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": null,
               "label": "Desarrolle su plantilla de CNA",
               "nested": true,
               "padding": "22.5px",
@@ -2018,6 +2211,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": null,
               "label": "Establecer un programa de aprendizaje",
               "nested": true,
               "padding": "22.5px",
@@ -2027,6 +2221,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": null,
               "label": "Conviértase en un NATP comunitario",
               "nested": true,
               "padding": "22.5px",
@@ -2036,6 +2231,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": null,
               "label": "Conviértase en un NATP de las instalaciones",
               "nested": true,
               "padding": "22.5px",
@@ -2045,6 +2241,7 @@
               "markerContent": "\"\""
             },
             {
+              "clickable": null,
               "label": "Colaboración con el comité de empleo",
               "nested": true,
               "padding": "22.5px",
@@ -2059,6 +2256,7 @@
           "heading": "CONTACTO",
           "items": [
             {
+              "clickable": null,
               "label": "SOLICITUD DE PREMIO CNAP",
               "nested": false,
               "padding": "0px",

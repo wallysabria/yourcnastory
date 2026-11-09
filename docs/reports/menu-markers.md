@@ -8,6 +8,19 @@ Live source measurements: 14px/600 link text with 28.9px row line-height and no 
 
 Only global menu presentation/data/schema are changed. Existing hover intent, safe hover bridge, keyboard/touch handlers, mobile markup, links, gating and footer remain unchanged. Both global JSON records deep-compare equal to main after removing only the new presentation flags.
 
-Verification: lint/typecheck/format/build; existing full regression; 12 local menu views (EN/ES × two menus × 1920/1440/1280), marker group counts/indentation and screenshots. Final stats and protected preview evidence are attached at handoff. No new dependency or implementation-mirroring test. Existing body accessibility exceptions remain; header axe is exercised by the existing add-on tests.
+Verification: lint/typecheck/format/build; existing full regression; 12 local menu views (EN/ES × two menus × 1920/1440/1280), marker group counts/indentation and screenshots. All 70 existing tests passed. Protected preview independently passed all 48 page metadata/icon/noindex checks, EN/ES marker counts (13 Career Seekers and 7 inactive Employer resource children), exact 22.5px indentation, hover/keyboard/touch and zero header axe violations. Temporary test access was revoked; normal preview authentication remains enabled. No new dependency or implementation-mirroring test. Existing body accessibility exceptions remain; header axe is exercised by the existing add-on tests.
 
 Screenshots and measurements: menu-markers/ and menu-markers.json. A separate PR/preview is prepared; no merge/publication in this task, and no phase advancement or integration/indexing changes.
+
+
+## Review preview
+
+PR: https://github.com/wallysabria/yourcnastory/pull/11
+
+Verified protected preview: https://yourcnastory-36tk7n7zd-wallysabrias-projects.vercel.app/career-seekers/
+
+Verified runtime SHA: 2fe0b57f3d62d77175c48f7dce49eff2cc5d4b9e. Documentation-only follow-up commits do not change menu rendering.
+
+![Source-style English dropdown](menu-markers-preview/menu-career-en.png)
+
+Spanish and inactive Employer-menu screenshots are in menu-markers-preview/. Decorative dash areas remain part of enabled link hit areas; source labels and destinations are unchanged. Public alias remains unchanged pending owner-approved merge/publication.

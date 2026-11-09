@@ -1,8 +1,9 @@
 {
-  "method": "Existing full regression suite covering source data, hover intent/bridge, keyboard/touch, mobile navigation and header axe.",
+  "method": "Full existing regression after final marker hit-area adjustment; includes source-data/metadata preservation, hover intent/bridge, keyboard/touch, mobile and header axe.",
+  "runtimeCommit": "2fe0b57f3d62d77175c48f7dce49eff2cc5d4b9e",
   "stats": {
-    "startTime": "2026-11-09T05:27:56.852Z",
-    "duration": 24183.565,
+    "startTime": "2026-11-09T05:31:46.570Z",
+    "duration": 23153.920000000002,
     "expected": 70,
     "skipped": 0,
     "unexpected": 0,
