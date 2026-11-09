@@ -141,3 +141,10 @@ Earlier unmerged/unpublished statements describe the review handoff and are supe
 ## Add-on 01 — approved reduced scope
 
 Owner approved favicon/app icons and mega-menu usability only, on addon-01-favicon-menu-og. Social preview images/samples/log entry are deferred; existing OG/Twitter image metadata, titles and descriptions remain unchanged. Original 270px favicon upload is preserved byte-for-byte; no vector source exists. Hover timing is centralized (100ms open/350ms close), with a measured invisible bridge, keyboard/focus and touch handling. Mobile markup/source wording and inactive Employer destinations stay unchanged. No new Spanish UI string, new dependency, tracking activation or phase advancement. Separate review PR/report; no merge/publication without owner instruction.
+
+
+## Publication — owner approved 2026-11-08
+
+Owner explicitly requested merge, lint and publish. PR #9 merged as 539578754289eb4e5605dccb8babcdf5f43dfd34 after passing PR checks. Lint/build passed again before merge. Vercel production deployment https://yourcnastory-4ijyg8r8r-wallysabrias-projects.vercel.app is READY and owns https://yourcnastory.vercel.app/. Public verification passed all 48 page icon/title/description/og:image/noindex checks, six icon/source byte hashes, manifest contents and all eight EN/ES add-on tests (hover, keyboard, touch, header axe and icon dimensions). Evidence: addon-01-production-checks.json.
+
+Earlier unmerged/unpublished statements describe the review handoff and are superseded by this authorization. Social preview images remain deferred/unchanged; Employers remains gated and English-only with content pending; chatbots remain deferred. Indexing remains disabled, integrations remain mocked/off and no DNS/custom-domain cutover occurred.

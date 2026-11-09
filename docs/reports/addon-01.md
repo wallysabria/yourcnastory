@@ -80,3 +80,10 @@ The public alias remains unchanged until separately authorized merge/publication
 
 
 CI test-readiness note: a source font load can fail on the runner while the browser uses its fallback. The header interaction test waits for that font-load attempt to settle rather than treating a network rejection as a menu failure. It still checks the full timing/bridge behavior and real rendered hit areas; the separate four-panel appearance comparison retains its font-ready method. No production font or menu code was changed for this test adjustment.
+
+
+## Publication — owner approved 2026-11-08
+
+Owner explicitly requested merge, lint and publish. PR #9 merged as 539578754289eb4e5605dccb8babcdf5f43dfd34 after passing PR checks. Lint/build passed again before merge. Vercel production deployment https://yourcnastory-4ijyg8r8r-wallysabrias-projects.vercel.app is READY and owns https://yourcnastory.vercel.app/. Public verification passed all 48 page icon/title/description/og:image/noindex checks, six icon/source byte hashes, manifest contents and all eight EN/ES add-on tests (hover, keyboard, touch, header axe and icon dimensions). Evidence: addon-01-production-checks.json.
+
+Earlier unmerged/unpublished statements describe the review handoff and are superseded by this authorization. Social preview images remain deferred/unchanged; Employers remains gated and English-only with content pending; chatbots remain deferred. Indexing remains disabled, integrations remain mocked/off and no DNS/custom-domain cutover occurred.
