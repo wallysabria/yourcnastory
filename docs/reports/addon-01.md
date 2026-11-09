@@ -77,3 +77,6 @@ Next reports the largest ICO frame as 48×48 in its link tag; independent direct
 Employer-menu screenshots with destinations inactive: addon-01-preview/menu-employer-en.png and menu-employer-es.png.
 
 The public alias remains unchanged until separately authorized merge/publication.
+
+
+CI test-readiness note: a source font load can fail on the runner while the browser uses its fallback. The header interaction test waits for that font-load attempt to settle rather than treating a network rejection as a menu failure. It still checks the full timing/bridge behavior and real rendered hit areas; the separate four-panel appearance comparison retains its font-ready method. No production font or menu code was changed for this test adjustment.

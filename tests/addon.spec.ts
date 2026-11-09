@@ -58,7 +58,9 @@ for (const path of ['/', '/es/']) {
     await page
       .locator('.nav-label')
       .nth(1)
-      .evaluate((e) => document.fonts.load('600 16px ' + getComputedStyle(e).fontFamily));
+      .evaluate((e) =>
+        document.fonts.load('600 16px ' + getComputedStyle(e).fontFamily).catch(() => []),
+      );
     await page.clock.install({ time: new Date('2026-11-08T12:00:00Z') });
     await page.clock.pauseAt(new Date('2026-11-08T12:00:01Z'));
     const career = page.locator('.nav-label').nth(1),
