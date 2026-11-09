@@ -29,7 +29,7 @@ Generation: node scripts/generate-app-icons.mjs. Existing Next-provided Sharp is
 - Focused Firefox: six passed/two touch-emulation skips; WebKit: eight passed. Header axe checks return zero violations in both language panels across the three engines.
 - Hover tests cover delayed opening, lingering in the bridge past close delay, diagonal entry, immediate switching, brief exit/re-entry and final delayed close. Keyboard tests cover visible focus, expanded/controls, Enter/Space, explicit ArrowDown, Escape return and Tab exit. Touch tests cover first tap/outside tap/second-tap destination with reduced motion.
 - Four panel-only published-before/local-after comparisons (two menus × EN/ES) have identical dimensions and zero changed pixels. Evidence: addon-01-menu-appearance.json. This is scoped appearance parity, not whole-site certification.
-- Original favicon source SHA-256 preserved; App Router head tags and fetched icon dimensions pass in EN/ES. Final rendered preview tags/screenshots and deployment SHA will be attached after hosted verification.
+- Original favicon source SHA-256 preserved; App Router head tags and fetched icon dimensions pass in EN/ES. Hosted verification passed all 48 page heads, six icon/source hashes, manifest contents, EN/ES live-pointer bridge/switching, keyboard, touch and header axe checks. Four preview screenshots and exact tags are attached below. Temporary test access was revoked; normal preview authentication remains enabled.
 
 Background media is isolated in header tests. WebKit DOM-ready/targeted-font readiness avoids waiting for streaming media. Its native Tab behavior follows platform preferences; ArrowDown provides explicit panel entry. Automated WebKit/touch emulation is not native Safari/iOS or physical-device certification. Existing whole-site D-004 accessibility/performance exceptions remain unchanged.
 
@@ -39,4 +39,41 @@ Deferred at the owner's request. No option A/B/C implementation, six sample rend
 
 ## Preview / handoff
 
-Protected preview and separate PR are being prepared; do not merge or publish automatically. Employers remains English-only, content pending and gated. Chatbots remain deferred. Indexing and live integrations stay disabled/mocked.
+Separate PR: https://github.com/wallysabria/yourcnastory/pull/9
+
+Verified protected preview: https://yourcnastory-dvyvswgol-wallysabrias-projects.vercel.app
+
+Verified runtime SHA: a09e554b999552b2e7ab1bf4511fd5f5dc7e36b4. Do not merge or publish automatically. Employers remains English-only, content pending and gated. Chatbots remain deferred. Indexing and live integrations stay disabled/mocked.
+
+
+## Rendered preview head evidence
+
+### /
+
+```html
+<link rel="manifest" href="/manifest.webmanifest" />
+<link rel="icon" href="/favicon.ico?favicon.3nogywnwp85zd.ico" type="image/x-icon" sizes="48x48" />
+<link rel="icon" href="/icon.png?icon.14gyfe6at81g0.png" type="image/png" sizes="32x32" />
+<link rel="apple-touch-icon" href="/apple-icon.png?apple-icon.10mv1x-4pijq0.png" type="image/png" sizes="180x180" />
+```
+
+### /es/
+
+```html
+<link rel="manifest" href="/manifest.webmanifest" />
+<link rel="icon" href="/favicon.ico?favicon.3nogywnwp85zd.ico" type="image/x-icon" sizes="48x48" />
+<link rel="icon" href="/icon.png?icon.14gyfe6at81g0.png" type="image/png" sizes="32x32" />
+<link rel="apple-touch-icon" href="/apple-icon.png?apple-icon.10mv1x-4pijq0.png" type="image/png" sizes="180x180" />
+```
+
+Next reports the largest ICO frame as 48×48 in its link tag; independent directory/PNG decoding verifies all three embedded sizes (16/32/48). All icon/manifest links are inherited by both languages and all 48 current pages.
+
+## Preview screenshots
+
+![English Career Seekers menu](addon-01-preview/menu-career-en.png)
+
+![Spanish Career Seekers menu](addon-01-preview/menu-career-es.png)
+
+Employer-menu screenshots with destinations inactive: addon-01-preview/menu-employer-en.png and menu-employer-es.png.
+
+The public alias remains unchanged until separately authorized merge/publication.
