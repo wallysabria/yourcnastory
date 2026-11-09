@@ -24,3 +24,8 @@ Verified runtime SHA: 2fe0b57f3d62d77175c48f7dce49eff2cc5d4b9e. Documentation-on
 ![Source-style English dropdown](menu-markers-preview/menu-career-en.png)
 
 Spanish and inactive Employer-menu screenshots are in menu-markers-preview/. Decorative dash areas remain part of enabled link hit areas; source labels and destinations are unchanged. Public alias remains unchanged pending owner-approved merge/publication.
+
+
+## Publication — owner approved 2026-11-09
+
+PR #11 merged as 2619dd4c5730e34c1bdaf02a67ae8b41b58c8234 after all checks passed. Vercel deployment https://yourcnastory-uzqxl9lg6-wallysabrias-projects.vercel.app is READY and now owns https://yourcnastory.vercel.app/. Public verification passed 12 EN/ES menu views at 1920/1440/1280px: correct child marker counts, 22.5px indentation and clickable decorative dash areas. Original navigation labels/destinations still deep-compare unchanged. /career-seekers/ and /es/aspirantes/ return 200 with noindex and no production tracking scripts. Evidence: menu-markers-production.json and menu-markers-production/. Earlier review-stage unpublished notes are superseded. No custom-domain cutover or phase advancement.
