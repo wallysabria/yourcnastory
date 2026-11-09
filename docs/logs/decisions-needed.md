@@ -129,3 +129,10 @@ Owner approved all ten source-evidenced legacy redirects on 2026-11-08. Implemen
 
 
 Preliminary QA handoff: 62 final regression tests pass, including 280 HTTP redirects; 48 content/source matches; 108 extended browser representative checks; 192-state baseline axe retains only D-004. All 54 mobile lab runs completed: 6/18 LCP, 11/18 score≥90, 18/18 CLS and TBT. Protected preview checks passed 48 pages/552 assets and both fixes, with temporary credentials revoked. One source-broken Spanish path, three source-missing anchor targets, source visual differences, performance/security and remaining integration/native-device/counsel gates remain explicit. No merge/publication or full-site launch sign-off.
+
+
+## Preliminary QA publication — owner approved 2026-11-08
+
+Owner explicitly requested merge, lint and publish. PR #8 merged as fda032a17bb40f13edd141786a50c1fbaafe5932. Lint/build and post-merge CI passed. Vercel production deployment https://yourcnastory-ngaa30yjy-wallysabrias-projects.vercel.app is READY and owns https://yourcnastory.vercel.app/. Public verification passed 48 pages, 552 assets, all 280 direct 301 rules with query preservation, five SEO endpoints, EN/ES career jumps and privacy focus, bilingual search, consent mocks, GPC and click-to-load video checks. Evidence: phase-10-preliminary-production-checks.json.
+
+Earlier unmerged/unpublished statements describe the review handoff and are superseded. This is publication of the preliminary QA fixes to the review alias, not final full-site launch acceptance. Indexing stays blocked and tracking remains mocked/off; no custom-domain/DNS cutover. Existing launch blockers remain documented. Employers stays English-only with content pending and links inactive; chatbots remain deferred.

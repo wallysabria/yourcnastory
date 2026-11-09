@@ -59,3 +59,10 @@ The public review alias remains published Phase 7 until owner-approved merge/pub
 
 
 Final protected-preview first-party JavaScript: 205,894 encoded bytes (201.07 KiB) across eight resources; the 200 KiB budget remains unmet. Transfer bytes including headers: 208,294. Phase 5 encoded bytes were 205,760; the 134-byte increase is recorded, not hidden in transfer-size rounding.
+
+
+## Preliminary QA publication — owner approved 2026-11-08
+
+Owner explicitly requested merge, lint and publish. PR #8 merged as fda032a17bb40f13edd141786a50c1fbaafe5932. Lint/build and post-merge CI passed. Vercel production deployment https://yourcnastory-ngaa30yjy-wallysabrias-projects.vercel.app is READY and owns https://yourcnastory.vercel.app/. Public verification passed 48 pages, 552 assets, all 280 direct 301 rules with query preservation, five SEO endpoints, EN/ES career jumps and privacy focus, bilingual search, consent mocks, GPC and click-to-load video checks. Evidence: phase-10-preliminary-production-checks.json.
+
+Earlier unmerged/unpublished statements describe the review handoff and are superseded. This is publication of the preliminary QA fixes to the review alias, not final full-site launch acceptance. Indexing stays blocked and tracking remains mocked/off; no custom-domain/DNS cutover. Existing launch blockers remain documented. Employers stays English-only with content pending and links inactive; chatbots remain deferred.
