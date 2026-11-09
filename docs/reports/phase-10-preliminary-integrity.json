@@ -1,0 +1,2777 @@
+{
+  "checkedAt": "2026-11-09T01:14:39.467Z",
+  "sha": "efb664f944e365456a1ffd01e916d7c368c2ac0c",
+  "origin": "http://127.0.0.1:3101",
+  "pages": 48,
+  "links": 2854,
+  "resourcePaths": 141,
+  "uniqueTargets": 204,
+  "badTargets": [
+    {
+      "path": "/start-your-new-career/",
+      "hops": [
+        {
+          "path": "/start-your-new-career/",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/careers-in-therapy/",
+      "hops": [
+        {
+          "path": "/careers-in-therapy/",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/careers-in-nursing/",
+      "hops": [
+        {
+          "path": "/careers-in-nursing/",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/careers-in-social-services",
+      "hops": [
+        {
+          "path": "/careers-in-social-services",
+          "status": 301
+        },
+        {
+          "path": "/careers-in-social-services/",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/careers-in-activities",
+      "hops": [
+        {
+          "path": "/careers-in-activities",
+          "status": 301
+        },
+        {
+          "path": "/careers-in-activities/",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/es/empieza-tu-nueva-carrera/",
+      "hops": [
+        {
+          "path": "/es/empieza-tu-nueva-carrera/",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/es/certified-nurse-assistant-program/",
+      "hops": [
+        {
+          "path": "/es/certified-nurse-assistant-program/",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/es/carreras-en-terapia/",
+      "hops": [
+        {
+          "path": "/es/carreras-en-terapia/",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/es/carreras-en-enfermeria/",
+      "hops": [
+        {
+          "path": "/es/carreras-en-enfermeria/",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/es/carreras-en-servicios-sociales/",
+      "hops": [
+        {
+          "path": "/es/carreras-en-servicios-sociales/",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/es/carreras-en-actividades/",
+      "hops": [
+        {
+          "path": "/es/carreras-en-actividades/",
+          "status": 404
+        }
+      ]
+    }
+  ],
+  "missingAnchors": [
+    {
+      "from": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "path": "/community-resources/",
+      "hash": "#cnap-flyer",
+      "target": "/community-resources/"
+    },
+    {
+      "from": "/careerpaths/careers-in-nursing/",
+      "path": "/community-resources/",
+      "hash": "#cnap-flyer",
+      "target": "/community-resources/"
+    },
+    {
+      "from": "/careerpaths/careers-in-support-services/",
+      "path": "/community-resources/",
+      "hash": "#cnap-flyer",
+      "target": "/community-resources/"
+    },
+    {
+      "from": "/careerpaths/careers-in-therapy/",
+      "path": "/community-resources/",
+      "hash": "#cnap-flyer",
+      "target": "/community-resources/"
+    },
+    {
+      "from": "/careerpaths/careers-in-care-coordination/",
+      "path": "/community-resources/",
+      "hash": "#cnap-flyer",
+      "target": "/community-resources/"
+    },
+    {
+      "from": "/careerpaths/careers-in-social-services/",
+      "path": "/community-resources/",
+      "hash": "#cnap-flyer",
+      "target": "/community-resources/"
+    },
+    {
+      "from": "/careerpaths/careers-in-activities/",
+      "path": "/community-resources/",
+      "hash": "#cnap-flyer",
+      "target": "/community-resources/"
+    },
+    {
+      "from": "/careerpaths/careers-in-administration/",
+      "path": "/community-resources/",
+      "hash": "#cnap-flyer",
+      "target": "/community-resources/"
+    },
+    {
+      "from": "/",
+      "path": "/community-resources/",
+      "hash": "#cnap-flyer",
+      "target": "/community-resources/"
+    },
+    {
+      "from": "/career-seekers/",
+      "path": "/community-resources/",
+      "hash": "#cnap-flyer",
+      "target": "/community-resources/"
+    },
+    {
+      "from": "/career-paths-in-long-term-care/",
+      "path": "/community-resources/",
+      "hash": "#cnap-flyer",
+      "target": "/community-resources/"
+    },
+    {
+      "from": "/community-resources/",
+      "path": "/community-resources/",
+      "hash": "#cnap-flyer",
+      "target": "/community-resources/"
+    },
+    {
+      "from": "/privacy-policy/",
+      "path": "/community-resources/",
+      "hash": "#cnap-flyer",
+      "target": "/community-resources/"
+    },
+    {
+      "from": "/certified-nurse-assistant-program/",
+      "path": "/community-resources/",
+      "hash": "#cnap-flyer",
+      "target": "/community-resources/"
+    },
+    {
+      "from": "/cna-training-providers/",
+      "path": "/community-resources/",
+      "hash": "#cnap-flyer",
+      "target": "/community-resources/"
+    },
+    {
+      "from": "/what-is-long-term-care/",
+      "path": "/community-resources/",
+      "hash": "#cnap-flyer",
+      "target": "/community-resources/"
+    },
+    {
+      "from": "/career-advancement/",
+      "path": "/community-resources/",
+      "hash": "#cnap-flyer",
+      "target": "/community-resources/"
+    },
+    {
+      "from": "/earn-and-learn-la/",
+      "path": "/community-resources/",
+      "hash": "#cnap-flyer",
+      "target": "/community-resources/"
+    },
+    {
+      "from": "/frequently-asked-questions/",
+      "path": "/community-resources/",
+      "hash": "#cnap-flyer",
+      "target": "/community-resources/"
+    },
+    {
+      "from": "/frequently-asked-questions/",
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "hash": "#cusp",
+      "target": "/careerpaths/careers-in-certified-nurse-assistant/"
+    },
+    {
+      "from": "/frequently-asked-questions/",
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "hash": "#cusp",
+      "target": "/careerpaths/careers-in-certified-nurse-assistant/"
+    },
+    {
+      "from": "/earn-and-learn-cvalley/",
+      "path": "/community-resources/",
+      "hash": "#cnap-flyer",
+      "target": "/community-resources/"
+    },
+    {
+      "from": "/earn-and-learn-bayarea/",
+      "path": "/community-resources/",
+      "hash": "#cnap-flyer",
+      "target": "/community-resources/"
+    },
+    {
+      "from": "/earn-and-learn-norcal/",
+      "path": "/community-resources/",
+      "hash": "#cnap-flyer",
+      "target": "/community-resources/"
+    },
+    {
+      "from": "/earn-and-learn-san-diego/",
+      "path": "/community-resources/",
+      "hash": "#cnap-flyer",
+      "target": "/community-resources/"
+    },
+    {
+      "from": "/earn-and-learn/",
+      "path": "/community-resources/",
+      "hash": "#cnap-flyer",
+      "target": "/community-resources/"
+    },
+    {
+      "from": "/es/",
+      "path": "/es/recursos-comunitarios/",
+      "hash": "#cnap-flyer",
+      "target": "/es/recursos-comunitarios/"
+    },
+    {
+      "from": "/es/que-es-cuidar-a-largo-plazo/",
+      "path": "/es/recursos-comunitarios/",
+      "hash": "#cnap-flyer",
+      "target": "/es/recursos-comunitarios/"
+    },
+    {
+      "from": "/es/recursos-comunitarios/",
+      "path": "/es/recursos-comunitarios/",
+      "hash": "#cnap-flyer",
+      "target": "/es/recursos-comunitarios/"
+    },
+    {
+      "from": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+      "path": "/es/recursos-comunitarios/",
+      "hash": "#cnap-flyer",
+      "target": "/es/recursos-comunitarios/"
+    },
+    {
+      "from": "/es/programa-cna/",
+      "path": "/es/recursos-comunitarios/",
+      "hash": "#cnap-flyer",
+      "target": "/es/recursos-comunitarios/"
+    },
+    {
+      "from": "/es/aspirantes/",
+      "path": "/es/recursos-comunitarios/",
+      "hash": "#cnap-flyer",
+      "target": "/es/recursos-comunitarios/"
+    },
+    {
+      "from": "/es/programa-cna-2/",
+      "path": "/es/recursos-comunitarios/",
+      "hash": "#cnap-flyer",
+      "target": "/es/recursos-comunitarios/"
+    },
+    {
+      "from": "/es/preguntas-frecuentes/",
+      "path": "/es/recursos-comunitarios/",
+      "hash": "#cnap-flyer",
+      "target": "/es/recursos-comunitarios/"
+    },
+    {
+      "from": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "path": "/es/recursos-comunitarios/",
+      "hash": "#cnap-flyer",
+      "target": "/es/recursos-comunitarios/"
+    },
+    {
+      "from": "/es/carreras/carreras-en-enfermeria/",
+      "path": "/es/recursos-comunitarios/",
+      "hash": "#cnap-flyer",
+      "target": "/es/recursos-comunitarios/"
+    },
+    {
+      "from": "/es/carreras/carreras-en-servicios-de-apoyo/",
+      "path": "/es/recursos-comunitarios/",
+      "hash": "#cnap-flyer",
+      "target": "/es/recursos-comunitarios/"
+    },
+    {
+      "from": "/es/carreras/carreras-en-terapia/",
+      "path": "/es/recursos-comunitarios/",
+      "hash": "#cnap-flyer",
+      "target": "/es/recursos-comunitarios/"
+    },
+    {
+      "from": "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+      "path": "/es/recursos-comunitarios/",
+      "hash": "#cnap-flyer",
+      "target": "/es/recursos-comunitarios/"
+    },
+    {
+      "from": "/es/carreras/carreras-en-servicios-sociales/",
+      "path": "/es/recursos-comunitarios/",
+      "hash": "#cnap-flyer",
+      "target": "/es/recursos-comunitarios/"
+    },
+    {
+      "from": "/es/carreras/carreras-en-actividades/",
+      "path": "/es/recursos-comunitarios/",
+      "hash": "#cnap-flyer",
+      "target": "/es/recursos-comunitarios/"
+    },
+    {
+      "from": "/es/carreras/carreras-en-administracion/",
+      "path": "/es/recursos-comunitarios/",
+      "hash": "#cnap-flyer",
+      "target": "/es/recursos-comunitarios/"
+    },
+    {
+      "from": "/es/politica-de-privacidad/",
+      "path": "/es/recursos-comunitarios/",
+      "hash": "#cnap-flyer",
+      "target": "/es/recursos-comunitarios/"
+    },
+    {
+      "from": "/es/avance-profesional/",
+      "path": "/es/recursos-comunitarios/",
+      "hash": "#cnap-flyer",
+      "target": "/es/recursos-comunitarios/"
+    },
+    {
+      "from": "/es/ganar-y-aprender-la/",
+      "path": "/es/recursos-comunitarios/",
+      "hash": "#cnap-flyer",
+      "target": "/es/recursos-comunitarios/"
+    },
+    {
+      "from": "/es/gana-y-aprende-cvalley/",
+      "path": "/es/recursos-comunitarios/",
+      "hash": "#cnap-flyer",
+      "target": "/es/recursos-comunitarios/"
+    },
+    {
+      "from": "/es/gana-y-aprende-bayarea/",
+      "path": "/es/recursos-comunitarios/",
+      "hash": "#cnap-flyer",
+      "target": "/es/recursos-comunitarios/"
+    },
+    {
+      "from": "/es/earn-and-learn-norcal/",
+      "path": "/es/recursos-comunitarios/",
+      "hash": "#cnap-flyer",
+      "target": "/es/recursos-comunitarios/"
+    },
+    {
+      "from": "/es/gana-y-aprende-san-diego/",
+      "path": "/es/recursos-comunitarios/",
+      "hash": "#cnap-flyer",
+      "target": "/es/recursos-comunitarios/"
+    },
+    {
+      "from": "/es/earn-and-learn/",
+      "path": "/es/recursos-comunitarios/",
+      "hash": "#cnap-flyer",
+      "target": "/es/recursos-comunitarios/"
+    }
+  ],
+  "intentionallyDisabled": [],
+  "gatedControls": [
+    {
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "count": 26
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "count": 23
+    },
+    {
+      "path": "/careerpaths/careers-in-support-services/",
+      "count": 23
+    },
+    {
+      "path": "/careerpaths/careers-in-therapy/",
+      "count": 24
+    },
+    {
+      "path": "/careerpaths/careers-in-care-coordination/",
+      "count": 23
+    },
+    {
+      "path": "/careerpaths/careers-in-social-services/",
+      "count": 23
+    },
+    {
+      "path": "/careerpaths/careers-in-activities/",
+      "count": 23
+    },
+    {
+      "path": "/careerpaths/careers-in-administration/",
+      "count": 23
+    },
+    {
+      "path": "/",
+      "count": 32
+    },
+    {
+      "path": "/career-seekers/",
+      "count": 23
+    },
+    {
+      "path": "/career-paths-in-long-term-care/",
+      "count": 23
+    },
+    {
+      "path": "/community-resources/",
+      "count": 23
+    },
+    {
+      "path": "/privacy-policy/",
+      "count": 23
+    },
+    {
+      "path": "/certified-nurse-assistant-program/",
+      "count": 23
+    },
+    {
+      "path": "/cna-training-providers/",
+      "count": 23
+    },
+    {
+      "path": "/what-is-long-term-care/",
+      "count": 23
+    },
+    {
+      "path": "/career-advancement/",
+      "count": 23
+    },
+    {
+      "path": "/earn-and-learn-la/",
+      "count": 23
+    },
+    {
+      "path": "/frequently-asked-questions/",
+      "count": 23
+    },
+    {
+      "path": "/earn-and-learn-cvalley/",
+      "count": 23
+    },
+    {
+      "path": "/earn-and-learn-bayarea/",
+      "count": 23
+    },
+    {
+      "path": "/earn-and-learn-norcal/",
+      "count": 23
+    },
+    {
+      "path": "/earn-and-learn-san-diego/",
+      "count": 23
+    },
+    {
+      "path": "/earn-and-learn/",
+      "count": 23
+    },
+    {
+      "path": "/es/",
+      "count": 32
+    },
+    {
+      "path": "/es/que-es-cuidar-a-largo-plazo/",
+      "count": 23
+    },
+    {
+      "path": "/es/recursos-comunitarios/",
+      "count": 23
+    },
+    {
+      "path": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+      "count": 23
+    },
+    {
+      "path": "/es/programa-cna/",
+      "count": 23
+    },
+    {
+      "path": "/es/aspirantes/",
+      "count": 23
+    },
+    {
+      "path": "/es/programa-cna-2/",
+      "count": 23
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "count": 23
+    },
+    {
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "count": 26
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "count": 23
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-de-apoyo/",
+      "count": 23
+    },
+    {
+      "path": "/es/carreras/carreras-en-terapia/",
+      "count": 24
+    },
+    {
+      "path": "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+      "count": 23
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-sociales/",
+      "count": 23
+    },
+    {
+      "path": "/es/carreras/carreras-en-actividades/",
+      "count": 23
+    },
+    {
+      "path": "/es/carreras/carreras-en-administracion/",
+      "count": 23
+    },
+    {
+      "path": "/es/politica-de-privacidad/",
+      "count": 23
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "count": 23
+    },
+    {
+      "path": "/es/ganar-y-aprender-la/",
+      "count": 23
+    },
+    {
+      "path": "/es/gana-y-aprende-cvalley/",
+      "count": 23
+    },
+    {
+      "path": "/es/gana-y-aprende-bayarea/",
+      "count": 23
+    },
+    {
+      "path": "/es/earn-and-learn-norcal/",
+      "count": 23
+    },
+    {
+      "path": "/es/gana-y-aprende-san-diego/",
+      "count": 23
+    },
+    {
+      "path": "/es/earn-and-learn/",
+      "count": 23
+    }
+  ],
+  "activeEmployerLinks": [],
+  "jobboardVisiblePages": [],
+  "snapshotHashes": [
+    {
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "matches": true
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "matches": true
+    },
+    {
+      "path": "/careerpaths/careers-in-support-services/",
+      "matches": true
+    },
+    {
+      "path": "/careerpaths/careers-in-therapy/",
+      "matches": true
+    },
+    {
+      "path": "/careerpaths/careers-in-care-coordination/",
+      "matches": true
+    },
+    {
+      "path": "/careerpaths/careers-in-social-services/",
+      "matches": true
+    },
+    {
+      "path": "/careerpaths/careers-in-activities/",
+      "matches": true
+    },
+    {
+      "path": "/careerpaths/careers-in-administration/",
+      "matches": true
+    },
+    {
+      "path": "/",
+      "matches": true
+    },
+    {
+      "path": "/career-seekers/",
+      "matches": true
+    },
+    {
+      "path": "/career-paths-in-long-term-care/",
+      "matches": true
+    },
+    {
+      "path": "/community-resources/",
+      "matches": true
+    },
+    {
+      "path": "/privacy-policy/",
+      "matches": true
+    },
+    {
+      "path": "/certified-nurse-assistant-program/",
+      "matches": true
+    },
+    {
+      "path": "/cna-training-providers/",
+      "matches": true
+    },
+    {
+      "path": "/what-is-long-term-care/",
+      "matches": true
+    },
+    {
+      "path": "/career-advancement/",
+      "matches": true
+    },
+    {
+      "path": "/earn-and-learn-la/",
+      "matches": true
+    },
+    {
+      "path": "/frequently-asked-questions/",
+      "matches": true
+    },
+    {
+      "path": "/earn-and-learn-cvalley/",
+      "matches": true
+    },
+    {
+      "path": "/earn-and-learn-bayarea/",
+      "matches": true
+    },
+    {
+      "path": "/earn-and-learn-norcal/",
+      "matches": true
+    },
+    {
+      "path": "/earn-and-learn-san-diego/",
+      "matches": true
+    },
+    {
+      "path": "/earn-and-learn/",
+      "matches": true
+    },
+    {
+      "path": "/es/",
+      "matches": true
+    },
+    {
+      "path": "/es/que-es-cuidar-a-largo-plazo/",
+      "matches": true
+    },
+    {
+      "path": "/es/recursos-comunitarios/",
+      "matches": true
+    },
+    {
+      "path": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+      "matches": true
+    },
+    {
+      "path": "/es/programa-cna/",
+      "matches": true
+    },
+    {
+      "path": "/es/aspirantes/",
+      "matches": true
+    },
+    {
+      "path": "/es/programa-cna-2/",
+      "matches": true
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "matches": true
+    },
+    {
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "matches": true
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "matches": true
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-de-apoyo/",
+      "matches": true
+    },
+    {
+      "path": "/es/carreras/carreras-en-terapia/",
+      "matches": true
+    },
+    {
+      "path": "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+      "matches": true
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-sociales/",
+      "matches": true
+    },
+    {
+      "path": "/es/carreras/carreras-en-actividades/",
+      "matches": true
+    },
+    {
+      "path": "/es/carreras/carreras-en-administracion/",
+      "matches": true
+    },
+    {
+      "path": "/es/politica-de-privacidad/",
+      "matches": true
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "matches": true
+    },
+    {
+      "path": "/es/ganar-y-aprender-la/",
+      "matches": true
+    },
+    {
+      "path": "/es/gana-y-aprende-cvalley/",
+      "matches": true
+    },
+    {
+      "path": "/es/gana-y-aprende-bayarea/",
+      "matches": true
+    },
+    {
+      "path": "/es/earn-and-learn-norcal/",
+      "matches": true
+    },
+    {
+      "path": "/es/gana-y-aprende-san-diego/",
+      "matches": true
+    },
+    {
+      "path": "/es/earn-and-learn/",
+      "matches": true
+    }
+  ],
+  "uploadHashes": [
+    {
+      "path": "/wp-content/uploads/2023/04/cna3.jpg",
+      "actual": "e2420105aa3b7496300fcf91c27ecadeed17993550d9141daa9547f37bcfa84d",
+      "expected": "e2420105aa3b7496300fcf91c27ecadeed17993550d9141daa9547f37bcfa84d"
+    },
+    {
+      "path": "/wp-content/uploads/2023/04/career-in-nursing.jpg",
+      "actual": "5d1385a3635b18f563e2dcde12eda01c61adae850daac2bbd7309ca65d52c38a",
+      "expected": "5d1385a3635b18f563e2dcde12eda01c61adae850daac2bbd7309ca65d52c38a"
+    },
+    {
+      "path": "/wp-content/uploads/2023/04/supportservices.jpg",
+      "actual": "a1686508aa50b1d9fe352bd7053edf2abe230b784985e88966e1f288ac86f652",
+      "expected": "a1686508aa50b1d9fe352bd7053edf2abe230b784985e88966e1f288ac86f652"
+    },
+    {
+      "path": "/wp-content/uploads/2023/04/therapy2.jpg",
+      "actual": "882d6c197b1ee0500b385cae331e787c98bc70db7da36e1b965b39e971394958",
+      "expected": "882d6c197b1ee0500b385cae331e787c98bc70db7da36e1b965b39e971394958"
+    },
+    {
+      "path": "/wp-content/uploads/2023/04/carecoordination.jpg",
+      "actual": "d404e5b76079142bd0e9198ab7d9c245e82090fc42fbded956526906a637f7d4",
+      "expected": "d404e5b76079142bd0e9198ab7d9c245e82090fc42fbded956526906a637f7d4"
+    },
+    {
+      "path": "/wp-content/uploads/2023/04/socialservices.jpg",
+      "actual": "1287d281e8af4bd48475d7452c98eb1df12342c892cdcd82056a6d335d9aed6f",
+      "expected": "1287d281e8af4bd48475d7452c98eb1df12342c892cdcd82056a6d335d9aed6f"
+    },
+    {
+      "path": "/wp-content/uploads/2023/04/activities3.jpg",
+      "actual": "77be6f1c9a2be1c5e97c072e0fc757d1109510d888bbe6e33605386d0723beac",
+      "expected": "77be6f1c9a2be1c5e97c072e0fc757d1109510d888bbe6e33605386d0723beac"
+    },
+    {
+      "path": "/wp-content/uploads/2023/04/Administrator2.jpg",
+      "actual": "64af8fe65031100a19b75817283084c77921ec98e66606ba00f0623bcef34058",
+      "expected": "64af8fe65031100a19b75817283084c77921ec98e66606ba00f0623bcef34058"
+    },
+    {
+      "path": "/wp-content/uploads/2023/09/cnap-cta-banner-background2.jpg",
+      "actual": "d74d8a0030856032fbee63f935c1168114f924e49a053e6de1cbb61ca3ea5d57",
+      "expected": "d74d8a0030856032fbee63f935c1168114f924e49a053e6de1cbb61ca3ea5d57"
+    },
+    {
+      "path": "/wp-content/uploads/2023/09/qchf-header-insert-8.jpg",
+      "actual": "fd65ad5cc92d203cc6726c70dc271e2d9e22733d0a7fd10b02c9670444e463a6",
+      "expected": "fd65ad5cc92d203cc6726c70dc271e2d9e22733d0a7fd10b02c9670444e463a6"
+    },
+    {
+      "path": "/wp-content/uploads/2023/09/qchf-header-insert-1.jpg",
+      "actual": "5325515f17a35c8a49592d24220c7b64cbc1f9ad57473eeae37a01503e2be3b4",
+      "expected": "5325515f17a35c8a49592d24220c7b64cbc1f9ad57473eeae37a01503e2be3b4"
+    },
+    {
+      "path": "/wp-content/uploads/2025/06/nurse-helping-elderly.jpg",
+      "actual": "bf3cbe5a2012fa53876ea1c39eb8b03131eaf3756873b85ca517c7e6669b9204",
+      "expected": "bf3cbe5a2012fa53876ea1c39eb8b03131eaf3756873b85ca517c7e6669b9204"
+    },
+    {
+      "path": "/wp-content/uploads/2023/09/skillednursing-1024x683-1.jpg",
+      "actual": "e044cd47c7065fc56dcf3ab609952503cc42e920ad6d298606d0618699d5eaba",
+      "expected": "e044cd47c7065fc56dcf3ab609952503cc42e920ad6d298606d0618699d5eaba"
+    },
+    {
+      "path": "/wp-content/uploads/2023/09/CNA-Toolkit-English.pdf",
+      "actual": "b5514c47172c3bdd3e69b372d6173e71f78472987dd496eb0800cee9d5b37835",
+      "expected": "b5514c47172c3bdd3e69b372d6173e71f78472987dd496eb0800cee9d5b37835"
+    },
+    {
+      "path": "/wp-content/uploads/2023/09/CNA-Toolkit-Spanish.pdf",
+      "actual": "aedb6b8f1c5cf2c0e2741ef0add5a6531bf2f2228b9f26f7c07dc75cb141fa41",
+      "expected": "aedb6b8f1c5cf2c0e2741ef0add5a6531bf2f2228b9f26f7c07dc75cb141fa41"
+    },
+    {
+      "path": "/wp-content/uploads/2024/01/CUSP-graphic-2024-01-11-163416.png",
+      "actual": "ffa4602482676e29fb27c20e57fd85ae35409c9e2340e9a30aa31fb1e920c844",
+      "expected": "ffa4602482676e29fb27c20e57fd85ae35409c9e2340e9a30aa31fb1e920c844"
+    },
+    {
+      "path": "/wp-content/uploads/2024/01/CNA-Flyer-Photo-1.11.24.png",
+      "actual": "d0597716fad0c85c382128791b0781fb13476b3f48b7d40ae56a6d2c32cbc94e",
+      "expected": "d0597716fad0c85c382128791b0781fb13476b3f48b7d40ae56a6d2c32cbc94e"
+    },
+    {
+      "path": "/wp-content/uploads/elementor/thumbs/cnap-cta-banner-background2-1-qc8m6uah7d5sr98xi8ec2y6eqld7i63pl21llqt740-qkrdewbvadfjiww7d0xnu2a09e5zvq394uc6bqhe0w.webp",
+      "actual": "13f4c014933a2dbaa55fd912f6e2a50d509810762ca8fc9688bca243da88418c",
+      "expected": "13f4c014933a2dbaa55fd912f6e2a50d509810762ca8fc9688bca243da88418c"
+    }
+  ],
+  "security": {
+    "reviewStatus": 200,
+    "headers": {
+      "x-robots-tag": "noindex, nofollow, noarchive",
+      "x-powered-by": null,
+      "content-security-policy": null,
+      "x-content-type-options": null,
+      "referrer-policy": null,
+      "permissions-policy": null,
+      "strict-transport-security": null
+    }
+  },
+  "targets": [
+    {
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "hops": [
+        {
+          "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/",
+      "hops": [
+        {
+          "path": "/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/career-seekers/",
+      "hops": [
+        {
+          "path": "/career-seekers/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/what-is-long-term-care/",
+      "hops": [
+        {
+          "path": "/what-is-long-term-care/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/certified-nurse-assistant-program/",
+      "hops": [
+        {
+          "path": "/certified-nurse-assistant-program/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/cna-training-providers/",
+      "hops": [
+        {
+          "path": "/cna-training-providers/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/frequently-asked-questions/",
+      "hops": [
+        {
+          "path": "/frequently-asked-questions/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/career-paths-in-long-term-care/",
+      "hops": [
+        {
+          "path": "/career-paths-in-long-term-care/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "hops": [
+        {
+          "path": "/careerpaths/careers-in-nursing/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/careerpaths/careers-in-administration/",
+      "hops": [
+        {
+          "path": "/careerpaths/careers-in-administration/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/careerpaths/careers-in-social-services/",
+      "hops": [
+        {
+          "path": "/careerpaths/careers-in-social-services/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/careerpaths/careers-in-therapy/",
+      "hops": [
+        {
+          "path": "/careerpaths/careers-in-therapy/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/careerpaths/careers-in-care-coordination/",
+      "hops": [
+        {
+          "path": "/careerpaths/careers-in-care-coordination/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/careerpaths/careers-in-support-services/",
+      "hops": [
+        {
+          "path": "/careerpaths/careers-in-support-services/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/careerpaths/careers-in-activities/",
+      "hops": [
+        {
+          "path": "/careerpaths/careers-in-activities/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/community-resources/",
+      "hops": [
+        {
+          "path": "/community-resources/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "hops": [
+        {
+          "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/start-your-new-career/",
+      "hops": [
+        {
+          "path": "/start-your-new-career/",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/careers-in-therapy/",
+      "hops": [
+        {
+          "path": "/careers-in-therapy/",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/careers-in-nursing/",
+      "hops": [
+        {
+          "path": "/careers-in-nursing/",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/privacy-policy/",
+      "hops": [
+        {
+          "path": "/privacy-policy/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "hops": [
+        {
+          "path": "/es/carreras/carreras-en-enfermeria/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-de-apoyo/",
+      "hops": [
+        {
+          "path": "/es/carreras/carreras-en-servicios-de-apoyo/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/es/carreras/carreras-en-terapia/",
+      "hops": [
+        {
+          "path": "/es/carreras/carreras-en-terapia/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/careers-in-social-services",
+      "hops": [
+        {
+          "path": "/careers-in-social-services",
+          "status": 301
+        },
+        {
+          "path": "/careers-in-social-services/",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/careers-in-activities",
+      "hops": [
+        {
+          "path": "/careers-in-activities",
+          "status": 301
+        },
+        {
+          "path": "/careers-in-activities/",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+      "hops": [
+        {
+          "path": "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-sociales/",
+      "hops": [
+        {
+          "path": "/es/carreras/carreras-en-servicios-sociales/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/es/carreras/carreras-en-actividades/",
+      "hops": [
+        {
+          "path": "/es/carreras/carreras-en-actividades/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/es/carreras/carreras-en-administracion/",
+      "hops": [
+        {
+          "path": "/es/carreras/carreras-en-administracion/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/es/",
+      "hops": [
+        {
+          "path": "/es/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/careerpaths/careers-in-administration",
+      "hops": [
+        {
+          "path": "/careerpaths/careers-in-administration",
+          "status": 301
+        },
+        {
+          "path": "/careerpaths/careers-in-administration/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/es/aspirantes/",
+      "hops": [
+        {
+          "path": "/es/aspirantes/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+      "hops": [
+        {
+          "path": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/career-seekers",
+      "hops": [
+        {
+          "path": "/career-seekers",
+          "status": 301
+        },
+        {
+          "path": "/career-seekers/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/es/recursos-comunitarios/",
+      "hops": [
+        {
+          "path": "/es/recursos-comunitarios/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/es/politica-de-privacidad/",
+      "hops": [
+        {
+          "path": "/es/politica-de-privacidad/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/earn-and-learn",
+      "hops": [
+        {
+          "path": "/earn-and-learn",
+          "status": 301
+        },
+        {
+          "path": "/earn-and-learn/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/community-resources",
+      "hops": [
+        {
+          "path": "/community-resources",
+          "status": 301
+        },
+        {
+          "path": "/community-resources/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/es/programa-cna/",
+      "hops": [
+        {
+          "path": "/es/programa-cna/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/es/programa-cna-2/",
+      "hops": [
+        {
+          "path": "/es/programa-cna-2/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/es/que-es-cuidar-a-largo-plazo/",
+      "hops": [
+        {
+          "path": "/es/que-es-cuidar-a-largo-plazo/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/career-advancement/",
+      "hops": [
+        {
+          "path": "/career-advancement/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "hops": [
+        {
+          "path": "/es/avance-profesional/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/earn-and-learn-la/",
+      "hops": [
+        {
+          "path": "/earn-and-learn-la/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/es/ganar-y-aprender-la/",
+      "hops": [
+        {
+          "path": "/es/ganar-y-aprender-la/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "hops": [
+        {
+          "path": "/es/preguntas-frecuentes/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/earn-and-learn-cvalley/",
+      "hops": [
+        {
+          "path": "/earn-and-learn-cvalley/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/es/gana-y-aprende-cvalley/",
+      "hops": [
+        {
+          "path": "/es/gana-y-aprende-cvalley/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/earn-and-learn-bayarea/",
+      "hops": [
+        {
+          "path": "/earn-and-learn-bayarea/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/es/gana-y-aprende-bayarea/",
+      "hops": [
+        {
+          "path": "/es/gana-y-aprende-bayarea/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/earn-and-learn-norcal/",
+      "hops": [
+        {
+          "path": "/earn-and-learn-norcal/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/es/earn-and-learn-norcal/",
+      "hops": [
+        {
+          "path": "/es/earn-and-learn-norcal/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/earn-and-learn-san-diego/",
+      "hops": [
+        {
+          "path": "/earn-and-learn-san-diego/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/es/gana-y-aprende-san-diego/",
+      "hops": [
+        {
+          "path": "/es/gana-y-aprende-san-diego/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/earn-and-learn/",
+      "hops": [
+        {
+          "path": "/earn-and-learn/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/es/earn-and-learn/",
+      "hops": [
+        {
+          "path": "/es/earn-and-learn/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/es/empieza-tu-nueva-carrera/",
+      "hops": [
+        {
+          "path": "/es/empieza-tu-nueva-carrera/",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/es/certified-nurse-assistant-program/",
+      "hops": [
+        {
+          "path": "/es/certified-nurse-assistant-program/",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/es/carreras-en-terapia/",
+      "hops": [
+        {
+          "path": "/es/carreras-en-terapia/",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/es/carreras-en-enfermeria/",
+      "hops": [
+        {
+          "path": "/es/carreras-en-enfermeria/",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/es/carreras-en-servicios-sociales/",
+      "hops": [
+        {
+          "path": "/es/carreras-en-servicios-sociales/",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/es/carreras-en-actividades/",
+      "hops": [
+        {
+          "path": "/es/carreras-en-actividades/",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/_next/static/media/manrope_variable-s.p.2v05u49uvh5br.woff2",
+      "hops": [
+        {
+          "path": "/_next/static/media/manrope_variable-s.p.2v05u49uvh5br.woff2",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/cna3-qc6z4hq21d50he1qb0q2olsamq2zj9ux4eeaz21qug-429b290b.jpg",
+      "hops": [
+        {
+          "path": "/images/content/cna3-qc6z4hq21d50he1qb0q2olsamq2zj9ux4eeaz21qug-429b290b.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/_next/static/chunks/26x7z-77q2ty2.css",
+      "hops": [
+        {
+          "path": "/_next/static/chunks/26x7z-77q2ty2.css",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/styles/source/fonts.css",
+      "hops": [
+        {
+          "path": "/styles/source/fonts.css",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/styles/bundles/edfd4d369acf58a2.css",
+      "hops": [
+        {
+          "path": "/styles/bundles/edfd4d369acf58a2.css",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/_next/static/chunks/0y3v_gwlex4io.js",
+      "hops": [
+        {
+          "path": "/_next/static/chunks/0y3v_gwlex4io.js",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/_next/static/chunks/2h6l2otinl2e-.js",
+      "hops": [
+        {
+          "path": "/_next/static/chunks/2h6l2otinl2e-.js",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/_next/static/chunks/3jn_x8ihwq16e.js",
+      "hops": [
+        {
+          "path": "/_next/static/chunks/3jn_x8ihwq16e.js",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/_next/static/chunks/turbopack-2u1d16houkiyo.js",
+      "hops": [
+        {
+          "path": "/_next/static/chunks/turbopack-2u1d16houkiyo.js",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/_next/static/chunks/3qfy96eoyh-ek.js",
+      "hops": [
+        {
+          "path": "/_next/static/chunks/3qfy96eoyh-ek.js",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/_next/static/chunks/2egw_n2uzxx75.js",
+      "hops": [
+        {
+          "path": "/_next/static/chunks/2egw_n2uzxx75.js",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/_next/static/chunks/1bc2vuboadrgz.js",
+      "hops": [
+        {
+          "path": "/_next/static/chunks/1bc2vuboadrgz.js",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/_next/static/chunks/3osz4ub283z8o.js",
+      "hops": [
+        {
+          "path": "/_next/static/chunks/3osz4ub283z8o.js",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/_next/static/chunks/0cz1d0mv5g_q7.js",
+      "hops": [
+        {
+          "path": "/_next/static/chunks/0cz1d0mv5g_q7.js",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/cna-1024x683-1-c8216166.jpg",
+      "hops": [
+        {
+          "path": "/images/content/cna-1024x683-1-c8216166.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/_next/image/?url=%2Fimages%2Fbrand%2Fcnap-logo-white.webp&w=384&q=75",
+      "hops": [
+        {
+          "path": "/_next/image/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/cna3-9db71cf9.jpg",
+      "hops": [
+        {
+          "path": "/images/content/cna3-9db71cf9.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/career-in-nursing-468af6a9.jpg",
+      "hops": [
+        {
+          "path": "/images/content/career-in-nursing-468af6a9.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/administrator2-b40f6efe.jpg",
+      "hops": [
+        {
+          "path": "/images/content/administrator2-b40f6efe.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/socialservices-85eff589.jpg",
+      "hops": [
+        {
+          "path": "/images/content/socialservices-85eff589.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/therapy2-6dd2b9b5.jpg",
+      "hops": [
+        {
+          "path": "/images/content/therapy2-6dd2b9b5.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/carecoordination-61d2515c.jpg",
+      "hops": [
+        {
+          "path": "/images/content/carecoordination-61d2515c.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/activities3-f9e16985.jpg",
+      "hops": [
+        {
+          "path": "/images/content/activities3-f9e16985.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/supportservices-72e13d4f.jpg",
+      "hops": [
+        {
+          "path": "/images/content/supportservices-72e13d4f.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/career-in-nursing-r54kmufc1sn8mjxyyp34qxguovryo3dy8axl7uig4o-e8af1498.jpg",
+      "hops": [
+        {
+          "path": "/images/content/career-in-nursing-r54kmufc1sn8mjxyyp34qxguovryo3dy8axl7uig4o-e8af1498.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/styles/bundles/4e5b77e47328a141.css",
+      "hops": [
+        {
+          "path": "/styles/bundles/4e5b77e47328a141.css",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/lpn-copy-1024x683-1-c630e53f.jpg",
+      "hops": [
+        {
+          "path": "/images/content/lpn-copy-1024x683-1-c630e53f.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/registered-nurse-d492e7b7.jpg",
+      "hops": [
+        {
+          "path": "/images/content/registered-nurse-d492e7b7.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/unit-manager-da88a8e2.jpg",
+      "hops": [
+        {
+          "path": "/images/content/unit-manager-da88a8e2.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/careers-mds-coordinator-3d8a524e.jpg",
+      "hops": [
+        {
+          "path": "/images/content/careers-mds-coordinator-3d8a524e.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/_next/image/?url=%2Fimages%2Fbrand%2Fqchf-logo-white.png&w=384&q=75",
+      "hops": [
+        {
+          "path": "/_next/image/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/careers-assistant-director-nursing-b928e800.jpg",
+      "hops": [
+        {
+          "path": "/images/content/careers-assistant-director-nursing-b928e800.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/careers-director-staff-development-f8f4fbe0.jpg",
+      "hops": [
+        {
+          "path": "/images/content/careers-director-staff-development-f8f4fbe0.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/director-of-nursing-fc731b62.jpg",
+      "hops": [
+        {
+          "path": "/images/content/director-of-nursing-fc731b62.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/careers-quality-assurance-nurse-847d5755.jpg",
+      "hops": [
+        {
+          "path": "/images/content/careers-quality-assurance-nurse-847d5755.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/supportservices-qc6z4hq21d50he1qb0q2olsamq2zj9ux4eeaz21qug-c7becc21.jpg",
+      "hops": [
+        {
+          "path": "/images/content/supportservices-qc6z4hq21d50he1qb0q2olsamq2zj9ux4eeaz21qug-c7becc21.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/styles/bundles/99cad41114af5325.css",
+      "hops": [
+        {
+          "path": "/styles/bundles/99cad41114af5325.css",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/careers-housekeeping3-f6d9c7b2.jpg",
+      "hops": [
+        {
+          "path": "/images/content/careers-housekeeping3-f6d9c7b2.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/careers-housekeeping2-4409604a.jpg",
+      "hops": [
+        {
+          "path": "/images/content/careers-housekeeping2-4409604a.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/careers-maintenance-c794320f.jpg",
+      "hops": [
+        {
+          "path": "/images/content/careers-maintenance-c794320f.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/careers-dietarytech-a2611cc5.jpg",
+      "hops": [
+        {
+          "path": "/images/content/careers-dietarytech-a2611cc5.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/careers-cook-b775eb58.jpg",
+      "hops": [
+        {
+          "path": "/images/content/careers-cook-b775eb58.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/dietary-manager-1024x683-1-d2842d2a.jpg",
+      "hops": [
+        {
+          "path": "/images/content/dietary-manager-1024x683-1-d2842d2a.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/therapy2-qc6z4gs7uj3q5s33gibg440u1c7mbkr6s9qths350o-a3ddd5fe.jpg",
+      "hops": [
+        {
+          "path": "/images/content/therapy2-qc6z4gs7uj3q5s33gibg440u1c7mbkr6s9qths350o-a3ddd5fe.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/styles/bundles/87d58e2751683fdd.css",
+      "hops": [
+        {
+          "path": "/styles/bundles/87d58e2751683fdd.css",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/styles/bundles/c9eeab2527eec945.css",
+      "hops": [
+        {
+          "path": "/styles/bundles/c9eeab2527eec945.css",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/styles/bundles/3efb571f502891ee.css",
+      "hops": [
+        {
+          "path": "/styles/bundles/3efb571f502891ee.css",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/careers-rehab-therpist-f4661a79.jpg",
+      "hops": [
+        {
+          "path": "/images/content/careers-rehab-therpist-f4661a79.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/careers-rehab-therpist2-399da1fb.jpg",
+      "hops": [
+        {
+          "path": "/images/content/careers-rehab-therpist2-399da1fb.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/director-of-rehab-services-3645713d.jpg",
+      "hops": [
+        {
+          "path": "/images/content/director-of-rehab-services-3645713d.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/carecoordination-qc6z4gs7uj3q5s33gibg440u1c7mbkr6s9qths350o-b7d96f2e.jpg",
+      "hops": [
+        {
+          "path": "/images/content/carecoordination-qc6z4gs7uj3q5s33gibg440u1c7mbkr6s9qths350o-b7d96f2e.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/styles/bundles/65dad548ce76e4ea.css",
+      "hops": [
+        {
+          "path": "/styles/bundles/65dad548ce76e4ea.css",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/customer-care-coordinator-58c1d905.jpg",
+      "hops": [
+        {
+          "path": "/images/content/customer-care-coordinator-58c1d905.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/careers-business-office-manager-efd32489.jpg",
+      "hops": [
+        {
+          "path": "/images/content/careers-business-office-manager-efd32489.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/admissions-director-febf9e6b.jpg",
+      "hops": [
+        {
+          "path": "/images/content/admissions-director-febf9e6b.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/socialservices-qc6z4hq21d50he1qb0q2olsamq2zj9ux4eeaz21qug-ed439dbc.jpg",
+      "hops": [
+        {
+          "path": "/images/content/socialservices-qc6z4hq21d50he1qb0q2olsamq2zj9ux4eeaz21qug-ed439dbc.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/styles/bundles/7ea16e71b10b40c0.css",
+      "hops": [
+        {
+          "path": "/styles/bundles/7ea16e71b10b40c0.css",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/careers-social-services-designee-20e92d30.jpg",
+      "hops": [
+        {
+          "path": "/images/content/careers-social-services-designee-20e92d30.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/careers-social-worker-6347c428.jpg",
+      "hops": [
+        {
+          "path": "/images/content/careers-social-worker-6347c428.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/careers-social-services-director-f2e741b9.jpg",
+      "hops": [
+        {
+          "path": "/images/content/careers-social-services-director-f2e741b9.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/activities3-qc6z4gs7uj3q5s33gibg440u1c7mbkr6s9qths350o-d08eaf8f.jpg",
+      "hops": [
+        {
+          "path": "/images/content/activities3-qc6z4gs7uj3q5s33gibg440u1c7mbkr6s9qths350o-d08eaf8f.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/styles/bundles/2238c74818a0c519.css",
+      "hops": [
+        {
+          "path": "/styles/bundles/2238c74818a0c519.css",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/activities-assistant-ab8ca481.jpg",
+      "hops": [
+        {
+          "path": "/images/content/activities-assistant-ab8ca481.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/activities-director-2f354760.jpg",
+      "hops": [
+        {
+          "path": "/images/content/activities-director-2f354760.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/administrator2-qc6z4hq21d50he1qb0q2olsamq2zj9ux4eeaz21qug-ddc7c3cd.jpg",
+      "hops": [
+        {
+          "path": "/images/content/administrator2-qc6z4hq21d50he1qb0q2olsamq2zj9ux4eeaz21qug-ddc7c3cd.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/styles/bundles/a8e30edbd249684a.css",
+      "hops": [
+        {
+          "path": "/styles/bundles/a8e30edbd249684a.css",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/administrator-1024x683-1-594650cb.jpg",
+      "hops": [
+        {
+          "path": "/images/content/administrator-1024x683-1-594650cb.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/cna-header-fallback-32529c1e.webp",
+      "hops": [
+        {
+          "path": "/images/content/cna-header-fallback-32529c1e.webp",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/styles/bundles/37b40219a78093a3.css",
+      "hops": [
+        {
+          "path": "/styles/bundles/37b40219a78093a3.css",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/website-rotater-78dcd196.webm",
+      "hops": [
+        {
+          "path": "/images/content/website-rotater-78dcd196.webm",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/partners-sisu-ezgif-com-png-to-webp-converter-1e165118.webp",
+      "hops": [
+        {
+          "path": "/images/content/partners-sisu-ezgif-com-png-to-webp-converter-1e165118.webp",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/partners-ncna-ezgif-com-png-to-webp-converter-dac5efe1.webp",
+      "hops": [
+        {
+          "path": "/images/content/partners-ncna-ezgif-com-png-to-webp-converter-dac5efe1.webp",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/partners-clovis-2edb14d1.webp",
+      "hops": [
+        {
+          "path": "/images/content/partners-clovis-2edb14d1.webp",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/partners-facets-ezgif-com-png-to-webp-converter-8e55e915.webp",
+      "hops": [
+        {
+          "path": "/images/content/partners-facets-ezgif-com-png-to-webp-converter-8e55e915.webp",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/partners-unitek-ezgif-com-png-to-webp-converter-6a785f2a.webp",
+      "hops": [
+        {
+          "path": "/images/content/partners-unitek-ezgif-com-png-to-webp-converter-6a785f2a.webp",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/partners-cares-7870e198.webp",
+      "hops": [
+        {
+          "path": "/images/content/partners-cares-7870e198.webp",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/synergy-logo-9b3d4407.png",
+      "hops": [
+        {
+          "path": "/images/content/synergy-logo-9b3d4407.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/the-pine-at-placerville-v2-5993589a.png",
+      "hops": [
+        {
+          "path": "/images/content/the-pine-at-placerville-v2-5993589a.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/southern-inyo-d418fe4d.png",
+      "hops": [
+        {
+          "path": "/images/content/southern-inyo-d418fe4d.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/gettyimages-1354166323-scaled-b5966bd1.jpg",
+      "hops": [
+        {
+          "path": "/images/content/gettyimages-1354166323-scaled-b5966bd1.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/img2768086434016407330-scaled-bbf685b2.jpg",
+      "hops": [
+        {
+          "path": "/images/content/img2768086434016407330-scaled-bbf685b2.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/2023-natp-group-pictures-d085d6e0.jpg",
+      "hops": [
+        {
+          "path": "/images/content/2023-natp-group-pictures-d085d6e0.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/compass-h-ed7b68d1.jpg",
+      "hops": [
+        {
+          "path": "/images/content/compass-h-ed7b68d1.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/buena-vista-e1700498537285-71aacb35.jpeg",
+      "hops": [
+        {
+          "path": "/images/content/buena-vista-e1700498537285-71aacb35.jpeg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/gettyimages-871227182-rodh7uj352l31vqdvpns72o2rtmqu97s06tkiq0s9c-498de022.webp",
+      "hops": [
+        {
+          "path": "/images/content/gettyimages-871227182-rodh7uj352l31vqdvpns72o2rtmqu97s06tkiq0s9c-498de022.webp",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/video-thumbnail-rodfrd7gc7xqr2gpl1g1c4r7c5n54zoeb5glq6twlc-27516d51.webp",
+      "hops": [
+        {
+          "path": "/images/content/video-thumbnail-rodfrd7gc7xqr2gpl1g1c4r7c5n54zoeb5glq6twlc-27516d51.webp",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/gettyimages-1081965320-rodhlsgu2w3c1n5tmww7yebhwwhhp4505m0ihoe3wg-4d233a96.webp",
+      "hops": [
+        {
+          "path": "/images/content/gettyimages-1081965320-rodhlsgu2w3c1n5tmww7yebhwwhhp4505m0ihoe3wg-4d233a96.webp",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/istock-2208896971-v2-rodhh9usgep5v3vrfdgxl4746kymd8f5r1qom7kfu0-35b31dea.webp",
+      "hops": [
+        {
+          "path": "/images/content/istock-2208896971-v2-rodhh9usgep5v3vrfdgxl4746kymd8f5r1qom7kfu0-35b31dea.webp",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/sms-phone-country-flag-us-a8ed1053.svg",
+      "hops": [
+        {
+          "path": "/images/content/sms-phone-country-flag-us-a8ed1053.svg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/styles/bundles/cde1858e5aa81982.css",
+      "hops": [
+        {
+          "path": "/styles/bundles/cde1858e5aa81982.css",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/gettyimages-2205543807-ffe338b5.webp",
+      "hops": [
+        {
+          "path": "/images/content/gettyimages-2205543807-ffe338b5.webp",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/cna-flyer1-ec29098d.jpg",
+      "hops": [
+        {
+          "path": "/images/content/cna-flyer1-ec29098d.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/styles/bundles/69a5d9353afaeb18.css",
+      "hops": [
+        {
+          "path": "/styles/bundles/69a5d9353afaeb18.css",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/skillednursing-1024x683-1-0cb46144.jpg",
+      "hops": [
+        {
+          "path": "/images/content/skillednursing-1024x683-1-0cb46144.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/servingseniors-1024x683-1-bf669792.jpg",
+      "hops": [
+        {
+          "path": "/images/content/servingseniors-1024x683-1-bf669792.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/styles/bundles/d93672fe7746b052.css",
+      "hops": [
+        {
+          "path": "/styles/bundles/d93672fe7746b052.css",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/cna-online-training-1024x683-9eec78e1.jpg",
+      "hops": [
+        {
+          "path": "/images/content/cna-online-training-1024x683-9eec78e1.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/community-resources-video-poster-6c4d62ea.jpg",
+      "hops": [
+        {
+          "path": "/images/content/community-resources-video-poster-6c4d62ea.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/toolkit-newamericans-1024x683-0da6de82.jpg",
+      "hops": [
+        {
+          "path": "/images/content/toolkit-newamericans-1024x683-0da6de82.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/community-resources-youtube-careers.jpg",
+      "hops": [
+        {
+          "path": "/images/content/community-resources-youtube-careers.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/community-resources-youtube-introduction.jpg",
+      "hops": [
+        {
+          "path": "/images/content/community-resources-youtube-introduction.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/cna-practice-exam-1024x683-7afd484c.jpg",
+      "hops": [
+        {
+          "path": "/images/content/cna-practice-exam-1024x683-7afd484c.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/styles/bundles/18ad519346feeb29.css",
+      "hops": [
+        {
+          "path": "/styles/bundles/18ad519346feeb29.css",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/styles/bundles/83e92e6785202983.css",
+      "hops": [
+        {
+          "path": "/styles/bundles/83e92e6785202983.css",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/female-nurse-youtube-clip-3-1024x630-cc31e947.avif",
+      "hops": [
+        {
+          "path": "/images/content/female-nurse-youtube-clip-3-1024x630-cc31e947.avif",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/qchf-header-insert-9-e14ffe25.jpg",
+      "hops": [
+        {
+          "path": "/images/content/qchf-header-insert-9-e14ffe25.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/image-2-1-e4e90fe6.png",
+      "hops": [
+        {
+          "path": "/images/content/image-2-1-e4e90fe6.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/cusp-graphic-2024-01-11-163416-29d6e50f.png",
+      "hops": [
+        {
+          "path": "/images/content/cusp-graphic-2024-01-11-163416-29d6e50f.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/cusp-graphic-esp-403cf487.png",
+      "hops": [
+        {
+          "path": "/images/content/cusp-graphic-esp-403cf487.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/styles/bundles/2d87df74c598572f.css",
+      "hops": [
+        {
+          "path": "/styles/bundles/2d87df74c598572f.css",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/nurse-helping-elderly-1024x683-23685793.jpg",
+      "hops": [
+        {
+          "path": "/images/content/nurse-helping-elderly-1024x683-23685793.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/styles/bundles/bdc505091a88658e.css",
+      "hops": [
+        {
+          "path": "/styles/bundles/bdc505091a88658e.css",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/short-stay-rehab-c9cd262b.jpg",
+      "hops": [
+        {
+          "path": "/images/content/short-stay-rehab-c9cd262b.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/memorycare2-1024x683-1-ccfec9fd.jpg",
+      "hops": [
+        {
+          "path": "/images/content/memorycare2-1024x683-1-ccfec9fd.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/qchf-header-insert-2-qc8mcps8css6jj1713jqe4hugyu1xkur5q06vt22a8-0dea4afb.jpg",
+      "hops": [
+        {
+          "path": "/images/content/qchf-header-insert-2-qc8mcps8css6jj1713jqe4hugyu1xkur5q06vt22a8-0dea4afb.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/cna-header-videoseries-qi35c56f9i26j78baomb0cmnrrna7w5o60x7y6dr28-36d2c099.jpg",
+      "hops": [
+        {
+          "path": "/images/content/cna-header-videoseries-qi35c56f9i26j78baomb0cmnrrna7w5o60x7y6dr28-36d2c099.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/cnap-cta-banner-background2-1-qc8m6uah7d5sr98xi8ec2y6eqld7i63pl21llqt740-c4d0444d.jpg",
+      "hops": [
+        {
+          "path": "/images/content/cnap-cta-banner-background2-1-qc8m6uah7d5sr98xi8ec2y6eqld7i63pl21llqt740-c4d0444d.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/qchf-header-insert-3-qc8mj26z9oofarnokfewly0hs9cm89tt5by0cn6694-3be0d4e6.jpg",
+      "hops": [
+        {
+          "path": "/images/content/qchf-header-insert-3-qc8mj26z9oofarnokfewly0hs9cm89tt5by0cn6694-3be0d4e6.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/styles/bundles/7ef21f03f4578b95.css",
+      "hops": [
+        {
+          "path": "/styles/bundles/7ef21f03f4578b95.css",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/qchf-header-insert-8-01ca7309.jpg",
+      "hops": [
+        {
+          "path": "/images/content/qchf-header-insert-8-01ca7309.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/styles/bundles/6f99827af70cabc9.css",
+      "hops": [
+        {
+          "path": "/styles/bundles/6f99827af70cabc9.css",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/styles/bundles/3737d77e40de1767.css",
+      "hops": [
+        {
+          "path": "/styles/bundles/3737d77e40de1767.css",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/styles/bundles/1f3e5172f62a7533.css",
+      "hops": [
+        {
+          "path": "/styles/bundles/1f3e5172f62a7533.css",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/styles/bundles/f9926fed742b1f35.css",
+      "hops": [
+        {
+          "path": "/styles/bundles/f9926fed742b1f35.css",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/styles/bundles/e00d4ecad9c94ceb.css",
+      "hops": [
+        {
+          "path": "/styles/bundles/e00d4ecad9c94ceb.css",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/styles/bundles/85a02f33ce6e1ec8.css",
+      "hops": [
+        {
+          "path": "/styles/bundles/85a02f33ce6e1ec8.css",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/styles/bundles/251e9130909bdbe3.css",
+      "hops": [
+        {
+          "path": "/styles/bundles/251e9130909bdbe3.css",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/gettyimages-1435010406-rodt0ltjhw1piaqxlbekxvyqk41x6bh52jojo488i8-c98cd3dd.webp",
+      "hops": [
+        {
+          "path": "/images/content/gettyimages-1435010406-rodt0ltjhw1piaqxlbekxvyqk41x6bh52jojo488i8-c98cd3dd.webp",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/talentos-ott-30-spa-hd-v2-rodqjwrrdttnwc2zrhnail1j70k7wv6229h48sqekg-3028dd31.webp",
+      "hops": [
+        {
+          "path": "/images/content/talentos-ott-30-spa-hd-v2-rodqjwrrdttnwc2zrhnail1j70k7wv6229h48sqekg-3028dd31.webp",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/gettyimages-2163493163-rodt8lg35hekyyto3y02wpp29c8za6rkei4s7zfbk0-034df809.webp",
+      "hops": [
+        {
+          "path": "/images/content/gettyimages-2163493163-rodt8lg35hekyyto3y02wpp29c8za6rkei4s7zfbk0-034df809.webp",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/istock-1458613774-rods9lwdzcasfhsytqf67mdracwrfj2yt4jbals36w-57aad725.webp",
+      "hops": [
+        {
+          "path": "/images/content/istock-1458613774-rods9lwdzcasfhsytqf67mdracwrfj2yt4jbals36w-57aad725.webp",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/styles/bundles/ae7bf8e3cfa14133.css",
+      "hops": [
+        {
+          "path": "/styles/bundles/ae7bf8e3cfa14133.css",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/styles/bundles/4f84a5b8984dee20.css",
+      "hops": [
+        {
+          "path": "/styles/bundles/4f84a5b8984dee20.css",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/styles/bundles/f19e015e2d8ea73b.css",
+      "hops": [
+        {
+          "path": "/styles/bundles/f19e015e2d8ea73b.css",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/styles/bundles/718430c480ee2173.css",
+      "hops": [
+        {
+          "path": "/styles/bundles/718430c480ee2173.css",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/styles/bundles/1ec5674c6ce506b1.css",
+      "hops": [
+        {
+          "path": "/styles/bundles/1ec5674c6ce506b1.css",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/styles/bundles/98ab73ab1cd02697.css",
+      "hops": [
+        {
+          "path": "/styles/bundles/98ab73ab1cd02697.css",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/styles/bundles/e7d2b6e481cbcb57.css",
+      "hops": [
+        {
+          "path": "/styles/bundles/e7d2b6e481cbcb57.css",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/styles/bundles/6050c2077a2f36af.css",
+      "hops": [
+        {
+          "path": "/styles/bundles/6050c2077a2f36af.css",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/styles/bundles/a7e588f262d63fda.css",
+      "hops": [
+        {
+          "path": "/styles/bundles/a7e588f262d63fda.css",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/styles/bundles/8988e049dc209fe2.css",
+      "hops": [
+        {
+          "path": "/styles/bundles/8988e049dc209fe2.css",
+          "status": 200
+        }
+      ]
+    }
+  ]
+}

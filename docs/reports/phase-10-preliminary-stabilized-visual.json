@@ -1,0 +1,5669 @@
+{
+  "method": "Supplemental current public source vs native. Same reduced-motion browser, fonts ready, full scroll to load images, carousels reset to first slide and stopped; video paused, retired chatbot hidden, external video frames blocked. No source form submissions. Original Phase 1 comparisons remain separately reported.",
+  "checks": [
+    {
+      "path": "/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-home-390.png",
+        "geometry": {
+          "height": 4489.671875,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Skilled Nursing in Senior Care",
+            "top": 178.40625,
+            "height": 83.1875
+          },
+          {
+            "text": "Informing career seekers about career opportunities in long-term senior care",
+            "top": 640,
+            "height": 156.8125
+          },
+          {
+            "text": "Empowering employers in building a sustainable CNA workforce",
+            "top": 2903.46875,
+            "height": 156.8125
+          },
+          {
+            "text": "Invest in Your Facility's Future with CNAP",
+            "top": 4292.265625,
+            "height": 78.40625
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-home-390.png",
+        "geometry": {
+          "height": 4970.640625,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Powering Careers with Purpose",
+            "top": 156,
+            "height": 22.40625
+          },
+          {
+            "text": "Skilled Nursing in Senior Care",
+            "top": 178.40625,
+            "height": 83.1875
+          },
+          {
+            "text": "Long-Term Care Career Seekers",
+            "top": 579.59375,
+            "height": 50.40625
+          },
+          {
+            "text": "Informing career seekers about career opportunities in long-term senior care",
+            "top": 640,
+            "height": 156.8125
+          }
+        ]
+      },
+      "ratio": 0.23449588255949616,
+      "heightDelta": 845
+    },
+    {
+      "path": "/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-home-1440.png",
+        "geometry": {
+          "height": 3423.890625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Skilled Nursing in Senior Care",
+            "top": 380.09375,
+            "height": 143
+          },
+          {
+            "text": "Informing career seekers about career opportunities in long-term senior care",
+            "top": 1036.203125,
+            "height": 84
+          },
+          {
+            "text": "Empowering employers in building a sustainable CNA workforce",
+            "top": 2466.390625,
+            "height": 84
+          },
+          {
+            "text": "Invest in Your Facility's Future with CNAP",
+            "top": 3187.890625,
+            "height": 42
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-home-1440.png",
+        "geometry": {
+          "height": 3700.515625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Powering Careers with Purpose",
+            "top": 354.890625,
+            "height": 25.203125
+          },
+          {
+            "text": "Skilled Nursing in Senior Care",
+            "top": 380.09375,
+            "height": 143
+          },
+          {
+            "text": "Long-Term Care Career Seekers",
+            "top": 981,
+            "height": 25.203125
+          },
+          {
+            "text": "Informing career seekers about career opportunities in long-term senior care",
+            "top": 1036.203125,
+            "height": 84
+          }
+        ]
+      },
+      "ratio": 0.30086040542565945,
+      "heightDelta": 504
+    },
+    {
+      "path": "/career-seekers/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-career-seekers-390.png",
+        "geometry": {
+          "height": 7264.84375,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Find Your Calling with a Career in Healthcare",
+            "top": 190.203125,
+            "height": 124.78125
+          },
+          {
+            "text": "More than a job. A career with purpose.",
+            "top": 1997.96875,
+            "height": 78.40625
+          },
+          {
+            "text": "Career Seekers",
+            "top": 7165.4375,
+            "height": 25.203125
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-career-seekers-390.png",
+        "geometry": {
+          "height": 8264.765625,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Career Seekers",
+            "top": 165,
+            "height": 25.203125
+          },
+          {
+            "text": "Find Your Calling with a Career in Healthcare",
+            "top": 190.203125,
+            "height": 124.78125
+          },
+          {
+            "text": "You care about people, and that strength can become a meaningful career. As a Certified Nurse Assistant (CNA), you'll turn that passion into a stable career in healthcare, caring for seniors in long-term care while finding real opportunities to grow professionally.",
+            "top": 334.984375,
+            "height": 142.78125
+          },
+          {
+            "text": "More than a job. A career with purpose.",
+            "top": 1997.96875,
+            "height": 78.40625
+          }
+        ]
+      },
+      "ratio": 0.30367873078829943,
+      "heightDelta": 1364
+    },
+    {
+      "path": "/career-seekers/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-career-seekers-1440.png",
+        "geometry": {
+          "height": 4263.25,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Find Your Calling with a Career in Healthcare",
+            "top": 205.875,
+            "height": 143
+          },
+          {
+            "text": "More than a job. A career with purpose.",
+            "top": 1296.40625,
+            "height": 42
+          },
+          {
+            "text": "Career Seekers",
+            "top": 4046.046875,
+            "height": 25.203125
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-career-seekers-1440.png",
+        "geometry": {
+          "height": 5183.546875,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Career Seekers",
+            "top": 180.671875,
+            "height": 25.203125
+          },
+          {
+            "text": "Find Your Calling with a Career in Healthcare",
+            "top": 205.875,
+            "height": 143
+          },
+          {
+            "text": "You care about people, and that strength can become a meaningful career. As a Certified Nurse Assistant (CNA), you'll turn that passion into a stable career in healthcare, caring for seniors in long-term care while finding real opportunities to grow professionally.",
+            "top": 378.875,
+            "height": 149.625
+          },
+          {
+            "text": "More than a job. A career with purpose.",
+            "top": 1296.40625,
+            "height": 42
+          }
+        ]
+      },
+      "ratio": 0.29617171546862997,
+      "heightDelta": 1148
+    },
+    {
+      "path": "/what-is-long-term-care/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-what-is-long-term-care-1440.png",
+        "geometry": {
+          "height": 2990.234375,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "What is Long-Term Care?",
+            "top": 190,
+            "height": 71.5
+          },
+          {
+            "text": "Skilled Nursing",
+            "top": 1072.53125,
+            "height": 42
+          },
+          {
+            "text": "Short Stay Rehabilitation",
+            "top": 1506.375,
+            "height": 42
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-what-is-long-term-care-1440.png",
+        "geometry": {
+          "height": 3424.671875,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "What is Long-Term Care?",
+            "top": 190,
+            "height": 71.5
+          },
+          {
+            "text": "Long-Term Care",
+            "top": 481.5,
+            "height": 25.203125
+          },
+          {
+            "text": "Skilled Nursing",
+            "top": 1082.53125,
+            "height": 42
+          },
+          {
+            "text": "Short Stay Rehabilitation",
+            "top": 1516.375,
+            "height": 42
+          }
+        ]
+      },
+      "ratio": 0.3519999600607077,
+      "heightDelta": 663
+    },
+    {
+      "path": "/what-is-long-term-care/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-what-is-long-term-care-390.png",
+        "geometry": {
+          "height": 4873.421875,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "What is Long-Term Care?",
+            "top": 185,
+            "height": 83.1875
+          },
+          {
+            "text": "Skilled Nursing",
+            "top": 1853.359375,
+            "height": 33.59375
+          },
+          {
+            "text": "Short Stay Rehabilitation",
+            "top": 2431.640625,
+            "height": 33.59375
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-what-is-long-term-care-390.png",
+        "geometry": {
+          "height": 5328.765625,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "What is Long-Term Care?",
+            "top": 185,
+            "height": 83.1875
+          },
+          {
+            "text": "Long-Term Care",
+            "top": 478.1875,
+            "height": 25.203125
+          },
+          {
+            "text": "Skilled Nursing",
+            "top": 1853.359375,
+            "height": 33.59375
+          },
+          {
+            "text": "Short Stay Rehabilitation",
+            "top": 2431.640625,
+            "height": 33.59375
+          }
+        ]
+      },
+      "ratio": 0.21294712188543494,
+      "heightDelta": 819
+    },
+    {
+      "path": "/certified-nurse-assistant-program/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-certified-nurse-assistant-program-1440.png",
+        "geometry": {
+          "height": 4656.15625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Certified Nurse Assistant Program",
+            "top": 190,
+            "height": 71.5
+          },
+          {
+            "text": "Your first step in a rewarding career in healthcare",
+            "top": 586.703125,
+            "height": 42
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-certified-nurse-assistant-program-1440.png",
+        "geometry": {
+          "height": 4666.15625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Certified Nurse Assistant Program",
+            "top": 190,
+            "height": 71.5
+          },
+          {
+            "text": "A resource to help you explore information about the CNA profession and how to begin your journey.",
+            "top": 271.5,
+            "height": 70
+          },
+          {
+            "text": "Your first step in a rewarding career in healthcare",
+            "top": 596.703125,
+            "height": 42
+          }
+        ]
+      },
+      "ratio": 0.08489499958954151,
+      "heightDelta": 238
+    },
+    {
+      "path": "/certified-nurse-assistant-program/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-certified-nurse-assistant-program-390.png",
+        "geometry": {
+          "height": 9155.671875,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Certified Nurse Assistant Program",
+            "top": 185,
+            "height": 83.1875
+          },
+          {
+            "text": "Your first step in a rewarding career in healthcare",
+            "top": 663.375,
+            "height": 117.609375
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-certified-nurse-assistant-program-390.png",
+        "geometry": {
+          "height": 9155.671875,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Certified Nurse Assistant Program",
+            "top": 185,
+            "height": 83.1875
+          },
+          {
+            "text": "A resource to help you explore information about the CNA profession and how to begin your journey.",
+            "top": 268.1875,
+            "height": 184.78125
+          },
+          {
+            "text": "Your first step in a rewarding career in healthcare",
+            "top": 663.375,
+            "height": 117.609375
+          }
+        ]
+      },
+      "ratio": 0.03827651939896838,
+      "heightDelta": 364
+    },
+    {
+      "path": "/cna-training-providers/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-cna-training-providers-1440.png",
+        "geometry": {
+          "height": 2303.03125,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "CNA Training Programs",
+            "top": 190,
+            "height": 71.5
+          },
+          {
+            "text": "The Certified Nurse Assistant Program (CNAP) website is a resource designed to provide you with information about the CNA profession and how to get started.",
+            "top": 451.5,
+            "height": 126
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-cna-training-providers-1440.png",
+        "geometry": {
+          "height": 2313.03125,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "CNA Training Programs",
+            "top": 190,
+            "height": 71.5
+          },
+          {
+            "text": "The Certified Nurse Assistant Program (CNAP) website is a resource designed to provide you with information about the CNA profession and how to get started.",
+            "top": 461.5,
+            "height": 126
+          }
+        ]
+      },
+      "ratio": 0.0762418781080983,
+      "heightDelta": 238
+    },
+    {
+      "path": "/cna-training-providers/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-cna-training-providers-390.png",
+        "geometry": {
+          "height": 3075.1875,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "CNA Training Programs",
+            "top": 185,
+            "height": 83.1875
+          },
+          {
+            "text": "The Certified Nurse Assistant Program (CNAP) website is a resource designed to provide you with information about the CNA profession and how to get started.",
+            "top": 428.1875,
+            "height": 352.828125
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-cna-training-providers-390.png",
+        "geometry": {
+          "height": 3075.1875,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "CNA Training Programs",
+            "top": 185,
+            "height": 83.1875
+          },
+          {
+            "text": "The Certified Nurse Assistant Program (CNAP) website is a resource designed to provide you with information about the CNA profession and how to get started.",
+            "top": 428.1875,
+            "height": 352.828125
+          }
+        ]
+      },
+      "ratio": 0.028773881347410758,
+      "heightDelta": 365
+    },
+    {
+      "path": "/frequently-asked-questions/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-frequently-asked-questions-1440.png",
+        "geometry": {
+          "height": 1956.203125,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Career Seekers Frequently Asked Questions (FAQs)",
+            "top": 190,
+            "height": 143
+          },
+          {
+            "text": "Career Seekers",
+            "top": 523,
+            "height": 42
+          },
+          {
+            "text": "Career Seekers",
+            "top": 1739,
+            "height": 25.203125
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-frequently-asked-questions-1440.png",
+        "geometry": {
+          "height": 2461.265625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Career Seekers Frequently Asked Questions (FAQs)",
+            "top": 190,
+            "height": 143
+          },
+          {
+            "text": "Career Seekers",
+            "top": 533,
+            "height": 39
+          },
+          {
+            "text": "Career Seekers",
+            "top": 1781.78125,
+            "height": 25.203125
+          }
+        ]
+      },
+      "ratio": 0.3766388369516291,
+      "heightDelta": 733
+    },
+    {
+      "path": "/frequently-asked-questions/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-frequently-asked-questions-390.png",
+        "geometry": {
+          "height": 2679.15625,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Career Seekers Frequently Asked Questions (FAQs)",
+            "top": 185,
+            "height": 124.78125
+          },
+          {
+            "text": "Career Seekers",
+            "top": 499.78125,
+            "height": 39.203125
+          },
+          {
+            "text": "Career Seekers",
+            "top": 2579.75,
+            "height": 25.203125
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-frequently-asked-questions-390.png",
+        "geometry": {
+          "height": 3250.859375,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Career Seekers Frequently Asked Questions (FAQs)",
+            "top": 185,
+            "height": 124.78125
+          },
+          {
+            "text": "Career Seekers",
+            "top": 499.78125,
+            "height": 39.203125
+          },
+          {
+            "text": "Career Seekers",
+            "top": 2732.25,
+            "height": 25.203125
+          }
+        ]
+      },
+      "ratio": 0.2798401164995525,
+      "heightDelta": 936
+    },
+    {
+      "path": "/career-paths-in-long-term-care/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-career-paths-in-long-term-care-1440.png",
+        "geometry": {
+          "height": 2606.875,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Career Paths in Long-Term Care",
+            "top": 190,
+            "height": 71.5
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-career-paths-in-long-term-care-1440.png",
+        "geometry": {
+          "height": 2783.5625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Career Paths in Long-Term Care",
+            "top": 190,
+            "height": 71.5
+          },
+          {
+            "text": "A Career in Long-Term Care",
+            "top": 481.5,
+            "height": 25.203125
+          }
+        ]
+      },
+      "ratio": 0.253884130804077,
+      "heightDelta": 405
+    },
+    {
+      "path": "/career-paths-in-long-term-care/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-career-paths-in-long-term-care-390.png",
+        "geometry": {
+          "height": 5151.53125,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Career Paths in Long-Term Care",
+            "top": 185,
+            "height": 83.1875
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-career-paths-in-long-term-care-390.png",
+        "geometry": {
+          "height": 6263.734375,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Career Paths in Long-Term Care",
+            "top": 185,
+            "height": 83.1875
+          },
+          {
+            "text": "A Career in Long-Term Care",
+            "top": 478.1875,
+            "height": 50.40625
+          }
+        ]
+      },
+      "ratio": 0.480757177837831,
+      "heightDelta": 1476
+    },
+    {
+      "path": "/community-resources/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-community-resources-1440.png",
+        "geometry": {
+          "height": 3357.03125,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "CNA Resources",
+            "top": 190,
+            "height": 71.5
+          },
+          {
+            "text": "Nurse Assistant Training Providers (CNA Training Providers) in California",
+            "top": 455.953125,
+            "height": 70
+          },
+          {
+            "text": "Ditch the Workforce Join the CareForce (CNAs share their experiences)",
+            "top": 915.015625,
+            "height": 70
+          },
+          {
+            "text": "Becoming a CNA",
+            "top": 1349.6875,
+            "height": 35
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-community-resources-1440.png",
+        "geometry": {
+          "height": 3397.671875,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "CNA Resources",
+            "top": 190,
+            "height": 71.5
+          },
+          {
+            "text": "Nurse Assistant Training Providers (CNA Training Providers) in California",
+            "top": 465.953125,
+            "height": 70
+          },
+          {
+            "text": "Ditch the Workforce Join the CareForce (CNAs share their experiences)",
+            "top": 940.328125,
+            "height": 70
+          },
+          {
+            "text": "Becoming a CNA",
+            "top": 1390.328125,
+            "height": 35
+          }
+        ]
+      },
+      "ratio": 0.19067491424130353,
+      "heightDelta": 269
+    },
+    {
+      "path": "/community-resources/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-community-resources-390.png",
+        "geometry": {
+          "height": 4240.28125,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "CNA Resources",
+            "top": 185,
+            "height": 41.59375
+          },
+          {
+            "text": "Nurse Assistant Training Providers (CNA Training Providers) in California",
+            "top": 646.59375,
+            "height": 92.390625
+          },
+          {
+            "text": "Ditch the Workforce Join the CareForce (CNAs share their experiences)",
+            "top": 1255.1875,
+            "height": 92.390625
+          },
+          {
+            "text": "Becoming a CNA",
+            "top": 2117.125,
+            "height": 30.796875
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-community-resources-390.png",
+        "geometry": {
+          "height": 4409.8125,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "CNA Resources",
+            "top": 185,
+            "height": 41.59375
+          },
+          {
+            "text": "Nurse Assistant Training Providers (CNA Training Providers) in California",
+            "top": 646.59375,
+            "height": 92.390625
+          },
+          {
+            "text": "Ditch the Workforce Join the CareForce (CNAs share their experiences)",
+            "top": 1424.8125,
+            "height": 92.390625
+          },
+          {
+            "text": "Becoming a CNA",
+            "top": 2286.65625,
+            "height": 30.796875
+          }
+        ]
+      },
+      "ratio": 0.2671214553237025,
+      "heightDelta": 534
+    },
+    {
+      "path": "/privacy-policy/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-privacy-policy-1440.png",
+        "geometry": {
+          "height": 3606.75,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Privacy Policy",
+            "top": 190,
+            "height": 71.5
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-privacy-policy-1440.png",
+        "geometry": {
+          "height": 3465.125,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Privacy Policy",
+            "top": 190,
+            "height": 71.5
+          },
+          {
+            "text": "Information Collected by QCHF/CAHF",
+            "top": 737.125,
+            "height": 39
+          }
+        ]
+      },
+      "ratio": 0.11014320753224148,
+      "heightDelta": 86
+    },
+    {
+      "path": "/privacy-policy/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-privacy-policy-390.png",
+        "geometry": {
+          "height": 6578.015625,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Privacy Policy",
+            "top": 185,
+            "height": 41.59375
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-privacy-policy-390.png",
+        "geometry": {
+          "height": 6167.140625,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Privacy Policy",
+            "top": 185,
+            "height": 41.59375
+          },
+          {
+            "text": "Information Collected by QCHF/CAHF",
+            "top": 864.953125,
+            "height": 67.1875
+          }
+        ]
+      },
+      "ratio": 0.18265129609416392,
+      "heightDelta": -46
+    },
+    {
+      "path": "/es/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es-1440.png",
+        "geometry": {
+          "height": 2322.875,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Enfermería para el cuidado de adultos mayores",
+            "top": 380.09375,
+            "height": 143
+          },
+          {
+            "text": "Informando a los buscadores de empleo sobre oportunidades profesionales en el cuidado a largo plazo de adultos mayores.",
+            "top": 1036.203125,
+            "height": 126
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es-1440.png",
+        "geometry": {
+          "height": 2447.875,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "IMPULSANDO CARRERAS QUE TIENEN UN PROPÓSITO",
+            "top": 354.890625,
+            "height": 25.203125
+          },
+          {
+            "text": "Enfermería para el cuidado de adultos mayores",
+            "top": 380.09375,
+            "height": 143
+          },
+          {
+            "text": "¿BUSCAS EMPLEO EN CUIDADOS DE LARGO PLAZO?",
+            "top": 981,
+            "height": 25.203125
+          },
+          {
+            "text": "Informando a los buscadores de empleo sobre oportunidades profesionales en el cuidado a largo plazo de adultos mayores.",
+            "top": 1036.203125,
+            "height": 126
+          }
+        ]
+      },
+      "ratio": 0.23358666218220706,
+      "heightDelta": 351
+    },
+    {
+      "path": "/es/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es-390.png",
+        "geometry": {
+          "height": 2812.046875,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Enfermería para el cuidado de adultos mayores",
+            "top": 200.8125,
+            "height": 124.78125
+          },
+          {
+            "text": "Informando a los buscadores de empleo sobre oportunidades profesionales en el cuidado a largo plazo de adultos mayores.",
+            "top": 704,
+            "height": 235.21875
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es-390.png",
+        "geometry": {
+          "height": 2937.046875,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "IMPULSANDO CARRERAS QUE TIENEN UN PROPÓSITO",
+            "top": 156,
+            "height": 44.8125
+          },
+          {
+            "text": "Enfermería para el cuidado de adultos mayores",
+            "top": 200.8125,
+            "height": 124.78125
+          },
+          {
+            "text": "¿BUSCAS EMPLEO EN CUIDADOS DE LARGO PLAZO?",
+            "top": 643.59375,
+            "height": 50.40625
+          },
+          {
+            "text": "Informando a los buscadores de empleo sobre oportunidades profesionales en el cuidado a largo plazo de adultos mayores.",
+            "top": 704,
+            "height": 235.21875
+          }
+        ]
+      },
+      "ratio": 0.10448691427177154,
+      "heightDelta": 511
+    },
+    {
+      "path": "/es/aspirantes/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--aspirantes-1440.png",
+        "geometry": {
+          "height": 4396.59375,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "¡Encuentra tu Vocación en el Sector de la Salud!",
+            "top": 187.171875,
+            "height": 143
+          },
+          {
+            "text": "Más que un trabajo. Una carrera con propósito.",
+            "top": 1324.40625,
+            "height": 42
+          },
+          {
+            "text": "Aspirantes",
+            "top": 4179.390625,
+            "height": 25.203125
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--aspirantes-1440.png",
+        "geometry": {
+          "height": 5430.8125,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Aspirantes",
+            "top": 161.96875,
+            "height": 25.203125
+          },
+          {
+            "text": "¡Encuentra tu Vocación en el Sector de la Salud!",
+            "top": 187.171875,
+            "height": 143
+          },
+          {
+            "text": "Te importa ayudar a los demás y estás listo para convertir eso en algo más. Como Asistente de Enfermería Certificado (CNA), transformarás esa vocación en una carrera estable en el campo de la salud, cuidando a personas mayores mientras encuentras oportunidades reales de crecimiento profesional.",
+            "top": 360.171875,
+            "height": 187.03125
+          },
+          {
+            "text": "Más que un trabajo. Una carrera con propósito.",
+            "top": 1324.40625,
+            "height": 42
+          }
+        ]
+      },
+      "ratio": 0.3024324584497457,
+      "heightDelta": 1260
+    },
+    {
+      "path": "/es/aspirantes/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--aspirantes-390.png",
+        "geometry": {
+          "height": 7767.984375,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "¡Encuentra tu Vocación en el Sector de la Salud!",
+            "top": 190.203125,
+            "height": 124.78125
+          },
+          {
+            "text": "Más que un trabajo. Una carrera con propósito.",
+            "top": 2181.375,
+            "height": 117.609375
+          },
+          {
+            "text": "Aspirantes",
+            "top": 7668.578125,
+            "height": 25.203125
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--aspirantes-390.png",
+        "geometry": {
+          "height": 8952.734375,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Aspirantes",
+            "top": 165,
+            "height": 25.203125
+          },
+          {
+            "text": "¡Encuentra tu Vocación en el Sector de la Salud!",
+            "top": 190.203125,
+            "height": 124.78125
+          },
+          {
+            "text": "Te importa ayudar a los demás y estás listo para convertir eso en algo más. Como Asistente de Enfermería Certificado (CNA), transformarás esa vocación en una carrera estable en el campo de la salud, cuidando a personas mayores mientras encuentras oportunidades reales de crecimiento profesional.",
+            "top": 334.984375,
+            "height": 166.578125
+          },
+          {
+            "text": "Más que un trabajo. Una carrera con propósito.",
+            "top": 2181.375,
+            "height": 117.609375
+          }
+        ]
+      },
+      "ratio": 0.30667659222497934,
+      "heightDelta": 1571
+    },
+    {
+      "path": "/es/que-es-cuidar-a-largo-plazo/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--que-es-cuidar-a-largo-plazo-1440.png",
+        "geometry": {
+          "height": 3163.671875,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "¿Qué es Cuidar a Largo Plazo?",
+            "top": 190,
+            "height": 71.5
+          },
+          {
+            "text": "Enfermería Especializada",
+            "top": 1101.4375,
+            "height": 42
+          },
+          {
+            "text": "Rehabilitación de Corto Plazo",
+            "top": 1564.1875,
+            "height": 42
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--que-es-cuidar-a-largo-plazo-1440.png",
+        "geometry": {
+          "height": 3655.921875,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "¿Qué es Cuidar a Largo Plazo?",
+            "top": 190,
+            "height": 71.5
+          },
+          {
+            "text": "Cuidados a Largo Plazo",
+            "top": 481.5,
+            "height": 25.203125
+          },
+          {
+            "text": "Enfermería Especializada",
+            "top": 1111.4375,
+            "height": 42
+          },
+          {
+            "text": "Rehabilitación de Corto Plazo",
+            "top": 1574.1875,
+            "height": 42
+          }
+        ]
+      },
+      "ratio": 0.35543043325556306,
+      "heightDelta": 718
+    },
+    {
+      "path": "/es/que-es-cuidar-a-largo-plazo/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--que-es-cuidar-a-largo-plazo-390.png",
+        "geometry": {
+          "height": 5617.65625,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "¿Qué es Cuidar a Largo Plazo?",
+            "top": 185,
+            "height": 83.1875
+          },
+          {
+            "text": "Enfermería Especializada",
+            "top": 2134.109375,
+            "height": 33.59375
+          },
+          {
+            "text": "Rehabilitación de Corto Plazo",
+            "top": 2799.109375,
+            "height": 67.1875
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--que-es-cuidar-a-largo-plazo-390.png",
+        "geometry": {
+          "height": 6158.8125,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "¿Qué es Cuidar a Largo Plazo?",
+            "top": 185,
+            "height": 83.1875
+          },
+          {
+            "text": "Cuidados a Largo Plazo",
+            "top": 478.1875,
+            "height": 25.203125
+          },
+          {
+            "text": "Enfermería Especializada",
+            "top": 2134.109375,
+            "height": 33.59375
+          },
+          {
+            "text": "Rehabilitación de Corto Plazo",
+            "top": 2799.109375,
+            "height": 67.1875
+          }
+        ]
+      },
+      "ratio": 0.21146812059175515,
+      "heightDelta": 928
+    },
+    {
+      "path": "/es/programa-cna/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--programa-cna-1440.png",
+        "geometry": {
+          "height": 4795.015625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Programa de Asistente de Enfermería Certificado",
+            "top": 190,
+            "height": 143
+          },
+          {
+            "text": "Tu primer paso hacia una gratificante carrera en el sector de\nla salud.",
+            "top": 658.203125,
+            "height": 84
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--programa-cna-1440.png",
+        "geometry": {
+          "height": 4805.015625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Programa de Asistente de Enfermería Certificado",
+            "top": 190,
+            "height": 143
+          },
+          {
+            "text": "Un recurso para ayudarte a explorar información sobre la profesión de CNA y cómo comenzar tu camino.",
+            "top": 343,
+            "height": 70
+          },
+          {
+            "text": "Tu primer paso hacia una gratificante carrera en el sector de\nla salud.",
+            "top": 668.203125,
+            "height": 84
+          }
+        ]
+      },
+      "ratio": 0.07834202166855868,
+      "heightDelta": 237
+    },
+    {
+      "path": "/es/programa-cna/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--programa-cna-390.png",
+        "geometry": {
+          "height": 9585.828125,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Programa de Asistente de Enfermería Certificado",
+            "top": 185,
+            "height": 166.375
+          },
+          {
+            "text": "Tu primer paso hacia una gratificante carrera en el sector de\nla salud.",
+            "top": 771.765625,
+            "height": 156.8125
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--programa-cna-390.png",
+        "geometry": {
+          "height": 9585.828125,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Programa de Asistente de Enfermería Certificado",
+            "top": 185,
+            "height": 166.375
+          },
+          {
+            "text": "Un recurso para ayudarte a explorar información sobre la profesión de CNA y cómo comenzar tu camino.",
+            "top": 351.375,
+            "height": 184.78125
+          },
+          {
+            "text": "Tu primer paso hacia una gratificante carrera en el sector de\nla salud.",
+            "top": 771.765625,
+            "height": 156.8125
+          }
+        ]
+      },
+      "ratio": 0.04501972816002251,
+      "heightDelta": 386
+    },
+    {
+      "path": "/es/programa-cna-2/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--programa-cna-2-1440.png",
+        "geometry": {
+          "height": 2424.84375,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Programas de Capacitación de CNA",
+            "top": 190,
+            "height": 71.5
+          },
+          {
+            "text": "El sitio web del Programa de Asistentes de Enfermería Certificados (CNAP) está diseñado para brindarte información sobre una carrera profesional como CNA y por dónde comenzar.",
+            "top": 451.5,
+            "height": 168
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--programa-cna-2-1440.png",
+        "geometry": {
+          "height": 2434.84375,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Programas de Capacitación de CNA",
+            "top": 190,
+            "height": 71.5
+          },
+          {
+            "text": "El sitio web del Programa de Asistentes de Enfermería Certificados (CNAP) está diseñado para brindarte información sobre una carrera profesional como CNA y por dónde comenzar.",
+            "top": 461.5,
+            "height": 168
+          }
+        ]
+      },
+      "ratio": 0.07111669610695484,
+      "heightDelta": 236
+    },
+    {
+      "path": "/es/programa-cna-2/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--programa-cna-2-390.png",
+        "geometry": {
+          "height": 3221.296875,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Programas de Capacitación de CNA",
+            "top": 185,
+            "height": 83.1875
+          },
+          {
+            "text": "El sitio web del Programa de Asistentes de Enfermería Certificados (CNAP) está diseñado para brindarte información sobre una carrera profesional como CNA y por dónde comenzar.",
+            "top": 428.1875,
+            "height": 431.234375
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--programa-cna-2-390.png",
+        "geometry": {
+          "height": 3221.296875,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Programas de Capacitación de CNA",
+            "top": 185,
+            "height": 83.1875
+          },
+          {
+            "text": "El sitio web del Programa de Asistentes de Enfermería Certificados (CNAP) está diseñado para brindarte información sobre una carrera profesional como CNA y por dónde comenzar.",
+            "top": 428.1875,
+            "height": 431.234375
+          }
+        ]
+      },
+      "ratio": 0.03183885933006683,
+      "heightDelta": 386
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--preguntas-frecuentes-1440.png",
+        "geometry": {
+          "height": 1956.203125,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Aspirantes Preguntas Frecuentes (FAQs)",
+            "top": 190,
+            "height": 143
+          },
+          {
+            "text": "Aspirantes",
+            "top": 523,
+            "height": 42
+          },
+          {
+            "text": "Aspirantes",
+            "top": 1739,
+            "height": 25.203125
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--preguntas-frecuentes-1440.png",
+        "geometry": {
+          "height": 2490.171875,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Aspirantes Preguntas Frecuentes (FAQs)",
+            "top": 190,
+            "height": 143
+          },
+          {
+            "text": "Aspirantes",
+            "top": 533,
+            "height": 39
+          },
+          {
+            "text": "Aspirantes",
+            "top": 1810.6875,
+            "height": 25.203125
+          }
+        ]
+      },
+      "ratio": 0.38468584048202614,
+      "heightDelta": 760
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--preguntas-frecuentes-390.png",
+        "geometry": {
+          "height": 2760.953125,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Aspirantes Preguntas Frecuentes (FAQs)",
+            "top": 185,
+            "height": 124.78125
+          },
+          {
+            "text": "Aspirantes",
+            "top": 499.78125,
+            "height": 39.203125
+          },
+          {
+            "text": "Aspirantes",
+            "top": 2661.546875,
+            "height": 25.203125
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--preguntas-frecuentes-390.png",
+        "geometry": {
+          "height": 3383.375,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Aspirantes Preguntas Frecuentes (FAQs)",
+            "top": 185,
+            "height": 124.78125
+          },
+          {
+            "text": "Aspirantes",
+            "top": 499.78125,
+            "height": 39.203125
+          },
+          {
+            "text": "Aspirantes",
+            "top": 2864.765625,
+            "height": 25.203125
+          }
+        ]
+      },
+      "ratio": 0.2940750343514971,
+      "heightDelta": 1009
+    },
+    {
+      "path": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--caminos-profesionales-en-el-cuidado-a-largo-plazo-1440.png",
+        "geometry": {
+          "height": 2766.9375,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Caminos Profesionales en el Cuidado a Largo Plazo",
+            "top": 190,
+            "height": 143
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--caminos-profesionales-en-el-cuidado-a-largo-plazo-1440.png",
+        "geometry": {
+          "height": 3028.421875,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Caminos Profesionales en el Cuidado a Largo Plazo",
+            "top": 190,
+            "height": 143
+          },
+          {
+            "text": "UNA CARRERA EN EL CUIDADO A LARGO PLAZO",
+            "top": 553,
+            "height": 25.203125
+          }
+        ]
+      },
+      "ratio": 0.2704532336781811,
+      "heightDelta": 488
+    },
+    {
+      "path": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--caminos-profesionales-en-el-cuidado-a-largo-plazo-390.png",
+        "geometry": {
+          "height": 5532.359375,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Caminos Profesionales en el Cuidado a Largo Plazo",
+            "top": 185,
+            "height": 166.375
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--caminos-profesionales-en-el-cuidado-a-largo-plazo-390.png",
+        "geometry": {
+          "height": 6736.9375,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Caminos Profesionales en el Cuidado a Largo Plazo",
+            "top": 185,
+            "height": 166.375
+          },
+          {
+            "text": "UNA CARRERA EN EL CUIDADO A LARGO PLAZO",
+            "top": 561.375,
+            "height": 50.40625
+          }
+        ]
+      },
+      "ratio": 0.4792246514970629,
+      "heightDelta": 1591
+    },
+    {
+      "path": "/es/recursos-comunitarios/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--recursos-comunitarios-1440.png",
+        "geometry": {
+          "height": 3453.734375,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Recursos para Asistentes de Enfermería Certificados (CNA)",
+            "top": 190,
+            "height": 143
+          },
+          {
+            "text": "Proveedores de Capacitación para Asistentes de Enfermería CNA en California",
+            "top": 507.046875,
+            "height": 70
+          },
+          {
+            "text": "Ditch the Workforce Join the CareForce (CNAs cuentan sus experiencias)",
+            "top": 986.515625,
+            "height": 70
+          },
+          {
+            "text": "Conviértete en un CNA",
+            "top": 1431.9375,
+            "height": 35
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--recursos-comunitarios-1440.png",
+        "geometry": {
+          "height": 3469.171875,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Recursos para Asistentes de Enfermería Certificados (CNA)",
+            "top": 190,
+            "height": 143
+          },
+          {
+            "text": "Proveedores de Capacitación para Asistentes de Enfermería CNA en California",
+            "top": 517.046875,
+            "height": 70
+          },
+          {
+            "text": "Ditch the Workforce Join the CareForce (CNAs cuentan sus experiencias)",
+            "top": 999.234375,
+            "height": 70
+          },
+          {
+            "text": "Conviértete en un CNA",
+            "top": 1447.375,
+            "height": 35
+          }
+        ]
+      },
+      "ratio": 0.1638898708984733,
+      "heightDelta": 242
+    },
+    {
+      "path": "/es/recursos-comunitarios/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--recursos-comunitarios-390.png",
+        "geometry": {
+          "height": 4692.59375,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Recursos para Asistentes de Enfermería Certificados (CNA)",
+            "top": 185,
+            "height": 166.375
+          },
+          {
+            "text": "Proveedores de Capacitación para Asistentes de Enfermería CNA en California",
+            "top": 771.375,
+            "height": 92.390625
+          },
+          {
+            "text": "Ditch the Workforce Join the CareForce (CNAs cuentan sus experiencias)",
+            "top": 1469.5625,
+            "height": 92.390625
+          },
+          {
+            "text": "Conviértete en un CNA",
+            "top": 2385.609375,
+            "height": 30.796875
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--recursos-comunitarios-390.png",
+        "geometry": {
+          "height": 4862.125,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Recursos para Asistentes de Enfermería Certificados (CNA)",
+            "top": 185,
+            "height": 166.375
+          },
+          {
+            "text": "Proveedores de Capacitación para Asistentes de Enfermería CNA en California",
+            "top": 771.375,
+            "height": 92.390625
+          },
+          {
+            "text": "Ditch the Workforce Join the CareForce (CNAs cuentan sus experiencias)",
+            "top": 1639.1875,
+            "height": 92.390625
+          },
+          {
+            "text": "Conviértete en un CNA",
+            "top": 2555.140625,
+            "height": 30.796875
+          }
+        ]
+      },
+      "ratio": 0.25413902071691685,
+      "heightDelta": 556
+    },
+    {
+      "path": "/es/politica-de-privacidad/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--politica-de-privacidad-1440.png",
+        "geometry": {
+          "height": 3809.09375,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Política de privacidad",
+            "top": 190,
+            "height": 71.5
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--politica-de-privacidad-1440.png",
+        "geometry": {
+          "height": 3638.5625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Política de privacidad",
+            "top": 190,
+            "height": 71.5
+          },
+          {
+            "text": "Información recogida por QCHF/CAHF",
+            "top": 737.125,
+            "height": 39
+          }
+        ]
+      },
+      "ratio": 0.13017905711695377,
+      "heightDelta": 56
+    },
+    {
+      "path": "/es/politica-de-privacidad/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--politica-de-privacidad-390.png",
+        "geometry": {
+          "height": 7098.328125,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Política de privacidad",
+            "top": 185,
+            "height": 41.59375
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--politica-de-privacidad-390.png",
+        "geometry": {
+          "height": 6658.546875,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Política de privacidad",
+            "top": 185,
+            "height": 41.59375
+          },
+          {
+            "text": "Información recogida por QCHF/CAHF",
+            "top": 893.859375,
+            "height": 67.1875
+          }
+        ]
+      },
+      "ratio": 0.18615610973608418,
+      "heightDelta": -53
+    },
+    {
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-careerpaths--careers-in-certified-nurse-assistant-1440.png",
+        "geometry": {
+          "height": 2481.640625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Certified Nurse Assistant",
+            "top": 216.4375,
+            "height": 71.5
+          },
+          {
+            "text": "Certified Nurse Assistant",
+            "top": 669,
+            "height": 42
+          },
+          {
+            "text": "Explore the diverse career opportunities in long-term care",
+            "top": 2282.734375,
+            "height": 20
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-careerpaths--careers-in-certified-nurse-assistant-1440.png",
+        "geometry": {
+          "height": 2651.640625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "A Rewarding Career In",
+            "top": 161.4375,
+            "height": 35
+          },
+          {
+            "text": "Certified Nurse Assistant",
+            "top": 216.4375,
+            "height": 71.5
+          },
+          {
+            "text": "Certified Nurse Assistant",
+            "top": 669,
+            "height": 42
+          },
+          {
+            "text": "Explore the diverse career opportunities in long-term care",
+            "top": 2282.734375,
+            "height": 20
+          }
+        ]
+      },
+      "ratio": 0.15104901960784314,
+      "heightDelta": 398
+    },
+    {
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-careerpaths--careers-in-certified-nurse-assistant-390.png",
+        "geometry": {
+          "height": 4885.296875,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Certified Nurse Assistant",
+            "top": 485.796875,
+            "height": 83.1875
+          },
+          {
+            "text": "Certified Nurse Assistant",
+            "top": 1263.140625,
+            "height": 33.59375
+          },
+          {
+            "text": "Explore the diverse career opportunities in long-term care",
+            "top": 4703.578125,
+            "height": 40
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-careerpaths--careers-in-certified-nurse-assistant-390.png",
+        "geometry": {
+          "height": 5104.296875,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "A Rewarding Career In",
+            "top": 435,
+            "height": 30.796875
+          },
+          {
+            "text": "Certified Nurse Assistant",
+            "top": 485.796875,
+            "height": 83.1875
+          },
+          {
+            "text": "Certified Nurse Assistant",
+            "top": 1263.140625,
+            "height": 33.59375
+          },
+          {
+            "text": "Explore the diverse career opportunities in long-term care",
+            "top": 4703.578125,
+            "height": 40
+          }
+        ]
+      },
+      "ratio": 0.127406461168194,
+      "heightDelta": 583
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-careerpaths--careers-in-nursing-1440.png",
+        "geometry": {
+          "height": 12908.25,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Nursing",
+            "top": 235.140625,
+            "height": 71.5
+          },
+          {
+            "text": "Licensed Vocational Nurse",
+            "top": 669,
+            "height": 42
+          },
+          {
+            "text": "Registered Nurse",
+            "top": 2176.921875,
+            "height": 42
+          },
+          {
+            "text": "Unit Manager",
+            "top": 3685.03125,
+            "height": 42
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-careerpaths--careers-in-nursing-1440.png",
+        "geometry": {
+          "height": 13073.25,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "A Rewarding Career In",
+            "top": 180.140625,
+            "height": 35
+          },
+          {
+            "text": "Nursing",
+            "top": 235.140625,
+            "height": 71.5
+          },
+          {
+            "text": "Licensed Vocational Nurse",
+            "top": 669,
+            "height": 42
+          },
+          {
+            "text": "Registered Nurse",
+            "top": 2176.921875,
+            "height": 42
+          }
+        ]
+      },
+      "ratio": 0.10774314850991647,
+      "heightDelta": 393
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-careerpaths--careers-in-nursing-390.png",
+        "geometry": {
+          "height": 25757.265625,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Nursing",
+            "top": 485.796875,
+            "height": 41.59375
+          },
+          {
+            "text": "Licensed Vocational Nurse",
+            "top": 1160.359375,
+            "height": 33.59375
+          },
+          {
+            "text": "Registered Nurse",
+            "top": 4232.296875,
+            "height": 33.59375
+          },
+          {
+            "text": "Unit Manager",
+            "top": 7652.390625,
+            "height": 33.59375
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-careerpaths--careers-in-nursing-390.png",
+        "geometry": {
+          "height": 25970.984375,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "A Rewarding Career In",
+            "top": 435,
+            "height": 30.796875
+          },
+          {
+            "text": "Nursing",
+            "top": 485.796875,
+            "height": 41.59375
+          },
+          {
+            "text": "Licensed Vocational Nurse",
+            "top": 1160.359375,
+            "height": 33.59375
+          },
+          {
+            "text": "Registered Nurse",
+            "top": 4232.203125,
+            "height": 33.59375
+          }
+        ]
+      },
+      "ratio": 0.09881680935259432,
+      "heightDelta": 577
+    },
+    {
+      "path": "/careerpaths/careers-in-administration/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-careerpaths--careers-in-administration-1440.png",
+        "geometry": {
+          "height": 2716.265625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Administration",
+            "top": 235.140625,
+            "height": 71.5
+          },
+          {
+            "text": "Administrator (HFA/RCA)",
+            "top": 669,
+            "height": 42
+          },
+          {
+            "text": "Explore the diverse career opportunities in long-term care",
+            "top": 2517.359375,
+            "height": 20
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-careerpaths--careers-in-administration-1440.png",
+        "geometry": {
+          "height": 2886.265625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "A Rewarding Career In",
+            "top": 180.140625,
+            "height": 35
+          },
+          {
+            "text": "Administration",
+            "top": 235.140625,
+            "height": 71.5
+          },
+          {
+            "text": "Administrator (HFA/RCA)",
+            "top": 669,
+            "height": 42
+          },
+          {
+            "text": "Explore the diverse career opportunities in long-term care",
+            "top": 2517.359375,
+            "height": 20
+          }
+        ]
+      },
+      "ratio": 0.13885946003791352,
+      "heightDelta": 398
+    },
+    {
+      "path": "/careerpaths/careers-in-administration/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-careerpaths--careers-in-administration-390.png",
+        "geometry": {
+          "height": 4648.890625,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Administration",
+            "top": 485.796875,
+            "height": 41.59375
+          },
+          {
+            "text": "Administrator (HFA/RCA)",
+            "top": 1160.359375,
+            "height": 33.59375
+          },
+          {
+            "text": "Explore the diverse career opportunities in long-term care",
+            "top": 4467.171875,
+            "height": 40
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-careerpaths--careers-in-administration-390.png",
+        "geometry": {
+          "height": 4867.890625,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "A Rewarding Career In",
+            "top": 435,
+            "height": 30.796875
+          },
+          {
+            "text": "Administration",
+            "top": 485.796875,
+            "height": 41.59375
+          },
+          {
+            "text": "Administrator (HFA/RCA)",
+            "top": 1160.359375,
+            "height": 33.59375
+          },
+          {
+            "text": "Explore the diverse career opportunities in long-term care",
+            "top": 4467.171875,
+            "height": 40
+          }
+        ]
+      },
+      "ratio": 0.15104933443749233,
+      "heightDelta": 583
+    },
+    {
+      "path": "/careerpaths/careers-in-social-services/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-careerpaths--careers-in-social-services-1440.png",
+        "geometry": {
+          "height": 4362.953125,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Social Services",
+            "top": 253.84375,
+            "height": 71.5
+          },
+          {
+            "text": "Social Services Designee",
+            "top": 669,
+            "height": 42
+          },
+          {
+            "text": "Social Worker",
+            "top": 1675.40625,
+            "height": 42
+          },
+          {
+            "text": "Social Services Director",
+            "top": 2972.65625,
+            "height": 42
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-careerpaths--careers-in-social-services-1440.png",
+        "geometry": {
+          "height": 4532.953125,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "A Rewarding Career In",
+            "top": 198.84375,
+            "height": 35
+          },
+          {
+            "text": "Social Services",
+            "top": 253.84375,
+            "height": 71.5
+          },
+          {
+            "text": "Social Services Designee",
+            "top": 669,
+            "height": 42
+          },
+          {
+            "text": "Social Worker",
+            "top": 1675.40625,
+            "height": 42
+          }
+        ]
+      },
+      "ratio": 0.14787905804877022,
+      "heightDelta": 398
+    },
+    {
+      "path": "/careerpaths/careers-in-social-services/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-careerpaths--careers-in-social-services-390.png",
+        "geometry": {
+          "height": 8777.578125,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Social Services",
+            "top": 485.796875,
+            "height": 41.59375
+          },
+          {
+            "text": "Social Services Designee",
+            "top": 1129.765625,
+            "height": 33.59375
+          },
+          {
+            "text": "Social Worker",
+            "top": 3525.578125,
+            "height": 33.59375
+          },
+          {
+            "text": "Social Services Director",
+            "top": 6252.84375,
+            "height": 33.59375
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-careerpaths--careers-in-social-services-390.png",
+        "geometry": {
+          "height": 8996.578125,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "A Rewarding Career In",
+            "top": 435,
+            "height": 30.796875
+          },
+          {
+            "text": "Social Services",
+            "top": 485.796875,
+            "height": 41.59375
+          },
+          {
+            "text": "Social Services Designee",
+            "top": 1129.765625,
+            "height": 33.59375
+          },
+          {
+            "text": "Social Worker",
+            "top": 3525.578125,
+            "height": 33.59375
+          }
+        ]
+      },
+      "ratio": 0.1247153696816265,
+      "heightDelta": 583
+    },
+    {
+      "path": "/careerpaths/careers-in-therapy/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-careerpaths--careers-in-therapy-1440.png",
+        "geometry": {
+          "height": 5479.140625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Therapy",
+            "top": 253.84375,
+            "height": 71.5
+          },
+          {
+            "text": "Restorative Aide",
+            "top": 669,
+            "height": 42
+          },
+          {
+            "text": "Rehabilitation Therapist",
+            "top": 2333.28125,
+            "height": 42
+          },
+          {
+            "text": "Director of Rehabilitation Services",
+            "top": 3801.125,
+            "height": 42
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-careerpaths--careers-in-therapy-1440.png",
+        "geometry": {
+          "height": 5649.140625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "A Rewarding Career In",
+            "top": 198.84375,
+            "height": 35
+          },
+          {
+            "text": "Therapy",
+            "top": 253.84375,
+            "height": 71.5
+          },
+          {
+            "text": "Restorative Aide",
+            "top": 669,
+            "height": 42
+          },
+          {
+            "text": "Rehabilitation Therapist",
+            "top": 2333.28125,
+            "height": 42
+          }
+        ]
+      },
+      "ratio": 0.11451450766852518,
+      "heightDelta": 398
+    },
+    {
+      "path": "/careerpaths/careers-in-therapy/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-careerpaths--careers-in-therapy-390.png",
+        "geometry": {
+          "height": 10115.15625,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Therapy",
+            "top": 485.796875,
+            "height": 41.59375
+          },
+          {
+            "text": "Restorative Aide",
+            "top": 1099.171875,
+            "height": 33.59375
+          },
+          {
+            "text": "Rehabilitation Therapist",
+            "top": 4622.40625,
+            "height": 33.59375
+          },
+          {
+            "text": "Director of Rehabilitation Services",
+            "top": 7276.71875,
+            "height": 67.1875
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-careerpaths--careers-in-therapy-390.png",
+        "geometry": {
+          "height": 10334.15625,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "A Rewarding Career In",
+            "top": 435,
+            "height": 30.796875
+          },
+          {
+            "text": "Therapy",
+            "top": 485.796875,
+            "height": 41.59375
+          },
+          {
+            "text": "Restorative Aide",
+            "top": 1099.171875,
+            "height": 33.59375
+          },
+          {
+            "text": "Rehabilitation Therapist",
+            "top": 4622.40625,
+            "height": 33.59375
+          }
+        ]
+      },
+      "ratio": 0.11100528430845173,
+      "heightDelta": 584
+    },
+    {
+      "path": "/careerpaths/careers-in-care-coordination/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-careerpaths--careers-in-care-coordination-1440.png",
+        "geometry": {
+          "height": 4070.65625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Care Coordination",
+            "top": 253.84375,
+            "height": 71.5
+          },
+          {
+            "text": "Customer Care Coordinator",
+            "top": 669,
+            "height": 42
+          },
+          {
+            "text": "Business Office Manager",
+            "top": 1779.21875,
+            "height": 42
+          },
+          {
+            "text": "Admissions Director",
+            "top": 2940.796875,
+            "height": 42
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-careerpaths--careers-in-care-coordination-1440.png",
+        "geometry": {
+          "height": 4240.65625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "A Rewarding Career In",
+            "top": 198.84375,
+            "height": 35
+          },
+          {
+            "text": "Care Coordination",
+            "top": 253.84375,
+            "height": 71.5
+          },
+          {
+            "text": "Customer Care Coordinator",
+            "top": 669,
+            "height": 42
+          },
+          {
+            "text": "Business Office Manager",
+            "top": 1779.21875,
+            "height": 42
+          }
+        ]
+      },
+      "ratio": 0.1519740651655865,
+      "heightDelta": 398
+    },
+    {
+      "path": "/careerpaths/careers-in-care-coordination/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-careerpaths--careers-in-care-coordination-390.png",
+        "geometry": {
+          "height": 7410.640625,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Care Coordination",
+            "top": 485.796875,
+            "height": 41.59375
+          },
+          {
+            "text": "Customer Care Coordinator",
+            "top": 1129.859375,
+            "height": 33.59375
+          },
+          {
+            "text": "Business Office Manager",
+            "top": 3479.671875,
+            "height": 33.59375
+          },
+          {
+            "text": "Admissions Director",
+            "top": 5471.890625,
+            "height": 33.59375
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-careerpaths--careers-in-care-coordination-390.png",
+        "geometry": {
+          "height": 7629.546875,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "A Rewarding Career In",
+            "top": 435,
+            "height": 30.796875
+          },
+          {
+            "text": "Care Coordination",
+            "top": 485.796875,
+            "height": 41.59375
+          },
+          {
+            "text": "Customer Care Coordinator",
+            "top": 1129.765625,
+            "height": 33.59375
+          },
+          {
+            "text": "Business Office Manager",
+            "top": 3479.578125,
+            "height": 33.59375
+          }
+        ]
+      },
+      "ratio": 0.13919115452448785,
+      "heightDelta": 583
+    },
+    {
+      "path": "/careerpaths/careers-in-activities/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-careerpaths--careers-in-activities-1440.png",
+        "geometry": {
+          "height": 2640.28125,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Activities",
+            "top": 253.84375,
+            "height": 71.5
+          },
+          {
+            "text": "Activities Assistant",
+            "top": 669,
+            "height": 42
+          },
+          {
+            "text": "Activities Director",
+            "top": 1542.234375,
+            "height": 42
+          },
+          {
+            "text": "Explore the diverse career opportunities in long-term care",
+            "top": 2441.375,
+            "height": 20
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-careerpaths--careers-in-activities-1440.png",
+        "geometry": {
+          "height": 2810.28125,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "A Rewarding Career In",
+            "top": 198.84375,
+            "height": 35
+          },
+          {
+            "text": "Activities",
+            "top": 253.84375,
+            "height": 71.5
+          },
+          {
+            "text": "Activities Assistant",
+            "top": 669,
+            "height": 42
+          },
+          {
+            "text": "Activities Director",
+            "top": 1542.234375,
+            "height": 42
+          }
+        ]
+      },
+      "ratio": 0.17376588751483354,
+      "heightDelta": 398
+    },
+    {
+      "path": "/careerpaths/careers-in-activities/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-careerpaths--careers-in-activities-390.png",
+        "geometry": {
+          "height": 4863.828125,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Activities",
+            "top": 485.796875,
+            "height": 41.59375
+          },
+          {
+            "text": "Activities Assistant",
+            "top": 1129.859375,
+            "height": 33.59375
+          },
+          {
+            "text": "Activities Director",
+            "top": 2901.453125,
+            "height": 33.59375
+          },
+          {
+            "text": "Explore the diverse career opportunities in long-term care",
+            "top": 4682.109375,
+            "height": 40
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-careerpaths--careers-in-activities-390.png",
+        "geometry": {
+          "height": 5082.640625,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "A Rewarding Career In",
+            "top": 435,
+            "height": 30.796875
+          },
+          {
+            "text": "Activities",
+            "top": 485.796875,
+            "height": 41.59375
+          },
+          {
+            "text": "Activities Assistant",
+            "top": 1129.765625,
+            "height": 33.59375
+          },
+          {
+            "text": "Activities Director",
+            "top": 2901.265625,
+            "height": 33.59375
+          }
+        ]
+      },
+      "ratio": 0.15952261558519706,
+      "heightDelta": 583
+    },
+    {
+      "path": "/careerpaths/careers-in-support-services/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-careerpaths--careers-in-support-services-1440.png",
+        "geometry": {
+          "height": 7082.0625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Support Services",
+            "top": 235.140625,
+            "height": 71.5
+          },
+          {
+            "text": "Housekeeping",
+            "top": 669,
+            "height": 42
+          },
+          {
+            "text": "Laundry",
+            "top": 1614.859375,
+            "height": 42
+          },
+          {
+            "text": "Maintenance",
+            "top": 2560.71875,
+            "height": 42
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-careerpaths--careers-in-support-services-1440.png",
+        "geometry": {
+          "height": 7252.0625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "A Rewarding Career In",
+            "top": 180.140625,
+            "height": 35
+          },
+          {
+            "text": "Support Services",
+            "top": 235.140625,
+            "height": 71.5
+          },
+          {
+            "text": "Housekeeping",
+            "top": 669,
+            "height": 42
+          },
+          {
+            "text": "Laundry",
+            "top": 1614.859375,
+            "height": 42
+          }
+        ]
+      },
+      "ratio": 0.14240607638888889,
+      "heightDelta": 398
+    },
+    {
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--carreras--carreras-en-asistente-de-enfermeria-certificado-1440.png",
+        "geometry": {
+          "height": 2490.265625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Asistente de enfermería certificado",
+            "top": 185,
+            "height": 143
+          },
+          {
+            "text": "Asistente de enfermería certificado",
+            "top": 677.625,
+            "height": 42
+          },
+          {
+            "text": "Explora las diversas oportunidades profesionales en el\ncuidado a largo plazo",
+            "top": 2291.359375,
+            "height": 20
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--carreras--carreras-en-asistente-de-enfermeria-certificado-1440.png",
+        "geometry": {
+          "height": 2660.265625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Una Gratificante Carrera En",
+            "top": 130,
+            "height": 35
+          },
+          {
+            "text": "Asistente de enfermería certificado",
+            "top": 185,
+            "height": 143
+          },
+          {
+            "text": "Asistente de enfermería certificado",
+            "top": 677.625,
+            "height": 42
+          },
+          {
+            "text": "Explora las diversas oportunidades profesionales en el\ncuidado a largo plazo",
+            "top": 2291.359375,
+            "height": 20
+          }
+        ]
+      },
+      "ratio": 0.14646589658965897,
+      "heightDelta": 396
+    },
+    {
+      "path": "/careerpaths/careers-in-support-services/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-careerpaths--careers-in-support-services-390.png",
+        "geometry": {
+          "height": 13847.71875,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Support Services",
+            "top": 485.796875,
+            "height": 41.59375
+          },
+          {
+            "text": "Housekeeping",
+            "top": 1160.359375,
+            "height": 33.59375
+          },
+          {
+            "text": "Laundry",
+            "top": 3136.203125,
+            "height": 33.59375
+          },
+          {
+            "text": "Maintenance",
+            "top": 5081.140625,
+            "height": 33.59375
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-careerpaths--careers-in-support-services-390.png",
+        "geometry": {
+          "height": 14066.71875,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "A Rewarding Career In",
+            "top": 435,
+            "height": 30.796875
+          },
+          {
+            "text": "Support Services",
+            "top": 485.796875,
+            "height": 41.59375
+          },
+          {
+            "text": "Housekeeping",
+            "top": 1160.359375,
+            "height": 33.59375
+          },
+          {
+            "text": "Laundry",
+            "top": 3136.203125,
+            "height": 33.59375
+          }
+        ]
+      },
+      "ratio": 0.11703424667483332,
+      "heightDelta": 583
+    },
+    {
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--carreras--carreras-en-asistente-de-enfermeria-certificado-390.png",
+        "geometry": {
+          "height": 5273.828125,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Asistente de enfermería certificado",
+            "top": 485.796875,
+            "height": 124.78125
+          },
+          {
+            "text": "Asistente de enfermería certificado",
+            "top": 1335.328125,
+            "height": 67.1875
+          },
+          {
+            "text": "Explora las diversas oportunidades profesionales en el\ncuidado a largo plazo",
+            "top": 5072.109375,
+            "height": 60
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--carreras--carreras-en-asistente-de-enfermeria-certificado-390.png",
+        "geometry": {
+          "height": 5520.828125,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Una Gratificante Carrera En",
+            "top": 435,
+            "height": 30.796875
+          },
+          {
+            "text": "Asistente de enfermería certificado",
+            "top": 485.796875,
+            "height": 124.78125
+          },
+          {
+            "text": "Asistente de enfermería certificado",
+            "top": 1335.328125,
+            "height": 67.1875
+          },
+          {
+            "text": "Explora las diversas oportunidades profesionales en el\ncuidado a largo plazo",
+            "top": 5072.109375,
+            "height": 60
+          }
+        ]
+      },
+      "ratio": 0.12915949423094206,
+      "heightDelta": 633
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--carreras--carreras-en-enfermeria-1440.png",
+        "geometry": {
+          "height": 13216.359375,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Enfermería",
+            "top": 235.140625,
+            "height": 71.5
+          },
+          {
+            "text": "Enfermera Vocacional con Licencia",
+            "top": 669,
+            "height": 42
+          },
+          {
+            "text": "Enfermera Registrada",
+            "top": 2176.921875,
+            "height": 42
+          },
+          {
+            "text": "Gerente de Unidad",
+            "top": 3733.484375,
+            "height": 42
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--carreras--carreras-en-enfermeria-1440.png",
+        "geometry": {
+          "height": 13381.359375,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Una Gratificante Carrera En",
+            "top": 180.140625,
+            "height": 35
+          },
+          {
+            "text": "Enfermería",
+            "top": 235.140625,
+            "height": 71.5
+          },
+          {
+            "text": "Enfermera Vocacional con Licencia",
+            "top": 669,
+            "height": 42
+          },
+          {
+            "text": "Enfermera Registrada",
+            "top": 2176.921875,
+            "height": 42
+          }
+        ]
+      },
+      "ratio": 0.10398588052906314,
+      "heightDelta": 391
+    },
+    {
+      "path": "/es/carreras/carreras-en-administracion/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--carreras--carreras-en-administracion-1440.png",
+        "geometry": {
+          "height": 2716.265625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Administración",
+            "top": 235.140625,
+            "height": 71.5
+          },
+          {
+            "text": "Administrador (HFA/RCA)",
+            "top": 669,
+            "height": 42
+          },
+          {
+            "text": "Explora las diversas oportunidades profesionales en el\ncuidado a largo plazo",
+            "top": 2517.359375,
+            "height": 20
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--carreras--carreras-en-administracion-1440.png",
+        "geometry": {
+          "height": 2886.265625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Una Gratificante Carrera En",
+            "top": 180.140625,
+            "height": 35
+          },
+          {
+            "text": "Administración",
+            "top": 235.140625,
+            "height": 71.5
+          },
+          {
+            "text": "Administrador (HFA/RCA)",
+            "top": 669,
+            "height": 42
+          },
+          {
+            "text": "Explora las diversas oportunidades profesionales en el\ncuidado a largo plazo",
+            "top": 2517.359375,
+            "height": 20
+          }
+        ]
+      },
+      "ratio": 0.1296271630236794,
+      "heightDelta": 396
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--carreras--carreras-en-enfermeria-390.png",
+        "geometry": {
+          "height": 27128.9375,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Enfermería",
+            "top": 485.796875,
+            "height": 41.59375
+          },
+          {
+            "text": "Enfermera Vocacional con Licencia",
+            "top": 1190.953125,
+            "height": 67.1875
+          },
+          {
+            "text": "Enfermera Registrada",
+            "top": 4383.5,
+            "height": 33.59375
+          },
+          {
+            "text": "Gerente de Unidad",
+            "top": 7981.328125,
+            "height": 33.59375
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--carreras--carreras-en-enfermeria-390.png",
+        "geometry": {
+          "height": 27123.65625,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Una Gratificante Carrera En",
+            "top": 435,
+            "height": 30.796875
+          },
+          {
+            "text": "Enfermería",
+            "top": 485.796875,
+            "height": 41.59375
+          },
+          {
+            "text": "Enfermera Vocacional con Licencia",
+            "top": 1190.953125,
+            "height": 67.1875
+          },
+          {
+            "text": "Enfermera Registrada",
+            "top": 4383.40625,
+            "height": 33.59375
+          }
+        ]
+      },
+      "ratio": 0.09732819470250985,
+      "heightDelta": 409
+    },
+    {
+      "path": "/es/carreras/carreras-en-administracion/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--carreras--carreras-en-administracion-390.png",
+        "geometry": {
+          "height": 4813.71875,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Administración",
+            "top": 485.796875,
+            "height": 41.59375
+          },
+          {
+            "text": "Administrador (HFA/RCA)",
+            "top": 1160.359375,
+            "height": 33.59375
+          },
+          {
+            "text": "Explora las diversas oportunidades profesionales en el\ncuidado a largo plazo",
+            "top": 4612,
+            "height": 60
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--carreras--carreras-en-administracion-390.png",
+        "geometry": {
+          "height": 5060.71875,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Una Gratificante Carrera En",
+            "top": 435,
+            "height": 30.796875
+          },
+          {
+            "text": "Administración",
+            "top": 485.796875,
+            "height": 41.59375
+          },
+          {
+            "text": "Administrador (HFA/RCA)",
+            "top": 1160.359375,
+            "height": 33.59375
+          },
+          {
+            "text": "Explora las diversas oportunidades profesionales en el\ncuidado a largo plazo",
+            "top": 4612,
+            "height": 60
+          }
+        ]
+      },
+      "ratio": 0.15561611426802574,
+      "heightDelta": 634
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-sociales/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--carreras--carreras-en-servicios-sociales-1440.png",
+        "geometry": {
+          "height": 4560.421875,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Servicios Sociales",
+            "top": 235.140625,
+            "height": 71.5
+          },
+          {
+            "text": "Designado de Servicios Sociales",
+            "top": 669,
+            "height": 42
+          },
+          {
+            "text": "Trabajador Social",
+            "top": 1766.125,
+            "height": 42
+          },
+          {
+            "text": "Director de Servicios Sociales",
+            "top": 3152.390625,
+            "height": 42
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--carreras--carreras-en-servicios-sociales-1440.png",
+        "geometry": {
+          "height": 4730.421875,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Una Gratificante Carrera En",
+            "top": 180.140625,
+            "height": 35
+          },
+          {
+            "text": "Servicios Sociales",
+            "top": 235.140625,
+            "height": 71.5
+          },
+          {
+            "text": "Designado de Servicios Sociales",
+            "top": 669,
+            "height": 42
+          },
+          {
+            "text": "Trabajador Social",
+            "top": 1766.125,
+            "height": 42
+          }
+        ]
+      },
+      "ratio": 0.13717977834302325,
+      "heightDelta": 396
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-sociales/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--carreras--carreras-en-servicios-sociales-390.png",
+        "geometry": {
+          "height": 9403.359375,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Servicios Sociales",
+            "top": 485.796875,
+            "height": 41.59375
+          },
+          {
+            "text": "Designado de Servicios Sociales",
+            "top": 1160.359375,
+            "height": 67.1875
+          },
+          {
+            "text": "Trabajador Social",
+            "top": 3771.203125,
+            "height": 33.59375
+          },
+          {
+            "text": "Director de Servicios Sociales",
+            "top": 6705.40625,
+            "height": 67.1875
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--carreras--carreras-en-servicios-sociales-390.png",
+        "geometry": {
+          "height": 9650.359375,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Una Gratificante Carrera En",
+            "top": 435,
+            "height": 30.796875
+          },
+          {
+            "text": "Servicios Sociales",
+            "top": 485.796875,
+            "height": 41.59375
+          },
+          {
+            "text": "Designado de Servicios Sociales",
+            "top": 1160.359375,
+            "height": 67.1875
+          },
+          {
+            "text": "Trabajador Social",
+            "top": 3771.203125,
+            "height": 33.59375
+          }
+        ]
+      },
+      "ratio": 0.1254889291519011,
+      "heightDelta": 634
+    },
+    {
+      "path": "/es/carreras/carreras-en-terapia/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--carreras--carreras-en-terapia-1440.png",
+        "geometry": {
+          "height": 5649.40625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Terapia",
+            "top": 253.84375,
+            "height": 71.5
+          },
+          {
+            "text": "Asistente Restaurativo",
+            "top": 669,
+            "height": 42
+          },
+          {
+            "text": "Fisioterapia",
+            "top": 2454.90625,
+            "height": 42
+          },
+          {
+            "text": "Director de Servicios de Rehabilitación",
+            "top": 3953.65625,
+            "height": 42
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--carreras--carreras-en-terapia-1440.png",
+        "geometry": {
+          "height": 5819.40625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Una Gratificante Carrera En",
+            "top": 198.84375,
+            "height": 35
+          },
+          {
+            "text": "Terapia",
+            "top": 253.84375,
+            "height": 71.5
+          },
+          {
+            "text": "Asistente Restaurativo",
+            "top": 669,
+            "height": 42
+          },
+          {
+            "text": "Fisioterapia",
+            "top": 2454.90625,
+            "height": 42
+          }
+        ]
+      },
+      "ratio": 0.10697994084635219,
+      "heightDelta": 396
+    },
+    {
+      "path": "/es/carreras/carreras-en-terapia/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--carreras--carreras-en-terapia-390.png",
+        "geometry": {
+          "height": 10652.546875,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Terapia",
+            "top": 485.796875,
+            "height": 41.59375
+          },
+          {
+            "text": "Asistente Restaurativo",
+            "top": 1129.765625,
+            "height": 33.59375
+          },
+          {
+            "text": "Fisioterapia",
+            "top": 4985.265625,
+            "height": 33.59375
+          },
+          {
+            "text": "Director de Servicios de Rehabilitación",
+            "top": 7732.296875,
+            "height": 67.1875
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--carreras--carreras-en-terapia-390.png",
+        "geometry": {
+          "height": 10899.546875,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Una Gratificante Carrera En",
+            "top": 435,
+            "height": 30.796875
+          },
+          {
+            "text": "Terapia",
+            "top": 485.796875,
+            "height": 41.59375
+          },
+          {
+            "text": "Asistente Restaurativo",
+            "top": 1129.765625,
+            "height": 33.59375
+          },
+          {
+            "text": "Fisioterapia",
+            "top": 4985.265625,
+            "height": 33.59375
+          }
+        ]
+      },
+      "ratio": 0.11085811378067376,
+      "heightDelta": 634
+    },
+    {
+      "path": "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--carreras--carreras-en-coordinacion-de-cuidados-1440.png",
+        "geometry": {
+          "height": 4128.46875,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Coordinación de Cuidados",
+            "top": 253.84375,
+            "height": 71.5
+          },
+          {
+            "text": "Coordinador de Atención al Cliente",
+            "top": 669,
+            "height": 42
+          },
+          {
+            "text": "Gerente de Oficina de Negocios",
+            "top": 1808.125,
+            "height": 42
+          },
+          {
+            "text": "Director de Admisiones",
+            "top": 2969.703125,
+            "height": 42
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--carreras--carreras-en-coordinacion-de-cuidados-1440.png",
+        "geometry": {
+          "height": 4298.46875,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Una Gratificante Carrera En",
+            "top": 198.84375,
+            "height": 35
+          },
+          {
+            "text": "Coordinación de Cuidados",
+            "top": 253.84375,
+            "height": 71.5
+          },
+          {
+            "text": "Coordinador de Atención al Cliente",
+            "top": 669,
+            "height": 42
+          },
+          {
+            "text": "Gerente de Oficina de Negocios",
+            "top": 1808.125,
+            "height": 42
+          }
+        ]
+      },
+      "ratio": 0.14413145154223625,
+      "heightDelta": 396
+    },
+    {
+      "path": "/es/carreras/carreras-en-actividades/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--carreras--carreras-en-actividades-1440.png",
+        "geometry": {
+          "height": 2640.28125,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Actividades",
+            "top": 235.140625,
+            "height": 71.5
+          },
+          {
+            "text": "Asistente de Actividades",
+            "top": 669,
+            "height": 42
+          },
+          {
+            "text": "Director de Actividades",
+            "top": 1542.234375,
+            "height": 42
+          },
+          {
+            "text": "Explora las diversas oportunidades profesionales en el\ncuidado a largo plazo",
+            "top": 2441.375,
+            "height": 20
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--carreras--carreras-en-actividades-1440.png",
+        "geometry": {
+          "height": 2810.28125,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Una Gratificante Carrera En",
+            "top": 180.140625,
+            "height": 35
+          },
+          {
+            "text": "Actividades",
+            "top": 235.140625,
+            "height": 71.5
+          },
+          {
+            "text": "Asistente de Actividades",
+            "top": 669,
+            "height": 42
+          },
+          {
+            "text": "Director de Actividades",
+            "top": 1542.234375,
+            "height": 42
+          }
+        ]
+      },
+      "ratio": 0.16423688616071427,
+      "heightDelta": 396
+    },
+    {
+      "path": "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--carreras--carreras-en-coordinacion-de-cuidados-390.png",
+        "geometry": {
+          "height": 7718.859375,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Coordinación de Cuidados",
+            "top": 485.796875,
+            "height": 83.1875
+          },
+          {
+            "text": "Coordinador de Atención al Cliente",
+            "top": 1171.453125,
+            "height": 67.1875
+          },
+          {
+            "text": "Gerente de Oficina de Negocios",
+            "top": 3583.765625,
+            "height": 67.1875
+          },
+          {
+            "text": "Director de Admisiones",
+            "top": 5669.390625,
+            "height": 33.59375
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--carreras--carreras-en-coordinacion-de-cuidados-390.png",
+        "geometry": {
+          "height": 7965.765625,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Una Gratificante Carrera En",
+            "top": 435,
+            "height": 30.796875
+          },
+          {
+            "text": "Coordinación de Cuidados",
+            "top": 485.796875,
+            "height": 83.1875
+          },
+          {
+            "text": "Coordinador de Atención al Cliente",
+            "top": 1171.359375,
+            "height": 67.1875
+          },
+          {
+            "text": "Gerente de Oficina de Negocios",
+            "top": 3583.671875,
+            "height": 67.1875
+          }
+        ]
+      },
+      "ratio": 0.1443771983871345,
+      "heightDelta": 633
+    },
+    {
+      "path": "/es/carreras/carreras-en-actividades/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--carreras--carreras-en-actividades-390.png",
+        "geometry": {
+          "height": 5036.046875,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Actividades",
+            "top": 485.796875,
+            "height": 41.59375
+          },
+          {
+            "text": "Asistente de Actividades",
+            "top": 1160.453125,
+            "height": 33.59375
+          },
+          {
+            "text": "Director de Actividades",
+            "top": 2962.953125,
+            "height": 33.59375
+          },
+          {
+            "text": "Explora las diversas oportunidades profesionales en el\ncuidado a largo plazo",
+            "top": 4834.328125,
+            "height": 60
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--carreras--carreras-en-actividades-390.png",
+        "geometry": {
+          "height": 5282.859375,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Una Gratificante Carrera En",
+            "top": 435,
+            "height": 30.796875
+          },
+          {
+            "text": "Actividades",
+            "top": 485.796875,
+            "height": 41.59375
+          },
+          {
+            "text": "Asistente de Actividades",
+            "top": 1160.359375,
+            "height": 33.59375
+          },
+          {
+            "text": "Director de Actividades",
+            "top": 2962.765625,
+            "height": 33.59375
+          }
+        ]
+      },
+      "ratio": 0.16663738304406828,
+      "heightDelta": 633
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-de-apoyo/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--carreras--carreras-en-servicios-de-apoyo-1440.png",
+        "geometry": {
+          "height": 7080.0625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Servicios de Apoyo",
+            "top": 235.140625,
+            "height": 71.5
+          },
+          {
+            "text": "Limpieza",
+            "top": 669,
+            "height": 42
+          },
+          {
+            "text": "Lavandería",
+            "top": 1614.859375,
+            "height": 42
+          },
+          {
+            "text": "Mantenimiento",
+            "top": 2589.625,
+            "height": 42
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--carreras--carreras-en-servicios-de-apoyo-1440.png",
+        "geometry": {
+          "height": 7250.0625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Una Gratificante Carrera En",
+            "top": 180.140625,
+            "height": 35
+          },
+          {
+            "text": "Servicios de Apoyo",
+            "top": 235.140625,
+            "height": 71.5
+          },
+          {
+            "text": "Limpieza",
+            "top": 669,
+            "height": 42
+          },
+          {
+            "text": "Lavandería",
+            "top": 1614.859375,
+            "height": 42
+          }
+        ]
+      },
+      "ratio": 0.1385063559322034,
+      "heightDelta": 397
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-de-apoyo/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--carreras--carreras-en-servicios-de-apoyo-390.png",
+        "geometry": {
+          "height": 14197.375,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Servicios de Apoyo",
+            "top": 485.796875,
+            "height": 41.59375
+          },
+          {
+            "text": "Limpieza",
+            "top": 1190.953125,
+            "height": 33.59375
+          },
+          {
+            "text": "Lavandería",
+            "top": 3166.796875,
+            "height": 33.59375
+          },
+          {
+            "text": "Mantenimiento",
+            "top": 5202.453125,
+            "height": 33.59375
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--carreras--carreras-en-servicios-de-apoyo-390.png",
+        "geometry": {
+          "height": 14444.375,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Una Gratificante Carrera En",
+            "top": 435,
+            "height": 30.796875
+          },
+          {
+            "text": "Servicios de Apoyo",
+            "top": 485.796875,
+            "height": 41.59375
+          },
+          {
+            "text": "Limpieza",
+            "top": 1190.953125,
+            "height": 33.59375
+          },
+          {
+            "text": "Lavandería",
+            "top": 3166.796875,
+            "height": 33.59375
+          }
+        ]
+      },
+      "ratio": 0.12023055270515802,
+      "heightDelta": 634
+    },
+    {
+      "path": "/career-advancement/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-career-advancement-1440.png",
+        "geometry": {
+          "height": 4048.25,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Launch a Career in Healthcare as a Certified Nurse Assistant",
+            "top": 232.234375,
+            "height": 214.5
+          },
+          {
+            "text": "Certified Nurse Assistant",
+            "top": 1251.203125,
+            "height": 25.203125
+          },
+          {
+            "text": "Career Paths in Long Term CAre",
+            "top": 2727.84375,
+            "height": 25.203125
+          },
+          {
+            "text": "Career Seekers",
+            "top": 3831.046875,
+            "height": 25.203125
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-career-advancement-1440.png",
+        "geometry": {
+          "height": 4970.75,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Career Seekers",
+            "top": 207.03125,
+            "height": 25.203125
+          },
+          {
+            "text": "Launch a Career in Healthcare as a Certified Nurse Assistant",
+            "top": 232.234375,
+            "height": 214.5
+          },
+          {
+            "text": "Becoming a Certified Nurse Assistant (CNA) gets you started working in healthcare while providing opportunities to continue advancing in your career for more professional and personal growth.",
+            "top": 476.734375,
+            "height": 112.21875
+          },
+          {
+            "text": "Certified Nurse Assistant",
+            "top": 1251.203125,
+            "height": 25.203125
+          }
+        ]
+      },
+      "ratio": 0.3149111878533543,
+      "heightDelta": 1151
+    },
+    {
+      "path": "/career-advancement/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-career-advancement-390.png",
+        "geometry": {
+          "height": 6334.046875,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Launch a Career in Healthcare as a Certified Nurse Assistant",
+            "top": 190.203125,
+            "height": 166.375
+          },
+          {
+            "text": "Certified Nurse Assistant",
+            "top": 1926.546875,
+            "height": 50.40625
+          },
+          {
+            "text": "Career Paths in Long Term CAre",
+            "top": 4789.296875,
+            "height": 50.40625
+          },
+          {
+            "text": "Career Seekers",
+            "top": 6234.640625,
+            "height": 25.203125
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-career-advancement-390.png",
+        "geometry": {
+          "height": 7311.171875,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Career Seekers",
+            "top": 165,
+            "height": 25.203125
+          },
+          {
+            "text": "Launch a Career in Healthcare as a Certified Nurse Assistant",
+            "top": 190.203125,
+            "height": 166.375
+          },
+          {
+            "text": "Becoming a Certified Nurse Assistant (CNA) gets you started working in healthcare while providing opportunities to continue advancing in your career for more professional and personal growth.",
+            "top": 376.578125,
+            "height": 183.5625
+          },
+          {
+            "text": "Certified Nurse Assistant",
+            "top": 1876.546875,
+            "height": 50.40625
+          }
+        ]
+      },
+      "ratio": 0.37720189359479767,
+      "heightDelta": 1342
+    },
+    {
+      "path": "/earn-and-learn/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-earn-and-learn-1440.png",
+        "geometry": {
+          "height": 3962.953125,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Earn and Learn: Your CNA Story Begins Here",
+            "top": 267.984375,
+            "height": 143
+          },
+          {
+            "text": "Certified Nurse Assistant",
+            "top": 920,
+            "height": 25.203125
+          },
+          {
+            "text": "CNAP EARN AND LEARN PROGRAM",
+            "top": 2280.703125,
+            "height": 25.203125
+          },
+          {
+            "text": "Career Seekers",
+            "top": 3745.75,
+            "height": 25.203125
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-earn-and-learn-1440.png",
+        "geometry": {
+          "height": 4461.015625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Career Seekers",
+            "top": 242.78125,
+            "height": 25.203125
+          },
+          {
+            "text": "Earn and Learn: Your CNA Story Begins Here",
+            "top": 267.984375,
+            "height": 143
+          },
+          {
+            "text": "Earn a salary as you train to become a Certified Nurse Assistant (CNA). Training includes hands-on practice and class instruction at a participating facility in your area.",
+            "top": 440.984375,
+            "height": 112.21875
+          },
+          {
+            "text": "Certified Nurse Assistant",
+            "top": 920,
+            "height": 25.203125
+          }
+        ]
+      },
+      "ratio": 0.3070025703376634,
+      "heightDelta": 726
+    },
+    {
+      "path": "/earn-and-learn/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-earn-and-learn-390.png",
+        "geometry": {
+          "height": 7092.453125,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Earn and Learn: Your CNA Story Begins Here",
+            "top": 190.203125,
+            "height": 124.78125
+          },
+          {
+            "text": "Certified Nurse Assistant",
+            "top": 1085.953125,
+            "height": 50.40625
+          },
+          {
+            "text": "CNAP EARN AND LEARN PROGRAM",
+            "top": 3522.59375,
+            "height": 50.40625
+          },
+          {
+            "text": "Career Seekers",
+            "top": 6993.046875,
+            "height": 25.203125
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-earn-and-learn-390.png",
+        "geometry": {
+          "height": 7664.234375,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Career Seekers",
+            "top": 165,
+            "height": 25.203125
+          },
+          {
+            "text": "Earn and Learn: Your CNA Story Begins Here",
+            "top": 190.203125,
+            "height": 124.78125
+          },
+          {
+            "text": "Earn a salary as you train to become a Certified Nurse Assistant (CNA). Training includes hands-on practice and class instruction at a participating facility in your area.",
+            "top": 334.984375,
+            "height": 152.96875
+          },
+          {
+            "text": "Certified Nurse Assistant",
+            "top": 1085.953125,
+            "height": 50.40625
+          }
+        ]
+      },
+      "ratio": 0.29239041401403026,
+      "heightDelta": 936
+    },
+    {
+      "path": "/earn-and-learn-la/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-earn-and-learn-la-1440.png",
+        "geometry": {
+          "height": 3962.953125,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Your CNA Story Begins Here in Southern California",
+            "top": 232.234375,
+            "height": 214.5
+          },
+          {
+            "text": "Certified Nurse Assistant",
+            "top": 920,
+            "height": 25.203125
+          },
+          {
+            "text": "CNAP EARN AND LEARN PROGRAM",
+            "top": 2280.703125,
+            "height": 25.203125
+          },
+          {
+            "text": "Career Seekers",
+            "top": 3745.75,
+            "height": 25.203125
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-earn-and-learn-la-1440.png",
+        "geometry": {
+          "height": 4461.015625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Career Seekers",
+            "top": 207.03125,
+            "height": 25.203125
+          },
+          {
+            "text": "Your CNA Story Begins Here in Southern California",
+            "top": 232.234375,
+            "height": 214.5
+          },
+          {
+            "text": "Earn a salary as you train to become a Certified Nurse Assistant (CNA). Training includes hands-on practice and class instruction at a participating facility in your area.",
+            "top": 476.734375,
+            "height": 112.21875
+          },
+          {
+            "text": "Certified Nurse Assistant",
+            "top": 920,
+            "height": 25.203125
+          }
+        ]
+      },
+      "ratio": 0.3070045700816962,
+      "heightDelta": 726
+    },
+    {
+      "path": "/earn-and-learn-la/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-earn-and-learn-la-390.png",
+        "geometry": {
+          "height": 7092.453125,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Your CNA Story Begins Here in Southern California",
+            "top": 190.203125,
+            "height": 124.78125
+          },
+          {
+            "text": "Certified Nurse Assistant",
+            "top": 1085.953125,
+            "height": 50.40625
+          },
+          {
+            "text": "CNAP EARN AND LEARN PROGRAM",
+            "top": 3522.59375,
+            "height": 50.40625
+          },
+          {
+            "text": "Career Seekers",
+            "top": 6993.046875,
+            "height": 25.203125
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-earn-and-learn-la-390.png",
+        "geometry": {
+          "height": 7664.234375,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Career Seekers",
+            "top": 165,
+            "height": 25.203125
+          },
+          {
+            "text": "Your CNA Story Begins Here in Southern California",
+            "top": 190.203125,
+            "height": 124.78125
+          },
+          {
+            "text": "Earn a salary as you train to become a Certified Nurse Assistant (CNA). Training includes hands-on practice and class instruction at a participating facility in your area.",
+            "top": 334.984375,
+            "height": 152.96875
+          },
+          {
+            "text": "Certified Nurse Assistant",
+            "top": 1085.953125,
+            "height": 50.40625
+          }
+        ]
+      },
+      "ratio": 0.2914142438127678,
+      "heightDelta": 936
+    },
+    {
+      "path": "/earn-and-learn-cvalley/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-earn-and-learn-cvalley-1440.png",
+        "geometry": {
+          "height": 3962.953125,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Your CNA Story Begins Here in the Central Valley",
+            "top": 267.984375,
+            "height": 143
+          },
+          {
+            "text": "Certified Nurse Assistant",
+            "top": 920,
+            "height": 25.203125
+          },
+          {
+            "text": "CNAP EARN AND LEARN PROGRAM",
+            "top": 2280.703125,
+            "height": 25.203125
+          },
+          {
+            "text": "Career Seekers",
+            "top": 3745.75,
+            "height": 25.203125
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-earn-and-learn-cvalley-1440.png",
+        "geometry": {
+          "height": 4461.015625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Career Seekers",
+            "top": 242.78125,
+            "height": 25.203125
+          },
+          {
+            "text": "Your CNA Story Begins Here in the Central Valley",
+            "top": 267.984375,
+            "height": 143
+          },
+          {
+            "text": "Earn a salary as you train to become a Certified Nurse Assistant (CNA). Training includes hands-on practice and class instruction at a participating facility in your area.",
+            "top": 440.984375,
+            "height": 112.21875
+          },
+          {
+            "text": "Certified Nurse Assistant",
+            "top": 920,
+            "height": 25.203125
+          }
+        ]
+      },
+      "ratio": 0.30669340991019817,
+      "heightDelta": 726
+    },
+    {
+      "path": "/earn-and-learn-cvalley/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-earn-and-learn-cvalley-390.png",
+        "geometry": {
+          "height": 7092.453125,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Your CNA Story Begins Here in the Central Valley",
+            "top": 190.203125,
+            "height": 124.78125
+          },
+          {
+            "text": "Certified Nurse Assistant",
+            "top": 1085.953125,
+            "height": 50.40625
+          },
+          {
+            "text": "CNAP EARN AND LEARN PROGRAM",
+            "top": 3522.59375,
+            "height": 50.40625
+          },
+          {
+            "text": "Career Seekers",
+            "top": 6993.046875,
+            "height": 25.203125
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-earn-and-learn-cvalley-390.png",
+        "geometry": {
+          "height": 7664.234375,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Career Seekers",
+            "top": 165,
+            "height": 25.203125
+          },
+          {
+            "text": "Your CNA Story Begins Here in the Central Valley",
+            "top": 190.203125,
+            "height": 124.78125
+          },
+          {
+            "text": "Earn a salary as you train to become a Certified Nurse Assistant (CNA). Training includes hands-on practice and class instruction at a participating facility in your area.",
+            "top": 334.984375,
+            "height": 152.96875
+          },
+          {
+            "text": "Certified Nurse Assistant",
+            "top": 1085.953125,
+            "height": 50.40625
+          }
+        ]
+      },
+      "ratio": 0.29392563156400797,
+      "heightDelta": 936
+    },
+    {
+      "path": "/earn-and-learn-bayarea/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-earn-and-learn-bayarea-1440.png",
+        "geometry": {
+          "height": 3962.953125,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Your CNA Story Begins Here in the Bay Area",
+            "top": 267.984375,
+            "height": 143
+          },
+          {
+            "text": "Certified Nurse Assistant",
+            "top": 920,
+            "height": 25.203125
+          },
+          {
+            "text": "CNAP EARN AND LEARN PROGRAM",
+            "top": 2280.703125,
+            "height": 25.203125
+          },
+          {
+            "text": "Career Seekers",
+            "top": 3745.75,
+            "height": 25.203125
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-earn-and-learn-bayarea-1440.png",
+        "geometry": {
+          "height": 4461.015625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Career Seekers",
+            "top": 242.78125,
+            "height": 25.203125
+          },
+          {
+            "text": "Your CNA Story Begins Here in the Bay Area",
+            "top": 267.984375,
+            "height": 143
+          },
+          {
+            "text": "Earn a salary as you train to become a Certified Nurse Assistant (CNA). Training includes hands-on practice and class instruction at a participating facility in your area.",
+            "top": 440.984375,
+            "height": 112.21875
+          },
+          {
+            "text": "Certified Nurse Assistant",
+            "top": 920,
+            "height": 25.203125
+          }
+        ]
+      },
+      "ratio": 0.3049920276871227,
+      "heightDelta": 726
+    },
+    {
+      "path": "/earn-and-learn-bayarea/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-earn-and-learn-bayarea-390.png",
+        "geometry": {
+          "height": 7092.453125,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Your CNA Story Begins Here in the Bay Area",
+            "top": 190.203125,
+            "height": 124.78125
+          },
+          {
+            "text": "Certified Nurse Assistant",
+            "top": 1085.953125,
+            "height": 50.40625
+          },
+          {
+            "text": "CNAP EARN AND LEARN PROGRAM",
+            "top": 3522.59375,
+            "height": 50.40625
+          },
+          {
+            "text": "Career Seekers",
+            "top": 6993.046875,
+            "height": 25.203125
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-earn-and-learn-bayarea-390.png",
+        "geometry": {
+          "height": 7664.234375,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Career Seekers",
+            "top": 165,
+            "height": 25.203125
+          },
+          {
+            "text": "Your CNA Story Begins Here in the Bay Area",
+            "top": 190.203125,
+            "height": 124.78125
+          },
+          {
+            "text": "Earn a salary as you train to become a Certified Nurse Assistant (CNA). Training includes hands-on practice and class instruction at a participating facility in your area.",
+            "top": 334.984375,
+            "height": 152.96875
+          },
+          {
+            "text": "Certified Nurse Assistant",
+            "top": 1085.953125,
+            "height": 50.40625
+          }
+        ]
+      },
+      "ratio": 0.2721619831582931,
+      "heightDelta": 936
+    },
+    {
+      "path": "/earn-and-learn-norcal/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-earn-and-learn-norcal-1440.png",
+        "geometry": {
+          "height": 3962.953125,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Your CNA Story Begins Here in Northern California",
+            "top": 232.234375,
+            "height": 214.5
+          },
+          {
+            "text": "Certified Nurse Assistant",
+            "top": 920,
+            "height": 25.203125
+          },
+          {
+            "text": "CNAP EARN AND LEARN PROGRAM",
+            "top": 2280.703125,
+            "height": 25.203125
+          },
+          {
+            "text": "Career Seekers",
+            "top": 3745.75,
+            "height": 25.203125
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-earn-and-learn-norcal-1440.png",
+        "geometry": {
+          "height": 4461.015625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Career Seekers",
+            "top": 207.03125,
+            "height": 25.203125
+          },
+          {
+            "text": "Your CNA Story Begins Here in Northern California",
+            "top": 232.234375,
+            "height": 214.5
+          },
+          {
+            "text": "Earn a salary as you train to become a Certified Nurse Assistant (CNA). Training includes hands-on practice and class instruction at a participating facility in your area.",
+            "top": 476.734375,
+            "height": 112.21875
+          },
+          {
+            "text": "Certified Nurse Assistant",
+            "top": 920,
+            "height": 25.203125
+          }
+        ]
+      },
+      "ratio": 0.30700536997930933,
+      "heightDelta": 726
+    },
+    {
+      "path": "/earn-and-learn-norcal/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-earn-and-learn-norcal-390.png",
+        "geometry": {
+          "height": 7092.453125,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Your CNA Story Begins Here in Northern California",
+            "top": 190.203125,
+            "height": 124.78125
+          },
+          {
+            "text": "Certified Nurse Assistant",
+            "top": 1085.953125,
+            "height": 50.40625
+          },
+          {
+            "text": "CNAP EARN AND LEARN PROGRAM",
+            "top": 3522.59375,
+            "height": 50.40625
+          },
+          {
+            "text": "Career Seekers",
+            "top": 6993.046875,
+            "height": 25.203125
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-earn-and-learn-norcal-390.png",
+        "geometry": {
+          "height": 7664.234375,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Career Seekers",
+            "top": 165,
+            "height": 25.203125
+          },
+          {
+            "text": "Your CNA Story Begins Here in Northern California",
+            "top": 190.203125,
+            "height": 124.78125
+          },
+          {
+            "text": "Earn a salary as you train to become a Certified Nurse Assistant (CNA). Training includes hands-on practice and class instruction at a participating facility in your area.",
+            "top": 334.984375,
+            "height": 152.96875
+          },
+          {
+            "text": "Certified Nurse Assistant",
+            "top": 1085.953125,
+            "height": 50.40625
+          }
+        ]
+      },
+      "ratio": 0.2939164402633037,
+      "heightDelta": 936
+    },
+    {
+      "path": "/earn-and-learn-san-diego/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-earn-and-learn-san-diego-1440.png",
+        "geometry": {
+          "height": 3962.953125,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Your CNA Story Begins Here in San Diego",
+            "top": 267.984375,
+            "height": 143
+          },
+          {
+            "text": "Certified Nurse Assistant",
+            "top": 920,
+            "height": 25.203125
+          },
+          {
+            "text": "CNAP EARN AND LEARN PROGRAM",
+            "top": 2280.703125,
+            "height": 25.203125
+          },
+          {
+            "text": "Career Seekers",
+            "top": 3745.75,
+            "height": 25.203125
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-earn-and-learn-san-diego-1440.png",
+        "geometry": {
+          "height": 4461.015625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Career Seekers",
+            "top": 242.78125,
+            "height": 25.203125
+          },
+          {
+            "text": "Your CNA Story Begins Here in San Diego",
+            "top": 267.984375,
+            "height": 143
+          },
+          {
+            "text": "Earn a salary as you train to become a Certified Nurse Assistant (CNA). Training includes hands-on practice and class instruction at a participating facility in your area.",
+            "top": 440.984375,
+            "height": 112.21875
+          },
+          {
+            "text": "Certified Nurse Assistant",
+            "top": 920,
+            "height": 25.203125
+          }
+        ]
+      },
+      "ratio": 0.304985495189949,
+      "heightDelta": 726
+    },
+    {
+      "path": "/earn-and-learn-san-diego/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-earn-and-learn-san-diego-390.png",
+        "geometry": {
+          "height": 7092.453125,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Your CNA Story Begins Here in San Diego",
+            "top": 190.203125,
+            "height": 124.78125
+          },
+          {
+            "text": "Certified Nurse Assistant",
+            "top": 1085.953125,
+            "height": 50.40625
+          },
+          {
+            "text": "CNAP EARN AND LEARN PROGRAM",
+            "top": 3522.59375,
+            "height": 50.40625
+          },
+          {
+            "text": "Career Seekers",
+            "top": 6993.046875,
+            "height": 25.203125
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-earn-and-learn-san-diego-390.png",
+        "geometry": {
+          "height": 7664.234375,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Career Seekers",
+            "top": 165,
+            "height": 25.203125
+          },
+          {
+            "text": "Your CNA Story Begins Here in San Diego",
+            "top": 190.203125,
+            "height": 124.78125
+          },
+          {
+            "text": "Earn a salary as you train to become a Certified Nurse Assistant (CNA). Training includes hands-on practice and class instruction at a participating facility in your area.",
+            "top": 334.984375,
+            "height": 152.96875
+          },
+          {
+            "text": "Certified Nurse Assistant",
+            "top": 1085.953125,
+            "height": 50.40625
+          }
+        ]
+      },
+      "ratio": 0.27216387548490867,
+      "heightDelta": 936
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--avance-profesional-1440.png",
+        "geometry": {
+          "height": 4093.046875,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Inicia una Carrera en el Cuidado de la Salud como Asistente de Enfermería Certificado",
+            "top": 196.484375,
+            "height": 286
+          },
+          {
+            "text": "Asistente de enfermería certificado",
+            "top": 1279.203125,
+            "height": 25.203125
+          },
+          {
+            "text": "ÁREAS DE CUIDADOS A LARGO PLAZO",
+            "top": 2772.640625,
+            "height": 25.203125
+          },
+          {
+            "text": "Aspirantes",
+            "top": 3875.84375,
+            "height": 25.203125
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--avance-profesional-1440.png",
+        "geometry": {
+          "height": 5102.265625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Aspirantes",
+            "top": 171.28125,
+            "height": 25.203125
+          },
+          {
+            "text": "Inicia una Carrera en el Cuidado de la Salud como Asistente de Enfermería Certificado",
+            "top": 196.484375,
+            "height": 286
+          },
+          {
+            "text": "Convertirte en Asistente de Enfermería Certificado (CNA) te permite comenzar a trabajar en el campo de la salud mientras tienes oportunidades para avanzar y crecer profesional y personalmente.",
+            "top": 512.484375,
+            "height": 112.21875
+          },
+          {
+            "text": "Asistente de enfermería certificado",
+            "top": 1279.203125,
+            "height": 25.203125
+          }
+        ]
+      },
+      "ratio": 0.3194458626427653,
+      "heightDelta": 1236
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--avance-profesional-390.png",
+        "geometry": {
+          "height": 6616.546875,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Inicia una Carrera en el Cuidado de la Salud como Asistente de Enfermería Certificado",
+            "top": 190.203125,
+            "height": 249.5625
+          },
+          {
+            "text": "Asistente de enfermería certificado",
+            "top": 2144.140625,
+            "height": 75.609375
+          },
+          {
+            "text": "ÁREAS DE CUIDADOS A LARGO PLAZO",
+            "top": 5071.796875,
+            "height": 50.40625
+          },
+          {
+            "text": "Aspirantes",
+            "top": 6517.140625,
+            "height": 25.203125
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--avance-profesional-390.png",
+        "geometry": {
+          "height": 7730.203125,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Aspirantes",
+            "top": 165,
+            "height": 25.203125
+          },
+          {
+            "text": "Inicia una Carrera en el Cuidado de la Salud como Asistente de Enfermería Certificado",
+            "top": 190.203125,
+            "height": 249.5625
+          },
+          {
+            "text": "Convertirte en Asistente de Enfermería Certificado (CNA) te permite comenzar a trabajar en el campo de la salud mientras tienes oportunidades para avanzar y crecer profesional y personalmente.",
+            "top": 459.765625,
+            "height": 183.5625
+          },
+          {
+            "text": "Asistente de enfermería certificado",
+            "top": 2094.140625,
+            "height": 75.609375
+          }
+        ]
+      },
+      "ratio": 0.39259534482345326,
+      "heightDelta": 1500
+    },
+    {
+      "path": "/es/earn-and-learn/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--earn-and-learn-1440.png",
+        "geometry": {
+          "height": 4060.265625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Earn and Learn: tu historia como CNA comienza aquí",
+            "top": 267.984375,
+            "height": 143
+          },
+          {
+            "text": "Asistente de enfermería certificado",
+            "top": 920,
+            "height": 25.203125
+          },
+          {
+            "text": "PROGRAMA EARN AND LEARN DE CNAP",
+            "top": 2322.703125,
+            "height": 25.203125
+          },
+          {
+            "text": "Aspirantes",
+            "top": 3843.0625,
+            "height": 25.203125
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--earn-and-learn-1440.png",
+        "geometry": {
+          "height": 4587.234375,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Aspirantes",
+            "top": 242.78125,
+            "height": 25.203125
+          },
+          {
+            "text": "Earn and Learn: tu historia como CNA comienza aquí",
+            "top": 267.984375,
+            "height": 143
+          },
+          {
+            "text": "Gana un salario mientras te capacitas para convertirte en\nAsistente de Enfermería Certificado (CNA). La capacitación\nincluye práctica presencial y clases teóricas en un centro\nparticipante en tu área.",
+            "top": 440.984375,
+            "height": 112.21875
+          },
+          {
+            "text": "Asistente de enfermería certificado",
+            "top": 920,
+            "height": 25.203125
+          }
+        ]
+      },
+      "ratio": 0.318741321063649,
+      "heightDelta": 753
+    },
+    {
+      "path": "/es/earn-and-learn/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--earn-and-learn-390.png",
+        "geometry": {
+          "height": 7336.28125,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Earn and Learn: tu historia como CNA comienza aquí",
+            "top": 190.203125,
+            "height": 124.78125
+          },
+          {
+            "text": "Asistente de enfermería certificado",
+            "top": 1116.546875,
+            "height": 75.609375
+          },
+          {
+            "text": "PROGRAMA EARN AND LEARN DE CNAP",
+            "top": 3668.5,
+            "height": 50.40625
+          },
+          {
+            "text": "Aspirantes",
+            "top": 7236.875,
+            "height": 25.203125
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--earn-and-learn-390.png",
+        "geometry": {
+          "height": 7958.78125,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Aspirantes",
+            "top": 165,
+            "height": 25.203125
+          },
+          {
+            "text": "Earn and Learn: tu historia como CNA comienza aquí",
+            "top": 190.203125,
+            "height": 124.78125
+          },
+          {
+            "text": "Gana un salario mientras te capacitas para convertirte en\nAsistente de Enfermería Certificado (CNA). La capacitación\nincluye práctica presencial y clases teóricas en un centro\nparticipante en tu área.",
+            "top": 334.984375,
+            "height": 183.5625
+          },
+          {
+            "text": "Asistente de enfermería certificado",
+            "top": 1116.546875,
+            "height": 75.609375
+          }
+        ]
+      },
+      "ratio": 0.3127877331002331,
+      "heightDelta": 1009
+    },
+    {
+      "path": "/es/ganar-y-aprender-la/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--ganar-y-aprender-la-1440.png",
+        "geometry": {
+          "height": 4060.265625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Tu historia como CNA comienza aquí en el sur de\nCalifornia.",
+            "top": 232.234375,
+            "height": 214.5
+          },
+          {
+            "text": "Asistente de enfermería certificado",
+            "top": 920,
+            "height": 25.203125
+          },
+          {
+            "text": "PROGRAMA EARN AND LEARN DE CNAP",
+            "top": 2322.703125,
+            "height": 25.203125
+          },
+          {
+            "text": "Aspirantes",
+            "top": 3843.0625,
+            "height": 25.203125
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--ganar-y-aprender-la-1440.png",
+        "geometry": {
+          "height": 4587.234375,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Aspirantes",
+            "top": 207.03125,
+            "height": 25.203125
+          },
+          {
+            "text": "Tu historia como CNA comienza aquí en el sur de\nCalifornia.",
+            "top": 232.234375,
+            "height": 214.5
+          },
+          {
+            "text": "Gana un salario mientras te capacitas para convertirte en\nAsistente de Enfermería Certificado (CNA). La capacitación\nincluye práctica presencial y clases teóricas en un centro\nparticipante en tu área.",
+            "top": 476.734375,
+            "height": 112.21875
+          },
+          {
+            "text": "Asistente de enfermería certificado",
+            "top": 920,
+            "height": 25.203125
+          }
+        ]
+      },
+      "ratio": 0.31857266471843976,
+      "heightDelta": 753
+    },
+    {
+      "path": "/es/ganar-y-aprender-la/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--ganar-y-aprender-la-390.png",
+        "geometry": {
+          "height": 7336.28125,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Tu historia como CNA comienza aquí en el sur de\nCalifornia.",
+            "top": 190.203125,
+            "height": 124.78125
+          },
+          {
+            "text": "Asistente de enfermería certificado",
+            "top": 1116.546875,
+            "height": 75.609375
+          },
+          {
+            "text": "PROGRAMA EARN AND LEARN DE CNAP",
+            "top": 3668.5,
+            "height": 50.40625
+          },
+          {
+            "text": "Aspirantes",
+            "top": 7236.875,
+            "height": 25.203125
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--ganar-y-aprender-la-390.png",
+        "geometry": {
+          "height": 7958.78125,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Aspirantes",
+            "top": 165,
+            "height": 25.203125
+          },
+          {
+            "text": "Tu historia como CNA comienza aquí en el sur de\nCalifornia.",
+            "top": 190.203125,
+            "height": 124.78125
+          },
+          {
+            "text": "Gana un salario mientras te capacitas para convertirte en\nAsistente de Enfermería Certificado (CNA). La capacitación\nincluye práctica presencial y clases teóricas en un centro\nparticipante en tu área.",
+            "top": 334.984375,
+            "height": 183.5625
+          },
+          {
+            "text": "Asistente de enfermería certificado",
+            "top": 1116.546875,
+            "height": 75.609375
+          }
+        ]
+      },
+      "ratio": 0.3126454274891775,
+      "heightDelta": 1009
+    },
+    {
+      "path": "/es/gana-y-aprende-cvalley/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--gana-y-aprende-cvalley-1440.png",
+        "geometry": {
+          "height": 4060.265625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Tu historia como CNA comienza aquí en el Valle Central.",
+            "top": 232.234375,
+            "height": 214.5
+          },
+          {
+            "text": "Asistente de enfermería certificado",
+            "top": 920,
+            "height": 25.203125
+          },
+          {
+            "text": "PROGRAMA EARN AND LEARN DE CNAP",
+            "top": 2322.703125,
+            "height": 25.203125
+          },
+          {
+            "text": "Aspirantes",
+            "top": 3843.0625,
+            "height": 25.203125
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--gana-y-aprende-cvalley-1440.png",
+        "geometry": {
+          "height": 4587.234375,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Aspirantes",
+            "top": 207.03125,
+            "height": 25.203125
+          },
+          {
+            "text": "Tu historia como CNA comienza aquí en el Valle Central.",
+            "top": 232.234375,
+            "height": 214.5
+          },
+          {
+            "text": "Gana un salario mientras te capacitas para convertirte en\nAsistente de Enfermería Certificado (CNA). La capacitación\nincluye práctica presencial y clases teóricas en un centro\nparticipante en tu área.",
+            "top": 476.734375,
+            "height": 112.21875
+          },
+          {
+            "text": "Asistente de enfermería certificado",
+            "top": 920,
+            "height": 25.203125
+          }
+        ]
+      },
+      "ratio": 0.3185748668366184,
+      "heightDelta": 753
+    },
+    {
+      "path": "/es/gana-y-aprende-cvalley/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--gana-y-aprende-cvalley-390.png",
+        "geometry": {
+          "height": 7336.28125,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Tu historia como CNA comienza aquí en el Valle Central.",
+            "top": 190.203125,
+            "height": 124.78125
+          },
+          {
+            "text": "Asistente de enfermería certificado",
+            "top": 1116.546875,
+            "height": 75.609375
+          },
+          {
+            "text": "PROGRAMA EARN AND LEARN DE CNAP",
+            "top": 3668.5,
+            "height": 50.40625
+          },
+          {
+            "text": "Aspirantes",
+            "top": 7236.875,
+            "height": 25.203125
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--gana-y-aprende-cvalley-390.png",
+        "geometry": {
+          "height": 7958.78125,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Aspirantes",
+            "top": 165,
+            "height": 25.203125
+          },
+          {
+            "text": "Tu historia como CNA comienza aquí en el Valle Central.",
+            "top": 190.203125,
+            "height": 124.78125
+          },
+          {
+            "text": "Gana un salario mientras te capacitas para convertirte en\nAsistente de Enfermería Certificado (CNA). La capacitación\nincluye práctica presencial y clases teóricas en un centro\nparticipante en tu área.",
+            "top": 334.984375,
+            "height": 183.5625
+          },
+          {
+            "text": "Asistente de enfermería certificado",
+            "top": 1116.546875,
+            "height": 75.609375
+          }
+        ]
+      },
+      "ratio": 0.301840086996337,
+      "heightDelta": 1009
+    },
+    {
+      "path": "/es/gana-y-aprende-bayarea/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--gana-y-aprende-bayarea-1440.png",
+        "geometry": {
+          "height": 4060.265625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Tu historia como CNA comienza aquí en el Área de la\nBahía.",
+            "top": 232.234375,
+            "height": 214.5
+          },
+          {
+            "text": "Asistente de enfermería certificado",
+            "top": 920,
+            "height": 25.203125
+          },
+          {
+            "text": "PROGRAMA EARN AND LEARN DE CNAP",
+            "top": 2322.703125,
+            "height": 25.203125
+          },
+          {
+            "text": "Aspirantes",
+            "top": 3843.0625,
+            "height": 25.203125
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--gana-y-aprende-bayarea-1440.png",
+        "geometry": {
+          "height": 4587.234375,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Aspirantes",
+            "top": 207.03125,
+            "height": 25.203125
+          },
+          {
+            "text": "Tu historia como CNA comienza aquí en el Área de la\nBahía.",
+            "top": 232.234375,
+            "height": 214.5
+          },
+          {
+            "text": "Gana un salario mientras te capacitas para convertirte en\nAsistente de Enfermería Certificado (CNA). La capacitación\nincluye práctica presencial y clases teóricas en un centro\nparticipante en tu área.",
+            "top": 476.734375,
+            "height": 112.21875
+          },
+          {
+            "text": "Asistente de enfermería certificado",
+            "top": 920,
+            "height": 25.203125
+          }
+        ]
+      },
+      "ratio": 0.31594851706771127,
+      "heightDelta": 753
+    },
+    {
+      "path": "/es/gana-y-aprende-bayarea/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--gana-y-aprende-bayarea-390.png",
+        "geometry": {
+          "height": 7336.28125,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Tu historia como CNA comienza aquí en el Área de la\nBahía.",
+            "top": 190.203125,
+            "height": 124.78125
+          },
+          {
+            "text": "Asistente de enfermería certificado",
+            "top": 1116.546875,
+            "height": 75.609375
+          },
+          {
+            "text": "PROGRAMA EARN AND LEARN DE CNAP",
+            "top": 3668.5,
+            "height": 50.40625
+          },
+          {
+            "text": "Aspirantes",
+            "top": 7236.875,
+            "height": 25.203125
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--gana-y-aprende-bayarea-390.png",
+        "geometry": {
+          "height": 7958.78125,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Aspirantes",
+            "top": 165,
+            "height": 25.203125
+          },
+          {
+            "text": "Tu historia como CNA comienza aquí en el Área de la\nBahía.",
+            "top": 190.203125,
+            "height": 124.78125
+          },
+          {
+            "text": "Gana un salario mientras te capacitas para convertirte en\nAsistente de Enfermería Certificado (CNA). La capacitación\nincluye práctica presencial y clases teóricas en un centro\nparticipante en tu área.",
+            "top": 334.984375,
+            "height": 183.5625
+          },
+          {
+            "text": "Asistente de enfermería certificado",
+            "top": 1116.546875,
+            "height": 75.609375
+          }
+        ]
+      },
+      "ratio": 0.2796182983682984,
+      "heightDelta": 1009
+    },
+    {
+      "path": "/es/earn-and-learn-norcal/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--earn-and-learn-norcal-1440.png",
+        "geometry": {
+          "height": 4060.265625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Tu historia como CNA comienza aquí en el norte de California.",
+            "top": 232.234375,
+            "height": 214.5
+          },
+          {
+            "text": "Asistente de enfermería certificado",
+            "top": 920,
+            "height": 25.203125
+          },
+          {
+            "text": "PROGRAMA EARN AND LEARN DE CNAP",
+            "top": 2322.703125,
+            "height": 25.203125
+          },
+          {
+            "text": "Aspirantes",
+            "top": 3843.0625,
+            "height": 25.203125
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--earn-and-learn-norcal-1440.png",
+        "geometry": {
+          "height": 4587.234375,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Aspirantes",
+            "top": 207.03125,
+            "height": 25.203125
+          },
+          {
+            "text": "Tu historia como CNA comienza aquí en el norte de California.",
+            "top": 232.234375,
+            "height": 214.5
+          },
+          {
+            "text": "Gana un salario mientras te capacitas para convertirte en\nAsistente de Enfermería Certificado (CNA). La capacitación\nincluye práctica presencial y clases teóricas en un centro\nparticipante en tu área.",
+            "top": 476.734375,
+            "height": 112.21875
+          },
+          {
+            "text": "Asistente de enfermería certificado",
+            "top": 920,
+            "height": 25.203125
+          }
+        ]
+      },
+      "ratio": 0.3190347209268586,
+      "heightDelta": 753
+    },
+    {
+      "path": "/es/earn-and-learn-norcal/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--earn-and-learn-norcal-390.png",
+        "geometry": {
+          "height": 7336.28125,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Tu historia como CNA comienza aquí en el norte de California.",
+            "top": 190.203125,
+            "height": 124.78125
+          },
+          {
+            "text": "Asistente de enfermería certificado",
+            "top": 1116.546875,
+            "height": 75.609375
+          },
+          {
+            "text": "PROGRAMA EARN AND LEARN DE CNAP",
+            "top": 3668.5,
+            "height": 50.40625
+          },
+          {
+            "text": "Aspirantes",
+            "top": 7236.875,
+            "height": 25.203125
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--earn-and-learn-norcal-390.png",
+        "geometry": {
+          "height": 7958.78125,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Aspirantes",
+            "top": 165,
+            "height": 25.203125
+          },
+          {
+            "text": "Tu historia como CNA comienza aquí en el norte de California.",
+            "top": 190.203125,
+            "height": 124.78125
+          },
+          {
+            "text": "Gana un salario mientras te capacitas para convertirte en\nAsistente de Enfermería Certificado (CNA). La capacitación\nincluye práctica presencial y clases teóricas en un centro\nparticipante en tu área.",
+            "top": 334.984375,
+            "height": 183.5625
+          },
+          {
+            "text": "Asistente de enfermería certificado",
+            "top": 1116.546875,
+            "height": 75.609375
+          }
+        ]
+      },
+      "ratio": 0.3018447698135198,
+      "heightDelta": 1009
+    },
+    {
+      "path": "/es/gana-y-aprende-san-diego/",
+      "width": 1440,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--gana-y-aprende-san-diego-1440.png",
+        "geometry": {
+          "height": 4060.265625,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Tu historia como CNA comienza aquí en San Diego.",
+            "top": 232.234375,
+            "height": 214.5
+          },
+          {
+            "text": "Asistente de enfermería certificado",
+            "top": 920,
+            "height": 25.203125
+          },
+          {
+            "text": "PROGRAMA EARN AND LEARN DE CNAP",
+            "top": 2322.703125,
+            "height": 25.203125
+          },
+          {
+            "text": "Aspirantes",
+            "top": 3843.0625,
+            "height": 25.203125
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--gana-y-aprende-san-diego-1440.png",
+        "geometry": {
+          "height": 4587.234375,
+          "width": 1440
+        },
+        "headings": [
+          {
+            "text": "Aspirantes",
+            "top": 207.03125,
+            "height": 25.203125
+          },
+          {
+            "text": "Tu historia como CNA comienza aquí en San Diego.",
+            "top": 232.234375,
+            "height": 214.5
+          },
+          {
+            "text": "Gana un salario mientras te capacitas para convertirte en\nAsistente de Enfermería Certificado (CNA). La capacitación\nincluye práctica presencial y clases teóricas en un centro\nparticipante en tu área.",
+            "top": 476.734375,
+            "height": 112.21875
+          },
+          {
+            "text": "Asistente de enfermería certificado",
+            "top": 920,
+            "height": 25.203125
+          }
+        ]
+      },
+      "ratio": 0.31594968289498226,
+      "heightDelta": 753
+    },
+    {
+      "path": "/es/gana-y-aprende-san-diego/",
+      "width": 390,
+      "source": {
+        "file": "_source/phase-10-preliminary/stabilized/source-es--gana-y-aprende-san-diego-390.png",
+        "geometry": {
+          "height": 7336.28125,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Tu historia como CNA comienza aquí en San Diego.",
+            "top": 190.203125,
+            "height": 124.78125
+          },
+          {
+            "text": "Asistente de enfermería certificado",
+            "top": 1116.546875,
+            "height": 75.609375
+          },
+          {
+            "text": "PROGRAMA EARN AND LEARN DE CNAP",
+            "top": 3668.5,
+            "height": 50.40625
+          },
+          {
+            "text": "Aspirantes",
+            "top": 7236.875,
+            "height": 25.203125
+          }
+        ]
+      },
+      "native": {
+        "file": "_source/phase-10-preliminary/stabilized/native-es--gana-y-aprende-san-diego-390.png",
+        "geometry": {
+          "height": 7958.78125,
+          "width": 390
+        },
+        "headings": [
+          {
+            "text": "Aspirantes",
+            "top": 165,
+            "height": 25.203125
+          },
+          {
+            "text": "Tu historia como CNA comienza aquí en San Diego.",
+            "top": 190.203125,
+            "height": 124.78125
+          },
+          {
+            "text": "Gana un salario mientras te capacitas para convertirte en\nAsistente de Enfermería Certificado (CNA). La capacitación\nincluye práctica presencial y clases teóricas en un centro\nparticipante en tu área.",
+            "top": 334.984375,
+            "height": 183.5625
+          },
+          {
+            "text": "Asistente de enfermería certificado",
+            "top": 1116.546875,
+            "height": 75.609375
+          }
+        ]
+      },
+      "ratio": 0.279615956959707,
+      "heightDelta": 1009
+    }
+  ]
+}

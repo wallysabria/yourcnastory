@@ -1,0 +1,338 @@
+[
+  {
+    "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 3026,
+    "actualCharacters": 3026
+  },
+  {
+    "path": "/careerpaths/careers-in-nursing/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 15030,
+    "actualCharacters": 15030
+  },
+  {
+    "path": "/careerpaths/careers-in-support-services/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 6754,
+    "actualCharacters": 6754
+  },
+  {
+    "path": "/careerpaths/careers-in-therapy/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 5759,
+    "actualCharacters": 5759
+  },
+  {
+    "path": "/careerpaths/careers-in-care-coordination/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 3308,
+    "actualCharacters": 3308
+  },
+  {
+    "path": "/careerpaths/careers-in-social-services/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 4744,
+    "actualCharacters": 4744
+  },
+  {
+    "path": "/careerpaths/careers-in-activities/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 1911,
+    "actualCharacters": 1911
+  },
+  {
+    "path": "/careerpaths/careers-in-administration/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 2800,
+    "actualCharacters": 2800
+  },
+  {
+    "path": "/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 7127,
+    "actualCharacters": 7127
+  },
+  {
+    "path": "/career-seekers/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 5101,
+    "actualCharacters": 5101
+  },
+  {
+    "path": "/career-paths-in-long-term-care/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 2389,
+    "actualCharacters": 2389
+  },
+  {
+    "path": "/community-resources/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 1624,
+    "actualCharacters": 1624
+  },
+  {
+    "path": "/privacy-policy/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 6209,
+    "actualCharacters": 6209
+  },
+  {
+    "path": "/certified-nurse-assistant-program/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 4070,
+    "actualCharacters": 4070
+  },
+  {
+    "path": "/cna-training-providers/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 1531,
+    "actualCharacters": 1531
+  },
+  {
+    "path": "/what-is-long-term-care/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 4817,
+    "actualCharacters": 4817
+  },
+  {
+    "path": "/career-advancement/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 4137,
+    "actualCharacters": 4137
+  },
+  {
+    "path": "/earn-and-learn-la/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 3301,
+    "actualCharacters": 3301
+  },
+  {
+    "path": "/frequently-asked-questions/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 6505,
+    "actualCharacters": 6505
+  },
+  {
+    "path": "/earn-and-learn-cvalley/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 3300,
+    "actualCharacters": 3300
+  },
+  {
+    "path": "/earn-and-learn-bayarea/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 3295,
+    "actualCharacters": 3295
+  },
+  {
+    "path": "/earn-and-learn-norcal/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 3301,
+    "actualCharacters": 3301
+  },
+  {
+    "path": "/earn-and-learn-san-diego/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 3292,
+    "actualCharacters": 3292
+  },
+  {
+    "path": "/earn-and-learn/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 3294,
+    "actualCharacters": 3294
+  },
+  {
+    "path": "/es/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 8387,
+    "actualCharacters": 8387
+  },
+  {
+    "path": "/es/que-es-cuidar-a-largo-plazo/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 5889,
+    "actualCharacters": 5889
+  },
+  {
+    "path": "/es/recursos-comunitarios/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 1997,
+    "actualCharacters": 1997
+  },
+  {
+    "path": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 2771,
+    "actualCharacters": 2771
+  },
+  {
+    "path": "/es/programa-cna/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 4733,
+    "actualCharacters": 4733
+  },
+  {
+    "path": "/es/aspirantes/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 6042,
+    "actualCharacters": 6042
+  },
+  {
+    "path": "/es/programa-cna-2/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 1745,
+    "actualCharacters": 1745
+  },
+  {
+    "path": "/es/preguntas-frecuentes/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 7206,
+    "actualCharacters": 7206
+  },
+  {
+    "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 3398,
+    "actualCharacters": 3398
+  },
+  {
+    "path": "/es/carreras/carreras-en-enfermeria/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 16190,
+    "actualCharacters": 16190
+  },
+  {
+    "path": "/es/carreras/carreras-en-servicios-de-apoyo/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 7173,
+    "actualCharacters": 7173
+  },
+  {
+    "path": "/es/carreras/carreras-en-terapia/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 6242,
+    "actualCharacters": 6242
+  },
+  {
+    "path": "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 3669,
+    "actualCharacters": 3669
+  },
+  {
+    "path": "/es/carreras/carreras-en-servicios-sociales/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 5306,
+    "actualCharacters": 5306
+  },
+  {
+    "path": "/es/carreras/carreras-en-actividades/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 2143,
+    "actualCharacters": 2143
+  },
+  {
+    "path": "/es/carreras/carreras-en-administracion/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 2953,
+    "actualCharacters": 2953
+  },
+  {
+    "path": "/es/politica-de-privacidad/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 6846,
+    "actualCharacters": 6846
+  },
+  {
+    "path": "/es/avance-profesional/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 4826,
+    "actualCharacters": 4826
+  },
+  {
+    "path": "/es/ganar-y-aprender-la/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 3822,
+    "actualCharacters": 3822
+  },
+  {
+    "path": "/es/gana-y-aprende-cvalley/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 3818,
+    "actualCharacters": 3818
+  },
+  {
+    "path": "/es/gana-y-aprende-bayarea/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 3822,
+    "actualCharacters": 3822
+  },
+  {
+    "path": "/es/earn-and-learn-norcal/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 3824,
+    "actualCharacters": 3824
+  },
+  {
+    "path": "/es/gana-y-aprende-san-diego/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 3812,
+    "actualCharacters": 3812
+  },
+  {
+    "path": "/es/earn-and-learn/",
+    "copyMatches": true,
+    "missingAnchors": [],
+    "expectedCharacters": 3813,
+    "actualCharacters": 3813
+  }
+]

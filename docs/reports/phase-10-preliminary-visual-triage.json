@@ -1,0 +1,773 @@
+{
+  "method": "All 96 full-page current-source comparisons joined to preserved Phase 4 evidence. Ratios are diagnostic, not parity pass/fail. Source dynamic/animation state and new consent/approved controls affect height/pixels; no blanket attribution of every difference to approved changes.",
+  "rows": [
+    {
+      "path": "/",
+      "width": 390,
+      "currentRatio": 0.23449588255949616,
+      "currentHeightDelta": 845,
+      "previousRatio": 0.26417476425254893,
+      "previousHeightDelta": 482
+    },
+    {
+      "path": "/",
+      "width": 1440,
+      "currentRatio": 0.30086040542565945,
+      "currentHeightDelta": 504,
+      "previousRatio": 0.326288774099293,
+      "previousHeightDelta": 315
+    },
+    {
+      "path": "/career-seekers/",
+      "width": 390,
+      "currentRatio": 0.30367873078829943,
+      "currentHeightDelta": 1364,
+      "previousRatio": 0.2480949631981527,
+      "previousHeightDelta": 873
+    },
+    {
+      "path": "/career-seekers/",
+      "width": 1440,
+      "currentRatio": 0.29617171546862997,
+      "currentHeightDelta": 1148,
+      "previousRatio": 0.27581713652016576,
+      "previousHeightDelta": 928
+    },
+    {
+      "path": "/what-is-long-term-care/",
+      "width": 1440,
+      "currentRatio": 0.3519999600607077,
+      "currentHeightDelta": 663,
+      "previousRatio": 0.351874285156359,
+      "previousHeightDelta": 473
+    },
+    {
+      "path": "/what-is-long-term-care/",
+      "width": 390,
+      "currentRatio": 0.21294712188543494,
+      "currentHeightDelta": 819,
+      "previousRatio": 0.21964491236014413,
+      "previousHeightDelta": 465
+    },
+    {
+      "path": "/certified-nurse-assistant-program/",
+      "width": 1440,
+      "currentRatio": 0.08489499958954151,
+      "currentHeightDelta": 238,
+      "previousRatio": 0.04140911905371936,
+      "previousHeightDelta": 28
+    },
+    {
+      "path": "/certified-nurse-assistant-program/",
+      "width": 390,
+      "currentRatio": 0.03827651939896838,
+      "currentHeightDelta": 364,
+      "previousRatio": 0.02964616737703809,
+      "previousHeightDelta": -10
+    },
+    {
+      "path": "/cna-training-providers/",
+      "width": 1440,
+      "currentRatio": 0.0762418781080983,
+      "currentHeightDelta": 238,
+      "previousRatio": 0.027597041973576524,
+      "previousHeightDelta": 28
+    },
+    {
+      "path": "/cna-training-providers/",
+      "width": 390,
+      "currentRatio": 0.028773881347410758,
+      "currentHeightDelta": 365,
+      "previousRatio": 0.027180845344606103,
+      "previousHeightDelta": -10
+    },
+    {
+      "path": "/frequently-asked-questions/",
+      "width": 1440,
+      "currentRatio": 0.3766388369516291,
+      "currentHeightDelta": 733,
+      "previousRatio": 0.3735692069877454,
+      "previousHeightDelta": 507
+    },
+    {
+      "path": "/frequently-asked-questions/",
+      "width": 390,
+      "currentRatio": 0.2798401164995525,
+      "currentHeightDelta": 936,
+      "previousRatio": 0.2296794871794872,
+      "previousHeightDelta": 425
+    },
+    {
+      "path": "/career-paths-in-long-term-care/",
+      "width": 1440,
+      "currentRatio": 0.253884130804077,
+      "currentHeightDelta": 405,
+      "previousRatio": 0.27803351567466295,
+      "previousHeightDelta": 194
+    },
+    {
+      "path": "/career-paths-in-long-term-care/",
+      "width": 390,
+      "currentRatio": 0.480757177837831,
+      "currentHeightDelta": 1476,
+      "previousRatio": 0.505007150221158,
+      "previousHeightDelta": 1102
+    },
+    {
+      "path": "/community-resources/",
+      "width": 1440,
+      "currentRatio": 0.19067491424130353,
+      "currentHeightDelta": 269,
+      "previousRatio": 0.15291680781391148,
+      "previousHeightDelta": 59
+    },
+    {
+      "path": "/community-resources/",
+      "width": 390,
+      "currentRatio": 0.2671214553237025,
+      "currentHeightDelta": 534,
+      "previousRatio": 0.21095523329129887,
+      "previousHeightDelta": 160
+    },
+    {
+      "path": "/privacy-policy/",
+      "width": 1440,
+      "currentRatio": 0.11014320753224148,
+      "currentHeightDelta": 86,
+      "previousRatio": 0.1153319602616913,
+      "previousHeightDelta": -153
+    },
+    {
+      "path": "/privacy-policy/",
+      "width": 390,
+      "currentRatio": 0.18265129609416392,
+      "currentHeightDelta": -46,
+      "previousRatio": 0.17218934911242603,
+      "previousHeightDelta": -410
+    },
+    {
+      "path": "/es/",
+      "width": 1440,
+      "currentRatio": 0.23358666218220706,
+      "currentHeightDelta": 351,
+      "previousRatio": 0.24587401889670052,
+      "previousHeightDelta": 117
+    },
+    {
+      "path": "/es/",
+      "width": 390,
+      "currentRatio": 0.10448691427177154,
+      "currentHeightDelta": 511,
+      "previousRatio": 0.1149190466263637,
+      "previousHeightDelta": 105
+    },
+    {
+      "path": "/es/aspirantes/",
+      "width": 1440,
+      "currentRatio": 0.3024324584497457,
+      "currentHeightDelta": 1260,
+      "previousRatio": 0.274391292329604,
+      "previousHeightDelta": 985
+    },
+    {
+      "path": "/es/aspirantes/",
+      "width": 390,
+      "currentRatio": 0.30667659222497934,
+      "currentHeightDelta": 1571,
+      "previousRatio": 0.27083623194841205,
+      "previousHeightDelta": 1115
+    },
+    {
+      "path": "/es/que-es-cuidar-a-largo-plazo/",
+      "width": 1440,
+      "currentRatio": 0.35543043325556306,
+      "currentHeightDelta": 718,
+      "previousRatio": 0.35246038337815744,
+      "previousHeightDelta": 503
+    },
+    {
+      "path": "/es/que-es-cuidar-a-largo-plazo/",
+      "width": 390,
+      "currentRatio": 0.21146812059175515,
+      "currentHeightDelta": 928,
+      "previousRatio": 0.2148673872466033,
+      "previousHeightDelta": 551
+    },
+    {
+      "path": "/es/programa-cna/",
+      "width": 1440,
+      "currentRatio": 0.07834202166855868,
+      "currentHeightDelta": 237,
+      "previousRatio": 0.0355864110882359,
+      "previousHeightDelta": 1
+    },
+    {
+      "path": "/es/programa-cna/",
+      "width": 390,
+      "currentRatio": 0.04501972816002251,
+      "currentHeightDelta": 386,
+      "previousRatio": 0.02914532225156718,
+      "previousHeightDelta": -11
+    },
+    {
+      "path": "/es/programa-cna-2/",
+      "width": 1440,
+      "currentRatio": 0.07111669610695484,
+      "currentHeightDelta": 236,
+      "previousRatio": 0.017778758829465186,
+      "previousHeightDelta": 1
+    },
+    {
+      "path": "/es/programa-cna-2/",
+      "width": 390,
+      "currentRatio": 0.03183885933006683,
+      "currentHeightDelta": 386,
+      "previousRatio": 0.027944491406029868,
+      "previousHeightDelta": -10
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "width": 1440,
+      "currentRatio": 0.38468584048202614,
+      "currentHeightDelta": 760,
+      "previousRatio": 0.36535227399709463,
+      "previousHeightDelta": 479
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "width": 390,
+      "currentRatio": 0.2940750343514971,
+      "currentHeightDelta": 1009,
+      "previousRatio": 0.26653379225699725,
+      "previousHeightDelta": 533
+    },
+    {
+      "path": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+      "width": 1440,
+      "currentRatio": 0.2704532336781811,
+      "currentHeightDelta": 488,
+      "previousRatio": 0.2955022745684552,
+      "previousHeightDelta": 252
+    },
+    {
+      "path": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+      "width": 390,
+      "currentRatio": 0.4792246514970629,
+      "currentHeightDelta": 1591,
+      "previousRatio": 0.4972273325800095,
+      "previousHeightDelta": 1194
+    },
+    {
+      "path": "/es/recursos-comunitarios/",
+      "width": 1440,
+      "currentRatio": 0.1638898708984733,
+      "currentHeightDelta": 242,
+      "previousRatio": 0.10250828411391176,
+      "previousHeightDelta": 6
+    },
+    {
+      "path": "/es/recursos-comunitarios/",
+      "width": 390,
+      "currentRatio": 0.25413902071691685,
+      "currentHeightDelta": 556,
+      "previousRatio": 0.2165642960204419,
+      "previousHeightDelta": 159
+    },
+    {
+      "path": "/es/politica-de-privacidad/",
+      "width": 1440,
+      "currentRatio": 0.13017905711695377,
+      "currentHeightDelta": 56,
+      "previousRatio": 0.13228337669625548,
+      "previousHeightDelta": -208
+    },
+    {
+      "path": "/es/politica-de-privacidad/",
+      "width": 390,
+      "currentRatio": 0.18615610973608418,
+      "currentHeightDelta": -53,
+      "previousRatio": 0.174727104312422,
+      "previousHeightDelta": -439
+    },
+    {
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "width": 1440,
+      "currentRatio": 0.15104901960784314,
+      "currentHeightDelta": 398,
+      "previousRatio": 0.15214371980676328,
+      "previousHeightDelta": 218
+    },
+    {
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "width": 390,
+      "currentRatio": 0.127406461168194,
+      "currentHeightDelta": 583,
+      "previousRatio": 0.09143035553994458,
+      "previousHeightDelta": 228
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "width": 1440,
+      "currentRatio": 0.10774314850991647,
+      "currentHeightDelta": 393,
+      "previousRatio": 0.1122964673492494,
+      "previousHeightDelta": 213
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "width": 390,
+      "currentRatio": 0.09881680935259432,
+      "currentHeightDelta": 577,
+      "previousRatio": 0.07917055669725422,
+      "previousHeightDelta": 223
+    },
+    {
+      "path": "/careerpaths/careers-in-administration/",
+      "width": 1440,
+      "currentRatio": 0.13885946003791352,
+      "currentHeightDelta": 398,
+      "previousRatio": 0.18375896705912628,
+      "previousHeightDelta": 218
+    },
+    {
+      "path": "/careerpaths/careers-in-administration/",
+      "width": 390,
+      "currentRatio": 0.15104933443749233,
+      "currentHeightDelta": 583,
+      "previousRatio": 0.12318541368115098,
+      "previousHeightDelta": 229
+    },
+    {
+      "path": "/careerpaths/careers-in-social-services/",
+      "width": 1440,
+      "currentRatio": 0.14787905804877022,
+      "currentHeightDelta": 398,
+      "previousRatio": 0.1754643697314252,
+      "previousHeightDelta": 218
+    },
+    {
+      "path": "/careerpaths/careers-in-social-services/",
+      "width": 390,
+      "currentRatio": 0.1247153696816265,
+      "currentHeightDelta": 583,
+      "previousRatio": 0.10790651392830708,
+      "previousHeightDelta": 228
+    },
+    {
+      "path": "/careerpaths/careers-in-therapy/",
+      "width": 1440,
+      "currentRatio": 0.11451450766852518,
+      "currentHeightDelta": 398,
+      "previousRatio": 0.13559449448644398,
+      "previousHeightDelta": 218
+    },
+    {
+      "path": "/careerpaths/careers-in-therapy/",
+      "width": 390,
+      "currentRatio": 0.11100528430845173,
+      "currentHeightDelta": 584,
+      "previousRatio": 0.08995197740112994,
+      "previousHeightDelta": 229
+    },
+    {
+      "path": "/careerpaths/careers-in-care-coordination/",
+      "width": 1440,
+      "currentRatio": 0.1519740651655865,
+      "currentHeightDelta": 398,
+      "previousRatio": 0.18461362953721033,
+      "previousHeightDelta": 218
+    },
+    {
+      "path": "/careerpaths/careers-in-care-coordination/",
+      "width": 390,
+      "currentRatio": 0.13919115452448785,
+      "currentHeightDelta": 583,
+      "previousRatio": 0.12236534585077741,
+      "previousHeightDelta": 228
+    },
+    {
+      "path": "/careerpaths/careers-in-activities/",
+      "width": 1440,
+      "currentRatio": 0.17376588751483354,
+      "currentHeightDelta": 398,
+      "previousRatio": 0.2223344681270969,
+      "previousHeightDelta": 218
+    },
+    {
+      "path": "/careerpaths/careers-in-activities/",
+      "width": 390,
+      "currentRatio": 0.15952261558519706,
+      "currentHeightDelta": 583,
+      "previousRatio": 0.14225581513717106,
+      "previousHeightDelta": 229
+    },
+    {
+      "path": "/careerpaths/careers-in-support-services/",
+      "width": 1440,
+      "currentRatio": 0.14240607638888889,
+      "currentHeightDelta": 398,
+      "previousRatio": 0.15762929809605,
+      "previousHeightDelta": 218
+    },
+    {
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "width": 1440,
+      "currentRatio": 0.14646589658965897,
+      "currentHeightDelta": 396,
+      "previousRatio": 0.12148805182174985,
+      "previousHeightDelta": 161
+    },
+    {
+      "path": "/careerpaths/careers-in-support-services/",
+      "width": 390,
+      "currentRatio": 0.11703424667483332,
+      "currentHeightDelta": 583,
+      "previousRatio": 0.10073507685044414,
+      "previousHeightDelta": 229
+    },
+    {
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "width": 390,
+      "currentRatio": 0.12915949423094206,
+      "currentHeightDelta": 633,
+      "previousRatio": 0.08161869030380155,
+      "previousHeightDelta": 227
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "width": 1440,
+      "currentRatio": 0.10398588052906314,
+      "currentHeightDelta": 391,
+      "previousRatio": 0.10374231720945083,
+      "previousHeightDelta": 156
+    },
+    {
+      "path": "/es/carreras/carreras-en-administracion/",
+      "width": 1440,
+      "currentRatio": 0.1296271630236794,
+      "currentHeightDelta": 396,
+      "previousRatio": 0.15561901865369018,
+      "previousHeightDelta": 161
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "width": 390,
+      "currentRatio": 0.09732819470250985,
+      "currentHeightDelta": 409,
+      "previousRatio": 0.07733320788361851,
+      "previousHeightDelta": 222
+    },
+    {
+      "path": "/es/carreras/carreras-en-administracion/",
+      "width": 390,
+      "currentRatio": 0.15561611426802574,
+      "currentHeightDelta": 634,
+      "previousRatio": 0.11385210231364078,
+      "previousHeightDelta": 228
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-sociales/",
+      "width": 1440,
+      "currentRatio": 0.13717977834302325,
+      "currentHeightDelta": 396,
+      "previousRatio": 0.15078696674469116,
+      "previousHeightDelta": 161
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-sociales/",
+      "width": 390,
+      "currentRatio": 0.1254889291519011,
+      "currentHeightDelta": 634,
+      "previousRatio": 0.09903391648141244,
+      "previousHeightDelta": 228
+    },
+    {
+      "path": "/es/carreras/carreras-en-terapia/",
+      "width": 1440,
+      "currentRatio": 0.10697994084635219,
+      "currentHeightDelta": 396,
+      "previousRatio": 0.11687266261228199,
+      "previousHeightDelta": 161
+    },
+    {
+      "path": "/es/carreras/carreras-en-terapia/",
+      "width": 390,
+      "currentRatio": 0.11085811378067376,
+      "currentHeightDelta": 634,
+      "previousRatio": 0.08354388731275181,
+      "previousHeightDelta": 228
+    },
+    {
+      "path": "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+      "width": 1440,
+      "currentRatio": 0.14413145154223625,
+      "currentHeightDelta": 396,
+      "previousRatio": 0.16268362506604186,
+      "previousHeightDelta": 161
+    },
+    {
+      "path": "/es/carreras/carreras-en-actividades/",
+      "width": 1440,
+      "currentRatio": 0.16423688616071427,
+      "currentHeightDelta": 396,
+      "previousRatio": 0.19389680999303274,
+      "previousHeightDelta": 161
+    },
+    {
+      "path": "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+      "width": 390,
+      "currentRatio": 0.1443771983871345,
+      "currentHeightDelta": 633,
+      "previousRatio": 0.11495920807541829,
+      "previousHeightDelta": 227
+    },
+    {
+      "path": "/es/carreras/carreras-en-actividades/",
+      "width": 390,
+      "currentRatio": 0.16663738304406828,
+      "currentHeightDelta": 633,
+      "previousRatio": 0.13277728570022634,
+      "previousHeightDelta": 227
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-de-apoyo/",
+      "width": 1440,
+      "currentRatio": 0.1385063559322034,
+      "currentHeightDelta": 397,
+      "previousRatio": 0.14537381777720718,
+      "previousHeightDelta": 162
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-de-apoyo/",
+      "width": 390,
+      "currentRatio": 0.12023055270515802,
+      "currentHeightDelta": 634,
+      "previousRatio": 0.09645762537328803,
+      "previousHeightDelta": 228
+    },
+    {
+      "path": "/career-advancement/",
+      "width": 1440,
+      "currentRatio": 0.3149111878533543,
+      "currentHeightDelta": 1151,
+      "previousRatio": 0.30572756352224034,
+      "previousHeightDelta": 955
+    },
+    {
+      "path": "/career-advancement/",
+      "width": 390,
+      "currentRatio": 0.37720189359479767,
+      "currentHeightDelta": 1342,
+      "previousRatio": 0.33469209107445425,
+      "previousHeightDelta": 851
+    },
+    {
+      "path": "/earn-and-learn/",
+      "width": 1440,
+      "currentRatio": 0.3070025703376634,
+      "currentHeightDelta": 726,
+      "previousRatio": 0.28220578254000045,
+      "previousHeightDelta": 510
+    },
+    {
+      "path": "/earn-and-learn/",
+      "width": 390,
+      "currentRatio": 0.29239041401403026,
+      "currentHeightDelta": 936,
+      "previousRatio": 0.16385369700502306,
+      "previousHeightDelta": 425
+    },
+    {
+      "path": "/earn-and-learn-la/",
+      "width": 1440,
+      "currentRatio": 0.3070045700816962,
+      "currentHeightDelta": 726,
+      "previousRatio": 0.2822041135367292,
+      "previousHeightDelta": 510
+    },
+    {
+      "path": "/earn-and-learn-la/",
+      "width": 390,
+      "currentRatio": 0.2914142438127678,
+      "currentHeightDelta": 936,
+      "previousRatio": 0.1638485539421577,
+      "previousHeightDelta": 425
+    },
+    {
+      "path": "/earn-and-learn-cvalley/",
+      "width": 1440,
+      "currentRatio": 0.30669340991019817,
+      "currentHeightDelta": 726,
+      "previousRatio": 0.2822028617842758,
+      "previousHeightDelta": 510
+    },
+    {
+      "path": "/earn-and-learn-cvalley/",
+      "width": 390,
+      "currentRatio": 0.29392563156400797,
+      "currentHeightDelta": 936,
+      "previousRatio": 0.16385226837644934,
+      "previousHeightDelta": 425
+    },
+    {
+      "path": "/earn-and-learn-bayarea/",
+      "width": 1440,
+      "currentRatio": 0.3049920276871227,
+      "currentHeightDelta": 726,
+      "previousRatio": 0.2829507143334001,
+      "previousHeightDelta": 510
+    },
+    {
+      "path": "/earn-and-learn-bayarea/",
+      "width": 390,
+      "currentRatio": 0.2721619831582931,
+      "currentHeightDelta": 936,
+      "previousRatio": 0.1591517946432143,
+      "previousHeightDelta": 425
+    },
+    {
+      "path": "/earn-and-learn-norcal/",
+      "width": 1440,
+      "currentRatio": 0.30700536997930933,
+      "currentHeightDelta": 726,
+      "previousRatio": 0.28220425262033516,
+      "previousHeightDelta": 510
+    },
+    {
+      "path": "/earn-and-learn-norcal/",
+      "width": 390,
+      "currentRatio": 0.2939164402633037,
+      "currentHeightDelta": 936,
+      "previousRatio": 0.16385226837644934,
+      "previousHeightDelta": 425
+    },
+    {
+      "path": "/earn-and-learn-san-diego/",
+      "width": 1440,
+      "currentRatio": 0.304985495189949,
+      "currentHeightDelta": 726,
+      "previousRatio": 0.2829536350891248,
+      "previousHeightDelta": 510
+    },
+    {
+      "path": "/earn-and-learn-san-diego/",
+      "width": 390,
+      "currentRatio": 0.27216387548490867,
+      "currentHeightDelta": 936,
+      "previousRatio": 0.15915036601464058,
+      "previousHeightDelta": 425
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "width": 1440,
+      "currentRatio": 0.3194458626427653,
+      "currentHeightDelta": 1236,
+      "previousRatio": 0.30370098765432096,
+      "previousHeightDelta": 985
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "width": 390,
+      "currentRatio": 0.39259534482345326,
+      "currentHeightDelta": 1500,
+      "previousRatio": 0.3515551790846165,
+      "previousHeightDelta": 1045
+    },
+    {
+      "path": "/es/earn-and-learn/",
+      "width": 1440,
+      "currentRatio": 0.318741321063649,
+      "currentHeightDelta": 753,
+      "previousRatio": 0.26684432481671716,
+      "previousHeightDelta": 454
+    },
+    {
+      "path": "/es/earn-and-learn/",
+      "width": 390,
+      "currentRatio": 0.3127877331002331,
+      "currentHeightDelta": 1009,
+      "previousRatio": 0.24810927595358734,
+      "previousHeightDelta": 505
+    },
+    {
+      "path": "/es/ganar-y-aprender-la/",
+      "width": 1440,
+      "currentRatio": 0.31857266471843976,
+      "currentHeightDelta": 753,
+      "previousRatio": 0.27145355817507094,
+      "previousHeightDelta": 482
+    },
+    {
+      "path": "/es/ganar-y-aprender-la/",
+      "width": 390,
+      "currentRatio": 0.3126454274891775,
+      "currentHeightDelta": 1009,
+      "previousRatio": 0.25028456618008854,
+      "previousHeightDelta": 533
+    },
+    {
+      "path": "/es/gana-y-aprende-cvalley/",
+      "width": 1440,
+      "currentRatio": 0.3185748668366184,
+      "currentHeightDelta": 753,
+      "previousRatio": 0.27096799279633266,
+      "previousHeightDelta": 482
+    },
+    {
+      "path": "/es/gana-y-aprende-cvalley/",
+      "width": 390,
+      "currentRatio": 0.301840086996337,
+      "currentHeightDelta": 1009,
+      "previousRatio": 0.2616109015362747,
+      "previousHeightDelta": 533
+    },
+    {
+      "path": "/es/gana-y-aprende-bayarea/",
+      "width": 1440,
+      "currentRatio": 0.31594851706771127,
+      "currentHeightDelta": 753,
+      "previousRatio": 0.271594493560358,
+      "previousHeightDelta": 482
+    },
+    {
+      "path": "/es/gana-y-aprende-bayarea/",
+      "width": 390,
+      "currentRatio": 0.2796182983682984,
+      "currentHeightDelta": 1009,
+      "previousRatio": 0.23290908096878246,
+      "previousHeightDelta": 533
+    },
+    {
+      "path": "/es/earn-and-learn-norcal/",
+      "width": 1440,
+      "currentRatio": 0.3190347209268586,
+      "currentHeightDelta": 753,
+      "previousRatio": 0.270967583497053,
+      "previousHeightDelta": 482
+    },
+    {
+      "path": "/es/earn-and-learn-norcal/",
+      "width": 390,
+      "currentRatio": 0.3018447698135198,
+      "currentHeightDelta": 1009,
+      "previousRatio": 0.26161308840413317,
+      "previousHeightDelta": 533
+    },
+    {
+      "path": "/es/gana-y-aprende-san-diego/",
+      "width": 1440,
+      "currentRatio": 0.31594968289498226,
+      "currentHeightDelta": 753,
+      "previousRatio": 0.2715931292294259,
+      "previousHeightDelta": 482
+    },
+    {
+      "path": "/es/gana-y-aprende-san-diego/",
+      "width": 390,
+      "currentRatio": 0.279615956959707,
+      "currentHeightDelta": 1009,
+      "previousRatio": 0.24423104258925155,
+      "previousHeightDelta": 533
+    }
+  ]
+}

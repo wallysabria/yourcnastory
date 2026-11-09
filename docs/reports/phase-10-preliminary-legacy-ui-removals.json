@@ -1,0 +1,632 @@
+[
+  {
+    "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+    "id": "floating-chatbot-default",
+    "classes": "floating-chatbot hidden",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+    "id": "pre-chat-message-default",
+    "classes": "pre-chat-message",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+    "id": "floating-chatbot-button-default",
+    "classes": "floating-chatbot-button",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/careerpaths/careers-in-nursing/",
+    "id": "floating-chatbot-default",
+    "classes": "floating-chatbot hidden",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/careerpaths/careers-in-nursing/",
+    "id": "pre-chat-message-default",
+    "classes": "pre-chat-message",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/careerpaths/careers-in-nursing/",
+    "id": "floating-chatbot-button-default",
+    "classes": "floating-chatbot-button",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/careerpaths/careers-in-support-services/",
+    "id": "floating-chatbot-default",
+    "classes": "floating-chatbot hidden",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/careerpaths/careers-in-support-services/",
+    "id": "pre-chat-message-default",
+    "classes": "pre-chat-message",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/careerpaths/careers-in-support-services/",
+    "id": "floating-chatbot-button-default",
+    "classes": "floating-chatbot-button",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/careerpaths/careers-in-therapy/",
+    "id": "floating-chatbot-default",
+    "classes": "floating-chatbot hidden",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/careerpaths/careers-in-therapy/",
+    "id": "pre-chat-message-default",
+    "classes": "pre-chat-message",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/careerpaths/careers-in-therapy/",
+    "id": "floating-chatbot-button-default",
+    "classes": "floating-chatbot-button",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/careerpaths/careers-in-care-coordination/",
+    "id": "floating-chatbot-default",
+    "classes": "floating-chatbot hidden",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/careerpaths/careers-in-care-coordination/",
+    "id": "pre-chat-message-default",
+    "classes": "pre-chat-message",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/careerpaths/careers-in-care-coordination/",
+    "id": "floating-chatbot-button-default",
+    "classes": "floating-chatbot-button",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/careerpaths/careers-in-social-services/",
+    "id": "floating-chatbot-default",
+    "classes": "floating-chatbot hidden",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/careerpaths/careers-in-social-services/",
+    "id": "pre-chat-message-default",
+    "classes": "pre-chat-message",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/careerpaths/careers-in-social-services/",
+    "id": "floating-chatbot-button-default",
+    "classes": "floating-chatbot-button",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/careerpaths/careers-in-activities/",
+    "id": "floating-chatbot-default",
+    "classes": "floating-chatbot hidden",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/careerpaths/careers-in-activities/",
+    "id": "pre-chat-message-default",
+    "classes": "pre-chat-message",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/careerpaths/careers-in-activities/",
+    "id": "floating-chatbot-button-default",
+    "classes": "floating-chatbot-button",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/careerpaths/careers-in-administration/",
+    "id": "floating-chatbot-default",
+    "classes": "floating-chatbot hidden",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/careerpaths/careers-in-administration/",
+    "id": "pre-chat-message-default",
+    "classes": "pre-chat-message",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/careerpaths/careers-in-administration/",
+    "id": "floating-chatbot-button-default",
+    "classes": "floating-chatbot-button",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/career-seekers/",
+    "id": "floating-chatbot-default",
+    "classes": "floating-chatbot hidden",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/career-seekers/",
+    "id": "pre-chat-message-default",
+    "classes": "pre-chat-message",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/career-seekers/",
+    "id": "floating-chatbot-button-default",
+    "classes": "floating-chatbot-button",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/career-paths-in-long-term-care/",
+    "id": "floating-chatbot-default",
+    "classes": "floating-chatbot hidden",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/career-paths-in-long-term-care/",
+    "id": "pre-chat-message-default",
+    "classes": "pre-chat-message",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/career-paths-in-long-term-care/",
+    "id": "floating-chatbot-button-default",
+    "classes": "floating-chatbot-button",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/community-resources/",
+    "id": "floating-chatbot-default",
+    "classes": "floating-chatbot hidden",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/community-resources/",
+    "id": "pre-chat-message-default",
+    "classes": "pre-chat-message",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/community-resources/",
+    "id": "floating-chatbot-button-default",
+    "classes": "floating-chatbot-button",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/certified-nurse-assistant-program/",
+    "id": "floating-chatbot-default",
+    "classes": "floating-chatbot hidden",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/certified-nurse-assistant-program/",
+    "id": "pre-chat-message-default",
+    "classes": "pre-chat-message",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/certified-nurse-assistant-program/",
+    "id": "floating-chatbot-button-default",
+    "classes": "floating-chatbot-button",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/cna-training-providers/",
+    "id": "floating-chatbot-default",
+    "classes": "floating-chatbot hidden",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/cna-training-providers/",
+    "id": "pre-chat-message-default",
+    "classes": "pre-chat-message",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/cna-training-providers/",
+    "id": "floating-chatbot-button-default",
+    "classes": "floating-chatbot-button",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/what-is-long-term-care/",
+    "id": "floating-chatbot-default",
+    "classes": "floating-chatbot hidden",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/what-is-long-term-care/",
+    "id": "pre-chat-message-default",
+    "classes": "pre-chat-message",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/what-is-long-term-care/",
+    "id": "floating-chatbot-button-default",
+    "classes": "floating-chatbot-button",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/career-advancement/",
+    "id": "floating-chatbot-default",
+    "classes": "floating-chatbot hidden",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/career-advancement/",
+    "id": "pre-chat-message-default",
+    "classes": "pre-chat-message",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/career-advancement/",
+    "id": "floating-chatbot-button-default",
+    "classes": "floating-chatbot-button",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/earn-and-learn-la/",
+    "id": "floating-chatbot-default",
+    "classes": "floating-chatbot hidden",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/earn-and-learn-la/",
+    "id": "pre-chat-message-default",
+    "classes": "pre-chat-message",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/earn-and-learn-la/",
+    "id": "floating-chatbot-button-default",
+    "classes": "floating-chatbot-button",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/frequently-asked-questions/",
+    "id": "floating-chatbot-default",
+    "classes": "floating-chatbot hidden",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/frequently-asked-questions/",
+    "id": "pre-chat-message-default",
+    "classes": "pre-chat-message",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/frequently-asked-questions/",
+    "id": "floating-chatbot-button-default",
+    "classes": "floating-chatbot-button",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/earn-and-learn-cvalley/",
+    "id": "floating-chatbot-default",
+    "classes": "floating-chatbot hidden",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/earn-and-learn-cvalley/",
+    "id": "pre-chat-message-default",
+    "classes": "pre-chat-message",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/earn-and-learn-cvalley/",
+    "id": "floating-chatbot-button-default",
+    "classes": "floating-chatbot-button",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/earn-and-learn-bayarea/",
+    "id": "floating-chatbot-default",
+    "classes": "floating-chatbot hidden",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/earn-and-learn-bayarea/",
+    "id": "pre-chat-message-default",
+    "classes": "pre-chat-message",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/earn-and-learn-bayarea/",
+    "id": "floating-chatbot-button-default",
+    "classes": "floating-chatbot-button",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/earn-and-learn-norcal/",
+    "id": "floating-chatbot-default",
+    "classes": "floating-chatbot hidden",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/earn-and-learn-norcal/",
+    "id": "pre-chat-message-default",
+    "classes": "pre-chat-message",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/earn-and-learn-norcal/",
+    "id": "floating-chatbot-button-default",
+    "classes": "floating-chatbot-button",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/earn-and-learn-san-diego/",
+    "id": "floating-chatbot-default",
+    "classes": "floating-chatbot hidden",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/earn-and-learn-san-diego/",
+    "id": "pre-chat-message-default",
+    "classes": "pre-chat-message",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/earn-and-learn-san-diego/",
+    "id": "floating-chatbot-button-default",
+    "classes": "floating-chatbot-button",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/earn-and-learn/",
+    "id": "floating-chatbot-default",
+    "classes": "floating-chatbot hidden",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/earn-and-learn/",
+    "id": "pre-chat-message-default",
+    "classes": "pre-chat-message",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/earn-and-learn/",
+    "id": "floating-chatbot-button-default",
+    "classes": "floating-chatbot-button",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/es/que-es-cuidar-a-largo-plazo/",
+    "id": "floating-chatbot-chat_cnap_esp",
+    "classes": "floating-chatbot hidden",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/es/que-es-cuidar-a-largo-plazo/",
+    "id": "pre-chat-message-chat_cnap_esp",
+    "classes": "pre-chat-message",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/es/que-es-cuidar-a-largo-plazo/",
+    "id": "floating-chatbot-button-chat_cnap_esp",
+    "classes": "floating-chatbot-button",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/es/recursos-comunitarios/",
+    "id": "floating-chatbot-chat_cnap_esp",
+    "classes": "floating-chatbot hidden",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/es/recursos-comunitarios/",
+    "id": "pre-chat-message-chat_cnap_esp",
+    "classes": "pre-chat-message",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/es/recursos-comunitarios/",
+    "id": "floating-chatbot-button-chat_cnap_esp",
+    "classes": "floating-chatbot-button",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+    "id": "floating-chatbot-chat_cnap_esp",
+    "classes": "floating-chatbot hidden",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+    "id": "pre-chat-message-chat_cnap_esp",
+    "classes": "pre-chat-message",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+    "id": "floating-chatbot-button-chat_cnap_esp",
+    "classes": "floating-chatbot-button",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/es/programa-cna/",
+    "id": "floating-chatbot-chat_cnap_esp",
+    "classes": "floating-chatbot hidden",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/es/programa-cna/",
+    "id": "pre-chat-message-chat_cnap_esp",
+    "classes": "pre-chat-message",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/es/programa-cna/",
+    "id": "floating-chatbot-button-chat_cnap_esp",
+    "classes": "floating-chatbot-button",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/es/aspirantes/",
+    "id": "floating-chatbot-chat_cnap_esp",
+    "classes": "floating-chatbot hidden",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/es/aspirantes/",
+    "id": "pre-chat-message-chat_cnap_esp",
+    "classes": "pre-chat-message",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/es/aspirantes/",
+    "id": "floating-chatbot-button-chat_cnap_esp",
+    "classes": "floating-chatbot-button",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/es/programa-cna-2/",
+    "id": "floating-chatbot-chat_cnap_esp",
+    "classes": "floating-chatbot hidden",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/es/programa-cna-2/",
+    "id": "pre-chat-message-chat_cnap_esp",
+    "classes": "pre-chat-message",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/es/programa-cna-2/",
+    "id": "floating-chatbot-button-chat_cnap_esp",
+    "classes": "floating-chatbot-button",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/es/preguntas-frecuentes/",
+    "id": "floating-chatbot-chat_cnap_esp",
+    "classes": "floating-chatbot hidden",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/es/preguntas-frecuentes/",
+    "id": "pre-chat-message-chat_cnap_esp",
+    "classes": "pre-chat-message",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/es/preguntas-frecuentes/",
+    "id": "floating-chatbot-button-chat_cnap_esp",
+    "classes": "floating-chatbot-button",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/es/avance-profesional/",
+    "id": "floating-chatbot-chat_cnap_esp",
+    "classes": "floating-chatbot hidden",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/es/avance-profesional/",
+    "id": "pre-chat-message-chat_cnap_esp",
+    "classes": "pre-chat-message",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/es/avance-profesional/",
+    "id": "floating-chatbot-button-chat_cnap_esp",
+    "classes": "floating-chatbot-button",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/es/ganar-y-aprender-la/",
+    "id": "floating-chatbot-chat_cnap_esp",
+    "classes": "floating-chatbot hidden",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/es/ganar-y-aprender-la/",
+    "id": "pre-chat-message-chat_cnap_esp",
+    "classes": "pre-chat-message",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/es/ganar-y-aprender-la/",
+    "id": "floating-chatbot-button-chat_cnap_esp",
+    "classes": "floating-chatbot-button",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/es/gana-y-aprende-cvalley/",
+    "id": "floating-chatbot-chat_cnap_esp",
+    "classes": "floating-chatbot hidden",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/es/gana-y-aprende-cvalley/",
+    "id": "pre-chat-message-chat_cnap_esp",
+    "classes": "pre-chat-message",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/es/gana-y-aprende-cvalley/",
+    "id": "floating-chatbot-button-chat_cnap_esp",
+    "classes": "floating-chatbot-button",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/es/gana-y-aprende-bayarea/",
+    "id": "floating-chatbot-chat_cnap_esp",
+    "classes": "floating-chatbot hidden",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/es/gana-y-aprende-bayarea/",
+    "id": "pre-chat-message-chat_cnap_esp",
+    "classes": "pre-chat-message",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/es/gana-y-aprende-bayarea/",
+    "id": "floating-chatbot-button-chat_cnap_esp",
+    "classes": "floating-chatbot-button",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/es/earn-and-learn-norcal/",
+    "id": "floating-chatbot-chat_cnap_esp",
+    "classes": "floating-chatbot hidden",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/es/earn-and-learn-norcal/",
+    "id": "pre-chat-message-chat_cnap_esp",
+    "classes": "pre-chat-message",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/es/earn-and-learn-norcal/",
+    "id": "floating-chatbot-button-chat_cnap_esp",
+    "classes": "floating-chatbot-button",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/es/gana-y-aprende-san-diego/",
+    "id": "floating-chatbot-chat_cnap_esp",
+    "classes": "floating-chatbot hidden",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/es/gana-y-aprende-san-diego/",
+    "id": "pre-chat-message-chat_cnap_esp",
+    "classes": "pre-chat-message",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  },
+  {
+    "path": "/es/gana-y-aprende-san-diego/",
+    "id": "floating-chatbot-button-chat_cnap_esp",
+    "classes": "floating-chatbot-button",
+    "reason": "Legacy chat UI is excluded from Phase 4; chatbot replacement belongs to Phase 6. Frozen source records remain archival evidence."
+  }
+]

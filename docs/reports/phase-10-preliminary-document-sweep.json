@@ -1,0 +1,17 @@
+{
+  "method": "Read-only pypdf text and URI annotation sweep; text extraction is not a visual/content accessibility certification. No documents modified.",
+  "documents": [
+    {
+      "path": "/wp-content/uploads/2023/09/CNA-Toolkit-English.pdf",
+      "pages": 13,
+      "textMatchPages": [],
+      "jobboardLinkPages": []
+    },
+    {
+      "path": "/wp-content/uploads/2023/09/CNA-Toolkit-Spanish.pdf",
+      "pages": 13,
+      "textMatchPages": [],
+      "jobboardLinkPages": []
+    }
+  ]
+}
