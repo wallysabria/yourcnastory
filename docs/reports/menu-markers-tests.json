@@ -1,0 +1,11 @@
+{
+  "method": "Existing full regression suite covering source data, hover intent/bridge, keyboard/touch, mobile navigation and header axe.",
+  "stats": {
+    "startTime": "2026-11-09T05:27:56.852Z",
+    "duration": 24183.565,
+    "expected": 70,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  }
+}

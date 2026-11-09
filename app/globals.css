@@ -209,6 +209,11 @@
     position: relative;
     padding-inline-start: 22.5px;
   }
+  .mega-columns .mega-subitem > a {
+    display: block;
+    margin-inline-start: -22.5px;
+    padding-inline-start: 22.5px;
+  }
   .mega-columns .mega-subitem::before {
     content: '';
     position: absolute;
@@ -218,6 +223,7 @@
     width: 9.275px;
     height: 1.4875px;
     background: currentColor;
+    pointer-events: none;
   }
   .mega-columns a:hover {
     color: var(--blue);
