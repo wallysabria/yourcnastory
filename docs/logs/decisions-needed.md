@@ -156,3 +156,6 @@ D-009: owner-requested career-path index presentation fix. Shared EN/ES grid now
 ## Publication — owner approved 2026-11-09
 
 Owner requested publication. PR #10 merged as cf6079c844e283a16bc9881dfc9ca2cd35ef8ebf after all checks passed. Vercel production deployment https://yourcnastory-9yzia904h-wallysabrias-projects.vercel.app is READY and owns https://yourcnastory.vercel.app/. Public EN/ES verification passed eight desktop/tablet/phone views (64 cards): visible square portrait windows clipped to circles, 20px centered titles, 17px descriptions, unchanged title/link records and no overflow. Evidence: career-path-cards-production.json. Earlier unmerged/unpublished notes describe the review stage and are superseded. Indexing and integration gates remain unchanged; no custom-domain cutover.
+
+
+D-010: restored the source screenshot/live shared-menu dash markers, indentation and measured typography/spacing using optional visual-subitem flags and empty CSS decoration. All original EN/ES global data deep-matches main after removing only those flags; no label, URL, mobile hierarchy or footer copy changed. Employer destinations remain inactive. Hover/touch/keyboard implementation unchanged.

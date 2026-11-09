@@ -1,0 +1,2274 @@
+{
+  "method": "Source-backed child markers; English/Spanish at 1920/1440/1280. Decoration/indentation measured and all original global content excluding new presentation flags deep-compared against main. Source styles independently measured with tracking blocked.",
+  "source": {
+    "linkFont": "600 14px / 28.9px Manrope, sans-serif",
+    "headingFont": "900 16px / 16px Manrope, sans-serif",
+    "iconWidth": 14,
+    "textIndent": 22.5,
+    "rect": {
+      "x": 2.7,
+      "y": 7.2,
+      "width": 10.6,
+      "height": 1.7,
+      "viewBox": 16
+    }
+  },
+  "checks": [
+    {
+      "locale": "en",
+      "width": 1920,
+      "menu": 1,
+      "data": [
+        {
+          "heading": "CNA PROGRAM",
+          "items": [
+            {
+              "clickable": true,
+              "label": "WRITE YOUR CNA STORY",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": true,
+              "label": "WHAT IS LONG-TERM CARE?",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": true,
+              "label": "CNA PROGRAM",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": true,
+              "label": "HOW TO TRAIN TO BECOME A CNA",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": true,
+              "label": "FREQUENTLY ASKED QUESTIONS",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            }
+          ]
+        },
+        {
+          "heading": "CAREER PATHS",
+          "items": [
+            {
+              "clickable": true,
+              "label": "CAREER PATHS IN LONG-TERM CARE",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": true,
+              "label": "Certified Nursing Assistant",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Nursing",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Administration",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Social Services",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Therapy",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Care Coordination",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Support Services",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Activities",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            }
+          ]
+        },
+        {
+          "heading": "RESOURCES",
+          "items": [
+            {
+              "clickable": true,
+              "label": "CNA RESOURCES",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": true,
+              "label": "CNA Training Providers",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "CNAs Share Their Experiences",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Becoming a CNA",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "CNA Practice Exam",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "CNA Flyer",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            }
+          ]
+        }
+      ],
+      "screenshot": "docs/reports/menu-markers/en-1-1920.png"
+    },
+    {
+      "locale": "en",
+      "width": 1920,
+      "menu": 0,
+      "data": [
+        {
+          "heading": "CNAP PROGRAM",
+          "items": [
+            {
+              "clickable": null,
+              "label": "PROGRAM OVERVIEW",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": null,
+              "label": "CNAP FINANCIAL AWARDS",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": null,
+              "label": "CNA UPSKILLING PROGRAM (CUSP)",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": null,
+              "label": "FREQUENTLY ASKED QUESTIONS",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            }
+          ]
+        },
+        {
+          "heading": "RESOURCES",
+          "items": [
+            {
+              "clickable": null,
+              "label": "EMPLOYER RESOURCES",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": null,
+              "label": "CNA Training Providers",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": null,
+              "label": "DSD Approval Packet",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": null,
+              "label": "Develop your CNA Workforce",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": null,
+              "label": "Establish an Earn and Learn Program",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": null,
+              "label": "Become a Community NATP",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": null,
+              "label": "Become a Facility NATP",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": null,
+              "label": "Partnering with your Workforce Board",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            }
+          ]
+        },
+        {
+          "heading": "CONTACT",
+          "items": [
+            {
+              "clickable": null,
+              "label": "CNAP AWARD APPLICATION",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            }
+          ]
+        }
+      ],
+      "screenshot": "docs/reports/menu-markers/en-0-1920.png"
+    },
+    {
+      "locale": "es",
+      "width": 1920,
+      "menu": 1,
+      "data": [
+        {
+          "heading": "PROGRAMA CNA",
+          "items": [
+            {
+              "clickable": true,
+              "label": "ASISTENTE DE ENFERMERÍA CERTIFICADO (CNA)",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": true,
+              "label": "¿QUÉ ES CUIDAR A LARGO PLAZO?",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": true,
+              "label": "PROGRAMA CNA",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": true,
+              "label": "CÓMO CAPACITARTE PARA SER CNA",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": true,
+              "label": "PREGUNTAS FREQUENTES",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            }
+          ]
+        },
+        {
+          "heading": "TRAYECTORIAS PROFESIONALES",
+          "items": [
+            {
+              "clickable": false,
+              "label": "CAMINOS PROFESIONALES EN EL CUIDADO A LARGO PLAZO",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": true,
+              "label": "Asistente de Enfermería Certificado",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Enfermería",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Administración",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Servicios Sociales",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Terapia",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Coordinación de Cuidados",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Servicios de Apoyo",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Actividades",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            }
+          ]
+        },
+        {
+          "heading": "RECURSOS",
+          "items": [
+            {
+              "clickable": false,
+              "label": "RECURSOS PARA ASISTENTES DE ENFERMERÍA CERTIFICADOS",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": true,
+              "label": "Proveedores de Capacitación",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "CNAs cuentan sus experiencias",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Conviértete en un CNA",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Examen de Práctica de CNA",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Folleto de CNA",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            }
+          ]
+        }
+      ],
+      "screenshot": "docs/reports/menu-markers/es-1-1920.png"
+    },
+    {
+      "locale": "es",
+      "width": 1920,
+      "menu": 0,
+      "data": [
+        {
+          "heading": "CNAP PROGRAM",
+          "items": [
+            {
+              "clickable": null,
+              "label": "RESUMEN DEL PROGRAMA",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": null,
+              "label": "PREMIOS FINANCIEROS CNAP",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": null,
+              "label": "PROGRAMA DE PERFECCIONAMIENTO DE CNA (CUSP)",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": null,
+              "label": "PREGUNTAS FREQUENTES",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            }
+          ]
+        },
+        {
+          "heading": "RECURSOS",
+          "items": [
+            {
+              "clickable": null,
+              "label": "RECURSOS PARA EMPRESARIOS",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": null,
+              "label": "Proveedores de Capacitación",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": null,
+              "label": "Paquete de aprobación DSD",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": null,
+              "label": "Desarrolle su plantilla de CNA",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": null,
+              "label": "Establecer un programa de aprendizaje",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": null,
+              "label": "Conviértase en un NATP comunitario",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": null,
+              "label": "Conviértase en un NATP de las instalaciones",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": null,
+              "label": "Colaboración con el comité de empleo",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            }
+          ]
+        },
+        {
+          "heading": "CONTACTO",
+          "items": [
+            {
+              "clickable": null,
+              "label": "SOLICITUD DE PREMIO CNAP",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            }
+          ]
+        }
+      ],
+      "screenshot": "docs/reports/menu-markers/es-0-1920.png"
+    },
+    {
+      "locale": "en",
+      "width": 1440,
+      "menu": 1,
+      "data": [
+        {
+          "heading": "CNA PROGRAM",
+          "items": [
+            {
+              "clickable": true,
+              "label": "WRITE YOUR CNA STORY",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": true,
+              "label": "WHAT IS LONG-TERM CARE?",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": true,
+              "label": "CNA PROGRAM",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": true,
+              "label": "HOW TO TRAIN TO BECOME A CNA",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": true,
+              "label": "FREQUENTLY ASKED QUESTIONS",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            }
+          ]
+        },
+        {
+          "heading": "CAREER PATHS",
+          "items": [
+            {
+              "clickable": true,
+              "label": "CAREER PATHS IN LONG-TERM CARE",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": true,
+              "label": "Certified Nursing Assistant",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Nursing",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Administration",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Social Services",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Therapy",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Care Coordination",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Support Services",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Activities",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            }
+          ]
+        },
+        {
+          "heading": "RESOURCES",
+          "items": [
+            {
+              "clickable": true,
+              "label": "CNA RESOURCES",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": true,
+              "label": "CNA Training Providers",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "CNAs Share Their Experiences",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Becoming a CNA",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "CNA Practice Exam",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "CNA Flyer",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            }
+          ]
+        }
+      ],
+      "screenshot": "docs/reports/menu-markers/en-1-1440.png"
+    },
+    {
+      "locale": "en",
+      "width": 1440,
+      "menu": 0,
+      "data": [
+        {
+          "heading": "CNAP PROGRAM",
+          "items": [
+            {
+              "clickable": null,
+              "label": "PROGRAM OVERVIEW",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": null,
+              "label": "CNAP FINANCIAL AWARDS",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": null,
+              "label": "CNA UPSKILLING PROGRAM (CUSP)",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": null,
+              "label": "FREQUENTLY ASKED QUESTIONS",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            }
+          ]
+        },
+        {
+          "heading": "RESOURCES",
+          "items": [
+            {
+              "clickable": null,
+              "label": "EMPLOYER RESOURCES",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": null,
+              "label": "CNA Training Providers",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": null,
+              "label": "DSD Approval Packet",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": null,
+              "label": "Develop your CNA Workforce",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": null,
+              "label": "Establish an Earn and Learn Program",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": null,
+              "label": "Become a Community NATP",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": null,
+              "label": "Become a Facility NATP",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": null,
+              "label": "Partnering with your Workforce Board",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            }
+          ]
+        },
+        {
+          "heading": "CONTACT",
+          "items": [
+            {
+              "clickable": null,
+              "label": "CNAP AWARD APPLICATION",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            }
+          ]
+        }
+      ],
+      "screenshot": "docs/reports/menu-markers/en-0-1440.png"
+    },
+    {
+      "locale": "es",
+      "width": 1440,
+      "menu": 1,
+      "data": [
+        {
+          "heading": "PROGRAMA CNA",
+          "items": [
+            {
+              "clickable": true,
+              "label": "ASISTENTE DE ENFERMERÍA CERTIFICADO (CNA)",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": true,
+              "label": "¿QUÉ ES CUIDAR A LARGO PLAZO?",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": true,
+              "label": "PROGRAMA CNA",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": true,
+              "label": "CÓMO CAPACITARTE PARA SER CNA",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": true,
+              "label": "PREGUNTAS FREQUENTES",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            }
+          ]
+        },
+        {
+          "heading": "TRAYECTORIAS PROFESIONALES",
+          "items": [
+            {
+              "clickable": false,
+              "label": "CAMINOS PROFESIONALES EN EL CUIDADO A LARGO PLAZO",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": true,
+              "label": "Asistente de Enfermería Certificado",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Enfermería",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Administración",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Servicios Sociales",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Terapia",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Coordinación de Cuidados",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Servicios de Apoyo",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Actividades",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            }
+          ]
+        },
+        {
+          "heading": "RECURSOS",
+          "items": [
+            {
+              "clickable": false,
+              "label": "RECURSOS PARA ASISTENTES DE ENFERMERÍA CERTIFICADOS",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": true,
+              "label": "Proveedores de Capacitación",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "CNAs cuentan sus experiencias",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Conviértete en un CNA",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Examen de Práctica de CNA",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Folleto de CNA",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            }
+          ]
+        }
+      ],
+      "screenshot": "docs/reports/menu-markers/es-1-1440.png"
+    },
+    {
+      "locale": "es",
+      "width": 1440,
+      "menu": 0,
+      "data": [
+        {
+          "heading": "CNAP PROGRAM",
+          "items": [
+            {
+              "clickable": null,
+              "label": "RESUMEN DEL PROGRAMA",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": null,
+              "label": "PREMIOS FINANCIEROS CNAP",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": null,
+              "label": "PROGRAMA DE PERFECCIONAMIENTO DE CNA (CUSP)",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": null,
+              "label": "PREGUNTAS FREQUENTES",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            }
+          ]
+        },
+        {
+          "heading": "RECURSOS",
+          "items": [
+            {
+              "clickable": null,
+              "label": "RECURSOS PARA EMPRESARIOS",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": null,
+              "label": "Proveedores de Capacitación",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": null,
+              "label": "Paquete de aprobación DSD",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": null,
+              "label": "Desarrolle su plantilla de CNA",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": null,
+              "label": "Establecer un programa de aprendizaje",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": null,
+              "label": "Conviértase en un NATP comunitario",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": null,
+              "label": "Conviértase en un NATP de las instalaciones",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": null,
+              "label": "Colaboración con el comité de empleo",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            }
+          ]
+        },
+        {
+          "heading": "CONTACTO",
+          "items": [
+            {
+              "clickable": null,
+              "label": "SOLICITUD DE PREMIO CNAP",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            }
+          ]
+        }
+      ],
+      "screenshot": "docs/reports/menu-markers/es-0-1440.png"
+    },
+    {
+      "locale": "en",
+      "width": 1280,
+      "menu": 1,
+      "data": [
+        {
+          "heading": "CNA PROGRAM",
+          "items": [
+            {
+              "clickable": true,
+              "label": "WRITE YOUR CNA STORY",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": true,
+              "label": "WHAT IS LONG-TERM CARE?",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": true,
+              "label": "CNA PROGRAM",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": true,
+              "label": "HOW TO TRAIN TO BECOME A CNA",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": true,
+              "label": "FREQUENTLY ASKED QUESTIONS",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            }
+          ]
+        },
+        {
+          "heading": "CAREER PATHS",
+          "items": [
+            {
+              "clickable": true,
+              "label": "CAREER PATHS IN LONG-TERM CARE",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": true,
+              "label": "Certified Nursing Assistant",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Nursing",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Administration",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Social Services",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Therapy",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Care Coordination",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Support Services",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Activities",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            }
+          ]
+        },
+        {
+          "heading": "RESOURCES",
+          "items": [
+            {
+              "clickable": true,
+              "label": "CNA RESOURCES",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": true,
+              "label": "CNA Training Providers",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "CNAs Share Their Experiences",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Becoming a CNA",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "CNA Practice Exam",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "CNA Flyer",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            }
+          ]
+        }
+      ],
+      "screenshot": "docs/reports/menu-markers/en-1-1280.png"
+    },
+    {
+      "locale": "en",
+      "width": 1280,
+      "menu": 0,
+      "data": [
+        {
+          "heading": "CNAP PROGRAM",
+          "items": [
+            {
+              "clickable": null,
+              "label": "PROGRAM OVERVIEW",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": null,
+              "label": "CNAP FINANCIAL AWARDS",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": null,
+              "label": "CNA UPSKILLING PROGRAM (CUSP)",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": null,
+              "label": "FREQUENTLY ASKED QUESTIONS",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            }
+          ]
+        },
+        {
+          "heading": "RESOURCES",
+          "items": [
+            {
+              "clickable": null,
+              "label": "EMPLOYER RESOURCES",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": null,
+              "label": "CNA Training Providers",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": null,
+              "label": "DSD Approval Packet",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": null,
+              "label": "Develop your CNA Workforce",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": null,
+              "label": "Establish an Earn and Learn Program",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": null,
+              "label": "Become a Community NATP",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": null,
+              "label": "Become a Facility NATP",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": null,
+              "label": "Partnering with your Workforce Board",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            }
+          ]
+        },
+        {
+          "heading": "CONTACT",
+          "items": [
+            {
+              "clickable": null,
+              "label": "CNAP AWARD APPLICATION",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            }
+          ]
+        }
+      ],
+      "screenshot": "docs/reports/menu-markers/en-0-1280.png"
+    },
+    {
+      "locale": "es",
+      "width": 1280,
+      "menu": 1,
+      "data": [
+        {
+          "heading": "PROGRAMA CNA",
+          "items": [
+            {
+              "clickable": true,
+              "label": "ASISTENTE DE ENFERMERÍA CERTIFICADO (CNA)",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": true,
+              "label": "¿QUÉ ES CUIDAR A LARGO PLAZO?",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": true,
+              "label": "PROGRAMA CNA",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": true,
+              "label": "CÓMO CAPACITARTE PARA SER CNA",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": true,
+              "label": "PREGUNTAS FREQUENTES",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            }
+          ]
+        },
+        {
+          "heading": "TRAYECTORIAS PROFESIONALES",
+          "items": [
+            {
+              "clickable": false,
+              "label": "CAMINOS PROFESIONALES EN EL CUIDADO A LARGO PLAZO",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": true,
+              "label": "Asistente de Enfermería Certificado",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Enfermería",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Administración",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Servicios Sociales",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Terapia",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Coordinación de Cuidados",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Servicios de Apoyo",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Actividades",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            }
+          ]
+        },
+        {
+          "heading": "RECURSOS",
+          "items": [
+            {
+              "clickable": false,
+              "label": "RECURSOS PARA ASISTENTES DE ENFERMERÍA CERTIFICADOS",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": true,
+              "label": "Proveedores de Capacitación",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "CNAs cuentan sus experiencias",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Conviértete en un CNA",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Examen de Práctica de CNA",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": true,
+              "label": "Folleto de CNA",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            }
+          ]
+        }
+      ],
+      "screenshot": "docs/reports/menu-markers/es-1-1280.png"
+    },
+    {
+      "locale": "es",
+      "width": 1280,
+      "menu": 0,
+      "data": [
+        {
+          "heading": "CNAP PROGRAM",
+          "items": [
+            {
+              "clickable": null,
+              "label": "RESUMEN DEL PROGRAMA",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": null,
+              "label": "PREMIOS FINANCIEROS CNAP",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": null,
+              "label": "PROGRAMA DE PERFECCIONAMIENTO DE CNA (CUSP)",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": null,
+              "label": "PREGUNTAS FREQUENTES",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            }
+          ]
+        },
+        {
+          "heading": "RECURSOS",
+          "items": [
+            {
+              "clickable": null,
+              "label": "RECURSOS PARA EMPRESARIOS",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            },
+            {
+              "clickable": null,
+              "label": "Proveedores de Capacitación",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": null,
+              "label": "Paquete de aprobación DSD",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": null,
+              "label": "Desarrolle su plantilla de CNA",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": null,
+              "label": "Establecer un programa de aprendizaje",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": null,
+              "label": "Conviértase en un NATP comunitario",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": null,
+              "label": "Conviértase en un NATP de las instalaciones",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            },
+            {
+              "clickable": null,
+              "label": "Colaboración con el comité de empleo",
+              "nested": true,
+              "padding": "22.5px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "9.26562px",
+              "markerHeight": "1.48438px",
+              "markerContent": "\"\""
+            }
+          ]
+        },
+        {
+          "heading": "CONTACTO",
+          "items": [
+            {
+              "clickable": null,
+              "label": "SOLICITUD DE PREMIO CNAP",
+              "nested": false,
+              "padding": "0px",
+              "font": "600 14px / 28.9px manrope, \"manrope Fallback\", Arial, sans-serif",
+              "markerWidth": "auto",
+              "markerHeight": "auto",
+              "markerContent": "none"
+            }
+          ]
+        }
+      ],
+      "screenshot": "docs/reports/menu-markers/es-0-1280.png"
+    }
+  ]
+}

@@ -73,7 +73,12 @@ export const testimonialSchema = z.object({
   attribution: z.string(),
   image: z.string().optional(),
 });
-const navItemSchema = z.object({ label: z.string(), href: z.string(), employer: z.boolean() });
+const navItemSchema = z.object({
+  label: z.string(),
+  href: z.string(),
+  employer: z.boolean(),
+  nested: z.boolean().optional(),
+});
 export interface MobileNode {
   label: string;
   href: string | null;

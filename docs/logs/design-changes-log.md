@@ -81,3 +81,7 @@ The owner explicitly approved the reduced plan in chat. This add-on uses its own
 ## D-009 — Career-path card formatting — approved
 
 Owner requested circular picture windows and formatting matching the “Where will your new career take you?” Career Seekers carousel. Apply the carousel's 200px circular portraits, centered 20px/600/26px titles, 17px/400/28.9px descriptions and 15px image / 10px description spacing to the EN/ES careerpath-index grid. Preserve original copy, images, destinations, responsive grid and other pages. Screenshot red circles are annotations, not red borders. This is a scoped owner-approved visual correction, not a new phase.
+
+## D-010 — Mega-menu dash markers and source spacing — approved
+
+Owner requested matching the reference dropdown's dash/bullet markers as closely as possible. Mark the eight career-role children, five Career Seekers resource children and seven inactive Employer resource children in each language as visual subitems; leave each leading overview link and the program links unmarked. Use decorative CSS dashes and 22.5px indentation (14px source icon, 3.5px inline space and 5px text padding), source 14px/600/28.9px link typography, zero row margins, 16px/900 headings with 10px following space, and 60px vertical panel padding. Dash dimensions reproduce the source SVG rectangle at its 14px rendered size. No punctuation is inserted into frozen labels. Existing hover intent, keyboard/touch behavior, mobile navigation, destinations and Employer gating remain unchanged.

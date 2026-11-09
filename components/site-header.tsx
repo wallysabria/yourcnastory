@@ -172,7 +172,10 @@ export function SiteHeader({
                         <h2>{column.title}</h2>
                         <ul>
                           {column.items.map((item) => (
-                            <li key={item.label + item.href}>
+                            <li
+                              key={item.label + item.href}
+                              className={item.nested ? 'mega-subitem' : undefined}
+                            >
                               <SiteLink href={item.href} employer={item.employer} enabled={enabled}>
                                 {item.label}
                               </SiteLink>

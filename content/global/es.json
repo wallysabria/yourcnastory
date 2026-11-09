@@ -43,37 +43,44 @@
             {
               "label": "Proveedores de Capacitación",
               "href": "/es/recursos-para-empresarios/#directory-natps",
-              "employer": true
+              "employer": true,
+              "nested": true
             },
             {
               "label": "Paquete de aprobación DSD",
               "href": "/es/recursos-para-empresarios/#dsd-approval",
-              "employer": true
+              "employer": true,
+              "nested": true
             },
             {
               "label": "Desarrolle su plantilla de CNA",
               "href": "/es/recursos-para-empresarios/#wib-workforce2",
-              "employer": true
+              "employer": true,
+              "nested": true
             },
             {
               "label": "Establecer un programa de aprendizaje",
               "href": "/es/recursos-para-empresarios/#cearnandlearn",
-              "employer": true
+              "employer": true,
+              "nested": true
             },
             {
               "label": "Conviértase en un NATP comunitario",
               "href": "/es/recursos-para-empresarios/#webinar-contracting-natps",
-              "employer": true
+              "employer": true,
+              "nested": true
             },
             {
               "label": "Conviértase en un NATP de las instalaciones",
               "href": "/es/recursos-para-empresarios/#f-natp-application",
-              "employer": true
+              "employer": true,
+              "nested": true
             },
             {
               "label": "Colaboración con el comité de empleo",
               "href": "/es/recursos-para-empresarios/#wib-workforce",
-              "employer": true
+              "employer": true,
+              "nested": true
             }
           ]
         },
@@ -135,42 +142,50 @@
             {
               "label": "Asistente de Enfermería Certificado",
               "href": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
-              "employer": false
+              "employer": false,
+              "nested": true
             },
             {
               "label": "Enfermería",
               "href": "/es/carreras/carreras-en-enfermeria/",
-              "employer": false
+              "employer": false,
+              "nested": true
             },
             {
               "label": "Administración",
               "href": "/es/carreras/carreras-en-administracion/",
-              "employer": false
+              "employer": false,
+              "nested": true
             },
             {
               "label": "Servicios Sociales",
               "href": "/es/carreras/carreras-en-servicios-sociales/",
-              "employer": false
+              "employer": false,
+              "nested": true
             },
             {
               "label": "Terapia",
               "href": "/es/carreras/carreras-en-terapia/",
-              "employer": false
+              "employer": false,
+              "nested": true
             },
             {
               "label": "Coordinación de Cuidados",
               "href": "/es/carreras/carreras-en-coordinacion-de-cuidados/",
-              "employer": false
+              "employer": false,
+              "nested": true
             },
             {
               "label": "Servicios de Apoyo",
               "href": "/es/carreras/carreras-en-servicios-de-apoyo/",
-              "employer": false
+              "employer": false,
+              "nested": true
             },
             {
               "label": "Actividades",
               "href": "/es/carreras/carreras-en-actividades/",
-              "employer": false
+              "employer": false,
+              "nested": true
             }
           ]
         },
@@ -185,27 +200,32 @@
             {
               "label": "Proveedores de Capacitación",
               "href": "/es/recursos-comunitarios/#online-natps",
-              "employer": false
+              "employer": false,
+              "nested": true
             },
             {
               "label": "CNAs cuentan sus experiencias",
               "href": "/es/recursos-comunitarios/#video-what-cna",
-              "employer": false
+              "employer": false,
+              "nested": true
             },
             {
               "label": "Conviértete en un CNA",
               "href": "/es/recursos-comunitarios/#cna-toolkit",
-              "employer": false
+              "employer": false,
+              "nested": true
             },
             {
               "label": "Examen de Práctica de CNA",
               "href": "/es/recursos-comunitarios/#practice-exam",
-              "employer": false
+              "employer": false,
+              "nested": true
             },
             {
               "label": "Folleto de CNA",
               "href": "/es/recursos-comunitarios/#cnap-flyer",
-              "employer": false
+              "employer": false,
+              "nested": true
             }
           ]
         }
