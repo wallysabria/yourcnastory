@@ -47,7 +47,7 @@ try {
   await browser.close();
 }
 fs.writeFileSync(
-  process.argv.includes('--phase7') ? 'docs/reports/phase-07-accessibility.json' : phase5 ? 'docs/reports/phase-05-accessibility.json' : 'docs/reports/phase-04-accessibility.json',
+  process.env.QA_REPORT_PREFIX ? process.env.QA_REPORT_PREFIX + '-accessibility.json' : process.argv.includes('--phase7') ? 'docs/reports/phase-07-accessibility.json' : phase5 ? 'docs/reports/phase-05-accessibility.json' : 'docs/reports/phase-04-accessibility.json',
   JSON.stringify(
     {
       ownerDecision:

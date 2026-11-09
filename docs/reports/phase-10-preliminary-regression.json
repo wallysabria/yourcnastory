@@ -1,0 +1,12 @@
+{
+  "method": "npx playwright test against final local build; 280 HTTP redirect rules and mock-only consent/signup, including both QA fixes.",
+  "runtimeCommit": "0160c418d074cee03a06edeb9951f1f3534ff5b3",
+  "stats": {
+    "startTime": "2026-11-09T01:28:00.150Z",
+    "duration": 24849.485,
+    "expected": 62,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  }
+}

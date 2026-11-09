@@ -258,3 +258,18 @@ test('consented document and outbound events exclude full URLs and consent updat
   expect(serialized).not.toContain('never-collect');
   expect(serialized).not.toContain('.pdf?');
 });
+
+test('privacy choices returns focus when pointer activation does not focus buttons', async ({
+  page,
+}) => {
+  await page.goto('/');
+  await page.locator('.privacy-banner .privacy-action').nth(1).click();
+  const trigger = page.locator('.privacy-choices-button');
+  await trigger.evaluate((element) =>
+    element.addEventListener('mousedown', (event) => event.preventDefault()),
+  );
+  await trigger.click();
+  await expect(page.locator('.privacy-dialog')).toHaveAttribute('open', '');
+  await page.keyboard.press('Escape');
+  await expect(trigger).toBeFocused();
+});

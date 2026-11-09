@@ -1,0 +1,543 @@
+{
+  "checkedAt": "2026-11-09T01:26:30.655Z",
+  "method": "54 cold mobile Lighthouse 13.6 runs, three per template/locale, on the published Phase 7 review alias. Historical source/Phase 5 medians use their preserved reports; hosting, cache, consent and capture conditions differ, so this is not a controlled causal comparison. TBT is not field INP; no real-user p75 CWV or live-vendor overhead claim.",
+  "publishedBaseline": {
+    "checkedAt": "2026-11-09T01:20:16.017Z",
+    "origin": "https://yourcnastory.vercel.app",
+    "url": "yourcnastory-kz1w3zzyo-wallysabrias-projects.vercel.app",
+    "state": "READY",
+    "sha": "7eddf7b6dafe9a0770aa64fd63b4a226cc843106",
+    "target": "production"
+  },
+  "budgets": {
+    "representatives": 18,
+    "score90": 11,
+    "lcp2500": 6,
+    "cls01": 18,
+    "tbt200": 18
+  },
+  "rows": [
+    {
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "template": "careerpath-entry",
+      "locale": "en",
+      "runs": 3,
+      "source": {
+        "runs": 3,
+        "score": 97,
+        "lcpMs": 1980,
+        "cls": 0,
+        "tbtMs": 102,
+        "scriptTransferKiB": 417.8
+      },
+      "phase5": {
+        "runs": 3,
+        "score": 98,
+        "lcpMs": 1720,
+        "cls": 0,
+        "tbtMs": 110,
+        "scriptTransferKiB": 202.9
+      },
+      "current": {
+        "score": 98,
+        "lcpMs": 1724,
+        "cls": 0,
+        "tbtMs": 92
+      },
+      "warnings": []
+    },
+    {
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "template": "careerpath-entry",
+      "locale": "es",
+      "runs": 3,
+      "source": {
+        "runs": 3,
+        "score": 97,
+        "lcpMs": 1988,
+        "cls": 0,
+        "tbtMs": 110,
+        "scriptTransferKiB": 423.5
+      },
+      "phase5": {
+        "runs": 3,
+        "score": 98,
+        "lcpMs": 1721,
+        "cls": 0,
+        "tbtMs": 100,
+        "scriptTransferKiB": 202.9
+      },
+      "current": {
+        "score": 98,
+        "lcpMs": 1705,
+        "cls": 0,
+        "tbtMs": 95
+      },
+      "warnings": []
+    },
+    {
+      "path": "/",
+      "template": "homepage",
+      "locale": "en",
+      "runs": 3,
+      "source": {
+        "runs": 3,
+        "score": 91,
+        "lcpMs": 3066,
+        "cls": 0,
+        "tbtMs": 46,
+        "scriptTransferKiB": 288.3
+      },
+      "phase5": {
+        "runs": 3,
+        "score": 88,
+        "lcpMs": 3603,
+        "cls": 0,
+        "tbtMs": 114,
+        "scriptTransferKiB": 202.8
+      },
+      "current": {
+        "score": 86,
+        "lcpMs": 3670,
+        "cls": 0,
+        "tbtMs": 175
+      },
+      "warnings": []
+    },
+    {
+      "path": "/es/",
+      "template": "homepage",
+      "locale": "es",
+      "runs": 3,
+      "source": {
+        "runs": 3,
+        "score": 92,
+        "lcpMs": 2998,
+        "cls": 0,
+        "tbtMs": 52,
+        "scriptTransferKiB": 196.8
+      },
+      "phase5": {
+        "runs": 3,
+        "score": 88,
+        "lcpMs": 3595,
+        "cls": 0,
+        "tbtMs": 113,
+        "scriptTransferKiB": 202.9
+      },
+      "current": {
+        "score": 86,
+        "lcpMs": 3657,
+        "cls": 0,
+        "tbtMs": 184
+      },
+      "warnings": []
+    },
+    {
+      "path": "/career-seekers/",
+      "template": "career-section-landing",
+      "locale": "en",
+      "runs": 3,
+      "source": {
+        "runs": 3,
+        "score": 73,
+        "lcpMs": 5623,
+        "cls": 0,
+        "tbtMs": 198,
+        "scriptTransferKiB": 558.7
+      },
+      "phase5": {
+        "runs": 3,
+        "score": 84,
+        "lcpMs": 4201,
+        "cls": 0,
+        "tbtMs": 89,
+        "scriptTransferKiB": 202.9
+      },
+      "current": {
+        "score": 84,
+        "lcpMs": 4272,
+        "cls": 0,
+        "tbtMs": 99
+      },
+      "warnings": []
+    },
+    {
+      "path": "/es/aspirantes/",
+      "template": "career-section-landing",
+      "locale": "es",
+      "runs": 3,
+      "source": {
+        "runs": 3,
+        "score": 71,
+        "lcpMs": 5610,
+        "cls": 0,
+        "tbtMs": 247,
+        "scriptTransferKiB": 564.4
+      },
+      "phase5": {
+        "runs": 3,
+        "score": 98,
+        "lcpMs": 1850,
+        "cls": 0,
+        "tbtMs": 85,
+        "scriptTransferKiB": 202.8
+      },
+      "current": {
+        "score": 97,
+        "lcpMs": 1856,
+        "cls": 0,
+        "tbtMs": 108
+      },
+      "warnings": []
+    },
+    {
+      "path": "/career-paths-in-long-term-care/",
+      "template": "careerpath-index",
+      "locale": "en",
+      "runs": 3,
+      "source": {
+        "runs": 3,
+        "score": 98,
+        "lcpMs": 2021,
+        "cls": 0,
+        "tbtMs": 40,
+        "scriptTransferKiB": 263.7
+      },
+      "phase5": {
+        "runs": 3,
+        "score": 91,
+        "lcpMs": 3346,
+        "cls": 0,
+        "tbtMs": 109,
+        "scriptTransferKiB": 202.8
+      },
+      "current": {
+        "score": 89,
+        "lcpMs": 3356,
+        "cls": 0.01862604164326947,
+        "tbtMs": 168
+      },
+      "warnings": []
+    },
+    {
+      "path": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+      "template": "careerpath-index",
+      "locale": "es",
+      "runs": 3,
+      "source": {
+        "runs": 3,
+        "score": 98,
+        "lcpMs": 2098,
+        "cls": 0,
+        "tbtMs": 43,
+        "scriptTransferKiB": 269.4
+      },
+      "phase5": {
+        "runs": 3,
+        "score": 93,
+        "lcpMs": 3065,
+        "cls": 0,
+        "tbtMs": 105,
+        "scriptTransferKiB": 202.8
+      },
+      "current": {
+        "score": 92,
+        "lcpMs": 3058,
+        "cls": 0.005407560477078233,
+        "tbtMs": 116
+      },
+      "warnings": []
+    },
+    {
+      "path": "/community-resources/",
+      "template": "anchored-resources",
+      "locale": "en",
+      "runs": 3,
+      "source": {
+        "runs": 3,
+        "score": 92,
+        "lcpMs": 2950,
+        "cls": 0,
+        "tbtMs": 100,
+        "scriptTransferKiB": 417.8
+      },
+      "phase5": {
+        "runs": 3,
+        "score": 90,
+        "lcpMs": 3427,
+        "cls": 0,
+        "tbtMs": 95,
+        "scriptTransferKiB": 202.8
+      },
+      "current": {
+        "score": 90,
+        "lcpMs": 3431,
+        "cls": 0,
+        "tbtMs": 79
+      },
+      "warnings": []
+    },
+    {
+      "path": "/es/recursos-comunitarios/",
+      "template": "anchored-resources",
+      "locale": "es",
+      "runs": 3,
+      "source": {
+        "runs": 3,
+        "score": 92,
+        "lcpMs": 2954,
+        "cls": 0,
+        "tbtMs": 27,
+        "scriptTransferKiB": 294
+      },
+      "phase5": {
+        "runs": 3,
+        "score": 90,
+        "lcpMs": 3429,
+        "cls": 0,
+        "tbtMs": 98,
+        "scriptTransferKiB": 202.8
+      },
+      "current": {
+        "score": 87,
+        "lcpMs": 3879,
+        "cls": 0,
+        "tbtMs": 80
+      },
+      "warnings": []
+    },
+    {
+      "path": "/privacy-policy/",
+      "template": "policy",
+      "locale": "en",
+      "runs": 3,
+      "source": {
+        "runs": 3,
+        "score": 98,
+        "lcpMs": 2022,
+        "cls": 0,
+        "tbtMs": 26,
+        "scriptTransferKiB": 288.3
+      },
+      "phase5": {
+        "runs": 3,
+        "score": 93,
+        "lcpMs": 3072,
+        "cls": 0,
+        "tbtMs": 93,
+        "scriptTransferKiB": 202.8
+      },
+      "current": {
+        "score": 91,
+        "lcpMs": 3051,
+        "cls": 0,
+        "tbtMs": 150
+      },
+      "warnings": []
+    },
+    {
+      "path": "/es/politica-de-privacidad/",
+      "template": "policy",
+      "locale": "es",
+      "runs": 3,
+      "source": {
+        "runs": 3,
+        "score": 98,
+        "lcpMs": 2019,
+        "cls": 0,
+        "tbtMs": 46,
+        "scriptTransferKiB": 423.5
+      },
+      "phase5": {
+        "runs": 3,
+        "score": 98,
+        "lcpMs": 1712,
+        "cls": 0,
+        "tbtMs": 94,
+        "scriptTransferKiB": 202.8
+      },
+      "current": {
+        "score": 98,
+        "lcpMs": 1701,
+        "cls": 0,
+        "tbtMs": 119
+      },
+      "warnings": []
+    },
+    {
+      "path": "/certified-nurse-assistant-program/",
+      "template": "standard-content-or-legacy",
+      "locale": "en",
+      "runs": 3,
+      "source": {
+        "runs": 3,
+        "score": 97,
+        "lcpMs": 2088,
+        "cls": 0,
+        "tbtMs": 60,
+        "scriptTransferKiB": 417.8
+      },
+      "phase5": {
+        "runs": 3,
+        "score": 89,
+        "lcpMs": 3584,
+        "cls": 0,
+        "tbtMs": 92,
+        "scriptTransferKiB": 202.8
+      },
+      "current": {
+        "score": 87,
+        "lcpMs": 3659,
+        "cls": 0,
+        "tbtMs": 140
+      },
+      "warnings": []
+    },
+    {
+      "path": "/es/que-es-cuidar-a-largo-plazo/",
+      "template": "standard-content-or-legacy",
+      "locale": "es",
+      "runs": 3,
+      "source": {
+        "runs": 3,
+        "score": 97,
+        "lcpMs": 2098,
+        "cls": 0,
+        "tbtMs": 5,
+        "scriptTransferKiB": 269.5
+      },
+      "phase5": {
+        "runs": 3,
+        "score": 93,
+        "lcpMs": 3055,
+        "cls": 0,
+        "tbtMs": 100,
+        "scriptTransferKiB": 202.8
+      },
+      "current": {
+        "score": 91,
+        "lcpMs": 3129,
+        "cls": 0,
+        "tbtMs": 170
+      },
+      "warnings": []
+    },
+    {
+      "path": "/earn-and-learn-la/",
+      "template": "campaign-signup",
+      "locale": "en",
+      "runs": 3,
+      "source": {
+        "runs": 3,
+        "score": 71,
+        "lcpMs": 6504,
+        "cls": 0,
+        "tbtMs": 230,
+        "scriptTransferKiB": 332.1
+      },
+      "phase5": {
+        "runs": 3,
+        "score": 98,
+        "lcpMs": 1866,
+        "cls": 0,
+        "tbtMs": 72,
+        "scriptTransferKiB": 202.8
+      },
+      "current": {
+        "score": 98,
+        "lcpMs": 1858,
+        "cls": 0,
+        "tbtMs": 81
+      },
+      "warnings": []
+    },
+    {
+      "path": "/es/ganar-y-aprender-la/",
+      "template": "campaign-signup",
+      "locale": "es",
+      "runs": 3,
+      "source": {
+        "runs": 3,
+        "score": 72,
+        "lcpMs": 6539,
+        "cls": 0,
+        "tbtMs": 192,
+        "scriptTransferKiB": 409.4
+      },
+      "phase5": {
+        "runs": 3,
+        "score": 98,
+        "lcpMs": 1846,
+        "cls": 0,
+        "tbtMs": 73,
+        "scriptTransferKiB": 202.9
+      },
+      "current": {
+        "score": 98,
+        "lcpMs": 1859,
+        "cls": 0,
+        "tbtMs": 84
+      },
+      "warnings": []
+    },
+    {
+      "path": "/frequently-asked-questions/",
+      "template": "faq-accordion",
+      "locale": "en",
+      "runs": 3,
+      "source": {
+        "runs": 3,
+        "score": 86,
+        "lcpMs": 3159,
+        "cls": 0,
+        "tbtMs": 227,
+        "scriptTransferKiB": 558.7
+      },
+      "phase5": {
+        "runs": 3,
+        "score": 92,
+        "lcpMs": 3124,
+        "cls": 0,
+        "tbtMs": 96,
+        "scriptTransferKiB": 202.8
+      },
+      "current": {
+        "score": 90,
+        "lcpMs": 3122,
+        "cls": 0,
+        "tbtMs": 150
+      },
+      "warnings": []
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "template": "faq-accordion",
+      "locale": "es",
+      "runs": 3,
+      "source": {
+        "runs": 3,
+        "score": 90,
+        "lcpMs": 3056,
+        "cls": 0,
+        "tbtMs": 169,
+        "scriptTransferKiB": 353.8
+      },
+      "phase5": {
+        "runs": 3,
+        "score": 90,
+        "lcpMs": 3495,
+        "cls": 0,
+        "tbtMs": 96,
+        "scriptTransferKiB": 202.9
+      },
+      "current": {
+        "score": 88,
+        "lcpMs": 3489,
+        "cls": 0,
+        "tbtMs": 151
+      },
+      "warnings": []
+    }
+  ]
+}

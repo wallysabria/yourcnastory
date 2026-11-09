@@ -1,0 +1,989 @@
+{
+  "method": "18 template/locale representatives at 1440/390 CSS pixels in installed Edge, Playwright Firefox and WebKit. Static rendering, overflow, language-scoped search, modal focus/return and FAQ keyboard. External requests blocked; no live forms. WebKit is not Safari/iOS; viewport emulation is not a physical device. Navigation waits for DOMContentLoaded and visible primary heading, not complete media load. After the global opener fix, Edge/Firefox EN/ES home journeys were rechecked at both widths; WebKit was rerun across all 36 representatives. Other unchanged Edge/Firefox representative results are retained from the initial pass.",
+  "results": [
+    {
+      "browser": "edge",
+      "version": "156.0.4314.58",
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "template": "careerpath-entry",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "edge",
+      "version": "156.0.4314.58",
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "template": "careerpath-entry",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "edge",
+      "version": "156.0.4314.58",
+      "path": "/career-seekers/",
+      "template": "career-section-landing",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "edge",
+      "version": "156.0.4314.58",
+      "path": "/es/aspirantes/",
+      "template": "career-section-landing",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "edge",
+      "version": "156.0.4314.58",
+      "path": "/career-paths-in-long-term-care/",
+      "template": "careerpath-index",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "edge",
+      "version": "156.0.4314.58",
+      "path": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+      "template": "careerpath-index",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "edge",
+      "version": "156.0.4314.58",
+      "path": "/community-resources/",
+      "template": "anchored-resources",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "edge",
+      "version": "156.0.4314.58",
+      "path": "/es/recursos-comunitarios/",
+      "template": "anchored-resources",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "edge",
+      "version": "156.0.4314.58",
+      "path": "/privacy-policy/",
+      "template": "policy",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "edge",
+      "version": "156.0.4314.58",
+      "path": "/es/politica-de-privacidad/",
+      "template": "policy",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "edge",
+      "version": "156.0.4314.58",
+      "path": "/certified-nurse-assistant-program/",
+      "template": "standard-content-or-legacy",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "edge",
+      "version": "156.0.4314.58",
+      "path": "/es/que-es-cuidar-a-largo-plazo/",
+      "template": "standard-content-or-legacy",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "edge",
+      "version": "156.0.4314.58",
+      "path": "/earn-and-learn-la/",
+      "template": "campaign-signup",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "edge",
+      "version": "156.0.4314.58",
+      "path": "/es/ganar-y-aprender-la/",
+      "template": "campaign-signup",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "edge",
+      "version": "156.0.4314.58",
+      "path": "/frequently-asked-questions/",
+      "template": "faq-accordion",
+      "width": 1440,
+      "overflow": false,
+      "faq": true,
+      "status": "pass"
+    },
+    {
+      "browser": "edge",
+      "version": "156.0.4314.58",
+      "path": "/es/preguntas-frecuentes/",
+      "template": "faq-accordion",
+      "width": 1440,
+      "overflow": false,
+      "faq": true,
+      "status": "pass"
+    },
+    {
+      "browser": "edge",
+      "version": "156.0.4314.58",
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "template": "careerpath-entry",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "edge",
+      "version": "156.0.4314.58",
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "template": "careerpath-entry",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "edge",
+      "version": "156.0.4314.58",
+      "path": "/career-seekers/",
+      "template": "career-section-landing",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "edge",
+      "version": "156.0.4314.58",
+      "path": "/es/aspirantes/",
+      "template": "career-section-landing",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "edge",
+      "version": "156.0.4314.58",
+      "path": "/career-paths-in-long-term-care/",
+      "template": "careerpath-index",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "edge",
+      "version": "156.0.4314.58",
+      "path": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+      "template": "careerpath-index",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "edge",
+      "version": "156.0.4314.58",
+      "path": "/community-resources/",
+      "template": "anchored-resources",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "edge",
+      "version": "156.0.4314.58",
+      "path": "/es/recursos-comunitarios/",
+      "template": "anchored-resources",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "edge",
+      "version": "156.0.4314.58",
+      "path": "/privacy-policy/",
+      "template": "policy",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "edge",
+      "version": "156.0.4314.58",
+      "path": "/es/politica-de-privacidad/",
+      "template": "policy",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "edge",
+      "version": "156.0.4314.58",
+      "path": "/certified-nurse-assistant-program/",
+      "template": "standard-content-or-legacy",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "edge",
+      "version": "156.0.4314.58",
+      "path": "/es/que-es-cuidar-a-largo-plazo/",
+      "template": "standard-content-or-legacy",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "edge",
+      "version": "156.0.4314.58",
+      "path": "/earn-and-learn-la/",
+      "template": "campaign-signup",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "edge",
+      "version": "156.0.4314.58",
+      "path": "/es/ganar-y-aprender-la/",
+      "template": "campaign-signup",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "edge",
+      "version": "156.0.4314.58",
+      "path": "/frequently-asked-questions/",
+      "template": "faq-accordion",
+      "width": 390,
+      "overflow": false,
+      "faq": true,
+      "status": "pass"
+    },
+    {
+      "browser": "edge",
+      "version": "156.0.4314.58",
+      "path": "/es/preguntas-frecuentes/",
+      "template": "faq-accordion",
+      "width": 390,
+      "overflow": false,
+      "faq": true,
+      "status": "pass"
+    },
+    {
+      "browser": "firefox",
+      "version": "159.0",
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "template": "careerpath-entry",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "firefox",
+      "version": "159.0",
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "template": "careerpath-entry",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "firefox",
+      "version": "159.0",
+      "path": "/career-seekers/",
+      "template": "career-section-landing",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "firefox",
+      "version": "159.0",
+      "path": "/es/aspirantes/",
+      "template": "career-section-landing",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "firefox",
+      "version": "159.0",
+      "path": "/career-paths-in-long-term-care/",
+      "template": "careerpath-index",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "firefox",
+      "version": "159.0",
+      "path": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+      "template": "careerpath-index",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "firefox",
+      "version": "159.0",
+      "path": "/community-resources/",
+      "template": "anchored-resources",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "firefox",
+      "version": "159.0",
+      "path": "/es/recursos-comunitarios/",
+      "template": "anchored-resources",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "firefox",
+      "version": "159.0",
+      "path": "/privacy-policy/",
+      "template": "policy",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "firefox",
+      "version": "159.0",
+      "path": "/es/politica-de-privacidad/",
+      "template": "policy",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "firefox",
+      "version": "159.0",
+      "path": "/certified-nurse-assistant-program/",
+      "template": "standard-content-or-legacy",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "firefox",
+      "version": "159.0",
+      "path": "/es/que-es-cuidar-a-largo-plazo/",
+      "template": "standard-content-or-legacy",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "firefox",
+      "version": "159.0",
+      "path": "/earn-and-learn-la/",
+      "template": "campaign-signup",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "firefox",
+      "version": "159.0",
+      "path": "/es/ganar-y-aprender-la/",
+      "template": "campaign-signup",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "firefox",
+      "version": "159.0",
+      "path": "/frequently-asked-questions/",
+      "template": "faq-accordion",
+      "width": 1440,
+      "overflow": false,
+      "faq": true,
+      "status": "pass"
+    },
+    {
+      "browser": "firefox",
+      "version": "159.0",
+      "path": "/es/preguntas-frecuentes/",
+      "template": "faq-accordion",
+      "width": 1440,
+      "overflow": false,
+      "faq": true,
+      "status": "pass"
+    },
+    {
+      "browser": "firefox",
+      "version": "159.0",
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "template": "careerpath-entry",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "firefox",
+      "version": "159.0",
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "template": "careerpath-entry",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "firefox",
+      "version": "159.0",
+      "path": "/career-seekers/",
+      "template": "career-section-landing",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "firefox",
+      "version": "159.0",
+      "path": "/es/aspirantes/",
+      "template": "career-section-landing",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "firefox",
+      "version": "159.0",
+      "path": "/career-paths-in-long-term-care/",
+      "template": "careerpath-index",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "firefox",
+      "version": "159.0",
+      "path": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+      "template": "careerpath-index",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "firefox",
+      "version": "159.0",
+      "path": "/community-resources/",
+      "template": "anchored-resources",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "firefox",
+      "version": "159.0",
+      "path": "/es/recursos-comunitarios/",
+      "template": "anchored-resources",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "firefox",
+      "version": "159.0",
+      "path": "/privacy-policy/",
+      "template": "policy",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "firefox",
+      "version": "159.0",
+      "path": "/es/politica-de-privacidad/",
+      "template": "policy",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "firefox",
+      "version": "159.0",
+      "path": "/certified-nurse-assistant-program/",
+      "template": "standard-content-or-legacy",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "firefox",
+      "version": "159.0",
+      "path": "/es/que-es-cuidar-a-largo-plazo/",
+      "template": "standard-content-or-legacy",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "firefox",
+      "version": "159.0",
+      "path": "/earn-and-learn-la/",
+      "template": "campaign-signup",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "firefox",
+      "version": "159.0",
+      "path": "/es/ganar-y-aprender-la/",
+      "template": "campaign-signup",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "firefox",
+      "version": "159.0",
+      "path": "/frequently-asked-questions/",
+      "template": "faq-accordion",
+      "width": 390,
+      "overflow": false,
+      "faq": true,
+      "status": "pass"
+    },
+    {
+      "browser": "firefox",
+      "version": "159.0",
+      "path": "/es/preguntas-frecuentes/",
+      "template": "faq-accordion",
+      "width": 390,
+      "overflow": false,
+      "faq": true,
+      "status": "pass"
+    },
+    {
+      "browser": "webkit",
+      "version": "27.2",
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "template": "careerpath-entry",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "webkit",
+      "version": "27.2",
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "template": "careerpath-entry",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "webkit",
+      "version": "27.2",
+      "path": "/",
+      "template": "homepage",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "webkit",
+      "version": "27.2",
+      "path": "/es/",
+      "template": "homepage",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "webkit",
+      "version": "27.2",
+      "path": "/career-seekers/",
+      "template": "career-section-landing",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "webkit",
+      "version": "27.2",
+      "path": "/es/aspirantes/",
+      "template": "career-section-landing",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "webkit",
+      "version": "27.2",
+      "path": "/career-paths-in-long-term-care/",
+      "template": "careerpath-index",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "webkit",
+      "version": "27.2",
+      "path": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+      "template": "careerpath-index",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "webkit",
+      "version": "27.2",
+      "path": "/community-resources/",
+      "template": "anchored-resources",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "webkit",
+      "version": "27.2",
+      "path": "/es/recursos-comunitarios/",
+      "template": "anchored-resources",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "webkit",
+      "version": "27.2",
+      "path": "/privacy-policy/",
+      "template": "policy",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "webkit",
+      "version": "27.2",
+      "path": "/es/politica-de-privacidad/",
+      "template": "policy",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "webkit",
+      "version": "27.2",
+      "path": "/certified-nurse-assistant-program/",
+      "template": "standard-content-or-legacy",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "webkit",
+      "version": "27.2",
+      "path": "/es/que-es-cuidar-a-largo-plazo/",
+      "template": "standard-content-or-legacy",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "webkit",
+      "version": "27.2",
+      "path": "/earn-and-learn-la/",
+      "template": "campaign-signup",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "webkit",
+      "version": "27.2",
+      "path": "/es/ganar-y-aprender-la/",
+      "template": "campaign-signup",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "webkit",
+      "version": "27.2",
+      "path": "/frequently-asked-questions/",
+      "template": "faq-accordion",
+      "width": 1440,
+      "overflow": false,
+      "faq": true,
+      "status": "pass"
+    },
+    {
+      "browser": "webkit",
+      "version": "27.2",
+      "path": "/es/preguntas-frecuentes/",
+      "template": "faq-accordion",
+      "width": 1440,
+      "overflow": false,
+      "faq": true,
+      "status": "pass"
+    },
+    {
+      "browser": "webkit",
+      "version": "27.2",
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "template": "careerpath-entry",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "webkit",
+      "version": "27.2",
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "template": "careerpath-entry",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "webkit",
+      "version": "27.2",
+      "path": "/",
+      "template": "homepage",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "webkit",
+      "version": "27.2",
+      "path": "/es/",
+      "template": "homepage",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "webkit",
+      "version": "27.2",
+      "path": "/career-seekers/",
+      "template": "career-section-landing",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "webkit",
+      "version": "27.2",
+      "path": "/es/aspirantes/",
+      "template": "career-section-landing",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "webkit",
+      "version": "27.2",
+      "path": "/career-paths-in-long-term-care/",
+      "template": "careerpath-index",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "webkit",
+      "version": "27.2",
+      "path": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+      "template": "careerpath-index",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "webkit",
+      "version": "27.2",
+      "path": "/community-resources/",
+      "template": "anchored-resources",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "webkit",
+      "version": "27.2",
+      "path": "/es/recursos-comunitarios/",
+      "template": "anchored-resources",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "webkit",
+      "version": "27.2",
+      "path": "/privacy-policy/",
+      "template": "policy",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "webkit",
+      "version": "27.2",
+      "path": "/es/politica-de-privacidad/",
+      "template": "policy",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "webkit",
+      "version": "27.2",
+      "path": "/certified-nurse-assistant-program/",
+      "template": "standard-content-or-legacy",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "webkit",
+      "version": "27.2",
+      "path": "/es/que-es-cuidar-a-largo-plazo/",
+      "template": "standard-content-or-legacy",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "webkit",
+      "version": "27.2",
+      "path": "/earn-and-learn-la/",
+      "template": "campaign-signup",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "webkit",
+      "version": "27.2",
+      "path": "/es/ganar-y-aprender-la/",
+      "template": "campaign-signup",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "webkit",
+      "version": "27.2",
+      "path": "/frequently-asked-questions/",
+      "template": "faq-accordion",
+      "width": 390,
+      "overflow": false,
+      "faq": true,
+      "status": "pass"
+    },
+    {
+      "browser": "webkit",
+      "version": "27.2",
+      "path": "/es/preguntas-frecuentes/",
+      "template": "faq-accordion",
+      "width": 390,
+      "overflow": false,
+      "faq": true,
+      "status": "pass"
+    },
+    {
+      "browser": "edge",
+      "version": "156.0.4314.58",
+      "path": "/",
+      "template": "homepage",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "edge",
+      "version": "156.0.4314.58",
+      "path": "/es/",
+      "template": "homepage",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "edge",
+      "version": "156.0.4314.58",
+      "path": "/",
+      "template": "homepage",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "edge",
+      "version": "156.0.4314.58",
+      "path": "/es/",
+      "template": "homepage",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "firefox",
+      "version": "159.0",
+      "path": "/",
+      "template": "homepage",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "firefox",
+      "version": "159.0",
+      "path": "/es/",
+      "template": "homepage",
+      "width": 1440,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "firefox",
+      "version": "159.0",
+      "path": "/",
+      "template": "homepage",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    },
+    {
+      "browser": "firefox",
+      "version": "159.0",
+      "path": "/es/",
+      "template": "homepage",
+      "width": 390,
+      "overflow": false,
+      "status": "pass"
+    }
+  ]
+}

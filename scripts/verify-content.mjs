@@ -161,7 +161,7 @@ const result = {
     'Main page content; scripts/styles/retired chatbot excluded; form copy inert; no visual-layout certification',
   checks,
 };
-write('docs/reports/phase-03-parity.json', result);
+write((process.env.QA_REPORT_PREFIX || 'docs/reports/phase-03') + '-parity.json', result);
 const cols = [
   'url',
   'locale',
@@ -178,7 +178,7 @@ const cols = [
   'anchorCount',
 ];
 fs.writeFileSync(
-  'docs/reports/phase-03-parity.csv',
+  (process.env.QA_REPORT_PREFIX || 'docs/reports/phase-03') + '-parity.csv',
   cols.join(',') +
     '\n' +
     checks

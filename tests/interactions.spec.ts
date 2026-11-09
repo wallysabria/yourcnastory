@@ -147,3 +147,15 @@ test('career content grids stay readable with reduced motion', async ({ page }) 
   await page.goto('/careerpaths/careers-in-activities/');
   await expect(page.locator('.wf-cell.shown').first()).toHaveCSS('opacity', '1');
 });
+
+for (const path of ['/careerpaths/careers-in-nursing/', '/es/carreras/carreras-en-enfermeria/']) {
+  test('career jump links stay on their current page ' + path, async ({ page }) => {
+    await page.goto(path);
+    await page.locator('.privacy-banner .privacy-action').nth(1).click();
+    const jump = page.locator('a[href="#mds-coordinator"]').first();
+    await expect(jump).toHaveCount(1);
+    await jump.click();
+    await expect(page).toHaveURL(new RegExp(path + '#mds-coordinator$'));
+    await expect(page.locator('[id="mds-coordinator"]')).toBeVisible();
+  });
+}

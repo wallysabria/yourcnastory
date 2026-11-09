@@ -1,0 +1,12 @@
+{
+  "checkedAt": "2026-11-09T01:21:00.699Z",
+  "origin": "https://yourcnastory.vercel.app",
+  "headers": {
+    "x-robots-tag": "noindex, nofollow, noarchive",
+    "content-security-policy": null,
+    "x-content-type-options": null,
+    "referrer-policy": null,
+    "permissions-policy": null,
+    "strict-transport-security": "max-age=63072000; includeSubDomains; preload"
+  }
+}

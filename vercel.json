@@ -5,6 +5,106 @@
   "buildCommand": "npm run build",
   "redirects": [
     {
+      "source": "/es/carreras-en-actividades",
+      "destination": "/es/carreras/carreras-en-actividades/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/carreras-en-actividades/",
+      "destination": "/es/carreras/carreras-en-actividades/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/carreras-en-servicios-sociales",
+      "destination": "/es/carreras/carreras-en-servicios-sociales/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/carreras-en-servicios-sociales/",
+      "destination": "/es/carreras/carreras-en-servicios-sociales/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/carreras-en-enfermeria",
+      "destination": "/es/carreras/carreras-en-enfermeria/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/carreras-en-enfermeria/",
+      "destination": "/es/carreras/carreras-en-enfermeria/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/carreras-en-terapia",
+      "destination": "/es/carreras/carreras-en-terapia/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/carreras-en-terapia/",
+      "destination": "/es/carreras/carreras-en-terapia/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/certified-nurse-assistant-program",
+      "destination": "/es/programa-cna/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/certified-nurse-assistant-program/",
+      "destination": "/es/programa-cna/",
+      "statusCode": 301
+    },
+    {
+      "source": "/careers-in-activities",
+      "destination": "/careerpaths/careers-in-activities/",
+      "statusCode": 301
+    },
+    {
+      "source": "/careers-in-activities/",
+      "destination": "/careerpaths/careers-in-activities/",
+      "statusCode": 301
+    },
+    {
+      "source": "/careers-in-social-services",
+      "destination": "/careerpaths/careers-in-social-services/",
+      "statusCode": 301
+    },
+    {
+      "source": "/careers-in-social-services/",
+      "destination": "/careerpaths/careers-in-social-services/",
+      "statusCode": 301
+    },
+    {
+      "source": "/careers-in-nursing",
+      "destination": "/careerpaths/careers-in-nursing/",
+      "statusCode": 301
+    },
+    {
+      "source": "/careers-in-nursing/",
+      "destination": "/careerpaths/careers-in-nursing/",
+      "statusCode": 301
+    },
+    {
+      "source": "/careers-in-therapy",
+      "destination": "/careerpaths/careers-in-therapy/",
+      "statusCode": 301
+    },
+    {
+      "source": "/careers-in-therapy/",
+      "destination": "/careerpaths/careers-in-therapy/",
+      "statusCode": 301
+    },
+    {
+      "source": "/start-your-new-career",
+      "destination": "/career-seekers/",
+      "statusCode": 301
+    },
+    {
+      "source": "/start-your-new-career/",
+      "destination": "/career-seekers/",
+      "statusCode": 301
+    },
+    {
       "source": "/zh/careerpaths/",
       "destination": "/career-paths-in-long-term-care/",
       "statusCode": 301

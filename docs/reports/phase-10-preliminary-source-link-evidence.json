@@ -1,0 +1,146 @@
+{
+  "checkedAt": "2026-11-09T01:10:48.194Z",
+  "method": "Read-only current public source requests for inherited broken link paths; archived approved source IDs checked separately. No changes or form submissions.",
+  "results": [
+    {
+      "path": "/start-your-new-career/",
+      "sourceStatus": 200,
+      "sourceFinalPath": "/career-seekers/",
+      "canonical": "https://yourcnastory.org/career-seekers/",
+      "english": "https://yourcnastory.org/career-seekers/",
+      "spanish": "https://yourcnastory.org/es/aspirantes/"
+    },
+    {
+      "path": "/careers-in-therapy/",
+      "sourceStatus": 200,
+      "sourceFinalPath": "/careerpaths/careers-in-therapy/",
+      "canonical": null,
+      "english": "https://yourcnastory.org/careerpaths/careers-in-therapy/",
+      "spanish": "https://yourcnastory.org/es/carreras/carreras-en-terapia/"
+    },
+    {
+      "path": "/careers-in-nursing/",
+      "sourceStatus": 200,
+      "sourceFinalPath": "/careerpaths/careers-in-nursing/",
+      "canonical": null,
+      "english": "https://yourcnastory.org/careerpaths/careers-in-nursing/",
+      "spanish": "https://yourcnastory.org/es/carreras/carreras-en-enfermeria/"
+    },
+    {
+      "path": "/careers-in-social-services",
+      "sourceStatus": 200,
+      "sourceFinalPath": "/careerpaths/careers-in-social-services/",
+      "canonical": null,
+      "english": "https://yourcnastory.org/careerpaths/careers-in-social-services/",
+      "spanish": "https://yourcnastory.org/es/carreras/carreras-en-servicios-sociales/"
+    },
+    {
+      "path": "/careers-in-activities",
+      "sourceStatus": 200,
+      "sourceFinalPath": "/careerpaths/careers-in-activities/",
+      "canonical": null,
+      "english": "https://yourcnastory.org/careerpaths/careers-in-activities/",
+      "spanish": "https://yourcnastory.org/es/carreras/carreras-en-actividades/"
+    },
+    {
+      "path": "/es/empieza-tu-nueva-carrera/",
+      "sourceStatus": 404,
+      "sourceFinalPath": "/es/empieza-tu-nueva-carrera/",
+      "canonical": null,
+      "english": "https://yourcnastory.org/start-your-new-career/",
+      "spanish": "https://yourcnastory.org/es/empieza-tu-nueva-carrera/"
+    },
+    {
+      "path": "/es/certified-nurse-assistant-program/",
+      "sourceStatus": 200,
+      "sourceFinalPath": "/es/programa-cna/",
+      "canonical": "https://yourcnastory.org/es/programa-cna/",
+      "english": "https://yourcnastory.org/certified-nurse-assistant-program/",
+      "spanish": "https://yourcnastory.org/es/programa-cna/"
+    },
+    {
+      "path": "/es/carreras-en-terapia/",
+      "sourceStatus": 200,
+      "sourceFinalPath": "/es/carreras/carreras-en-terapia/",
+      "canonical": null,
+      "english": "https://yourcnastory.org/careerpaths/careers-in-therapy/",
+      "spanish": "https://yourcnastory.org/es/carreras/carreras-en-terapia/"
+    },
+    {
+      "path": "/es/carreras-en-enfermeria/",
+      "sourceStatus": 200,
+      "sourceFinalPath": "/es/carreras/carreras-en-enfermeria/",
+      "canonical": null,
+      "english": "https://yourcnastory.org/careerpaths/careers-in-nursing/",
+      "spanish": "https://yourcnastory.org/es/carreras/carreras-en-enfermeria/"
+    },
+    {
+      "path": "/es/carreras-en-servicios-sociales/",
+      "sourceStatus": 200,
+      "sourceFinalPath": "/es/carreras/carreras-en-servicios-sociales/",
+      "canonical": null,
+      "english": "https://yourcnastory.org/careerpaths/careers-in-social-services/",
+      "spanish": "https://yourcnastory.org/es/carreras/carreras-en-servicios-sociales/"
+    },
+    {
+      "path": "/es/carreras-en-actividades/",
+      "sourceStatus": 200,
+      "sourceFinalPath": "/es/carreras/carreras-en-actividades/",
+      "canonical": null,
+      "english": "https://yourcnastory.org/careerpaths/careers-in-activities/",
+      "spanish": "https://yourcnastory.org/es/carreras/carreras-en-actividades/"
+    }
+  ],
+  "anchors": [
+    {
+      "path": "/community-resources/",
+      "cnapFlyerPresent": false,
+      "cuspPresent": false,
+      "ids": [
+        "video-what-cna",
+        "cna-toolkit",
+        "toolkit-becoming-cna"
+      ]
+    },
+    {
+      "path": "/es/recursos-comunitarios/",
+      "cnapFlyerPresent": false,
+      "cuspPresent": false,
+      "ids": [
+        "video-what-cna",
+        "cna-toolkit",
+        "toolkit-becoming-cna",
+        "floating-chatbot-chat_cnap_esp",
+        "mxchat-chatbot-wrapper-chat_cnap_esp",
+        "exit-chat-button-chat_cnap_esp",
+        "chat-mode-indicator-chat_cnap_esp",
+        "mxchat-chatbot-chat_cnap_esp",
+        "mxchat-init-loader-chat_cnap_esp",
+        "chat-container-chat_cnap_esp",
+        "chat-box-chat_cnap_esp",
+        "mxchat-popular-questions-chat_cnap_esp",
+        "input-container-chat_cnap_esp",
+        "chat-input-chat_cnap_esp",
+        "send-button-chat_cnap_esp",
+        "active-pdf-container-chat_cnap_esp",
+        "active-pdf-name-chat_cnap_esp",
+        "remove-pdf-btn-chat_cnap_esp",
+        "active-word-container-chat_cnap_esp",
+        "active-word-name-chat_cnap_esp",
+        "remove-word-btn-chat_cnap_esp",
+        "perplexity-search-btn-chat_cnap_esp",
+        "image-upload-chat_cnap_esp",
+        "image-upload-btn-chat_cnap_esp",
+        "pre-chat-message-chat_cnap_esp",
+        "floating-chatbot-button-chat_cnap_esp",
+        "chat-notification-badge-chat_cnap_esp"
+      ]
+    },
+    {
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "cnapFlyerPresent": false,
+      "cuspPresent": false,
+      "ids": []
+    }
+  ]
+}

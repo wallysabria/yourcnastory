@@ -16,7 +16,14 @@ import {
 import { startTelemetry, setTrackingRoute } from '@/lib/telemetry';
 export function PrivacyChoices({ locale }: { locale: Locale }) {
   return (
-    <button type="button" className="privacy-choices-button" onClick={openPrivacy}>
+    <button
+      type="button"
+      className="privacy-choices-button"
+      onClick={(event) => {
+        event.currentTarget.focus();
+        openPrivacy();
+      }}
+    >
       {messages[locale].footer}
     </button>
   );
@@ -132,7 +139,14 @@ export function PrivacyCenter({ locale, tracking }: { locale: Locale; tracking: 
             >
               {t.decline}
             </button>
-            <button type="button" className="privacy-manage" onClick={openPrivacy}>
+            <button
+              type="button"
+              className="privacy-manage"
+              onClick={(event) => {
+                event.currentTarget.focus();
+                openPrivacy();
+              }}
+            >
               {t.manage}
             </button>
           </div>

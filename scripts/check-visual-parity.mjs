@@ -6,7 +6,7 @@ import pixelmatch from 'pixelmatch';
 const references = JSON.parse(fs.readFileSync('docs/audit/screenshots-index.json'));
 const routes = new Set(JSON.parse(fs.readFileSync('content/pages/index.json')).map((r) => r.path));
 const jobs = references.filter((r) => routes.has(new URL(r.url).pathname));
-const directory = '_source/phase-04/visual';
+const directory = (process.env.QA_SOURCE_DIR || '_source/phase-04') + '/visual';
 fs.mkdirSync(directory, { recursive: true });
 const browser = await chromium.launch();
 let cursor = 0;
@@ -69,7 +69,7 @@ try {
 }
 results.sort((a, b) => a.path.localeCompare(b.path) || a.width - b.width);
 fs.writeFileSync(
-  'docs/reports/phase-04-visual.json',
+  (process.env.QA_REPORT_PREFIX || 'docs/reports/phase-04') + '-visual.json',
   JSON.stringify(
     {
       threshold: { pixelmatch: 0.1, changedRatio: 0.005 },

@@ -111,3 +111,21 @@ Phase 7 final owner decision — 2026-11-08: the three retired-language direct r
 ## Phase 7 publication — owner approved 2026-11-08
 
 Owner explicitly requested merge, lint and publish. PR #7 merged as d8e2c3f995f17d27b76caa4836e7d9342df72b37. Lint/build and post-merge CI passed. Vercel production deployment https://yourcnastory-oer5dgshv-wallysabrias-projects.vercel.app is READY and owns https://yourcnastory.vercel.app/. Public-alias verification passed all 48 pages, 552 assets, five SEO endpoints, ten Phase 7 redirect variants with query preservation, EN/ES search, retained consent mocks, GPC and click-to-load video checks. Evidence: docs/reports/phase-07-production-checks.json. Indexing remains blocked; production tracking stays off/mocked. No custom-domain cutover. Earlier unmerged/unpublished statements describe the review handoff and are superseded by this approval. Phase 6 remains deferred and Employers remain gated.
+
+## Employer scope clarification and preliminary QA — 2026-11-08
+
+Owner confirmed Employers is English only and its content is pending/not ready. This supersedes bilingual Employer implementation assumptions, but does not authorize deletion or redirection of existing Spanish Employer URLs. Phase 8 remains on hold; links remain inactive. Phase 6 remains deferred. Owner approved preparing a limited Phase 10 QA pass for existing Career Seekers/shared EN/ES pages. Concrete plan: docs/phases/phase-10-preliminary-plan.md; implementation awaits its approval. Full-site Phase 10 acceptance and launch remain deferred.
+
+
+## Preliminary Phase 10 QA — 2026-11-08
+
+Detailed limited QA plan approved in chat. Career Seekers/shared EN/ES only; Employers remains English-only and on hold, and Phase 6 remains deferred. A renderer defect converted fragment-only career links into homepage links. Restoring the original fragment semantics is an implementation defect fix with no copy/design/route change. EN/ES nursing jump regression tests pass. Ten source-evidenced legacy redirects are proposed separately, inactive pending owner approval. Source-missing cnap-flyer and cusp anchors and one broken Spanish legacy link remain reported; no invented replacements. D-004 remains declined. No new Spanish UI text or visual design change.
+
+
+Preliminary QA cross-browser fix: explicitly focus the clicked Privacy choices/Manage preferences opener before dispatching the existing open event. WebKit pointer activation otherwise does not focus buttons, so returning focus could target the page body. No consent wording, categories, storage or styling changed. Final representative matrix: 108 Edge/Firefox/WebKit checks passed; Chromium suite: 62 passed. Native Safari/iOS and physical devices remain unverified.
+
+
+Owner approved all ten source-evidenced legacy redirects on 2026-11-08. Implemented 20 direct 301 rules including slash variants, preserving queries and existing destination paths. Total active rules: 280. Earlier pending status is superseded. The source-broken Spanish start-career link and three source-missing anchor destinations remain unresolved.
+
+
+Preliminary QA handoff: 62 final regression tests pass, including 280 HTTP redirects; 48 content/source matches; 108 extended browser representative checks; 192-state baseline axe retains only D-004. All 54 mobile lab runs completed: 6/18 LCP, 11/18 score≥90, 18/18 CLS and TBT. Protected preview checks passed 48 pages/552 assets and both fixes, with temporary credentials revoked. One source-broken Spanish path, three source-missing anchor targets, source visual differences, performance/security and remaining integration/native-device/counsel gates remain explicit. No merge/publication or full-site launch sign-off.
