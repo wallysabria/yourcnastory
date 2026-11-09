@@ -83,3 +83,6 @@ Owner approved favicon/app icons and mega-menu usability only, on addon-01-favic
 
 
 D-009: owner-requested career-path index presentation fix. Shared EN/ES grid now uses CSS-only circular 200px portraits, centered carousel typography and matching spacing. Original image bytes, copy, links, anchors and grid structure remain unchanged. No new Spanish string or metadata change.
+
+
+D-010: restored the source screenshot/live shared-menu dash markers, indentation and measured typography/spacing using optional visual-subitem flags and empty CSS decoration. All original EN/ES global data deep-matches main after removing only those flags; no label, URL, mobile hierarchy or footer copy changed. Employer destinations remain inactive. Hover/touch/keyboard implementation unchanged.

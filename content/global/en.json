@@ -43,37 +43,44 @@
             {
               "label": "CNA Training Providers",
               "href": "/employer-resources/#directory-natps",
-              "employer": true
+              "employer": true,
+              "nested": true
             },
             {
               "label": "DSD Approval Packet",
               "href": "/employer-resources/#dsd-approval",
-              "employer": true
+              "employer": true,
+              "nested": true
             },
             {
               "label": "Develop your CNA Workforce",
               "href": "/employer-resources/#wib-workforce2",
-              "employer": true
+              "employer": true,
+              "nested": true
             },
             {
               "label": "Establish an Earn and Learn Program",
               "href": "/employer-resources/#cearnandlearn",
-              "employer": true
+              "employer": true,
+              "nested": true
             },
             {
               "label": "Become a Community NATP",
               "href": "/employer-resources/#webinar-contracting-natps",
-              "employer": true
+              "employer": true,
+              "nested": true
             },
             {
               "label": "Become a Facility NATP",
               "href": "/employer-resources/#f-natp-application",
-              "employer": true
+              "employer": true,
+              "nested": true
             },
             {
               "label": "Partnering with your Workforce Board",
               "href": "/employer-resources/#wib-workforce",
-              "employer": true
+              "employer": true,
+              "nested": true
             }
           ]
         },
@@ -135,42 +142,50 @@
             {
               "label": "Certified Nursing Assistant",
               "href": "/careerpaths/careers-in-certified-nurse-assistant/",
-              "employer": false
+              "employer": false,
+              "nested": true
             },
             {
               "label": "Nursing",
               "href": "/careerpaths/careers-in-nursing/",
-              "employer": false
+              "employer": false,
+              "nested": true
             },
             {
               "label": "Administration",
               "href": "/careerpaths/careers-in-administration/",
-              "employer": false
+              "employer": false,
+              "nested": true
             },
             {
               "label": "Social Services",
               "href": "/careerpaths/careers-in-social-services/",
-              "employer": false
+              "employer": false,
+              "nested": true
             },
             {
               "label": "Therapy",
               "href": "/careerpaths/careers-in-therapy/",
-              "employer": false
+              "employer": false,
+              "nested": true
             },
             {
               "label": "Care Coordination",
               "href": "/careerpaths/careers-in-care-coordination/",
-              "employer": false
+              "employer": false,
+              "nested": true
             },
             {
               "label": "Support Services",
               "href": "/careerpaths/careers-in-support-services/",
-              "employer": false
+              "employer": false,
+              "nested": true
             },
             {
               "label": "Activities",
               "href": "/careerpaths/careers-in-activities/",
-              "employer": false
+              "employer": false,
+              "nested": true
             }
           ]
         },
@@ -185,27 +200,32 @@
             {
               "label": "CNA Training Providers",
               "href": "/community-resources/#online-natps",
-              "employer": false
+              "employer": false,
+              "nested": true
             },
             {
               "label": "CNAs Share Their Experiences",
               "href": "/community-resources/#video-what-cna",
-              "employer": false
+              "employer": false,
+              "nested": true
             },
             {
               "label": "Becoming a CNA",
               "href": "/community-resources/#cna-toolkit",
-              "employer": false
+              "employer": false,
+              "nested": true
             },
             {
               "label": "CNA Practice Exam",
               "href": "/community-resources/#practice-exam",
-              "employer": false
+              "employer": false,
+              "nested": true
             },
             {
               "label": "CNA Flyer",
               "href": "/community-resources/#cnap-flyer",
-              "employer": false
+              "employer": false,
+              "nested": true
             }
           ]
         }

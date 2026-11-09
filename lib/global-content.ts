@@ -2,6 +2,7 @@ import en from '@/content/global/en.json' with { type: 'json' };
 import es from '@/content/global/es.json' with { type: 'json' };
 import { globalSettingsSchema, type Locale } from './content-schema';
 export interface NavItem {
+  nested?: boolean;
   label: string;
   href: string;
   employer: boolean;

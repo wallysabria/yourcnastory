@@ -183,27 +183,41 @@
     color: var(--ink);
     box-shadow: 0 10px 20px rgb(0 0 0 / 0.1);
     border-top: 1px solid #eee;
-    padding: 36px max(40px, calc((100vw - 1240px) / 2)) 40px;
+    padding: 60px max(40px, calc((100vw - 1240px) / 2));
   }
   .mega-columns {
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 50px;
+    gap: 60px;
     max-width: 1240px;
     margin: auto;
   }
   .mega-columns h2 {
     font-size: 16px;
-    font-weight: 800;
-    line-height: 1.3;
-    margin-bottom: 22px;
+    font-weight: 900;
+    line-height: 1;
+    margin-bottom: 10px;
     color: #000;
   }
   .mega-columns li {
     font-size: 14px;
     font-weight: 600;
-    line-height: 1.6;
-    margin: 0 0 12px;
+    line-height: 28.9px;
+    margin: 0;
+  }
+  .mega-columns .mega-subitem {
+    position: relative;
+    padding-inline-start: 22.5px;
+  }
+  .mega-columns .mega-subitem::before {
+    content: '';
+    position: absolute;
+    inset-inline-start: 2.3625px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 9.275px;
+    height: 1.4875px;
+    background: currentColor;
   }
   .mega-columns a:hover {
     color: var(--blue);
