@@ -75,3 +75,8 @@ Owner approved all ten source-evidenced legacy redirects on 2026-11-08. Implemen
 
 
 Preliminary QA handoff: 62 final regression tests pass, including 280 HTTP redirects; 48 content/source matches; 108 extended browser representative checks; 192-state baseline axe retains only D-004. All 54 mobile lab runs completed: 6/18 LCP, 11/18 score≥90, 18/18 CLS and TBT. Protected preview checks passed 48 pages/552 assets and both fixes, with temporary credentials revoked. One source-broken Spanish path, three source-missing anchor targets, source visual differences, performance/security and remaining integration/native-device/counsel gates remain explicit. No merge/publication or full-site launch sign-off.
+
+
+## Add-on 01 — approved reduced scope
+
+Owner approved favicon/app icons and mega-menu usability only, on addon-01-favicon-menu-og. Social preview images/samples/log entry are deferred; existing OG/Twitter image metadata, titles and descriptions remain unchanged. Original 270px favicon upload is preserved byte-for-byte; no vector source exists. Hover timing is centralized (100ms open/350ms close), with a measured invisible bridge, keyboard/focus and touch handling. Mobile markup/source wording and inactive Employer destinations stay unchanged. No new Spanish UI string, new dependency, tracking activation or phase advancement. Separate review PR/report; no merge/publication without owner instruction.

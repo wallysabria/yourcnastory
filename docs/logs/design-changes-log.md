@@ -69,3 +69,11 @@ Owner approved all ten source-evidenced legacy redirects on 2026-11-08. Implemen
 
 
 Preliminary QA handoff: 62 final regression tests pass, including 280 HTTP redirects; 48 content/source matches; 108 extended browser representative checks; 192-state baseline axe retains only D-004. All 54 mobile lab runs completed: 6/18 LCP, 11/18 score≥90, 18/18 CLS and TBT. Protected preview checks passed 48 pages/552 assets and both fixes, with temporary credentials revoked. One source-broken Spanish path, three source-missing anchor targets, source visual differences, performance/security and remaining integration/native-device/counsel gates remain explicit. No merge/publication or full-site launch sign-off.
+
+## Add-on 01 — approved 2026-11-08
+
+- D-007 **approved**: favicon and app icons carried over from the live site, using App Router metadata conventions and the existing brand theme token.
+- D-008 **approved**: mega menu stays open reliably on hover, with hover intent, a continuous hover bridge, keyboard/focus and touch handling. Appearance and mobile navigation remain unchanged; Employer destinations stay gated.
+- Social preview images, sample renders and their design-log entry are deferred by the owner's subsequent instruction. No og:image/twitter:image exception is implemented in this add-on. Titles, descriptions and current social image metadata remain unchanged.
+
+The owner explicitly approved the reduced plan in chat. This add-on uses its own branch/PR and does not advance the phase roadmap.

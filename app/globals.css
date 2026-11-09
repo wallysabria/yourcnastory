@@ -168,6 +168,12 @@
   .nav-label:hover {
     text-decoration: none;
   }
+  .mega-hover-bridge {
+    position: absolute;
+    left: 0;
+    right: 0;
+    z-index: 1;
+  }
   .mega-panel {
     position: absolute;
     left: 0;

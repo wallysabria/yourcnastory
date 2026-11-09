@@ -1,0 +1,1490 @@
+{
+  "checkedAt": "2026-11-09T04:26:47.990Z",
+  "deployment": "https://yourcnastory-dvyvswgol-wallysabrias-projects.vercel.app",
+  "sha": "a09e554b999552b2e7ab1bf4511fd5f5dc7e36b4",
+  "pages": 48,
+  "heads": [
+    {
+      "path": "/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/career-advancement/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/career-paths-in-long-term-care/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/career-seekers/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/careerpaths/careers-in-activities/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/careerpaths/careers-in-administration/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/careerpaths/careers-in-care-coordination/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/careerpaths/careers-in-social-services/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/careerpaths/careers-in-support-services/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/careerpaths/careers-in-therapy/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/certified-nurse-assistant-program/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/cna-training-providers/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/community-resources/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/earn-and-learn-bayarea/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/earn-and-learn-cvalley/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/earn-and-learn-la/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/earn-and-learn-norcal/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/earn-and-learn-san-diego/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/earn-and-learn/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/es/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/es/aspirantes/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/es/carreras/carreras-en-actividades/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/es/carreras/carreras-en-administracion/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-de-apoyo/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-sociales/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/es/carreras/carreras-en-terapia/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/es/earn-and-learn-norcal/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/es/earn-and-learn/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/es/gana-y-aprende-bayarea/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/es/gana-y-aprende-cvalley/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/es/gana-y-aprende-san-diego/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/es/ganar-y-aprender-la/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/es/politica-de-privacidad/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/es/programa-cna-2/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/es/programa-cna/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/es/que-es-cuidar-a-largo-plazo/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/es/recursos-comunitarios/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/frequently-asked-questions/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/privacy-policy/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "path": "/what-is-long-term-care/",
+      "tags": [
+        {
+          "rel": "manifest",
+          "href": "/manifest.webmanifest",
+          "type": null,
+          "sizes": null
+        },
+        {
+          "rel": "icon",
+          "href": "/favicon.ico?favicon.3nogywnwp85zd.ico",
+          "type": "image/x-icon",
+          "sizes": "48x48"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.png?icon.14gyfe6at81g0.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "/apple-icon.png?apple-icon.10mv1x-4pijq0.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "path": "/favicon.ico",
+      "status": 200,
+      "sha256": "e21c3cea727d4f305d8465e0cd4d6e0f2accc5cf5c51524d6c43594b7dd51af3"
+    },
+    {
+      "path": "/icon.png",
+      "status": 200,
+      "sha256": "99f620ca3fc0014717660e6dc69684b8ded261920f41ad65105827a7cae52033"
+    },
+    {
+      "path": "/apple-icon.png",
+      "status": 200,
+      "sha256": "c0b7e5c817bd549214b260c141596c7a70e62578eaecd06abdaaf57954be80a2"
+    },
+    {
+      "path": "/images/icons/app-icon-192.png",
+      "status": 200,
+      "sha256": "93709a81990d47867439748dfec4aacd389ca98df756f6aff12a4b703438c584"
+    },
+    {
+      "path": "/images/icons/app-icon-512.png",
+      "status": 200,
+      "sha256": "b9f57d008ec4957b649326762c32997391f95d7d91163a6f9036562b776a6eda"
+    },
+    {
+      "path": "/wp-content/uploads/2025/09/cropped-favicon-270x270.png",
+      "status": 200,
+      "sha256": "c39925bfea135c019d7a33820eecbe1bf29bdb375a7a0b190c630816375b4ea8"
+    }
+  ],
+  "manifest": {
+    "name": "Your CNA Story",
+    "short_name": "CNAP",
+    "start_url": "/",
+    "display": "browser",
+    "background_color": "#ffffff",
+    "theme_color": "#0159d3",
+    "icons": [
+      {
+        "src": "/images/icons/app-icon-192.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any"
+      },
+      {
+        "src": "/images/icons/app-icon-512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any"
+      }
+    ]
+  },
+  "checks": [
+    {
+      "locale": "en",
+      "hoverBridge": true,
+      "switching": true,
+      "keyboard": true,
+      "headerAxeViolations": 0,
+      "employerLinksInactive": true
+    },
+    {
+      "locale": "en",
+      "touchFirstTap": true,
+      "touchOutsideCloses": true
+    },
+    {
+      "locale": "es",
+      "hoverBridge": true,
+      "switching": true,
+      "keyboard": true,
+      "headerAxeViolations": 0,
+      "employerLinksInactive": true
+    },
+    {
+      "locale": "es",
+      "touchFirstTap": true,
+      "touchOutsideCloses": true
+    }
+  ],
+  "screenshots": [
+    "docs/reports/addon-01-preview/menu-career-en.png",
+    "docs/reports/addon-01-preview/menu-employer-en.png",
+    "docs/reports/addon-01-preview/menu-career-es.png",
+    "docs/reports/addon-01-preview/menu-employer-es.png"
+  ],
+  "unauthenticatedStatus": 302,
+  "method": "Protected preview same-origin-only test header; all 48 page icon tags/title/description/og:image checked, six icon/source byte hashes, EN/ES mouse bridge, switching, keyboard, touch and header axe. Four preview screenshots. No live forms or production SDKs."
+}
