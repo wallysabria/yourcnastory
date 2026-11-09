@@ -77,3 +77,7 @@ Preliminary QA handoff: 62 final regression tests pass, including 280 HTTP redir
 - Social preview images, sample renders and their design-log entry are deferred by the owner's subsequent instruction. No og:image/twitter:image exception is implemented in this add-on. Titles, descriptions and current social image metadata remain unchanged.
 
 The owner explicitly approved the reduced plan in chat. This add-on uses its own branch/PR and does not advance the phase roadmap.
+
+## D-009 — Career-path card formatting — approved
+
+Owner requested circular picture windows and formatting matching the “Where will your new career take you?” Career Seekers carousel. Apply the carousel's 200px circular portraits, centered 20px/600/26px titles, 17px/400/28.9px descriptions and 15px image / 10px description spacing to the EN/ES careerpath-index grid. Preserve original copy, images, destinations, responsive grid and other pages. Screenshot red circles are annotations, not red borders. This is a scoped owner-approved visual correction, not a new phase.
