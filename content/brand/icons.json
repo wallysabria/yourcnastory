@@ -1,0 +1,38 @@
+{
+  "source": {
+    "url": "https://yourcnastory.org/wp-content/uploads/2025/09/cropped-favicon-270x270.png",
+    "path": "/wp-content/uploads/2025/09/cropped-favicon-270x270.png",
+    "width": 270,
+    "height": 270,
+    "sha256": "c39925bfea135c019d7a33820eecbe1bf29bdb375a7a0b190c630816375b4ea8",
+    "vector": false
+  },
+  "themeColor": "#0159d3",
+  "files": [
+    {
+      "path": "app/favicon.ico",
+      "sizes": [16, 32, 48]
+    },
+    {
+      "path": "app/icon.png",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "path": "app/apple-icon.png",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "path": "public/images/icons/app-icon-192.png",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "path": "public/images/icons/app-icon-512.png",
+      "width": 512,
+      "height": 512
+    }
+  ],
+  "limitation": "_source/brand/ was absent. Approved fallback is 270×270; 512px output is upscaled. A larger or SVG source would give sharper large icons. No vector source was available, so no SVG was invented."
+}

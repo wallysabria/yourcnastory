@@ -1,0 +1,27 @@
+{
+  "method": "Full Chromium regression plus focused Firefox/WebKit add-on tests. Header tests isolate background media and use DOM-ready navigation; hover uses a paused clock. WebKit uses explicit ArrowDown entry because native Tab follows platform link-focus preferences. Firefox cannot emulate touch; Chromium/WebKit cover it. Not a physical device or native Safari certification.",
+  "chromium": {
+    "startTime": "2026-11-09T04:20:59.205Z",
+    "duration": 38338.062,
+    "expected": 70,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  },
+  "firefox": {
+    "startTime": "2026-11-09T04:21:00.629Z",
+    "duration": 33444.914000000004,
+    "expected": 6,
+    "skipped": 2,
+    "unexpected": 0,
+    "flaky": 0
+  },
+  "webkit": {
+    "startTime": "2026-11-09T04:19:55.198Z",
+    "duration": 16954.012,
+    "expected": 8,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  }
+}

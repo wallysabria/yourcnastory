@@ -13,7 +13,7 @@ export default defineConfig({
     { name: 'unit', testMatch: /(?:routing|signup|privacy)\.spec\.ts/ },
     {
       name: 'chromium',
-      testMatch: /(?:layout|interactions|consent|seo)\.spec\.ts/,
+      testMatch: /(?:layout|interactions|consent|seo|addon)\.spec\.ts/,
       use: { ...devices['Desktop Chrome'], viewport: { width: 1440, height: 1000 } },
     },
   ],

@@ -1,0 +1,29 @@
+{
+  "method": "Same Chromium/reduced-motion/font-ready 1440px panel-only screenshots: published pre-add-on review alias versus add-on local build. Mouse hover, no focus ring; solid panel content compared without dynamic hero/consent backgrounds. Not a whole-page parity claim.",
+  "checks": [
+    {
+      "path": "/",
+      "panel": 0,
+      "sameDimensions": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/",
+      "panel": 1,
+      "sameDimensions": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/",
+      "panel": 0,
+      "sameDimensions": true,
+      "changedPixels": 0
+    },
+    {
+      "path": "/es/",
+      "panel": 1,
+      "sameDimensions": true,
+      "changedPixels": 0
+    }
+  ]
+}

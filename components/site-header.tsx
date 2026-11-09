@@ -7,6 +7,7 @@ import type { GlobalContent, MobileItem } from '@/lib/global-content';
 import { hrefFor } from '@/lib/routing';
 import { SiteLink } from './site-link';
 import { CloseIcon, MenuIcon } from './icons';
+import { useMegaMenu } from './use-mega-menu';
 function MobileBranch({ item, enabled }: { item: MobileItem; enabled: boolean }) {
   return item.children.length ? (
     <details className="mobile-branch">
@@ -49,7 +50,21 @@ export function SiteHeader({
     };
   }, []);
   const overHero = transparent && !scrolled;
-  const [active, setActive] = useState<number | null>(null);
+  const {
+    active,
+    bridgeStyle,
+    nav,
+    triggers,
+    pointer,
+    cancelTimers,
+    close,
+    enter,
+    leave,
+    keyDown,
+    click,
+    escape,
+    focus,
+  } = useMegaMenu();
   const dialog = useRef<HTMLDialogElement>(null);
   const currentLabel = content.locale === 'es' ? 'Español' : 'English';
   const otherLabel = content.locale === 'es' ? 'English' : 'Español';
@@ -95,27 +110,38 @@ export function SiteHeader({
           <nav
             className="desktop-nav"
             aria-label={content.ui.navigation}
-            onMouseLeave={() => setActive(null)}
-            onKeyDown={(event) => {
-              if (event.key === 'Escape') {
-                event.preventDefault();
-                const trigger =
-                  event.currentTarget.querySelectorAll<HTMLElement>('.nav-label')[active ?? 0];
-                setActive(null);
-                trigger?.focus();
-              }
+            ref={nav}
+            onKeyDown={escape}
+            onClick={(event) => {
+              const link = (event.target as Element).closest('a[href]');
+              if (link && !link.classList.contains('nav-label')) close();
             }}
           >
             {content.nav.map((group, index) => (
-              <div className="nav-group" key={group.label} onMouseEnter={() => setActive(index)}>
+              <div
+                className="nav-group"
+                key={group.label}
+                onPointerEnter={(event) => enter(index, event)}
+                onPointerLeave={leave}
+                onBlur={(event) => {
+                  if (!event.currentTarget.contains(event.relatedTarget)) close();
+                }}
+              >
                 {group.employer && !enabled ? (
                   <button
                     className="nav-label"
                     type="button"
                     aria-expanded={active === index}
                     aria-controls={'mega-' + index}
-                    onFocus={() => setActive(null)}
-                    onClick={() => setActive(active === index ? null : index)}
+                    onFocus={() => focus(index)}
+                    ref={(element) => {
+                      triggers.current[index] = element;
+                    }}
+                    onPointerDown={(event) => {
+                      pointer.current = event.pointerType;
+                    }}
+                    onKeyDown={(event) => keyDown(index, event)}
+                    onClick={(event) => click(index, true, event)}
                   >
                     {group.label}
                   </button>
@@ -126,17 +152,15 @@ export function SiteHeader({
                     aria-haspopup="true"
                     aria-expanded={active === index}
                     aria-controls={'mega-' + index}
-                    onFocus={() => setActive(null)}
-                    onKeyDown={(e) => {
-                      if (e.key === 'ArrowDown') {
-                        e.preventDefault();
-                        setActive(index);
-                        document
-                          .getElementById('mega-' + index)
-                          ?.querySelector<HTMLAnchorElement>('a')
-                          ?.focus();
-                      }
+                    onFocus={() => focus(index)}
+                    ref={(element) => {
+                      triggers.current[index] = element;
                     }}
+                    onPointerDown={(event) => {
+                      pointer.current = event.pointerType;
+                    }}
+                    onKeyDown={(event) => keyDown(index, event)}
+                    onClick={(event) => click(index, false, event)}
                   >
                     {group.label}
                   </Link>
@@ -161,7 +185,15 @@ export function SiteHeader({
                 </div>
               </div>
             ))}
-            <details className="language-menu" onFocus={() => setActive(null)}>
+            <span
+              className="mega-hover-bridge"
+              aria-hidden="true"
+              hidden={active === null}
+              style={bridgeStyle}
+              onPointerEnter={cancelTimers}
+              onPointerLeave={leave}
+            />
+            <details className="language-menu" onFocus={close}>
               <summary>{currentLabel}</summary>
               <div>
                 {counterpartHref ? (
