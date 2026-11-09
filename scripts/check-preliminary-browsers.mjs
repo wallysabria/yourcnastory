@@ -27,7 +27,9 @@ for (const [name, type, options] of [
       );
       const page = await context.newPage();
       page.setDefaultTimeout(12000);
-      for (const route of cases) {
+      for (const route of cases.filter(
+        (r) => !process.env.QA_PATHS || process.env.QA_PATHS.split(',').includes(r.path),
+      )) {
         const row = {
           browser: name,
           version: browser.version(),
@@ -103,7 +105,9 @@ const file = 'docs/reports/phase-10-preliminary-browsers.json';
 const previous =
   process.env.QA_BROWSERS && fs.existsSync(file)
     ? JSON.parse(fs.readFileSync(file)).results.filter(
-        (r) => !process.env.QA_BROWSERS.split(',').includes(r.browser),
+        (r) =>
+          !process.env.QA_BROWSERS.split(',').includes(r.browser) ||
+          (process.env.QA_PATHS && !process.env.QA_PATHS.split(',').includes(r.path)),
       )
     : [];
 results.unshift(...previous);

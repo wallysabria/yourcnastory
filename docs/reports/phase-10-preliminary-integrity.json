@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-11-09T01:14:39.467Z",
-  "sha": "efb664f944e365456a1ffd01e916d7c368c2ac0c",
+  "checkedAt": "2026-11-09T01:28:27.023Z",
+  "sha": "0160c418d074cee03a06edeb9951f1f3534ff5b3",
   "origin": "http://127.0.0.1:3101",
   "pages": 48,
   "links": 2854,
@@ -8,108 +8,10 @@
   "uniqueTargets": 204,
   "badTargets": [
     {
-      "path": "/start-your-new-career/",
-      "hops": [
-        {
-          "path": "/start-your-new-career/",
-          "status": 404
-        }
-      ]
-    },
-    {
-      "path": "/careers-in-therapy/",
-      "hops": [
-        {
-          "path": "/careers-in-therapy/",
-          "status": 404
-        }
-      ]
-    },
-    {
-      "path": "/careers-in-nursing/",
-      "hops": [
-        {
-          "path": "/careers-in-nursing/",
-          "status": 404
-        }
-      ]
-    },
-    {
-      "path": "/careers-in-social-services",
-      "hops": [
-        {
-          "path": "/careers-in-social-services",
-          "status": 301
-        },
-        {
-          "path": "/careers-in-social-services/",
-          "status": 404
-        }
-      ]
-    },
-    {
-      "path": "/careers-in-activities",
-      "hops": [
-        {
-          "path": "/careers-in-activities",
-          "status": 301
-        },
-        {
-          "path": "/careers-in-activities/",
-          "status": 404
-        }
-      ]
-    },
-    {
       "path": "/es/empieza-tu-nueva-carrera/",
       "hops": [
         {
           "path": "/es/empieza-tu-nueva-carrera/",
-          "status": 404
-        }
-      ]
-    },
-    {
-      "path": "/es/certified-nurse-assistant-program/",
-      "hops": [
-        {
-          "path": "/es/certified-nurse-assistant-program/",
-          "status": 404
-        }
-      ]
-    },
-    {
-      "path": "/es/carreras-en-terapia/",
-      "hops": [
-        {
-          "path": "/es/carreras-en-terapia/",
-          "status": 404
-        }
-      ]
-    },
-    {
-      "path": "/es/carreras-en-enfermeria/",
-      "hops": [
-        {
-          "path": "/es/carreras-en-enfermeria/",
-          "status": 404
-        }
-      ]
-    },
-    {
-      "path": "/es/carreras-en-servicios-sociales/",
-      "hops": [
-        {
-          "path": "/es/carreras-en-servicios-sociales/",
-          "status": 404
-        }
-      ]
-    },
-    {
-      "path": "/es/carreras-en-actividades/",
-      "hops": [
-        {
-          "path": "/es/carreras-en-actividades/",
           "status": 404
         }
       ]
@@ -1067,11 +969,24 @@
       ]
     },
     {
+      "path": "/privacy-policy/",
+      "hops": [
+        {
+          "path": "/privacy-policy/",
+          "status": 200
+        }
+      ]
+    },
+    {
       "path": "/start-your-new-career/",
       "hops": [
         {
           "path": "/start-your-new-career/",
-          "status": 404
+          "status": 301
+        },
+        {
+          "path": "/career-seekers/",
+          "status": 200
         }
       ]
     },
@@ -1080,7 +995,11 @@
       "hops": [
         {
           "path": "/careers-in-therapy/",
-          "status": 404
+          "status": 301
+        },
+        {
+          "path": "/careerpaths/careers-in-therapy/",
+          "status": 200
         }
       ]
     },
@@ -1089,15 +1008,36 @@
       "hops": [
         {
           "path": "/careers-in-nursing/",
-          "status": 404
+          "status": 301
+        },
+        {
+          "path": "/careerpaths/careers-in-nursing/",
+          "status": 200
         }
       ]
     },
     {
-      "path": "/privacy-policy/",
+      "path": "/careers-in-social-services",
       "hops": [
         {
-          "path": "/privacy-policy/",
+          "path": "/careers-in-social-services",
+          "status": 301
+        },
+        {
+          "path": "/careerpaths/careers-in-social-services/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/careers-in-activities",
+      "hops": [
+        {
+          "path": "/careers-in-activities",
+          "status": 301
+        },
+        {
+          "path": "/careerpaths/careers-in-activities/",
           "status": 200
         }
       ]
@@ -1126,32 +1066,6 @@
         {
           "path": "/es/carreras/carreras-en-terapia/",
           "status": 200
-        }
-      ]
-    },
-    {
-      "path": "/careers-in-social-services",
-      "hops": [
-        {
-          "path": "/careers-in-social-services",
-          "status": 301
-        },
-        {
-          "path": "/careers-in-social-services/",
-          "status": 404
-        }
-      ]
-    },
-    {
-      "path": "/careers-in-activities",
-      "hops": [
-        {
-          "path": "/careers-in-activities",
-          "status": 301
-        },
-        {
-          "path": "/careers-in-activities/",
-          "status": 404
         }
       ]
     },
@@ -1451,20 +1365,15 @@
       ]
     },
     {
-      "path": "/es/empieza-tu-nueva-carrera/",
-      "hops": [
-        {
-          "path": "/es/empieza-tu-nueva-carrera/",
-          "status": 404
-        }
-      ]
-    },
-    {
       "path": "/es/certified-nurse-assistant-program/",
       "hops": [
         {
           "path": "/es/certified-nurse-assistant-program/",
-          "status": 404
+          "status": 301
+        },
+        {
+          "path": "/es/programa-cna/",
+          "status": 200
         }
       ]
     },
@@ -1473,7 +1382,11 @@
       "hops": [
         {
           "path": "/es/carreras-en-terapia/",
-          "status": 404
+          "status": 301
+        },
+        {
+          "path": "/es/carreras/carreras-en-terapia/",
+          "status": 200
         }
       ]
     },
@@ -1482,7 +1395,11 @@
       "hops": [
         {
           "path": "/es/carreras-en-enfermeria/",
-          "status": 404
+          "status": 301
+        },
+        {
+          "path": "/es/carreras/carreras-en-enfermeria/",
+          "status": 200
         }
       ]
     },
@@ -1491,7 +1408,11 @@
       "hops": [
         {
           "path": "/es/carreras-en-servicios-sociales/",
-          "status": 404
+          "status": 301
+        },
+        {
+          "path": "/es/carreras/carreras-en-servicios-sociales/",
+          "status": 200
         }
       ]
     },
@@ -1500,7 +1421,11 @@
       "hops": [
         {
           "path": "/es/carreras-en-actividades/",
-          "status": 404
+          "status": 301
+        },
+        {
+          "path": "/es/carreras/carreras-en-actividades/",
+          "status": 200
         }
       ]
     },
@@ -1604,10 +1529,10 @@
       ]
     },
     {
-      "path": "/_next/static/chunks/1bc2vuboadrgz.js",
+      "path": "/_next/static/chunks/3mnqe6kweybat.js",
       "hops": [
         {
-          "path": "/_next/static/chunks/1bc2vuboadrgz.js",
+          "path": "/_next/static/chunks/3mnqe6kweybat.js",
           "status": 200
         }
       ]
@@ -1730,11 +1655,29 @@
       ]
     },
     {
+      "path": "/_next/image/?url=%2Fimages%2Fbrand%2Fqchf-logo-white.png&w=384&q=75",
+      "hops": [
+        {
+          "path": "/_next/image/",
+          "status": 200
+        }
+      ]
+    },
+    {
       "path": "/styles/bundles/4e5b77e47328a141.css",
       "hops": [
         {
           "path": "/styles/bundles/4e5b77e47328a141.css",
           "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/es/empieza-tu-nueva-carrera/",
+      "hops": [
+        {
+          "path": "/es/empieza-tu-nueva-carrera/",
+          "status": 404
         }
       ]
     },
@@ -1770,15 +1713,6 @@
       "hops": [
         {
           "path": "/images/content/careers-mds-coordinator-3d8a524e.jpg",
-          "status": 200
-        }
-      ]
-    },
-    {
-      "path": "/_next/image/?url=%2Fimages%2Fbrand%2Fqchf-logo-white.png&w=384&q=75",
-      "hops": [
-        {
-          "path": "/_next/image/",
           "status": 200
         }
       ]
@@ -2324,24 +2258,6 @@
       ]
     },
     {
-      "path": "/images/content/cna-flyer1-ec29098d.jpg",
-      "hops": [
-        {
-          "path": "/images/content/cna-flyer1-ec29098d.jpg",
-          "status": 200
-        }
-      ]
-    },
-    {
-      "path": "/styles/bundles/69a5d9353afaeb18.css",
-      "hops": [
-        {
-          "path": "/styles/bundles/69a5d9353afaeb18.css",
-          "status": 200
-        }
-      ]
-    },
-    {
       "path": "/images/content/skillednursing-1024x683-1-0cb46144.jpg",
       "hops": [
         {
@@ -2355,6 +2271,24 @@
       "hops": [
         {
           "path": "/images/content/servingseniors-1024x683-1-bf669792.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/images/content/cna-flyer1-ec29098d.jpg",
+      "hops": [
+        {
+          "path": "/images/content/cna-flyer1-ec29098d.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/styles/bundles/69a5d9353afaeb18.css",
+      "hops": [
+        {
+          "path": "/styles/bundles/69a5d9353afaeb18.css",
           "status": 200
         }
       ]
@@ -2396,19 +2330,19 @@
       ]
     },
     {
-      "path": "/images/content/community-resources-youtube-careers.jpg",
+      "path": "/images/content/community-resources-youtube-introduction.jpg",
       "hops": [
         {
-          "path": "/images/content/community-resources-youtube-careers.jpg",
+          "path": "/images/content/community-resources-youtube-introduction.jpg",
           "status": 200
         }
       ]
     },
     {
-      "path": "/images/content/community-resources-youtube-introduction.jpg",
+      "path": "/images/content/community-resources-youtube-careers.jpg",
       "hops": [
         {
-          "path": "/images/content/community-resources-youtube-introduction.jpg",
+          "path": "/images/content/community-resources-youtube-careers.jpg",
           "status": 200
         }
       ]
@@ -2594,15 +2528,6 @@
       ]
     },
     {
-      "path": "/styles/bundles/3737d77e40de1767.css",
-      "hops": [
-        {
-          "path": "/styles/bundles/3737d77e40de1767.css",
-          "status": 200
-        }
-      ]
-    },
-    {
       "path": "/styles/bundles/1f3e5172f62a7533.css",
       "hops": [
         {
@@ -2616,6 +2541,15 @@
       "hops": [
         {
           "path": "/styles/bundles/f9926fed742b1f35.css",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/styles/bundles/3737d77e40de1767.css",
+      "hops": [
+        {
+          "path": "/styles/bundles/3737d77e40de1767.css",
           "status": 200
         }
       ]

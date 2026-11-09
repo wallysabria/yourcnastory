@@ -4,14 +4,14 @@ This is a current-state register for the 48 Career Seekers/shared pages. It is n
 
 | Priority | Finding / gate | Evidence / required next step |
 |---|---|---|
-| High | 10 legacy source URLs work on WordPress but fail on rebuild | Exact direct-301 proposal in docs/recommendations/phase-10-preliminary-redirects.json; owner question pending. Inactive until approved. |
+| Resolved | 10 legacy source URL redirects | Owner approved; 20 direct 301 slash variants implemented and HTTP-tested. 280 active redirect rules total. |
 | High | Spanish /es/empieza-tu-nueva-carrera/ is broken on source and rebuild | Determine approved intended destination; no guessed redirect. |
 | Medium | Three missing deep-link destinations, 50 link occurrences | EN/ES Community Resources #cnap-flyer and CNA career entry #cusp are absent in approved archived source too. Choose valid targets/aliases with owner approval. |
 | High | Employers content/build incomplete | Await final English Employer content, Phase 8 plan approval, form decision and build. Historical Spanish Employer URLs need explicit disposition; English-only scope is not redirect authorization. |
 | High | Mailchimp and analytics/advertising still mocked/off | Owner configuration and approved safe live verification remain required. Retain GA4/Clarity, Ads, Floodlight and MNTN; no omission or activation here. |
 | High | WCAG AA criteria unmet under retained D-004 styling | 80 of 192 axe states have only known contrast/color-only-link failures. Owner chose source styling; no renewed approval request or conformance claim. |
 | Medium | Full-page visual parity unresolved | All 96 raw Phase 1 screenshot comparisons flagged; dynamic source/approved UI differences are documented, not a blanket pass. Review raw/representative evidence before sign-off. |
-| Medium | Mobile performance / real-user evidence | Complete 54-run lab report supplies measured per-template exceptions. Field p75 INP/LCP/CLS and live-vendor overhead remain unavailable. |
+| Medium | Mobile performance / real-user evidence | 54-run lab report: 6/18 meet LCP, 11/18 score ≥90, all 18 meet CLS/TBT. Field p75 INP/LCP/CLS and live-vendor overhead remain unavailable. |
 | Medium | Native Safari/iOS, physical Android and screen-reader coverage | WebKit/viewport testing is not native/physical certification. Arrange actual device/AT journey checks for full Phase 10. |
 | Medium | CSP and application security headers | Hosted HSTS/noindex verified; CSP, nosniff, referrer and permissions policies are absent. Inactive concrete proposals: docs/recommendations/phase-10-preliminary-security.md; CSP compatibility/enforcement needs separate review. |
 | Medium | 32 source noindex directives | Preserved deliberately; review their desired launch status before changing robots/sitemaps. No silent indexing change. |
@@ -23,3 +23,6 @@ This is a current-state register for the 48 Career Seekers/shared pages. It is n
 ## Recommendation
 
 Continue review and fix approved in-scope defects. **No-go for custom-domain cutover or whole-site launch sign-off** while the applicable gates above remain unresolved. This register does not block a separately authorized review-site publication, but no merge/publication is performed by this preliminary QA task. Do not change DNS, production indexing or external accounts.
+
+
+JavaScript budget remains an explicit performance exception: 201.07 KiB encoded first-party bodies versus 200 KiB target; see protected cloud report.

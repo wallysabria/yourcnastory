@@ -126,3 +126,6 @@ Preliminary QA cross-browser fix: explicitly focus the clicked Privacy choices/M
 
 
 Owner approved all ten source-evidenced legacy redirects on 2026-11-08. Implemented 20 direct 301 rules including slash variants, preserving queries and existing destination paths. Total active rules: 280. Earlier pending status is superseded. The source-broken Spanish start-career link and three source-missing anchor destinations remain unresolved.
+
+
+Preliminary QA handoff: 62 final regression tests pass, including 280 HTTP redirects; 48 content/source matches; 108 extended browser representative checks; 192-state baseline axe retains only D-004. All 54 mobile lab runs completed: 6/18 LCP, 11/18 score≥90, 18/18 CLS and TBT. Protected preview checks passed 48 pages/552 assets and both fixes, with temporary credentials revoked. One source-broken Spanish path, three source-missing anchor targets, source visual differences, performance/security and remaining integration/native-device/counsel gates remain explicit. No merge/publication or full-site launch sign-off.

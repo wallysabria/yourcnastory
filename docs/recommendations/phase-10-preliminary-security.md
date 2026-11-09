@@ -16,3 +16,6 @@ No production configuration or security headers changed in this pass.
 A CSP needs a separate compatibility pass covering Next inline bootstrap hashes/nonces, preserved inline styles and requested YouTube/Vidyard playback, followed by final retained-vendor configuration. Do not enforce a guessed policy or add production vendor hosts merely to make warnings disappear. Prepare report-only evidence before proposing enforcement. No claim that a CSP is implemented or verified in this pass.
 
 Review these header proposals and final CSP with the full-site Phase 10 security sign-off. Native browser/device, legal/counsel and live integration evidence remain separate gates.
+
+
+Hosted verification confirmed Vercel HSTS (max-age=63072000; includeSubDomains; preload) and noindex, while CSP/nosniff/referrer/permissions headers remain absent. See phase-10-preliminary-hosted-headers.json.
