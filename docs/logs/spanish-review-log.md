@@ -172,3 +172,6 @@ Preliminary QA handoff: 62 final regression tests pass, including 280 HTTP redir
 ## Add-on 01 — approved reduced scope
 
 Owner approved favicon/app icons and mega-menu usability only, on addon-01-favicon-menu-og. Social preview images/samples/log entry are deferred; existing OG/Twitter image metadata, titles and descriptions remain unchanged. Original 270px favicon upload is preserved byte-for-byte; no vector source exists. Hover timing is centralized (100ms open/350ms close), with a measured invisible bridge, keyboard/focus and touch handling. Mobile markup/source wording and inactive Employer destinations stay unchanged. No new Spanish UI string, new dependency, tracking activation or phase advancement. Separate review PR/report; no merge/publication without owner instruction.
+
+
+D-009: owner-requested career-path index presentation fix. Shared EN/ES grid now uses CSS-only circular 200px portraits, centered carousel typography and matching spacing. Original image bytes, copy, links, anchors and grid structure remain unchanged. No new Spanish string or metadata change.
