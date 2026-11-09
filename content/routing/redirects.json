@@ -1,5 +1,125 @@
 [
   {
+    "from": "/es/carreras-en-actividades",
+    "to": "/es/carreras/carreras-en-actividades/",
+    "status": 301,
+    "policy": "phase-10-owner-approved-source-alias"
+  },
+  {
+    "from": "/es/carreras-en-actividades/",
+    "to": "/es/carreras/carreras-en-actividades/",
+    "status": 301,
+    "policy": "phase-10-owner-approved-source-alias"
+  },
+  {
+    "from": "/es/carreras-en-servicios-sociales",
+    "to": "/es/carreras/carreras-en-servicios-sociales/",
+    "status": 301,
+    "policy": "phase-10-owner-approved-source-alias"
+  },
+  {
+    "from": "/es/carreras-en-servicios-sociales/",
+    "to": "/es/carreras/carreras-en-servicios-sociales/",
+    "status": 301,
+    "policy": "phase-10-owner-approved-source-alias"
+  },
+  {
+    "from": "/es/carreras-en-enfermeria",
+    "to": "/es/carreras/carreras-en-enfermeria/",
+    "status": 301,
+    "policy": "phase-10-owner-approved-source-alias"
+  },
+  {
+    "from": "/es/carreras-en-enfermeria/",
+    "to": "/es/carreras/carreras-en-enfermeria/",
+    "status": 301,
+    "policy": "phase-10-owner-approved-source-alias"
+  },
+  {
+    "from": "/es/carreras-en-terapia",
+    "to": "/es/carreras/carreras-en-terapia/",
+    "status": 301,
+    "policy": "phase-10-owner-approved-source-alias"
+  },
+  {
+    "from": "/es/carreras-en-terapia/",
+    "to": "/es/carreras/carreras-en-terapia/",
+    "status": 301,
+    "policy": "phase-10-owner-approved-source-alias"
+  },
+  {
+    "from": "/es/certified-nurse-assistant-program",
+    "to": "/es/programa-cna/",
+    "status": 301,
+    "policy": "phase-10-owner-approved-source-alias"
+  },
+  {
+    "from": "/es/certified-nurse-assistant-program/",
+    "to": "/es/programa-cna/",
+    "status": 301,
+    "policy": "phase-10-owner-approved-source-alias"
+  },
+  {
+    "from": "/careers-in-activities",
+    "to": "/careerpaths/careers-in-activities/",
+    "status": 301,
+    "policy": "phase-10-owner-approved-source-alias"
+  },
+  {
+    "from": "/careers-in-activities/",
+    "to": "/careerpaths/careers-in-activities/",
+    "status": 301,
+    "policy": "phase-10-owner-approved-source-alias"
+  },
+  {
+    "from": "/careers-in-social-services",
+    "to": "/careerpaths/careers-in-social-services/",
+    "status": 301,
+    "policy": "phase-10-owner-approved-source-alias"
+  },
+  {
+    "from": "/careers-in-social-services/",
+    "to": "/careerpaths/careers-in-social-services/",
+    "status": 301,
+    "policy": "phase-10-owner-approved-source-alias"
+  },
+  {
+    "from": "/careers-in-nursing",
+    "to": "/careerpaths/careers-in-nursing/",
+    "status": 301,
+    "policy": "phase-10-owner-approved-source-alias"
+  },
+  {
+    "from": "/careers-in-nursing/",
+    "to": "/careerpaths/careers-in-nursing/",
+    "status": 301,
+    "policy": "phase-10-owner-approved-source-alias"
+  },
+  {
+    "from": "/careers-in-therapy",
+    "to": "/careerpaths/careers-in-therapy/",
+    "status": 301,
+    "policy": "phase-10-owner-approved-source-alias"
+  },
+  {
+    "from": "/careers-in-therapy/",
+    "to": "/careerpaths/careers-in-therapy/",
+    "status": 301,
+    "policy": "phase-10-owner-approved-source-alias"
+  },
+  {
+    "from": "/start-your-new-career",
+    "to": "/career-seekers/",
+    "status": 301,
+    "policy": "phase-10-owner-approved-source-alias"
+  },
+  {
+    "from": "/start-your-new-career/",
+    "to": "/career-seekers/",
+    "status": 301,
+    "policy": "phase-10-owner-approved-source-alias"
+  },
+  {
     "from": "/zh/careerpaths/",
     "to": "/career-paths-in-long-term-care/",
     "status": 301,

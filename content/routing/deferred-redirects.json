@@ -32,10 +32,6 @@
     "to": "/the7_project/project011/"
   },
   {
-    "from": "/start-your-new-career/",
-    "to": "/career-seekers/"
-  },
-  {
     "from": "/train-and-gain",
     "to": "/train-and-gain/"
   },
@@ -448,10 +444,6 @@
     "to": "/es/"
   },
   {
-    "from": "/es/certified-nurse-assistant-program/",
-    "to": "/es/programa-cna/"
-  },
-  {
     "from": "/vi/%20certified-nurse-assistant-%20program/",
     "to": "/%20certified-nurse-assistant-%20program/"
   },
@@ -474,22 +466,6 @@
   {
     "from": "/vi/may-tinh-tinh-toan-bai-kiem-tra-cua-nha-tuyen-dung-cna",
     "to": "/cna-employers-test-calculator/"
-  },
-  {
-    "from": "/es/carreras-en-terapia/",
-    "to": "/es/carreras/carreras-en-terapia/"
-  },
-  {
-    "from": "/es/carreras-en-enfermeria/",
-    "to": "/es/carreras/carreras-en-enfermeria/"
-  },
-  {
-    "from": "/es/carreras-en-servicios-sociales/",
-    "to": "/es/carreras/carreras-en-servicios-sociales/"
-  },
-  {
-    "from": "/es/carreras-en-actividades/",
-    "to": "/es/carreras/carreras-en-actividades/"
   },
   {
     "from": "/es/the7_project_category/marketing",

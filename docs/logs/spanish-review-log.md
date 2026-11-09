@@ -161,3 +161,6 @@ Detailed limited QA plan approved in chat. Career Seekers/shared EN/ES only; Emp
 
 
 Preliminary QA cross-browser fix: explicitly focus the clicked Privacy choices/Manage preferences opener before dispatching the existing open event. WebKit pointer activation otherwise does not focus buttons, so returning focus could target the page body. No consent wording, categories, storage or styling changed. Final representative matrix: 108 Edge/Firefox/WebKit checks passed; Chromium suite: 62 passed. Native Safari/iOS and physical devices remain unverified.
+
+
+Owner approved all ten source-evidenced legacy redirects on 2026-11-08. Implemented 20 direct 301 rules including slash variants, preserving queries and existing destination paths. Total active rules: 280. Earlier pending status is superseded. The source-broken Spanish start-career link and three source-missing anchor destinations remain unresolved.
