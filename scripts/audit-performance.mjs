@@ -17,7 +17,7 @@ const origins =
         ['native-before', 'https://yourcnastory.vercel.app'],
       ]
     : [['native-after', process.env.PERF_ORIGIN || 'http://127.0.0.1:3101']];
-const file = '_source/phase-05/performance-' + phase + '.json';
+const file = (process.env.QA_SOURCE_DIR || '_source/phase-05') + '/performance-' + phase + '.json';
 const existing = fs.existsSync(file) ? JSON.parse(fs.readFileSync(file)) : { runs: [] };
 const flags = {
   logLevel: 'silent',
@@ -137,4 +137,4 @@ for (const route of selectedCases)
         last: key,
       });
     }
-fs.writeFileSync('docs/reports/phase-05-performance-' + phase + '.json', fs.readFileSync(file));
+fs.writeFileSync((process.env.QA_REPORT_PREFIX || 'docs/reports/phase-05') + '-performance-' + phase + '.json', fs.readFileSync(file));

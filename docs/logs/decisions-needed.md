@@ -115,3 +115,8 @@ Owner explicitly requested merge, lint and publish. PR #7 merged as d8e2c3f995f1
 ## Employer scope clarification and preliminary QA — 2026-11-08
 
 Owner confirmed Employers is English only and its content is pending/not ready. This supersedes bilingual Employer implementation assumptions, but does not authorize deletion or redirection of existing Spanish Employer URLs. Phase 8 remains on hold; links remain inactive. Phase 6 remains deferred. Owner approved preparing a limited Phase 10 QA pass for existing Career Seekers/shared EN/ES pages. Concrete plan: docs/phases/phase-10-preliminary-plan.md; implementation awaits its approval. Full-site Phase 10 acceptance and launch remain deferred.
+
+
+## Preliminary Phase 10 QA — 2026-11-08
+
+Detailed limited QA plan approved in chat. Career Seekers/shared EN/ES only; Employers remains English-only and on hold, and Phase 6 remains deferred. A renderer defect converted fragment-only career links into homepage links. Restoring the original fragment semantics is an implementation defect fix with no copy/design/route change. EN/ES nursing jump regression tests pass. Ten source-evidenced legacy redirects are proposed separately, inactive pending owner approval. Source-missing cnap-flyer and cusp anchors and one broken Spanish legacy link remain reported; no invented replacements. D-004 remains declined. No new Spanish UI text or visual design change.

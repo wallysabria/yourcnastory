@@ -5,7 +5,7 @@ import pixelmatch from 'pixelmatch';
 const entries = JSON.parse(fs.readFileSync('docs/audit/screenshots-index.json'));
 const paths = new Set(JSON.parse(fs.readFileSync('content/pages/index.json')).map((r) => r.path));
 const jobs = entries.filter((e) => paths.has(new URL(e.url).pathname));
-const dir = '_source/phase-04/stabilized';
+const dir = (process.env.QA_SOURCE_DIR || '_source/phase-04') + '/stabilized';
 fs.mkdirSync(dir, { recursive: true });
 let cursor = 0;
 const results = [];
@@ -109,7 +109,7 @@ try {
   await browser.close();
 }
 fs.writeFileSync(
-  'docs/reports/phase-04-stabilized-visual.json',
+  (process.env.QA_REPORT_PREFIX || 'docs/reports/phase-04') + '-stabilized-visual.json',
   JSON.stringify(
     {
       method:

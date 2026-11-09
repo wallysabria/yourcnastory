@@ -66,6 +66,8 @@ function setting(attrs: Record<string, string>) {
   }
 }
 function destination(href: string) {
+  // Fragment/query-only references resolve against the current document.
+  if (href.startsWith('#') || href.startsWith('?')) return href;
   try {
     const url = new URL(href, 'https://yourcnastory.org');
     return ['yourcnastory.org', 'www.yourcnastory.org'].includes(url.hostname)

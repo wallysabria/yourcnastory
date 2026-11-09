@@ -1,6 +1,6 @@
 # Phase 10 preliminary QA plan — Career Seekers and shared pages
 
-Status: plan prepared for approval, 2026-11-08. Owner approved preparing this limited QA pass. Implementation and fixes await approval of this concrete plan, per CLAUDE.md section 6 and phase-10-qa.md. This is an early subset of Phase 10, not full-site acceptance or launch sign-off.
+Status: detailed plan explicitly approved by owner in chat, 2026-11-08. Implementation and QA are authorized within this scope. This is an early subset of Phase 10, not full-site acceptance or launch sign-off.
 
 ## Scope and owner overrides
 

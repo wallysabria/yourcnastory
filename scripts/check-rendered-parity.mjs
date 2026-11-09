@@ -77,7 +77,7 @@ try {
     });
     if (!checks.at(-1).copyMatches)
       fs.writeFileSync(
-        '_source/phase-04/parity-' + entry.path.replace(/\//g, '_') + '.json',
+        (process.env.QA_SOURCE_DIR || '_source/phase-04') + '/parity-' + entry.path.replace(/\//g, '_') + '.json',
         JSON.stringify({ expected: normalize(expected), actual: normalize(actual || '') }),
       );
   }
@@ -85,11 +85,11 @@ try {
   await browser.close();
 }
 fs.writeFileSync(
-  'docs/reports/phase-04-legacy-ui-removals.json',
+  (process.env.QA_REPORT_PREFIX || 'docs/reports/phase-04') + '-legacy-ui-removals.json',
   JSON.stringify(removals, null, 2) + '\n',
 );
 fs.writeFileSync(
-  'docs/reports/phase-04-rendered-parity.json',
+  (process.env.QA_REPORT_PREFIX || 'docs/reports/phase-04') + '-rendered-parity.json',
   JSON.stringify(checks, null, 2) + '\n',
 );
 console.log(
