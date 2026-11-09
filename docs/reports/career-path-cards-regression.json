@@ -1,0 +1,12 @@
+{
+  "method": "Existing full Playwright suite after scoped CSS correction; no new implementation-mirroring test.",
+  "runtimeCommit": "319c7a473a53841ef2f2577b9b155e976cb9b8f6",
+  "stats": {
+    "startTime": "2026-11-09T05:01:14.607Z",
+    "duration": 24595.469,
+    "expected": 70,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  }
+}

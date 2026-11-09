@@ -1,0 +1,976 @@
+{
+  "checkedAt": "2026-11-09T05:05:11.813Z",
+  "deployment": "https://yourcnastory-n6i1ocp92-wallysabrias-projects.vercel.app",
+  "sha": "319c7a473a53841ef2f2577b9b155e976cb9b8f6",
+  "method": "Protected preview EN/ES at 1440/1064/768/390; circle geometry, carousel typography, preserved title/link records, no overflow and noindex. Same-origin-only test access. Grid screenshots cropped from scroll-zero full page.",
+  "checks": [
+    {
+      "locale": "en",
+      "pathname": "/career-paths-in-long-term-care/",
+      "width": 1440,
+      "cards": [
+        {
+          "title": "Certified Nurse Assistant",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/careerpaths/careers-in-certified-nurse-assistant/",
+            "/careerpaths/careers-in-certified-nurse-assistant/",
+            "/careerpaths/careers-in-certified-nurse-assistant/"
+          ]
+        },
+        {
+          "title": "Nursing",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/careerpaths/careers-in-nursing/",
+            "/careerpaths/careers-in-nursing/",
+            "/careerpaths/careers-in-nursing/"
+          ]
+        },
+        {
+          "title": "Administration",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/careerpaths/careers-in-administration/",
+            "/careerpaths/careers-in-administration/",
+            "/careerpaths/careers-in-administration/"
+          ]
+        },
+        {
+          "title": "Social Services",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/careerpaths/careers-in-social-services/",
+            "/careerpaths/careers-in-social-services/",
+            "/careerpaths/careers-in-social-services/"
+          ]
+        },
+        {
+          "title": "Therapy",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/careerpaths/careers-in-therapy/",
+            "/careerpaths/careers-in-therapy/",
+            "/careerpaths/careers-in-therapy/"
+          ]
+        },
+        {
+          "title": "Care Coordination",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/careerpaths/careers-in-care-coordination/",
+            "/careerpaths/careers-in-care-coordination/",
+            "/careerpaths/careers-in-care-coordination/"
+          ]
+        },
+        {
+          "title": "Activities",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/careerpaths/careers-in-activities/",
+            "/careerpaths/careers-in-activities/",
+            "/careerpaths/careers-in-activities/"
+          ]
+        },
+        {
+          "title": "Support Services",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/careerpaths/careers-in-support-services/",
+            "/careerpaths/careers-in-support-services/",
+            "/careerpaths/careers-in-support-services/"
+          ]
+        }
+      ],
+      "overflow": false,
+      "screenshot": "docs/reports/career-path-cards-preview/en-1440.png"
+    },
+    {
+      "locale": "es",
+      "pathname": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+      "width": 1440,
+      "cards": [
+        {
+          "title": "Asistente de enfermería certificado",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+            "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+            "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/"
+          ]
+        },
+        {
+          "title": "Enfermería",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/es/carreras/carreras-en-enfermeria/",
+            "/es/carreras/carreras-en-enfermeria/",
+            "/es/carreras/carreras-en-enfermeria/"
+          ]
+        },
+        {
+          "title": "Administración",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/es/carreras/carreras-en-administracion/",
+            "/es/carreras/carreras-en-administracion/",
+            "/es/carreras/carreras-en-administracion/"
+          ]
+        },
+        {
+          "title": "Servicios Sociales",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/es/carreras/carreras-en-servicios-sociales/",
+            "/es/carreras/carreras-en-servicios-sociales/",
+            "/es/carreras/carreras-en-servicios-sociales/"
+          ]
+        },
+        {
+          "title": "Terapia",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/es/carreras/carreras-en-terapia/",
+            "/es/carreras/carreras-en-terapia/",
+            "/es/carreras/carreras-en-terapia/"
+          ]
+        },
+        {
+          "title": "Coordinación de Cuidados",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+            "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+            "/es/carreras/carreras-en-coordinacion-de-cuidados/"
+          ]
+        },
+        {
+          "title": "Actividades",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/es/carreras/carreras-en-actividades/",
+            "/es/carreras/carreras-en-actividades/",
+            "/es/carreras/carreras-en-actividades/"
+          ]
+        },
+        {
+          "title": "Servicios de Apoyo",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/es/carreras/carreras-en-servicios-de-apoyo/",
+            "/es/carreras/carreras-en-servicios-de-apoyo/",
+            "/es/carreras/carreras-en-servicios-de-apoyo/"
+          ]
+        }
+      ],
+      "overflow": false,
+      "screenshot": "docs/reports/career-path-cards-preview/es-1440.png"
+    },
+    {
+      "locale": "en",
+      "pathname": "/career-paths-in-long-term-care/",
+      "width": 1064,
+      "cards": [
+        {
+          "title": "Certified Nurse Assistant",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/careerpaths/careers-in-certified-nurse-assistant/",
+            "/careerpaths/careers-in-certified-nurse-assistant/",
+            "/careerpaths/careers-in-certified-nurse-assistant/"
+          ]
+        },
+        {
+          "title": "Nursing",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/careerpaths/careers-in-nursing/",
+            "/careerpaths/careers-in-nursing/",
+            "/careerpaths/careers-in-nursing/"
+          ]
+        },
+        {
+          "title": "Administration",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/careerpaths/careers-in-administration/",
+            "/careerpaths/careers-in-administration/",
+            "/careerpaths/careers-in-administration/"
+          ]
+        },
+        {
+          "title": "Social Services",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/careerpaths/careers-in-social-services/",
+            "/careerpaths/careers-in-social-services/",
+            "/careerpaths/careers-in-social-services/"
+          ]
+        },
+        {
+          "title": "Therapy",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/careerpaths/careers-in-therapy/",
+            "/careerpaths/careers-in-therapy/",
+            "/careerpaths/careers-in-therapy/"
+          ]
+        },
+        {
+          "title": "Care Coordination",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/careerpaths/careers-in-care-coordination/",
+            "/careerpaths/careers-in-care-coordination/",
+            "/careerpaths/careers-in-care-coordination/"
+          ]
+        },
+        {
+          "title": "Activities",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/careerpaths/careers-in-activities/",
+            "/careerpaths/careers-in-activities/",
+            "/careerpaths/careers-in-activities/"
+          ]
+        },
+        {
+          "title": "Support Services",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/careerpaths/careers-in-support-services/",
+            "/careerpaths/careers-in-support-services/",
+            "/careerpaths/careers-in-support-services/"
+          ]
+        }
+      ],
+      "overflow": false,
+      "screenshot": "docs/reports/career-path-cards-preview/en-1064.png"
+    },
+    {
+      "locale": "es",
+      "pathname": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+      "width": 1064,
+      "cards": [
+        {
+          "title": "Asistente de enfermería certificado",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+            "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+            "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/"
+          ]
+        },
+        {
+          "title": "Enfermería",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/es/carreras/carreras-en-enfermeria/",
+            "/es/carreras/carreras-en-enfermeria/",
+            "/es/carreras/carreras-en-enfermeria/"
+          ]
+        },
+        {
+          "title": "Administración",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/es/carreras/carreras-en-administracion/",
+            "/es/carreras/carreras-en-administracion/",
+            "/es/carreras/carreras-en-administracion/"
+          ]
+        },
+        {
+          "title": "Servicios Sociales",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/es/carreras/carreras-en-servicios-sociales/",
+            "/es/carreras/carreras-en-servicios-sociales/",
+            "/es/carreras/carreras-en-servicios-sociales/"
+          ]
+        },
+        {
+          "title": "Terapia",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/es/carreras/carreras-en-terapia/",
+            "/es/carreras/carreras-en-terapia/",
+            "/es/carreras/carreras-en-terapia/"
+          ]
+        },
+        {
+          "title": "Coordinación de Cuidados",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+            "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+            "/es/carreras/carreras-en-coordinacion-de-cuidados/"
+          ]
+        },
+        {
+          "title": "Actividades",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/es/carreras/carreras-en-actividades/",
+            "/es/carreras/carreras-en-actividades/",
+            "/es/carreras/carreras-en-actividades/"
+          ]
+        },
+        {
+          "title": "Servicios de Apoyo",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/es/carreras/carreras-en-servicios-de-apoyo/",
+            "/es/carreras/carreras-en-servicios-de-apoyo/",
+            "/es/carreras/carreras-en-servicios-de-apoyo/"
+          ]
+        }
+      ],
+      "overflow": false,
+      "screenshot": "docs/reports/career-path-cards-preview/es-1064.png"
+    },
+    {
+      "locale": "en",
+      "pathname": "/career-paths-in-long-term-care/",
+      "width": 768,
+      "cards": [
+        {
+          "title": "Certified Nurse Assistant",
+          "width": 196,
+          "height": 196,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/careerpaths/careers-in-certified-nurse-assistant/",
+            "/careerpaths/careers-in-certified-nurse-assistant/",
+            "/careerpaths/careers-in-certified-nurse-assistant/"
+          ]
+        },
+        {
+          "title": "Nursing",
+          "width": 196,
+          "height": 196,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/careerpaths/careers-in-nursing/",
+            "/careerpaths/careers-in-nursing/",
+            "/careerpaths/careers-in-nursing/"
+          ]
+        },
+        {
+          "title": "Administration",
+          "width": 196,
+          "height": 196,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/careerpaths/careers-in-administration/",
+            "/careerpaths/careers-in-administration/",
+            "/careerpaths/careers-in-administration/"
+          ]
+        },
+        {
+          "title": "Social Services",
+          "width": 196,
+          "height": 196,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/careerpaths/careers-in-social-services/",
+            "/careerpaths/careers-in-social-services/",
+            "/careerpaths/careers-in-social-services/"
+          ]
+        },
+        {
+          "title": "Therapy",
+          "width": 196,
+          "height": 196,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/careerpaths/careers-in-therapy/",
+            "/careerpaths/careers-in-therapy/",
+            "/careerpaths/careers-in-therapy/"
+          ]
+        },
+        {
+          "title": "Care Coordination",
+          "width": 196,
+          "height": 196,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/careerpaths/careers-in-care-coordination/",
+            "/careerpaths/careers-in-care-coordination/",
+            "/careerpaths/careers-in-care-coordination/"
+          ]
+        },
+        {
+          "title": "Activities",
+          "width": 196,
+          "height": 196,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/careerpaths/careers-in-activities/",
+            "/careerpaths/careers-in-activities/",
+            "/careerpaths/careers-in-activities/"
+          ]
+        },
+        {
+          "title": "Support Services",
+          "width": 196,
+          "height": 196,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/careerpaths/careers-in-support-services/",
+            "/careerpaths/careers-in-support-services/",
+            "/careerpaths/careers-in-support-services/"
+          ]
+        }
+      ],
+      "overflow": false,
+      "screenshot": "docs/reports/career-path-cards-preview/en-768.png"
+    },
+    {
+      "locale": "es",
+      "pathname": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+      "width": 768,
+      "cards": [
+        {
+          "title": "Asistente de enfermería certificado",
+          "width": 196,
+          "height": 196,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+            "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+            "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/"
+          ]
+        },
+        {
+          "title": "Enfermería",
+          "width": 196,
+          "height": 196,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/es/carreras/carreras-en-enfermeria/",
+            "/es/carreras/carreras-en-enfermeria/",
+            "/es/carreras/carreras-en-enfermeria/"
+          ]
+        },
+        {
+          "title": "Administración",
+          "width": 196,
+          "height": 196,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/es/carreras/carreras-en-administracion/",
+            "/es/carreras/carreras-en-administracion/",
+            "/es/carreras/carreras-en-administracion/"
+          ]
+        },
+        {
+          "title": "Servicios Sociales",
+          "width": 196,
+          "height": 196,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/es/carreras/carreras-en-servicios-sociales/",
+            "/es/carreras/carreras-en-servicios-sociales/",
+            "/es/carreras/carreras-en-servicios-sociales/"
+          ]
+        },
+        {
+          "title": "Terapia",
+          "width": 196,
+          "height": 196,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/es/carreras/carreras-en-terapia/",
+            "/es/carreras/carreras-en-terapia/",
+            "/es/carreras/carreras-en-terapia/"
+          ]
+        },
+        {
+          "title": "Coordinación de Cuidados",
+          "width": 196,
+          "height": 196,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+            "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+            "/es/carreras/carreras-en-coordinacion-de-cuidados/"
+          ]
+        },
+        {
+          "title": "Actividades",
+          "width": 196,
+          "height": 196,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/es/carreras/carreras-en-actividades/",
+            "/es/carreras/carreras-en-actividades/",
+            "/es/carreras/carreras-en-actividades/"
+          ]
+        },
+        {
+          "title": "Servicios de Apoyo",
+          "width": 196,
+          "height": 196,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/es/carreras/carreras-en-servicios-de-apoyo/",
+            "/es/carreras/carreras-en-servicios-de-apoyo/",
+            "/es/carreras/carreras-en-servicios-de-apoyo/"
+          ]
+        }
+      ],
+      "overflow": false,
+      "screenshot": "docs/reports/career-path-cards-preview/es-768.png"
+    },
+    {
+      "locale": "en",
+      "pathname": "/career-paths-in-long-term-care/",
+      "width": 390,
+      "cards": [
+        {
+          "title": "Certified Nurse Assistant",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/careerpaths/careers-in-certified-nurse-assistant/",
+            "/careerpaths/careers-in-certified-nurse-assistant/",
+            "/careerpaths/careers-in-certified-nurse-assistant/"
+          ]
+        },
+        {
+          "title": "Nursing",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/careerpaths/careers-in-nursing/",
+            "/careerpaths/careers-in-nursing/",
+            "/careerpaths/careers-in-nursing/"
+          ]
+        },
+        {
+          "title": "Administration",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/careerpaths/careers-in-administration/",
+            "/careerpaths/careers-in-administration/",
+            "/careerpaths/careers-in-administration/"
+          ]
+        },
+        {
+          "title": "Social Services",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/careerpaths/careers-in-social-services/",
+            "/careerpaths/careers-in-social-services/",
+            "/careerpaths/careers-in-social-services/"
+          ]
+        },
+        {
+          "title": "Therapy",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/careerpaths/careers-in-therapy/",
+            "/careerpaths/careers-in-therapy/",
+            "/careerpaths/careers-in-therapy/"
+          ]
+        },
+        {
+          "title": "Care Coordination",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/careerpaths/careers-in-care-coordination/",
+            "/careerpaths/careers-in-care-coordination/",
+            "/careerpaths/careers-in-care-coordination/"
+          ]
+        },
+        {
+          "title": "Activities",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/careerpaths/careers-in-activities/",
+            "/careerpaths/careers-in-activities/",
+            "/careerpaths/careers-in-activities/"
+          ]
+        },
+        {
+          "title": "Support Services",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/careerpaths/careers-in-support-services/",
+            "/careerpaths/careers-in-support-services/",
+            "/careerpaths/careers-in-support-services/"
+          ]
+        }
+      ],
+      "overflow": false,
+      "screenshot": "docs/reports/career-path-cards-preview/en-390.png"
+    },
+    {
+      "locale": "es",
+      "pathname": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+      "width": 390,
+      "cards": [
+        {
+          "title": "Asistente de enfermería certificado",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+            "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+            "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/"
+          ]
+        },
+        {
+          "title": "Enfermería",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/es/carreras/carreras-en-enfermeria/",
+            "/es/carreras/carreras-en-enfermeria/",
+            "/es/carreras/carreras-en-enfermeria/"
+          ]
+        },
+        {
+          "title": "Administración",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/es/carreras/carreras-en-administracion/",
+            "/es/carreras/carreras-en-administracion/",
+            "/es/carreras/carreras-en-administracion/"
+          ]
+        },
+        {
+          "title": "Servicios Sociales",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/es/carreras/carreras-en-servicios-sociales/",
+            "/es/carreras/carreras-en-servicios-sociales/",
+            "/es/carreras/carreras-en-servicios-sociales/"
+          ]
+        },
+        {
+          "title": "Terapia",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/es/carreras/carreras-en-terapia/",
+            "/es/carreras/carreras-en-terapia/",
+            "/es/carreras/carreras-en-terapia/"
+          ]
+        },
+        {
+          "title": "Coordinación de Cuidados",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+            "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+            "/es/carreras/carreras-en-coordinacion-de-cuidados/"
+          ]
+        },
+        {
+          "title": "Actividades",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/es/carreras/carreras-en-actividades/",
+            "/es/carreras/carreras-en-actividades/",
+            "/es/carreras/carreras-en-actividades/"
+          ]
+        },
+        {
+          "title": "Servicios de Apoyo",
+          "width": 200,
+          "height": 200,
+          "radius": "50%",
+          "titleSize": "20px",
+          "descriptionSize": "17px",
+          "align": "center",
+          "hrefs": [
+            "/es/carreras/carreras-en-servicios-de-apoyo/",
+            "/es/carreras/carreras-en-servicios-de-apoyo/",
+            "/es/carreras/carreras-en-servicios-de-apoyo/"
+          ]
+        }
+      ],
+      "overflow": false,
+      "screenshot": "docs/reports/career-path-cards-preview/es-390.png"
+    }
+  ]
+}
