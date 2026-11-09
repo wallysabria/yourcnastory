@@ -13,6 +13,7 @@ for (const [name, type, options] of [
   ['firefox', firefox, {}],
   ['webkit', webkit, {}],
 ]) {
+  if (process.env.QA_BROWSERS && !process.env.QA_BROWSERS.split(',').includes(name)) continue;
   let browser;
   try {
     browser = await type.launch(options);
@@ -35,11 +36,12 @@ for (const [name, type, options] of [
           width,
         };
         try {
-          await page.goto('http://127.0.0.1:3101' + route.path);
+          await page.goto('http://127.0.0.1:3101' + route.path, { waitUntil: 'domcontentloaded' });
           if (await page.locator('.privacy-banner').count())
             await page.locator('.privacy-banner .privacy-action').nth(1).click();
           assert.equal(await page.locator('html').getAttribute('lang'), route.locale);
           await page.locator('h1').first().waitFor({ state: 'visible' });
+          row.stage = 'rendering';
           row.overflow = await page.evaluate(
             () => document.documentElement.scrollWidth > innerWidth,
           );
@@ -57,10 +59,12 @@ for (const [name, type, options] of [
             ),
           );
           await page.keyboard.press('Escape');
+          row.stage = 'search-focus-return';
           assert.equal(
             await page.locator('.search-toggle').evaluate((e) => e === document.activeElement),
             true,
           );
+          row.stage = 'privacy-focus-return';
           await page.locator('.privacy-choices-button').click();
           await page.keyboard.press('Escape');
           assert.equal(
@@ -79,6 +83,7 @@ for (const [name, type, options] of [
             row.faq = true;
           }
           row.status = 'pass';
+          delete row.stage;
         } catch (e) {
           row.status = 'fail';
           row.error = e.message.split('\n')[0];
@@ -94,8 +99,16 @@ for (const [name, type, options] of [
     if (browser) await browser.close();
   }
 }
+const file = 'docs/reports/phase-10-preliminary-browsers.json';
+const previous =
+  process.env.QA_BROWSERS && fs.existsSync(file)
+    ? JSON.parse(fs.readFileSync(file)).results.filter(
+        (r) => !process.env.QA_BROWSERS.split(',').includes(r.browser),
+      )
+    : [];
+results.unshift(...previous);
 fs.writeFileSync(
-  'docs/reports/phase-10-preliminary-browsers.json',
+  file,
   JSON.stringify(
     {
       method:
