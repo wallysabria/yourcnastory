@@ -10,4 +10,6 @@ Verification: npm run lint; npm run build; npm run format:check; full regression
 
 Evidence: video-lightboxes.json, video-lightboxes-tests.json and six EN/ES screenshots in video-lightboxes/. YouTube iframe responses are mocked for tests/screenshots; the labeled test player is an evidence fixture, not production UI. These checks verify interaction/layout/teardown, not live YouTube playback availability. Browser evidence is from the local production build. No live forms submitted.
 
-PR/preview pending. No merge/publication; normal preview protection retained.
+PR: https://github.com/wallysabria/yourcnastory/pull/15
+
+Protected preview: https://yourcnastory-9iam74xfu-wallysabrias-projects.vercel.app/career-seekers/ No merge/publication; normal preview protection retained.
