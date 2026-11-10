@@ -8,4 +8,8 @@ Every rendered link URL and text label was compared before/after across all page
 
 Verification: npm run lint; npm run build; npm run format:check; full regression 89/89 passes. New rendered-link test covers all 48 pages; EN/ES browser tests confirm a real additional tab opens, window.opener is null and the original page stays in place. Detailed evidence: external-links-new-tabs.json and external-links-new-tabs-tests.json. Browser/rendered evidence is from the local production build.
 
-PR/preview pending. No merge/publication or phase advancement. Shared policy will apply to future migrated content through the same renderers, while Employers content remains gated.
+PR: https://github.com/wallysabria/yourcnastory/pull/16
+
+Protected preview: https://yourcnastory-inao8kf3p-wallysabrias-projects.vercel.app/
+
+Normal preview authentication retained; no temporary access credentials created. No merge/publication or phase advancement. Shared policy will apply to future migrated content through the same renderers, while Employers content remains gated.
