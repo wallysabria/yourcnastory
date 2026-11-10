@@ -15,3 +15,8 @@ Evidence: shared-carousel-arrows.json, shared-carousel-arrows-hover.json, shared
 PR: https://github.com/wallysabria/yourcnastory/pull/13
 
 Updated protected preview: https://yourcnastory-j5v6pkkde-wallysabrias-projects.vercel.app/career-seekers/ No merge/publication. Normal preview authentication is retained; no temporary bypass credentials created. Existing Employers/chatbot/indexing/tracking gates remain unchanged.
+
+
+## Publication — owner approved 2026-11-10
+
+All PR checks passed, then PR #13 merged as d7a40b4e5db6f3a6e3da6b84988b45f917aee016. Production deployment https://yourcnastory-cx5qtdbei-wallysabrias-projects.vercel.app is READY and owns https://yourcnastory.vercel.app/. Public checks passed 20 EN/ES page views at 1920px/390px across homepage, Career Seekers/Quick Links, career detail, FAQs and Earn and Learn: 26 visible carousel views, two intentionally hidden breakpoint variants recorded, blue chevrons/pale-blue circles/dimensions/focus and navigation wherever additional slides exist. All pages return 200/noindex. Evidence: shared-carousel-arrows-production.json and shared-carousel-arrows-production/. Earlier review-stage unpublished notes are superseded. No custom-domain cutover, WordPress edits, integration activation or phase advancement.

@@ -1,0 +1,1050 @@
+{
+  "checkedAt": "2026-11-10T14:31:29.042Z",
+  "pages": 10,
+  "viewports": [
+    1920,
+    390
+  ],
+  "hidden": [
+    {
+      "path": "/es/",
+      "width": 1920,
+      "carousel": 1
+    },
+    {
+      "path": "/es/",
+      "width": 390,
+      "carousel": 1
+    }
+  ],
+  "checks": [
+    {
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "width": 1920,
+      "carousel": 0,
+      "controls": [
+        {
+          "label": "Previous slide",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, -20)"
+        },
+        {
+          "label": "Next slide",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, -40, -20)"
+        }
+      ],
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      },
+      "canScroll": true,
+      "mouseKeyboard": "pass",
+      "screenshot": "docs/reports/shared-carousel-arrows-production/-careerpaths-careers-in-certified-nurse-assistant--0-1920.png"
+    },
+    {
+      "path": "/",
+      "width": 1920,
+      "carousel": 0,
+      "controls": [
+        {
+          "label": "Previous slide",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, -20)"
+        },
+        {
+          "label": "Next slide",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, -40, -20)"
+        }
+      ],
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      },
+      "canScroll": true,
+      "mouseKeyboard": "pass",
+      "screenshot": "docs/reports/shared-carousel-arrows-production/home-0-1920.png"
+    },
+    {
+      "path": "/",
+      "width": 1920,
+      "carousel": 1,
+      "controls": [
+        {
+          "label": "Previous slide",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, -20)"
+        },
+        {
+          "label": "Next slide",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, -40, -20)"
+        }
+      ],
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      },
+      "canScroll": true,
+      "mouseKeyboard": "pass",
+      "screenshot": "docs/reports/shared-carousel-arrows-production/home-1-1920.png"
+    },
+    {
+      "path": "/career-seekers/",
+      "width": 1920,
+      "carousel": 0,
+      "controls": [
+        {
+          "label": "Previous slide",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, -20)"
+        },
+        {
+          "label": "Next slide",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, -40, -20)"
+        }
+      ],
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      },
+      "canScroll": true,
+      "mouseKeyboard": "pass",
+      "screenshot": "docs/reports/shared-carousel-arrows-production/-career-seekers--0-1920.png"
+    },
+    {
+      "path": "/career-seekers/",
+      "width": 1920,
+      "carousel": 1,
+      "controls": [
+        {
+          "label": "Previous slide",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, -20)"
+        },
+        {
+          "label": "Next slide",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, -40, -20)"
+        }
+      ],
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      },
+      "canScroll": false,
+      "mouseKeyboard": "all items fit",
+      "screenshot": "docs/reports/shared-carousel-arrows-production/-career-seekers--1-1920.png"
+    },
+    {
+      "path": "/frequently-asked-questions/",
+      "width": 1920,
+      "carousel": 0,
+      "controls": [
+        {
+          "label": "Previous slide",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, -20)"
+        },
+        {
+          "label": "Next slide",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, -40, -20)"
+        }
+      ],
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      },
+      "canScroll": false,
+      "mouseKeyboard": "all items fit"
+    },
+    {
+      "path": "/earn-and-learn/",
+      "width": 1920,
+      "carousel": 0,
+      "controls": [
+        {
+          "label": "Previous slide",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, -20)"
+        },
+        {
+          "label": "Next slide",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, -40, -20)"
+        }
+      ],
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      },
+      "canScroll": false,
+      "mouseKeyboard": "all items fit"
+    },
+    {
+      "path": "/es/",
+      "width": 1920,
+      "carousel": 0,
+      "controls": [
+        {
+          "label": "Diapositiva anterior",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, -20)"
+        },
+        {
+          "label": "Diapositiva siguiente",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, -40, -20)"
+        }
+      ],
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      },
+      "canScroll": true,
+      "mouseKeyboard": "pass"
+    },
+    {
+      "path": "/es/aspirantes/",
+      "width": 1920,
+      "carousel": 0,
+      "controls": [
+        {
+          "label": "Diapositiva anterior",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, -20)"
+        },
+        {
+          "label": "Diapositiva siguiente",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, -40, -20)"
+        }
+      ],
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      },
+      "canScroll": true,
+      "mouseKeyboard": "pass",
+      "screenshot": "docs/reports/shared-carousel-arrows-production/-es-aspirantes--0-1920.png"
+    },
+    {
+      "path": "/es/aspirantes/",
+      "width": 1920,
+      "carousel": 1,
+      "controls": [
+        {
+          "label": "Diapositiva anterior",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, -20)"
+        },
+        {
+          "label": "Diapositiva siguiente",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, -40, -20)"
+        }
+      ],
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      },
+      "canScroll": false,
+      "mouseKeyboard": "all items fit",
+      "screenshot": "docs/reports/shared-carousel-arrows-production/-es-aspirantes--1-1920.png"
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "width": 1920,
+      "carousel": 0,
+      "controls": [
+        {
+          "label": "Diapositiva anterior",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, -20)"
+        },
+        {
+          "label": "Diapositiva siguiente",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, -40, -20)"
+        }
+      ],
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      },
+      "canScroll": false,
+      "mouseKeyboard": "all items fit"
+    },
+    {
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "width": 1920,
+      "carousel": 0,
+      "controls": [
+        {
+          "label": "Diapositiva anterior",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, -20)"
+        },
+        {
+          "label": "Diapositiva siguiente",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, -40, -20)"
+        }
+      ],
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      },
+      "canScroll": true,
+      "mouseKeyboard": "pass"
+    },
+    {
+      "path": "/es/earn-and-learn/",
+      "width": 1920,
+      "carousel": 0,
+      "controls": [
+        {
+          "label": "Diapositiva anterior",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, -20)"
+        },
+        {
+          "label": "Diapositiva siguiente",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, -40, -20)"
+        }
+      ],
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      },
+      "canScroll": false,
+      "mouseKeyboard": "all items fit"
+    },
+    {
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "width": 390,
+      "carousel": 0,
+      "controls": [
+        {
+          "label": "Previous slide",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, -20)"
+        },
+        {
+          "label": "Next slide",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, -40, -20)"
+        }
+      ],
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      },
+      "canScroll": true,
+      "mouseKeyboard": "pass",
+      "screenshot": "docs/reports/shared-carousel-arrows-production/-careerpaths-careers-in-certified-nurse-assistant--0-390.png"
+    },
+    {
+      "path": "/",
+      "width": 390,
+      "carousel": 0,
+      "controls": [
+        {
+          "label": "Previous slide",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, -20)"
+        },
+        {
+          "label": "Next slide",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, -40, -20)"
+        }
+      ],
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      },
+      "canScroll": true,
+      "mouseKeyboard": "pass",
+      "screenshot": "docs/reports/shared-carousel-arrows-production/home-0-390.png"
+    },
+    {
+      "path": "/",
+      "width": 390,
+      "carousel": 1,
+      "controls": [
+        {
+          "label": "Previous slide",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, -20)"
+        },
+        {
+          "label": "Next slide",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, -40, -20)"
+        }
+      ],
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      },
+      "canScroll": true,
+      "mouseKeyboard": "pass",
+      "screenshot": "docs/reports/shared-carousel-arrows-production/home-1-390.png"
+    },
+    {
+      "path": "/career-seekers/",
+      "width": 390,
+      "carousel": 0,
+      "controls": [
+        {
+          "label": "Previous slide",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, -20)"
+        },
+        {
+          "label": "Next slide",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, -40, -20)"
+        }
+      ],
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      },
+      "canScroll": true,
+      "mouseKeyboard": "pass",
+      "screenshot": "docs/reports/shared-carousel-arrows-production/-career-seekers--0-390.png"
+    },
+    {
+      "path": "/career-seekers/",
+      "width": 390,
+      "carousel": 1,
+      "controls": [
+        {
+          "label": "Previous slide",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, -20)"
+        },
+        {
+          "label": "Next slide",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, -40, -20)"
+        }
+      ],
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      },
+      "canScroll": true,
+      "mouseKeyboard": "pass",
+      "screenshot": "docs/reports/shared-carousel-arrows-production/-career-seekers--1-390.png"
+    },
+    {
+      "path": "/frequently-asked-questions/",
+      "width": 390,
+      "carousel": 0,
+      "controls": [
+        {
+          "label": "Previous slide",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, -20)"
+        },
+        {
+          "label": "Next slide",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, -40, -20)"
+        }
+      ],
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      },
+      "canScroll": true,
+      "mouseKeyboard": "pass"
+    },
+    {
+      "path": "/earn-and-learn/",
+      "width": 390,
+      "carousel": 0,
+      "controls": [
+        {
+          "label": "Previous slide",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, -20)"
+        },
+        {
+          "label": "Next slide",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, -40, -20)"
+        }
+      ],
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      },
+      "canScroll": true,
+      "mouseKeyboard": "pass"
+    },
+    {
+      "path": "/es/",
+      "width": 390,
+      "carousel": 0,
+      "controls": [
+        {
+          "label": "Diapositiva anterior",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, -20)"
+        },
+        {
+          "label": "Diapositiva siguiente",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, -40, -20)"
+        }
+      ],
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      },
+      "canScroll": true,
+      "mouseKeyboard": "pass"
+    },
+    {
+      "path": "/es/aspirantes/",
+      "width": 390,
+      "carousel": 0,
+      "controls": [
+        {
+          "label": "Diapositiva anterior",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, -20)"
+        },
+        {
+          "label": "Diapositiva siguiente",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, -40, -20)"
+        }
+      ],
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      },
+      "canScroll": true,
+      "mouseKeyboard": "pass",
+      "screenshot": "docs/reports/shared-carousel-arrows-production/-es-aspirantes--0-390.png"
+    },
+    {
+      "path": "/es/aspirantes/",
+      "width": 390,
+      "carousel": 1,
+      "controls": [
+        {
+          "label": "Diapositiva anterior",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, -20)"
+        },
+        {
+          "label": "Diapositiva siguiente",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, -40, -20)"
+        }
+      ],
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      },
+      "canScroll": true,
+      "mouseKeyboard": "pass",
+      "screenshot": "docs/reports/shared-carousel-arrows-production/-es-aspirantes--1-390.png"
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "width": 390,
+      "carousel": 0,
+      "controls": [
+        {
+          "label": "Diapositiva anterior",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, -20)"
+        },
+        {
+          "label": "Diapositiva siguiente",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, -40, -20)"
+        }
+      ],
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      },
+      "canScroll": true,
+      "mouseKeyboard": "pass"
+    },
+    {
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "width": 390,
+      "carousel": 0,
+      "controls": [
+        {
+          "label": "Diapositiva anterior",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, -20)"
+        },
+        {
+          "label": "Diapositiva siguiente",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, -40, -20)"
+        }
+      ],
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      },
+      "canScroll": true,
+      "mouseKeyboard": "pass"
+    },
+    {
+      "path": "/es/earn-and-learn/",
+      "width": 390,
+      "carousel": 0,
+      "controls": [
+        {
+          "label": "Diapositiva anterior",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, -20)"
+        },
+        {
+          "label": "Diapositiva siguiente",
+          "width": 40,
+          "height": 40,
+          "radius": "50%",
+          "background": "rgb(234, 243, 255)",
+          "color": "rgb(1, 89, 211)",
+          "glyph": "\"\"",
+          "pseudoDisplay": "block",
+          "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, -40, -20)"
+        }
+      ],
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      },
+      "canScroll": true,
+      "mouseKeyboard": "pass"
+    }
+  ]
+}
