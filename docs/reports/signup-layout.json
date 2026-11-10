@@ -1,0 +1,4325 @@
+{
+  "checkedAt": "2026-11-10T15:29:04.635Z",
+  "placements": 18,
+  "widths": [
+    320,
+    390,
+    600,
+    767,
+    768,
+    1024,
+    1280,
+    1440,
+    1920
+  ],
+  "checks": [
+    {
+      "path": "/career-seekers/",
+      "width": 320,
+      "state": {
+        "form": {
+          "left": 36,
+          "right": 284,
+          "top": 3877.71875,
+          "bottom": 4622,
+          "height": 744.28125
+        },
+        "section": {
+          "top": 3470.09375,
+          "bottom": 4940
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/career-advancement/",
+      "width": 320,
+      "state": {
+        "form": {
+          "left": 36,
+          "right": 284,
+          "top": 3831.3125,
+          "bottom": 4575.59375,
+          "height": 744.28125
+        },
+        "section": {
+          "top": 3763.3125,
+          "bottom": 5068.21875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn-la/",
+      "width": 320,
+      "state": {
+        "form": {
+          "left": 36,
+          "right": 284,
+          "top": 2545.296875,
+          "bottom": 3289.578125,
+          "height": 744.28125
+        },
+        "section": {
+          "top": 2477.296875,
+          "bottom": 3782.203125
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/frequently-asked-questions/",
+      "width": 320,
+      "state": {
+        "form": {
+          "left": 36,
+          "right": 284,
+          "top": 2608.203125,
+          "bottom": 3352.484375,
+          "height": 744.28125
+        },
+        "section": {
+          "top": 2115.578125,
+          "bottom": 3420.484375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      },
+      "faq": {
+        "margin": "0px",
+        "above": 0,
+        "below": 0
+      }
+    },
+    {
+      "path": "/earn-and-learn-cvalley/",
+      "width": 320,
+      "state": {
+        "form": {
+          "left": 36,
+          "right": 284,
+          "top": 2545.296875,
+          "bottom": 3289.578125,
+          "height": 744.28125
+        },
+        "section": {
+          "top": 2477.296875,
+          "bottom": 3782.203125
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn-bayarea/",
+      "width": 320,
+      "state": {
+        "form": {
+          "left": 36,
+          "right": 284,
+          "top": 2928.328125,
+          "bottom": 3672.609375,
+          "height": 744.28125
+        },
+        "section": {
+          "top": 2435.703125,
+          "bottom": 3740.609375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn-norcal/",
+      "width": 320,
+      "state": {
+        "form": {
+          "left": 36,
+          "right": 284,
+          "top": 2545.296875,
+          "bottom": 3289.578125,
+          "height": 744.28125
+        },
+        "section": {
+          "top": 2477.296875,
+          "bottom": 3782.203125
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn-san-diego/",
+      "width": 320,
+      "state": {
+        "form": {
+          "left": 36,
+          "right": 284,
+          "top": 2928.328125,
+          "bottom": 3672.609375,
+          "height": 744.28125
+        },
+        "section": {
+          "top": 2435.703125,
+          "bottom": 3740.609375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn/",
+      "width": 320,
+      "state": {
+        "form": {
+          "left": 36,
+          "right": 284,
+          "top": 2503.703125,
+          "bottom": 3247.984375,
+          "height": 744.28125
+        },
+        "section": {
+          "top": 2435.703125,
+          "bottom": 3740.609375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/aspirantes/",
+      "width": 320,
+      "state": {
+        "form": {
+          "left": 36,
+          "right": 284,
+          "top": 4374.734375,
+          "bottom": 5150.890625,
+          "height": 776.15625
+        },
+        "section": {
+          "top": 4006.3125,
+          "bottom": 5468.890625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "width": 320,
+      "state": {
+        "form": {
+          "left": 36,
+          "right": 284,
+          "top": 2729.40625,
+          "bottom": 3505.5625,
+          "height": 776.15625
+        },
+        "section": {
+          "top": 2211.578125,
+          "bottom": 3573.5625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      },
+      "faq": {
+        "margin": "0px",
+        "above": 0,
+        "below": 0
+      }
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "width": 320,
+      "state": {
+        "form": {
+          "left": 36,
+          "right": 284,
+          "top": 4335.921875,
+          "bottom": 5112.078125,
+          "height": 776.15625
+        },
+        "section": {
+          "top": 4267.921875,
+          "bottom": 5629.90625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/ganar-y-aprender-la/",
+      "width": 320,
+      "state": {
+        "form": {
+          "left": 36,
+          "right": 284,
+          "top": 2758.8125,
+          "bottom": 3534.96875,
+          "height": 776.15625
+        },
+        "section": {
+          "top": 2690.8125,
+          "bottom": 4052.796875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/gana-y-aprende-cvalley/",
+      "width": 320,
+      "state": {
+        "form": {
+          "left": 36,
+          "right": 284,
+          "top": 2758.8125,
+          "bottom": 3534.96875,
+          "height": 776.15625
+        },
+        "section": {
+          "top": 2690.8125,
+          "bottom": 4052.796875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/gana-y-aprende-bayarea/",
+      "width": 320,
+      "state": {
+        "form": {
+          "left": 36,
+          "right": 284,
+          "top": 3208.640625,
+          "bottom": 3984.796875,
+          "height": 776.15625
+        },
+        "section": {
+          "top": 2690.8125,
+          "bottom": 4052.796875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/earn-and-learn-norcal/",
+      "width": 320,
+      "state": {
+        "form": {
+          "left": 36,
+          "right": 284,
+          "top": 2758.8125,
+          "bottom": 3534.96875,
+          "height": 776.15625
+        },
+        "section": {
+          "top": 2690.8125,
+          "bottom": 4052.796875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/gana-y-aprende-san-diego/",
+      "width": 320,
+      "state": {
+        "form": {
+          "left": 36,
+          "right": 284,
+          "top": 3208.640625,
+          "bottom": 3984.796875,
+          "height": 776.15625
+        },
+        "section": {
+          "top": 2690.8125,
+          "bottom": 4052.796875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/earn-and-learn/",
+      "width": 320,
+      "state": {
+        "form": {
+          "left": 36,
+          "right": 284,
+          "top": 2758.8125,
+          "bottom": 3534.96875,
+          "height": 776.15625
+        },
+        "section": {
+          "top": 2690.8125,
+          "bottom": 4052.796875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/career-seekers/",
+      "width": 390,
+      "state": {
+        "form": {
+          "left": 36,
+          "right": 354,
+          "top": 3608.71875,
+          "bottom": 4309.40625,
+          "height": 700.6875
+        },
+        "section": {
+          "top": 3251.5,
+          "bottom": 4627.40625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      },
+      "screenshot": "docs/reports/signup-layout/-career-seekers--390.png"
+    },
+    {
+      "path": "/career-advancement/",
+      "width": 390,
+      "state": {
+        "form": {
+          "left": 36,
+          "right": 354,
+          "top": 3533.609375,
+          "bottom": 4234.296875,
+          "height": 700.6875
+        },
+        "section": {
+          "top": 3465.609375,
+          "bottom": 4701.71875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn-la/",
+      "width": 390,
+      "state": {
+        "form": {
+          "left": 36,
+          "right": 354,
+          "top": 2336.90625,
+          "bottom": 3037.59375,
+          "height": 700.6875
+        },
+        "section": {
+          "top": 2268.90625,
+          "bottom": 3505.015625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/frequently-asked-questions/",
+      "width": 390,
+      "state": {
+        "form": {
+          "left": 36,
+          "right": 354,
+          "top": 2373.40625,
+          "bottom": 3074.09375,
+          "height": 700.6875
+        },
+        "section": {
+          "top": 1905.984375,
+          "bottom": 3142.09375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      },
+      "faq": {
+        "margin": "0px",
+        "above": 0,
+        "below": 0
+      },
+      "screenshot": "docs/reports/signup-layout/-frequently-asked-questions--390.png"
+    },
+    {
+      "path": "/earn-and-learn-cvalley/",
+      "width": 390,
+      "state": {
+        "form": {
+          "left": 36,
+          "right": 354,
+          "top": 2336.90625,
+          "bottom": 3037.59375,
+          "height": 700.6875
+        },
+        "section": {
+          "top": 2268.90625,
+          "bottom": 3505.015625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn-bayarea/",
+      "width": 390,
+      "state": {
+        "form": {
+          "left": 36,
+          "right": 354,
+          "top": 2736.328125,
+          "bottom": 3437.015625,
+          "height": 700.6875
+        },
+        "section": {
+          "top": 2268.90625,
+          "bottom": 3505.015625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn-norcal/",
+      "width": 390,
+      "state": {
+        "form": {
+          "left": 36,
+          "right": 354,
+          "top": 2336.90625,
+          "bottom": 3037.59375,
+          "height": 700.6875
+        },
+        "section": {
+          "top": 2268.90625,
+          "bottom": 3505.015625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn-san-diego/",
+      "width": 390,
+      "state": {
+        "form": {
+          "left": 36,
+          "right": 354,
+          "top": 2736.328125,
+          "bottom": 3437.015625,
+          "height": 700.6875
+        },
+        "section": {
+          "top": 2268.90625,
+          "bottom": 3505.015625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn/",
+      "width": 390,
+      "state": {
+        "form": {
+          "left": 36,
+          "right": 354,
+          "top": 2336.90625,
+          "bottom": 3037.59375,
+          "height": 700.6875
+        },
+        "section": {
+          "top": 2268.90625,
+          "bottom": 3505.015625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/aspirantes/",
+      "width": 390,
+      "state": {
+        "form": {
+          "left": 36,
+          "right": 354,
+          "top": 3924.640625,
+          "bottom": 4657.203125,
+          "height": 732.5625
+        },
+        "section": {
+          "top": 3581.421875,
+          "bottom": 4975.203125
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "width": 390,
+      "state": {
+        "form": {
+          "left": 36,
+          "right": 354,
+          "top": 2430.203125,
+          "bottom": 3162.765625,
+          "height": 732.5625
+        },
+        "section": {
+          "top": 2001.984375,
+          "bottom": 3230.765625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      },
+      "faq": {
+        "margin": "0px",
+        "above": 0,
+        "below": 0
+      },
+      "screenshot": "docs/reports/signup-layout/-es-preguntas-frecuentes--390.png"
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "width": 390,
+      "state": {
+        "form": {
+          "left": 36,
+          "right": 354,
+          "top": 3819.3125,
+          "bottom": 4551.875,
+          "height": 732.5625
+        },
+        "section": {
+          "top": 3751.3125,
+          "bottom": 4980.09375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/ganar-y-aprender-la/",
+      "width": 390,
+      "state": {
+        "form": {
+          "left": 36,
+          "right": 354,
+          "top": 2486.015625,
+          "bottom": 3218.578125,
+          "height": 732.5625
+        },
+        "section": {
+          "top": 2418.015625,
+          "bottom": 3646.796875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/gana-y-aprende-cvalley/",
+      "width": 390,
+      "state": {
+        "form": {
+          "left": 36,
+          "right": 354,
+          "top": 2486.015625,
+          "bottom": 3218.578125,
+          "height": 732.5625
+        },
+        "section": {
+          "top": 2418.015625,
+          "bottom": 3646.796875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/gana-y-aprende-bayarea/",
+      "width": 390,
+      "state": {
+        "form": {
+          "left": 36,
+          "right": 354,
+          "top": 2846.234375,
+          "bottom": 3578.796875,
+          "height": 732.5625
+        },
+        "section": {
+          "top": 2418.015625,
+          "bottom": 3646.796875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/earn-and-learn-norcal/",
+      "width": 390,
+      "state": {
+        "form": {
+          "left": 36,
+          "right": 354,
+          "top": 2486.015625,
+          "bottom": 3218.578125,
+          "height": 732.5625
+        },
+        "section": {
+          "top": 2418.015625,
+          "bottom": 3646.796875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/gana-y-aprende-san-diego/",
+      "width": 390,
+      "state": {
+        "form": {
+          "left": 36,
+          "right": 354,
+          "top": 2846.234375,
+          "bottom": 3578.796875,
+          "height": 732.5625
+        },
+        "section": {
+          "top": 2418.015625,
+          "bottom": 3646.796875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/earn-and-learn/",
+      "width": 390,
+      "state": {
+        "form": {
+          "left": 36,
+          "right": 354,
+          "top": 2486.015625,
+          "bottom": 3218.578125,
+          "height": 732.5625
+        },
+        "section": {
+          "top": 2418.015625,
+          "bottom": 3646.796875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/career-seekers/",
+      "width": 600,
+      "state": {
+        "form": {
+          "left": 154,
+          "right": 514,
+          "top": 3417.546875,
+          "bottom": 4120.765625,
+          "height": 703.21875
+        },
+        "section": {
+          "top": 3099.53125,
+          "bottom": 4438.765625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/career-advancement/",
+      "width": 600,
+      "state": {
+        "form": {
+          "left": 154,
+          "right": 514,
+          "top": 3293.03125,
+          "bottom": 3996.25,
+          "height": 703.21875
+        },
+        "section": {
+          "top": 3225.03125,
+          "bottom": 4399.265625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn-la/",
+      "width": 600,
+      "state": {
+        "form": {
+          "left": 154,
+          "right": 514,
+          "top": 2200.53125,
+          "bottom": 2903.75,
+          "height": 703.21875
+        },
+        "section": {
+          "top": 2132.53125,
+          "bottom": 3306.765625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/frequently-asked-questions/",
+      "width": 600,
+      "state": {
+        "form": {
+          "left": 154,
+          "right": 514,
+          "top": 2069,
+          "bottom": 2772.21875,
+          "height": 703.21875
+        },
+        "section": {
+          "top": 1665.984375,
+          "bottom": 2840.21875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      },
+      "faq": {
+        "margin": "0px",
+        "above": 0,
+        "below": 0
+      }
+    },
+    {
+      "path": "/earn-and-learn-cvalley/",
+      "width": 600,
+      "state": {
+        "form": {
+          "left": 154,
+          "right": 514,
+          "top": 2200.53125,
+          "bottom": 2903.75,
+          "height": 703.21875
+        },
+        "section": {
+          "top": 2132.53125,
+          "bottom": 3306.765625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn-bayarea/",
+      "width": 600,
+      "state": {
+        "form": {
+          "left": 154,
+          "right": 514,
+          "top": 2535.546875,
+          "bottom": 3238.765625,
+          "height": 703.21875
+        },
+        "section": {
+          "top": 2132.53125,
+          "bottom": 3306.765625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn-norcal/",
+      "width": 600,
+      "state": {
+        "form": {
+          "left": 154,
+          "right": 514,
+          "top": 2200.53125,
+          "bottom": 2903.75,
+          "height": 703.21875
+        },
+        "section": {
+          "top": 2132.53125,
+          "bottom": 3306.765625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn-san-diego/",
+      "width": 600,
+      "state": {
+        "form": {
+          "left": 154,
+          "right": 514,
+          "top": 2535.546875,
+          "bottom": 3238.765625,
+          "height": 703.21875
+        },
+        "section": {
+          "top": 2132.53125,
+          "bottom": 3306.765625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn/",
+      "width": 600,
+      "state": {
+        "form": {
+          "left": 154,
+          "right": 514,
+          "top": 2200.53125,
+          "bottom": 2903.75,
+          "height": 703.21875
+        },
+        "section": {
+          "top": 2132.53125,
+          "bottom": 3306.765625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/aspirantes/",
+      "width": 600,
+      "state": {
+        "form": {
+          "left": 154,
+          "right": 514,
+          "top": 3573.859375,
+          "bottom": 4308.953125,
+          "height": 735.09375
+        },
+        "section": {
+          "top": 3255.84375,
+          "bottom": 4626.953125
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "width": 600,
+      "state": {
+        "form": {
+          "left": 154,
+          "right": 514,
+          "top": 2093,
+          "bottom": 2828.09375,
+          "height": 735.09375
+        },
+        "section": {
+          "top": 1689.984375,
+          "bottom": 2896.09375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      },
+      "faq": {
+        "margin": "0px",
+        "above": 0,
+        "below": 0
+      }
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "width": 600,
+      "state": {
+        "form": {
+          "left": 154,
+          "right": 514,
+          "top": 3512.75,
+          "bottom": 4247.84375,
+          "height": 735.09375
+        },
+        "section": {
+          "top": 3444.75,
+          "bottom": 4650.859375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/ganar-y-aprender-la/",
+      "width": 600,
+      "state": {
+        "form": {
+          "left": 154,
+          "right": 514,
+          "top": 2370.9375,
+          "bottom": 3106.03125,
+          "height": 735.09375
+        },
+        "section": {
+          "top": 2302.9375,
+          "bottom": 3509.046875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/gana-y-aprende-cvalley/",
+      "width": 600,
+      "state": {
+        "form": {
+          "left": 154,
+          "right": 514,
+          "top": 2370.9375,
+          "bottom": 3106.03125,
+          "height": 735.09375
+        },
+        "section": {
+          "top": 2302.9375,
+          "bottom": 3509.046875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/gana-y-aprende-bayarea/",
+      "width": 600,
+      "state": {
+        "form": {
+          "left": 154,
+          "right": 514,
+          "top": 2705.953125,
+          "bottom": 3441.046875,
+          "height": 735.09375
+        },
+        "section": {
+          "top": 2302.9375,
+          "bottom": 3509.046875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/earn-and-learn-norcal/",
+      "width": 600,
+      "state": {
+        "form": {
+          "left": 154,
+          "right": 514,
+          "top": 2370.9375,
+          "bottom": 3106.03125,
+          "height": 735.09375
+        },
+        "section": {
+          "top": 2302.9375,
+          "bottom": 3509.046875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/gana-y-aprende-san-diego/",
+      "width": 600,
+      "state": {
+        "form": {
+          "left": 154,
+          "right": 514,
+          "top": 2664.359375,
+          "bottom": 3399.453125,
+          "height": 735.09375
+        },
+        "section": {
+          "top": 2261.34375,
+          "bottom": 3467.453125
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/earn-and-learn/",
+      "width": 600,
+      "state": {
+        "form": {
+          "left": 154,
+          "right": 514,
+          "top": 2329.34375,
+          "bottom": 3064.4375,
+          "height": 735.09375
+        },
+        "section": {
+          "top": 2261.34375,
+          "bottom": 3467.453125
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/career-seekers/",
+      "width": 767,
+      "state": {
+        "form": {
+          "left": 237.5,
+          "right": 597.5,
+          "top": 3417.546875,
+          "bottom": 4120.765625,
+          "height": 703.21875
+        },
+        "section": {
+          "top": 3099.53125,
+          "bottom": 4438.765625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/career-advancement/",
+      "width": 767,
+      "state": {
+        "form": {
+          "left": 237.5,
+          "right": 597.5,
+          "top": 3293.03125,
+          "bottom": 3996.25,
+          "height": 703.21875
+        },
+        "section": {
+          "top": 3225.03125,
+          "bottom": 4399.265625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn-la/",
+      "width": 767,
+      "state": {
+        "form": {
+          "left": 237.5,
+          "right": 597.5,
+          "top": 2200.53125,
+          "bottom": 2903.75,
+          "height": 703.21875
+        },
+        "section": {
+          "top": 2132.53125,
+          "bottom": 3306.765625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/frequently-asked-questions/",
+      "width": 767,
+      "state": {
+        "form": {
+          "left": 237.5,
+          "right": 597.5,
+          "top": 2021,
+          "bottom": 2724.21875,
+          "height": 703.21875
+        },
+        "section": {
+          "top": 1617.984375,
+          "bottom": 2792.21875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      },
+      "faq": {
+        "margin": "0px",
+        "above": 0,
+        "below": 0
+      }
+    },
+    {
+      "path": "/earn-and-learn-cvalley/",
+      "width": 767,
+      "state": {
+        "form": {
+          "left": 237.5,
+          "right": 597.5,
+          "top": 2200.53125,
+          "bottom": 2903.75,
+          "height": 703.21875
+        },
+        "section": {
+          "top": 2132.53125,
+          "bottom": 3306.765625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn-bayarea/",
+      "width": 767,
+      "state": {
+        "form": {
+          "left": 237.5,
+          "right": 597.5,
+          "top": 2535.546875,
+          "bottom": 3238.765625,
+          "height": 703.21875
+        },
+        "section": {
+          "top": 2132.53125,
+          "bottom": 3306.765625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn-norcal/",
+      "width": 767,
+      "state": {
+        "form": {
+          "left": 237.5,
+          "right": 597.5,
+          "top": 2200.53125,
+          "bottom": 2903.75,
+          "height": 703.21875
+        },
+        "section": {
+          "top": 2132.53125,
+          "bottom": 3306.765625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn-san-diego/",
+      "width": 767,
+      "state": {
+        "form": {
+          "left": 237.5,
+          "right": 597.5,
+          "top": 2535.546875,
+          "bottom": 3238.765625,
+          "height": 703.21875
+        },
+        "section": {
+          "top": 2132.53125,
+          "bottom": 3306.765625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn/",
+      "width": 767,
+      "state": {
+        "form": {
+          "left": 237.5,
+          "right": 597.5,
+          "top": 2200.53125,
+          "bottom": 2903.75,
+          "height": 703.21875
+        },
+        "section": {
+          "top": 2132.53125,
+          "bottom": 3306.765625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/aspirantes/",
+      "width": 767,
+      "state": {
+        "form": {
+          "left": 237.5,
+          "right": 597.5,
+          "top": 3573.859375,
+          "bottom": 4308.953125,
+          "height": 735.09375
+        },
+        "section": {
+          "top": 3255.84375,
+          "bottom": 4626.953125
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "width": 767,
+      "state": {
+        "form": {
+          "left": 237.5,
+          "right": 597.5,
+          "top": 2037,
+          "bottom": 2772.09375,
+          "height": 735.09375
+        },
+        "section": {
+          "top": 1633.984375,
+          "bottom": 2840.09375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      },
+      "faq": {
+        "margin": "0px",
+        "above": 0,
+        "below": 0
+      }
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "width": 767,
+      "state": {
+        "form": {
+          "left": 237.5,
+          "right": 597.5,
+          "top": 3512.75,
+          "bottom": 4247.84375,
+          "height": 735.09375
+        },
+        "section": {
+          "top": 3444.75,
+          "bottom": 4650.859375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/ganar-y-aprender-la/",
+      "width": 767,
+      "state": {
+        "form": {
+          "left": 237.5,
+          "right": 597.5,
+          "top": 2370.9375,
+          "bottom": 3106.03125,
+          "height": 735.09375
+        },
+        "section": {
+          "top": 2302.9375,
+          "bottom": 3509.046875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/gana-y-aprende-cvalley/",
+      "width": 767,
+      "state": {
+        "form": {
+          "left": 237.5,
+          "right": 597.5,
+          "top": 2370.9375,
+          "bottom": 3106.03125,
+          "height": 735.09375
+        },
+        "section": {
+          "top": 2302.9375,
+          "bottom": 3509.046875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/gana-y-aprende-bayarea/",
+      "width": 767,
+      "state": {
+        "form": {
+          "left": 237.5,
+          "right": 597.5,
+          "top": 2705.953125,
+          "bottom": 3441.046875,
+          "height": 735.09375
+        },
+        "section": {
+          "top": 2302.9375,
+          "bottom": 3509.046875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/earn-and-learn-norcal/",
+      "width": 767,
+      "state": {
+        "form": {
+          "left": 237.5,
+          "right": 597.5,
+          "top": 2370.9375,
+          "bottom": 3106.03125,
+          "height": 735.09375
+        },
+        "section": {
+          "top": 2302.9375,
+          "bottom": 3509.046875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/gana-y-aprende-san-diego/",
+      "width": 767,
+      "state": {
+        "form": {
+          "left": 237.5,
+          "right": 597.5,
+          "top": 2664.359375,
+          "bottom": 3399.453125,
+          "height": 735.09375
+        },
+        "section": {
+          "top": 2261.34375,
+          "bottom": 3467.453125
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/earn-and-learn/",
+      "width": 767,
+      "state": {
+        "form": {
+          "left": 237.5,
+          "right": 597.5,
+          "top": 2329.34375,
+          "bottom": 3064.4375,
+          "height": 735.09375
+        },
+        "section": {
+          "top": 2261.34375,
+          "bottom": 3467.453125
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/career-seekers/",
+      "width": 768,
+      "state": {
+        "form": {
+          "left": 54,
+          "right": 330,
+          "top": 3042.15625,
+          "bottom": 3756.25,
+          "height": 714.09375
+        },
+        "section": {
+          "top": 2925.15625,
+          "bottom": 4108.25
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/career-advancement/",
+      "width": 768,
+      "state": {
+        "form": {
+          "left": 54,
+          "right": 330,
+          "top": 3156.640625,
+          "bottom": 3870.734375,
+          "height": 714.09375
+        },
+        "section": {
+          "top": 3054.640625,
+          "bottom": 3972.734375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn-la/",
+      "width": 768,
+      "state": {
+        "form": {
+          "left": 54,
+          "right": 330,
+          "top": 2516.03125,
+          "bottom": 3230.125,
+          "height": 714.09375
+        },
+        "section": {
+          "top": 2414.03125,
+          "bottom": 3332.125
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/frequently-asked-questions/",
+      "width": 768,
+      "state": {
+        "form": {
+          "left": 438,
+          "right": 714,
+          "top": 2016.5,
+          "bottom": 2730.59375,
+          "height": 714.09375
+        },
+        "section": {
+          "top": 1914.5,
+          "bottom": 2832.59375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      },
+      "faq": {
+        "margin": "0px",
+        "above": 0,
+        "below": 0
+      }
+    },
+    {
+      "path": "/earn-and-learn-cvalley/",
+      "width": 768,
+      "state": {
+        "form": {
+          "left": 54,
+          "right": 330,
+          "top": 2444.53125,
+          "bottom": 3158.625,
+          "height": 714.09375
+        },
+        "section": {
+          "top": 2342.53125,
+          "bottom": 3260.625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn-bayarea/",
+      "width": 768,
+      "state": {
+        "form": {
+          "left": 438,
+          "right": 714,
+          "top": 2444.53125,
+          "bottom": 3158.625,
+          "height": 714.09375
+        },
+        "section": {
+          "top": 2342.53125,
+          "bottom": 3260.625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn-norcal/",
+      "width": 768,
+      "state": {
+        "form": {
+          "left": 54,
+          "right": 330,
+          "top": 2444.53125,
+          "bottom": 3158.625,
+          "height": 714.09375
+        },
+        "section": {
+          "top": 2342.53125,
+          "bottom": 3260.625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn-san-diego/",
+      "width": 768,
+      "state": {
+        "form": {
+          "left": 438,
+          "right": 714,
+          "top": 2444.53125,
+          "bottom": 3158.625,
+          "height": 714.09375
+        },
+        "section": {
+          "top": 2342.53125,
+          "bottom": 3260.625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn/",
+      "width": 768,
+      "state": {
+        "form": {
+          "left": 54,
+          "right": 330,
+          "top": 2444.53125,
+          "bottom": 3158.625,
+          "height": 714.09375
+        },
+        "section": {
+          "top": 2342.53125,
+          "bottom": 3260.625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/aspirantes/",
+      "width": 768,
+      "state": {
+        "form": {
+          "left": 54,
+          "right": 330,
+          "top": 3239.171875,
+          "bottom": 4001.078125,
+          "height": 761.90625
+        },
+        "section": {
+          "top": 3122.171875,
+          "bottom": 4353.078125
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "width": 768,
+      "state": {
+        "form": {
+          "left": 438,
+          "right": 714,
+          "top": 2060.5,
+          "bottom": 2822.40625,
+          "height": 761.90625
+        },
+        "section": {
+          "top": 1958.5,
+          "bottom": 2924.40625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      },
+      "faq": {
+        "margin": "0px",
+        "above": 0,
+        "below": 0
+      }
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "width": 768,
+      "state": {
+        "form": {
+          "left": 54,
+          "right": 330,
+          "top": 3338.25,
+          "bottom": 4100.15625,
+          "height": 761.90625
+        },
+        "section": {
+          "top": 3236.25,
+          "bottom": 4202.15625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/ganar-y-aprender-la/",
+      "width": 768,
+      "state": {
+        "form": {
+          "left": 54,
+          "right": 330,
+          "top": 2570.140625,
+          "bottom": 3332.046875,
+          "height": 761.90625
+        },
+        "section": {
+          "top": 2468.140625,
+          "bottom": 3434.046875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/gana-y-aprende-cvalley/",
+      "width": 768,
+      "state": {
+        "form": {
+          "left": 54,
+          "right": 330,
+          "top": 2570.140625,
+          "bottom": 3332.046875,
+          "height": 761.90625
+        },
+        "section": {
+          "top": 2468.140625,
+          "bottom": 3434.046875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/gana-y-aprende-bayarea/",
+      "width": 768,
+      "state": {
+        "form": {
+          "left": 438,
+          "right": 714,
+          "top": 2570.140625,
+          "bottom": 3332.046875,
+          "height": 761.90625
+        },
+        "section": {
+          "top": 2468.140625,
+          "bottom": 3434.046875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/earn-and-learn-norcal/",
+      "width": 768,
+      "state": {
+        "form": {
+          "left": 54,
+          "right": 330,
+          "top": 2570.140625,
+          "bottom": 3332.046875,
+          "height": 761.90625
+        },
+        "section": {
+          "top": 2468.140625,
+          "bottom": 3434.046875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/gana-y-aprende-san-diego/",
+      "width": 768,
+      "state": {
+        "form": {
+          "left": 438,
+          "right": 714,
+          "top": 2570.140625,
+          "bottom": 3332.046875,
+          "height": 761.90625
+        },
+        "section": {
+          "top": 2468.140625,
+          "bottom": 3434.046875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/earn-and-learn/",
+      "width": 768,
+      "state": {
+        "form": {
+          "left": 54,
+          "right": 330,
+          "top": 2498.640625,
+          "bottom": 3260.546875,
+          "height": 761.90625
+        },
+        "section": {
+          "top": 2396.640625,
+          "bottom": 3362.546875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/career-seekers/",
+      "width": 1024,
+      "state": {
+        "form": {
+          "left": 54,
+          "right": 458,
+          "top": 3137.25,
+          "bottom": 3827.15625,
+          "height": 689.90625
+        },
+        "section": {
+          "top": 3020.25,
+          "bottom": 4179.15625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/career-advancement/",
+      "width": 1024,
+      "state": {
+        "form": {
+          "left": 54,
+          "right": 458,
+          "top": 3122.4375,
+          "bottom": 3812.34375,
+          "height": 689.90625
+        },
+        "section": {
+          "top": 3020.4375,
+          "bottom": 3914.34375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn-la/",
+      "width": 1024,
+      "state": {
+        "form": {
+          "left": 54,
+          "right": 458,
+          "top": 2582.53125,
+          "bottom": 3272.4375,
+          "height": 689.90625
+        },
+        "section": {
+          "top": 2480.53125,
+          "bottom": 3374.4375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/frequently-asked-questions/",
+      "width": 1024,
+      "state": {
+        "form": {
+          "left": 566,
+          "right": 970,
+          "top": 1879,
+          "bottom": 2568.90625,
+          "height": 689.90625
+        },
+        "section": {
+          "top": 1777,
+          "bottom": 2670.90625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      },
+      "faq": {
+        "margin": "0px",
+        "above": 0,
+        "below": 0
+      }
+    },
+    {
+      "path": "/earn-and-learn-cvalley/",
+      "width": 1024,
+      "state": {
+        "form": {
+          "left": 54,
+          "right": 458,
+          "top": 2582.53125,
+          "bottom": 3272.4375,
+          "height": 689.90625
+        },
+        "section": {
+          "top": 2480.53125,
+          "bottom": 3374.4375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn-bayarea/",
+      "width": 1024,
+      "state": {
+        "form": {
+          "left": 566,
+          "right": 970,
+          "top": 2582.53125,
+          "bottom": 3272.4375,
+          "height": 689.90625
+        },
+        "section": {
+          "top": 2480.53125,
+          "bottom": 3374.4375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn-norcal/",
+      "width": 1024,
+      "state": {
+        "form": {
+          "left": 54,
+          "right": 458,
+          "top": 2582.53125,
+          "bottom": 3272.4375,
+          "height": 689.90625
+        },
+        "section": {
+          "top": 2480.53125,
+          "bottom": 3374.4375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn-san-diego/",
+      "width": 1024,
+      "state": {
+        "form": {
+          "left": 566,
+          "right": 970,
+          "top": 2582.53125,
+          "bottom": 3272.4375,
+          "height": 689.90625
+        },
+        "section": {
+          "top": 2480.53125,
+          "bottom": 3374.4375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn/",
+      "width": 1024,
+      "state": {
+        "form": {
+          "left": 54,
+          "right": 458,
+          "top": 2582.53125,
+          "bottom": 3272.4375,
+          "height": 689.90625
+        },
+        "section": {
+          "top": 2480.53125,
+          "bottom": 3374.4375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/aspirantes/",
+      "width": 1024,
+      "state": {
+        "form": {
+          "left": 54,
+          "right": 458,
+          "top": 3202.65625,
+          "bottom": 3924.4375,
+          "height": 721.78125
+        },
+        "section": {
+          "top": 3085.65625,
+          "bottom": 4276.4375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "width": 1024,
+      "state": {
+        "form": {
+          "left": 566,
+          "right": 970,
+          "top": 1901,
+          "bottom": 2622.78125,
+          "height": 721.78125
+        },
+        "section": {
+          "top": 1799,
+          "bottom": 2724.78125
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      },
+      "faq": {
+        "margin": "0px",
+        "above": 0,
+        "below": 0
+      }
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "width": 1024,
+      "state": {
+        "form": {
+          "left": 54,
+          "right": 458,
+          "top": 3292.84375,
+          "bottom": 4014.625,
+          "height": 721.78125
+        },
+        "section": {
+          "top": 3190.84375,
+          "bottom": 4116.625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/ganar-y-aprender-la/",
+      "width": 1024,
+      "state": {
+        "form": {
+          "left": 54,
+          "right": 458,
+          "top": 2661.9375,
+          "bottom": 3383.71875,
+          "height": 721.78125
+        },
+        "section": {
+          "top": 2559.9375,
+          "bottom": 3485.71875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/gana-y-aprende-cvalley/",
+      "width": 1024,
+      "state": {
+        "form": {
+          "left": 54,
+          "right": 458,
+          "top": 2661.9375,
+          "bottom": 3383.71875,
+          "height": 721.78125
+        },
+        "section": {
+          "top": 2559.9375,
+          "bottom": 3485.71875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/gana-y-aprende-bayarea/",
+      "width": 1024,
+      "state": {
+        "form": {
+          "left": 566,
+          "right": 970,
+          "top": 2661.9375,
+          "bottom": 3383.71875,
+          "height": 721.78125
+        },
+        "section": {
+          "top": 2559.9375,
+          "bottom": 3485.71875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/earn-and-learn-norcal/",
+      "width": 1024,
+      "state": {
+        "form": {
+          "left": 54,
+          "right": 458,
+          "top": 2661.9375,
+          "bottom": 3383.71875,
+          "height": 721.78125
+        },
+        "section": {
+          "top": 2559.9375,
+          "bottom": 3485.71875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/gana-y-aprende-san-diego/",
+      "width": 1024,
+      "state": {
+        "form": {
+          "left": 566,
+          "right": 970,
+          "top": 2661.9375,
+          "bottom": 3383.71875,
+          "height": 721.78125
+        },
+        "section": {
+          "top": 2559.9375,
+          "bottom": 3485.71875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/earn-and-learn/",
+      "width": 1024,
+      "state": {
+        "form": {
+          "left": 54,
+          "right": 458,
+          "top": 2661.9375,
+          "bottom": 3383.71875,
+          "height": 721.78125
+        },
+        "section": {
+          "top": 2559.9375,
+          "bottom": 3485.71875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/career-seekers/",
+      "width": 1280,
+      "state": {
+        "form": {
+          "left": 54,
+          "right": 586,
+          "top": 2073.734375,
+          "bottom": 2755.390625,
+          "height": 681.65625
+        },
+        "section": {
+          "top": 1956.734375,
+          "bottom": 3067.390625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/career-advancement/",
+      "width": 1280,
+      "state": {
+        "form": {
+          "left": 54,
+          "right": 586,
+          "top": 2199.84375,
+          "bottom": 2881.5,
+          "height": 681.65625
+        },
+        "section": {
+          "top": 2097.84375,
+          "bottom": 2983.5
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn-la/",
+      "width": 1280,
+      "state": {
+        "form": {
+          "left": 54,
+          "right": 586,
+          "top": 1764.203125,
+          "bottom": 2445.859375,
+          "height": 681.65625
+        },
+        "section": {
+          "top": 1662.203125,
+          "bottom": 2547.859375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/frequently-asked-questions/",
+      "width": 1280,
+      "state": {
+        "form": {
+          "left": 694,
+          "right": 1226,
+          "top": 1891,
+          "bottom": 2572.65625,
+          "height": 681.65625
+        },
+        "section": {
+          "top": 1789,
+          "bottom": 2674.65625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      },
+      "faq": {
+        "margin": "0px",
+        "above": 0,
+        "below": 0
+      }
+    },
+    {
+      "path": "/earn-and-learn-cvalley/",
+      "width": 1280,
+      "state": {
+        "form": {
+          "left": 54,
+          "right": 586,
+          "top": 1764.203125,
+          "bottom": 2445.859375,
+          "height": 681.65625
+        },
+        "section": {
+          "top": 1662.203125,
+          "bottom": 2547.859375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn-bayarea/",
+      "width": 1280,
+      "state": {
+        "form": {
+          "left": 694,
+          "right": 1226,
+          "top": 1764.203125,
+          "bottom": 2445.859375,
+          "height": 681.65625
+        },
+        "section": {
+          "top": 1662.203125,
+          "bottom": 2547.859375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn-norcal/",
+      "width": 1280,
+      "state": {
+        "form": {
+          "left": 54,
+          "right": 586,
+          "top": 1764.203125,
+          "bottom": 2445.859375,
+          "height": 681.65625
+        },
+        "section": {
+          "top": 1662.203125,
+          "bottom": 2547.859375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn-san-diego/",
+      "width": 1280,
+      "state": {
+        "form": {
+          "left": 694,
+          "right": 1226,
+          "top": 1764.203125,
+          "bottom": 2445.859375,
+          "height": 681.65625
+        },
+        "section": {
+          "top": 1662.203125,
+          "bottom": 2547.859375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn/",
+      "width": 1280,
+      "state": {
+        "form": {
+          "left": 54,
+          "right": 586,
+          "top": 1764.203125,
+          "bottom": 2445.859375,
+          "height": 681.65625
+        },
+        "section": {
+          "top": 1662.203125,
+          "bottom": 2547.859375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/aspirantes/",
+      "width": 1280,
+      "state": {
+        "form": {
+          "left": 54,
+          "right": 586,
+          "top": 2155.84375,
+          "bottom": 2853.4375,
+          "height": 697.59375
+        },
+        "section": {
+          "top": 2038.84375,
+          "bottom": 3165.4375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "width": 1280,
+      "state": {
+        "form": {
+          "left": 694,
+          "right": 1226,
+          "top": 1913,
+          "bottom": 2610.59375,
+          "height": 697.59375
+        },
+        "section": {
+          "top": 1811,
+          "bottom": 2712.59375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      },
+      "faq": {
+        "margin": "0px",
+        "above": 0,
+        "below": 0
+      }
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "width": 1280,
+      "state": {
+        "form": {
+          "left": 54,
+          "right": 586,
+          "top": 2265.046875,
+          "bottom": 2962.640625,
+          "height": 697.59375
+        },
+        "section": {
+          "top": 2163.046875,
+          "bottom": 3064.640625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/ganar-y-aprender-la/",
+      "width": 1280,
+      "state": {
+        "form": {
+          "left": 54,
+          "right": 586,
+          "top": 1806.203125,
+          "bottom": 2503.796875,
+          "height": 697.59375
+        },
+        "section": {
+          "top": 1704.203125,
+          "bottom": 2605.796875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/gana-y-aprende-cvalley/",
+      "width": 1280,
+      "state": {
+        "form": {
+          "left": 54,
+          "right": 586,
+          "top": 1806.203125,
+          "bottom": 2503.796875,
+          "height": 697.59375
+        },
+        "section": {
+          "top": 1704.203125,
+          "bottom": 2605.796875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/gana-y-aprende-bayarea/",
+      "width": 1280,
+      "state": {
+        "form": {
+          "left": 694,
+          "right": 1226,
+          "top": 1806.203125,
+          "bottom": 2503.796875,
+          "height": 697.59375
+        },
+        "section": {
+          "top": 1704.203125,
+          "bottom": 2605.796875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/earn-and-learn-norcal/",
+      "width": 1280,
+      "state": {
+        "form": {
+          "left": 54,
+          "right": 586,
+          "top": 1806.203125,
+          "bottom": 2503.796875,
+          "height": 697.59375
+        },
+        "section": {
+          "top": 1704.203125,
+          "bottom": 2605.796875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/gana-y-aprende-san-diego/",
+      "width": 1280,
+      "state": {
+        "form": {
+          "left": 694,
+          "right": 1226,
+          "top": 1806.203125,
+          "bottom": 2503.796875,
+          "height": 697.59375
+        },
+        "section": {
+          "top": 1704.203125,
+          "bottom": 2605.796875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/earn-and-learn/",
+      "width": 1280,
+      "state": {
+        "form": {
+          "left": 54,
+          "right": 586,
+          "top": 1806.203125,
+          "bottom": 2503.796875,
+          "height": 697.59375
+        },
+        "section": {
+          "top": 1704.203125,
+          "bottom": 2605.796875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/career-seekers/",
+      "width": 1440,
+      "state": {
+        "form": {
+          "left": 124,
+          "right": 666,
+          "top": 2076.90625,
+          "bottom": 2759.125,
+          "height": 682.21875
+        },
+        "section": {
+          "top": 1959.90625,
+          "bottom": 3071.125
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      },
+      "screenshot": "docs/reports/signup-layout/-career-seekers--1440.png"
+    },
+    {
+      "path": "/career-advancement/",
+      "width": 1440,
+      "state": {
+        "form": {
+          "left": 124,
+          "right": 666,
+          "top": 2199.84375,
+          "bottom": 2882.0625,
+          "height": 682.21875
+        },
+        "section": {
+          "top": 2097.84375,
+          "bottom": 2984.0625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn-la/",
+      "width": 1440,
+      "state": {
+        "form": {
+          "left": 124,
+          "right": 666,
+          "top": 1772.703125,
+          "bottom": 2454.921875,
+          "height": 682.21875
+        },
+        "section": {
+          "top": 1670.703125,
+          "bottom": 2556.921875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/frequently-asked-questions/",
+      "width": 1440,
+      "state": {
+        "form": {
+          "left": 774,
+          "right": 1316,
+          "top": 1891,
+          "bottom": 2573.21875,
+          "height": 682.21875
+        },
+        "section": {
+          "top": 1789,
+          "bottom": 2675.21875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      },
+      "faq": {
+        "margin": "0px",
+        "above": 0,
+        "below": 0
+      },
+      "screenshot": "docs/reports/signup-layout/-frequently-asked-questions--1440.png"
+    },
+    {
+      "path": "/earn-and-learn-cvalley/",
+      "width": 1440,
+      "state": {
+        "form": {
+          "left": 124,
+          "right": 666,
+          "top": 1772.703125,
+          "bottom": 2454.921875,
+          "height": 682.21875
+        },
+        "section": {
+          "top": 1670.703125,
+          "bottom": 2556.921875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn-bayarea/",
+      "width": 1440,
+      "state": {
+        "form": {
+          "left": 774,
+          "right": 1316,
+          "top": 1772.703125,
+          "bottom": 2454.921875,
+          "height": 682.21875
+        },
+        "section": {
+          "top": 1670.703125,
+          "bottom": 2556.921875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn-norcal/",
+      "width": 1440,
+      "state": {
+        "form": {
+          "left": 124,
+          "right": 666,
+          "top": 1772.703125,
+          "bottom": 2454.921875,
+          "height": 682.21875
+        },
+        "section": {
+          "top": 1670.703125,
+          "bottom": 2556.921875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn-san-diego/",
+      "width": 1440,
+      "state": {
+        "form": {
+          "left": 774,
+          "right": 1316,
+          "top": 1772.703125,
+          "bottom": 2454.921875,
+          "height": 682.21875
+        },
+        "section": {
+          "top": 1670.703125,
+          "bottom": 2556.921875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn/",
+      "width": 1440,
+      "state": {
+        "form": {
+          "left": 124,
+          "right": 666,
+          "top": 1772.703125,
+          "bottom": 2454.921875,
+          "height": 682.21875
+        },
+        "section": {
+          "top": 1670.703125,
+          "bottom": 2556.921875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/aspirantes/",
+      "width": 1440,
+      "state": {
+        "form": {
+          "left": 124,
+          "right": 666,
+          "top": 2155.84375,
+          "bottom": 2854,
+          "height": 698.15625
+        },
+        "section": {
+          "top": 2038.84375,
+          "bottom": 3166
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "width": 1440,
+      "state": {
+        "form": {
+          "left": 774,
+          "right": 1316,
+          "top": 1913,
+          "bottom": 2611.15625,
+          "height": 698.15625
+        },
+        "section": {
+          "top": 1811,
+          "bottom": 2713.15625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      },
+      "faq": {
+        "margin": "0px",
+        "above": 0,
+        "below": 0
+      },
+      "screenshot": "docs/reports/signup-layout/-es-preguntas-frecuentes--1440.png"
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "width": 1440,
+      "state": {
+        "form": {
+          "left": 124,
+          "right": 666,
+          "top": 2244.640625,
+          "bottom": 2942.796875,
+          "height": 698.15625
+        },
+        "section": {
+          "top": 2142.640625,
+          "bottom": 3044.796875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/ganar-y-aprender-la/",
+      "width": 1440,
+      "state": {
+        "form": {
+          "left": 124,
+          "right": 666,
+          "top": 1814.703125,
+          "bottom": 2512.859375,
+          "height": 698.15625
+        },
+        "section": {
+          "top": 1712.703125,
+          "bottom": 2614.859375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/gana-y-aprende-cvalley/",
+      "width": 1440,
+      "state": {
+        "form": {
+          "left": 124,
+          "right": 666,
+          "top": 1814.703125,
+          "bottom": 2512.859375,
+          "height": 698.15625
+        },
+        "section": {
+          "top": 1712.703125,
+          "bottom": 2614.859375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/gana-y-aprende-bayarea/",
+      "width": 1440,
+      "state": {
+        "form": {
+          "left": 774,
+          "right": 1316,
+          "top": 1814.703125,
+          "bottom": 2512.859375,
+          "height": 698.15625
+        },
+        "section": {
+          "top": 1712.703125,
+          "bottom": 2614.859375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/earn-and-learn-norcal/",
+      "width": 1440,
+      "state": {
+        "form": {
+          "left": 124,
+          "right": 666,
+          "top": 1814.703125,
+          "bottom": 2512.859375,
+          "height": 698.15625
+        },
+        "section": {
+          "top": 1712.703125,
+          "bottom": 2614.859375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/gana-y-aprende-san-diego/",
+      "width": 1440,
+      "state": {
+        "form": {
+          "left": 774,
+          "right": 1316,
+          "top": 1814.703125,
+          "bottom": 2512.859375,
+          "height": 698.15625
+        },
+        "section": {
+          "top": 1712.703125,
+          "bottom": 2614.859375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/earn-and-learn/",
+      "width": 1440,
+      "state": {
+        "form": {
+          "left": 124,
+          "right": 666,
+          "top": 1814.703125,
+          "bottom": 2512.859375,
+          "height": 698.15625
+        },
+        "section": {
+          "top": 1712.703125,
+          "bottom": 2614.859375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/career-seekers/",
+      "width": 1920,
+      "state": {
+        "form": {
+          "left": 364,
+          "right": 906,
+          "top": 2076.90625,
+          "bottom": 2759.125,
+          "height": 682.21875
+        },
+        "section": {
+          "top": 1959.90625,
+          "bottom": 3071.125
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/career-advancement/",
+      "width": 1920,
+      "state": {
+        "form": {
+          "left": 364,
+          "right": 906,
+          "top": 2199.84375,
+          "bottom": 2882.0625,
+          "height": 682.21875
+        },
+        "section": {
+          "top": 2097.84375,
+          "bottom": 2984.0625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn-la/",
+      "width": 1920,
+      "state": {
+        "form": {
+          "left": 364,
+          "right": 906,
+          "top": 1772.703125,
+          "bottom": 2454.921875,
+          "height": 682.21875
+        },
+        "section": {
+          "top": 1670.703125,
+          "bottom": 2556.921875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/frequently-asked-questions/",
+      "width": 1920,
+      "state": {
+        "form": {
+          "left": 1014,
+          "right": 1556,
+          "top": 1891,
+          "bottom": 2573.21875,
+          "height": 682.21875
+        },
+        "section": {
+          "top": 1789,
+          "bottom": 2675.21875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      },
+      "faq": {
+        "margin": "0px",
+        "above": 0,
+        "below": 0
+      }
+    },
+    {
+      "path": "/earn-and-learn-cvalley/",
+      "width": 1920,
+      "state": {
+        "form": {
+          "left": 364,
+          "right": 906,
+          "top": 1772.703125,
+          "bottom": 2454.921875,
+          "height": 682.21875
+        },
+        "section": {
+          "top": 1670.703125,
+          "bottom": 2556.921875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn-bayarea/",
+      "width": 1920,
+      "state": {
+        "form": {
+          "left": 1014,
+          "right": 1556,
+          "top": 1772.703125,
+          "bottom": 2454.921875,
+          "height": 682.21875
+        },
+        "section": {
+          "top": 1670.703125,
+          "bottom": 2556.921875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn-norcal/",
+      "width": 1920,
+      "state": {
+        "form": {
+          "left": 364,
+          "right": 906,
+          "top": 1772.703125,
+          "bottom": 2454.921875,
+          "height": 682.21875
+        },
+        "section": {
+          "top": 1670.703125,
+          "bottom": 2556.921875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn-san-diego/",
+      "width": 1920,
+      "state": {
+        "form": {
+          "left": 1014,
+          "right": 1556,
+          "top": 1772.703125,
+          "bottom": 2454.921875,
+          "height": 682.21875
+        },
+        "section": {
+          "top": 1670.703125,
+          "bottom": 2556.921875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/earn-and-learn/",
+      "width": 1920,
+      "state": {
+        "form": {
+          "left": 364,
+          "right": 906,
+          "top": 1772.703125,
+          "bottom": 2454.921875,
+          "height": 682.21875
+        },
+        "section": {
+          "top": 1670.703125,
+          "bottom": 2556.921875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/aspirantes/",
+      "width": 1920,
+      "state": {
+        "form": {
+          "left": 364,
+          "right": 906,
+          "top": 2127.84375,
+          "bottom": 2826,
+          "height": 698.15625
+        },
+        "section": {
+          "top": 2010.84375,
+          "bottom": 3138
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "width": 1920,
+      "state": {
+        "form": {
+          "left": 1014,
+          "right": 1556,
+          "top": 1913,
+          "bottom": 2611.15625,
+          "height": 698.15625
+        },
+        "section": {
+          "top": 1811,
+          "bottom": 2713.15625
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      },
+      "faq": {
+        "margin": "0px",
+        "above": 0,
+        "below": 0
+      }
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "width": 1920,
+      "state": {
+        "form": {
+          "left": 364,
+          "right": 906,
+          "top": 2216.640625,
+          "bottom": 2914.796875,
+          "height": 698.15625
+        },
+        "section": {
+          "top": 2114.640625,
+          "bottom": 3016.796875
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/ganar-y-aprender-la/",
+      "width": 1920,
+      "state": {
+        "form": {
+          "left": 364,
+          "right": 906,
+          "top": 1814.703125,
+          "bottom": 2512.859375,
+          "height": 698.15625
+        },
+        "section": {
+          "top": 1712.703125,
+          "bottom": 2614.859375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/gana-y-aprende-cvalley/",
+      "width": 1920,
+      "state": {
+        "form": {
+          "left": 364,
+          "right": 906,
+          "top": 1814.703125,
+          "bottom": 2512.859375,
+          "height": 698.15625
+        },
+        "section": {
+          "top": 1712.703125,
+          "bottom": 2614.859375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/gana-y-aprende-bayarea/",
+      "width": 1920,
+      "state": {
+        "form": {
+          "left": 1014,
+          "right": 1556,
+          "top": 1814.703125,
+          "bottom": 2512.859375,
+          "height": 698.15625
+        },
+        "section": {
+          "top": 1712.703125,
+          "bottom": 2614.859375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/earn-and-learn-norcal/",
+      "width": 1920,
+      "state": {
+        "form": {
+          "left": 364,
+          "right": 906,
+          "top": 1814.703125,
+          "bottom": 2512.859375,
+          "height": 698.15625
+        },
+        "section": {
+          "top": 1712.703125,
+          "bottom": 2614.859375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/gana-y-aprende-san-diego/",
+      "width": 1920,
+      "state": {
+        "form": {
+          "left": 1014,
+          "right": 1556,
+          "top": 1814.703125,
+          "bottom": 2512.859375,
+          "height": 698.15625
+        },
+        "section": {
+          "top": 1712.703125,
+          "bottom": 2614.859375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    },
+    {
+      "path": "/es/earn-and-learn/",
+      "width": 1920,
+      "state": {
+        "form": {
+          "left": 364,
+          "right": 906,
+          "top": 1814.703125,
+          "bottom": 2512.859375,
+          "height": 698.15625
+        },
+        "section": {
+          "top": 1712.703125,
+          "bottom": 2614.859375
+        },
+        "contained": true,
+        "clearAbove": true,
+        "clearBelow": true,
+        "fieldsContained": true,
+        "labelSize": "14px",
+        "disclaimerSize": "11px",
+        "disclaimerLine": "15.95px",
+        "helperSize": "11px",
+        "noOverflow": true
+      }
+    }
+  ]
+}

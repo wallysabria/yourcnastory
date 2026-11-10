@@ -715,3 +715,114 @@ body:has(.site-header:not(.is-scrolled)) .back-to-top {
     transition: none;
   }
 }
+/* D-014: remove outer FAQ gaps; retain the card section's internal padding. */
+.page-content[data-template='faq-accordion']
+  #main
+  .elementor-top-section:has(.elementor-accordion) {
+  margin-block: 0;
+}
+/* D-015: signup sections size to their form instead of using overlapping offsets. */
+.page-content #main .elementor-top-section:has(.native-signup) {
+  margin-block: 0;
+  padding-block: 48px;
+}
+.page-content #main .elementor-top-section:has(.native-signup) > .elementor-container {
+  min-height: 0;
+  height: auto;
+  align-items: center;
+}
+.page-content #main .formRight {
+  position: relative;
+  inset: auto;
+  transform: none;
+  width: 100%;
+  margin: 0;
+}
+.page-content #main .formRight > .elementor-widget-container {
+  margin: 0;
+  padding: 0;
+}
+.page-content #main #mc_embed_signup .native-signup {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+.page-content #main #mc_embed_signup .mc-field-group {
+  width: 100%;
+  min-height: 0;
+  margin: 0 0 12px;
+  padding: 0;
+}
+.page-content #main #mc_embed_signup .mc-field-group label,
+.page-content #main #mc_embed_signup .native-language-group legend {
+  margin: 0 0 6px;
+  font-size: 14px;
+  line-height: 1.4;
+}
+.page-content
+  #main
+  #mc_embed_signup
+  input:is([type='text'], [type='email'], [type='tel']):not([name='website']) {
+  min-height: 42px;
+  height: auto;
+  margin-bottom: 0;
+  padding: 8px 10px;
+  font-size: 16px;
+  line-height: 1.4;
+}
+.page-content #main #mc_embed_signup .small-meta,
+.page-content #main #mc_embed_signup .helper_text,
+.page-content #main #mc_embed_signup .indicates-required {
+  font-size: 11px;
+  line-height: 1.45;
+}
+.page-content #main #mc_embed_signup .small-meta {
+  margin-top: 8px;
+}
+.page-content #main #mc_embed_signup .helper_text {
+  display: block;
+  margin-top: 6px;
+  padding: 0;
+}
+.page-content #main #mc_embed_signup .indicates-required {
+  margin: 0 0 12px;
+}
+.page-content #main #mc_embed_signup .native-language-group ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin: 8px 0;
+  padding: 0;
+}
+.page-content #main #mc_embed_signup .native-language-group li {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin: 0;
+}
+.page-content #main #mc_embed_signup .native-language-group li label {
+  margin: 0;
+}
+@media (max-width: 767px) {
+  .page-content #main .elementor-top-section:has(.native-signup) {
+    padding-block: 32px;
+  }
+}
+/* Keep the compact fields inset within the existing white form card. */
+.page-content #main #mc_embed_signup {
+  padding: 24px;
+}
+.page-content #main #mc_embed_signup .asterisk {
+  position: static;
+  font-size: 1em;
+  line-height: inherit;
+  vertical-align: baseline;
+}
+@media (max-width: 767px) {
+  .page-content #main .elementor-column:has(.native-signup) > .elementor-widget-wrap {
+    padding: 16px;
+  }
+  .page-content #main #mc_embed_signup {
+    padding: 20px;
+  }
+}

@@ -6,10 +6,15 @@ The underlying reveal bug is also fixed: Elementor's display:none beat the forme
 
 All styling is scoped to the faq-accordion template (Career Seekers EN/ES); Employers FAQ remains gated. Question/answer copy, links, order, IDs, metadata, native handlers and link styling are unchanged. This extends PR #14; no new phase or dependency.
 
-Verification: lint/build/format pass; all 74 tests pass, including all 11 questions per language at desktop/mobile with click/Enter/Space. Eight EN/ES layout views at 1920/1440/768/390 verify 88 cards, dimensions/colors/type, visible focus, answer open/closed states, reduced-motion transitions and no horizontal overflow. Four normal viewport screenshots: faq-cards/. Evidence: faq-cards.json and faq-cards-tests.json. The earlier faq-answer-visibility artifacts document the reveal-only fix before the approved visual update. All browser evidence is from the local production build. Existing source-style inline-link accessibility exceptions remain per D-004; no unapproved link restyling.
+Verification: lint/build/format pass; all 80 tests pass, including all 11 questions per language at desktop/mobile with click/Enter/Space. Eight EN/ES layout views at 1920/1440/768/390 verify 88 cards, dimensions/colors/type, visible focus, answer open/closed states, reduced-motion transitions and no horizontal overflow. Four normal viewport screenshots: faq-cards/. Evidence: faq-cards.json and faq-cards-tests.json. The earlier faq-answer-visibility artifacts document the reveal-only fix before the approved visual update. All browser evidence is from the local production build. Existing source-style inline-link accessibility exceptions remain per D-004; no unapproved link restyling.
 
 ![English FAQ cards](faq-cards/en-1440.png)
 
 PR: https://github.com/wallysabria/yourcnastory/pull/14
 
-Updated protected preview: https://yourcnastory-9n0h11dul-wallysabrias-projects.vercel.app/frequently-asked-questions/ No merge/publication; no integration/indexing changes. Preview protection is retained and no temporary access credentials were created.
+Updated protected preview pending. No merge/publication; no integration/indexing changes. Preview protection is retained and no temporary access credentials were created.
+
+
+## Owner refinements — 2026-11-10
+
+D-014 removes outer margins above/below the FAQ card section; internal padding is retained. D-015 fixes every signup placement using normal flow, compact labels/disclaimer line-height and padded cards. All 18 EN/ES placements passed nine widths (162 views), including section/field containment and no overflow. Six additional regression cases cover feedback and FAQ expansion growth; current suite totals 80 passes. Detail and evidence: signup-layout.md, signup-layout.json, signup-layout-tests.json and signup-layout/. Future English Employer FAQ reuse is recorded in docs/phases/phase-08-owner-decisions.md; Employers remains gated. These refinements extend the same unmerged PR #14.

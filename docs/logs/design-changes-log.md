@@ -112,3 +112,8 @@ Owner reported the Career Seekers FAQ answers do not reveal. Preserve the existi
 ## D-013 — Modern Career Seekers FAQ cards — approved 2026-11-10
 
 Owner approved separate white question cards on a soft gray background, rounded corners/subtle borders/generous spacing, dark semibold questions and right-aligned blue plus/minus in pale-blue circles matching the carousel controls. Answers appear below questions with comfortable line spacing. Preserve hero, Quick Links, original EN/ES copy/links/order/IDs and toggle behavior. Scope to faq-accordion template in both languages; Employers FAQ remains gated. Keyboard focus is visible, color transitions honor reduced motion, no height animation. Implementation extends the unmerged FAQ PR #14.
+
+
+## D-014/D-015 — FAQ gaps and responsive signup sizing — approved 2026-11-10
+
+Owner requested removing exterior white gaps around the light-blue FAQ section and compacting signup form fields/descriptions/disclaimer across every placement, with no overlap into adjacent sections at responsive sizes. Reset FAQ exterior margins; preserve inner card padding. Remove inherited form wrapper margins (-200px top/-280px bottom), keep sections in normal flow sized to their form, use 14px labels, 16px input text, existing 11px helper/disclaimer text with tighter 1.45 line-height, and consistent field spacing. Do not edit disclosure wording/consent, fields, validation, destinations or submission integrations. All 18 EN/ES placements are in scope; no live form submissions.
