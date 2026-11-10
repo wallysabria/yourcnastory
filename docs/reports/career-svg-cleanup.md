@@ -13,3 +13,8 @@ PR: https://github.com/wallysabria/yourcnastory/pull/12
 Protected Vercel preview: https://yourcnastory-6dydktz36-wallysabrias-projects.vercel.app/careerpaths/careers-in-certified-nurse-assistant/
 
 Preview build status is reported by the PR Vercel check; the 32-view browser checks above ran against the local production build. Normal preview authentication remains enabled. No temporary access credentials were created. No merge/publication or phase advancement. Existing Employers/chatbot/indexing/integration gates remain in force.
+
+
+## Publication — owner approved 2026-11-10
+
+After lint and all CI checks passed, PR #12 merged as 07f8dccfb8be3fd8d2f518ce0502e0ba098f0f6b. Production deployment https://yourcnastory-bcxdhixue-wallysabrias-projects.vercel.app is READY and owns https://yourcnastory.vercel.app/. Public verification passed all 16 EN/ES pages at 1440px and 390px (32 views): both CSS artifacts absent from visible text/link labels, HTTP 200/noindex and no document overflow. Evidence: career-svg-cleanup-production-rendered.json and four screenshots in career-svg-cleanup-production/. Prior unmerged/unpublished review notes are superseded. No WordPress edits, custom-domain cutover or integration activation.

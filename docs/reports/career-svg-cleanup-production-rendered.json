@@ -1,0 +1,266 @@
+{
+  "origin": "https://yourcnastory.vercel.app",
+  "checkedAt": "2026-11-10T13:37:28.831Z",
+  "checks": [
+    {
+      "path": "/careerpaths/careers-in-activities/",
+      "width": 1440,
+      "artifactAbsent": true,
+      "linkCount": 25,
+      "noindex": true,
+      "overflow": false
+    },
+    {
+      "path": "/careerpaths/careers-in-administration/",
+      "width": 1440,
+      "artifactAbsent": true,
+      "linkCount": 25,
+      "noindex": true,
+      "overflow": false
+    },
+    {
+      "path": "/careerpaths/careers-in-care-coordination/",
+      "width": 1440,
+      "artifactAbsent": true,
+      "linkCount": 38,
+      "noindex": true,
+      "overflow": false
+    },
+    {
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "width": 1440,
+      "artifactAbsent": true,
+      "linkCount": 26,
+      "noindex": true,
+      "overflow": false,
+      "screenshot": "docs/reports/career-svg-cleanup-production/en-1440.png"
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "width": 1440,
+      "artifactAbsent": true,
+      "linkCount": 141,
+      "noindex": true,
+      "overflow": false
+    },
+    {
+      "path": "/careerpaths/careers-in-social-services/",
+      "width": 1440,
+      "artifactAbsent": true,
+      "linkCount": 41,
+      "noindex": true,
+      "overflow": false
+    },
+    {
+      "path": "/careerpaths/careers-in-support-services/",
+      "width": 1440,
+      "artifactAbsent": true,
+      "linkCount": 69,
+      "noindex": true,
+      "overflow": false
+    },
+    {
+      "path": "/careerpaths/careers-in-therapy/",
+      "width": 1440,
+      "artifactAbsent": true,
+      "linkCount": 54,
+      "noindex": true,
+      "overflow": false
+    },
+    {
+      "path": "/es/carreras/carreras-en-actividades/",
+      "width": 1440,
+      "artifactAbsent": true,
+      "linkCount": 25,
+      "noindex": true,
+      "overflow": false
+    },
+    {
+      "path": "/es/carreras/carreras-en-administracion/",
+      "width": 1440,
+      "artifactAbsent": true,
+      "linkCount": 25,
+      "noindex": true,
+      "overflow": false
+    },
+    {
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "width": 1440,
+      "artifactAbsent": true,
+      "linkCount": 27,
+      "noindex": true,
+      "overflow": false,
+      "screenshot": "docs/reports/career-svg-cleanup-production/es-1440.png"
+    },
+    {
+      "path": "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+      "width": 1440,
+      "artifactAbsent": true,
+      "linkCount": 38,
+      "noindex": true,
+      "overflow": false
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "width": 1440,
+      "artifactAbsent": true,
+      "linkCount": 141,
+      "noindex": true,
+      "overflow": false
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-de-apoyo/",
+      "width": 1440,
+      "artifactAbsent": true,
+      "linkCount": 69,
+      "noindex": true,
+      "overflow": false
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-sociales/",
+      "width": 1440,
+      "artifactAbsent": true,
+      "linkCount": 41,
+      "noindex": true,
+      "overflow": false
+    },
+    {
+      "path": "/es/carreras/carreras-en-terapia/",
+      "width": 1440,
+      "artifactAbsent": true,
+      "linkCount": 54,
+      "noindex": true,
+      "overflow": false
+    },
+    {
+      "path": "/careerpaths/careers-in-activities/",
+      "width": 390,
+      "artifactAbsent": true,
+      "linkCount": 25,
+      "noindex": true,
+      "overflow": false
+    },
+    {
+      "path": "/careerpaths/careers-in-administration/",
+      "width": 390,
+      "artifactAbsent": true,
+      "linkCount": 25,
+      "noindex": true,
+      "overflow": false
+    },
+    {
+      "path": "/careerpaths/careers-in-care-coordination/",
+      "width": 390,
+      "artifactAbsent": true,
+      "linkCount": 38,
+      "noindex": true,
+      "overflow": false
+    },
+    {
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "width": 390,
+      "artifactAbsent": true,
+      "linkCount": 26,
+      "noindex": true,
+      "overflow": false,
+      "screenshot": "docs/reports/career-svg-cleanup-production/en-390.png"
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "width": 390,
+      "artifactAbsent": true,
+      "linkCount": 141,
+      "noindex": true,
+      "overflow": false
+    },
+    {
+      "path": "/careerpaths/careers-in-social-services/",
+      "width": 390,
+      "artifactAbsent": true,
+      "linkCount": 41,
+      "noindex": true,
+      "overflow": false
+    },
+    {
+      "path": "/careerpaths/careers-in-support-services/",
+      "width": 390,
+      "artifactAbsent": true,
+      "linkCount": 69,
+      "noindex": true,
+      "overflow": false
+    },
+    {
+      "path": "/careerpaths/careers-in-therapy/",
+      "width": 390,
+      "artifactAbsent": true,
+      "linkCount": 54,
+      "noindex": true,
+      "overflow": false
+    },
+    {
+      "path": "/es/carreras/carreras-en-actividades/",
+      "width": 390,
+      "artifactAbsent": true,
+      "linkCount": 25,
+      "noindex": true,
+      "overflow": false
+    },
+    {
+      "path": "/es/carreras/carreras-en-administracion/",
+      "width": 390,
+      "artifactAbsent": true,
+      "linkCount": 25,
+      "noindex": true,
+      "overflow": false
+    },
+    {
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "width": 390,
+      "artifactAbsent": true,
+      "linkCount": 27,
+      "noindex": true,
+      "overflow": false,
+      "screenshot": "docs/reports/career-svg-cleanup-production/es-390.png"
+    },
+    {
+      "path": "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+      "width": 390,
+      "artifactAbsent": true,
+      "linkCount": 38,
+      "noindex": true,
+      "overflow": false
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "width": 390,
+      "artifactAbsent": true,
+      "linkCount": 141,
+      "noindex": true,
+      "overflow": false
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-de-apoyo/",
+      "width": 390,
+      "artifactAbsent": true,
+      "linkCount": 69,
+      "noindex": true,
+      "overflow": false
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-sociales/",
+      "width": 390,
+      "artifactAbsent": true,
+      "linkCount": 41,
+      "noindex": true,
+      "overflow": false
+    },
+    {
+      "path": "/es/carreras/carreras-en-terapia/",
+      "width": 390,
+      "artifactAbsent": true,
+      "linkCount": 54,
+      "noindex": true,
+      "overflow": false
+    }
+  ]
+}
