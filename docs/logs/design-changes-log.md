@@ -102,3 +102,8 @@ Keyboard-only focus outline restored on these buttons because inherited theme ru
 ## D-012 — Shared carousel arrow circles — approved 2026-11-10
 
 Owner expanded D-011 to other pages/sections including Career Seekers and Quick Links, and selected pale-blue circles. Apply the shared blue 24px chevrons, source translations and visible keyboard focus to all native carousel previous/next controls in both languages; retain each source carousel’s 40px box and responsive offsets. Use #eaf3ff fill, #d6e6fa thin border, slightly stronger #dcecff fill/#bfd8f5 border on hover. No shadow, size animation or new motion. Circle treatment applies to directional carousel controls; inline link arrows, menu disclosures and back-to-top remain in their existing contexts. No copy, URLs, slide order or behavior changes. Employers content remains gated.
+
+
+## FAQ answer visibility — approved bug fix 2026-11-10
+
+Owner reported the Career Seekers FAQ answers do not reveal. Preserve the existing accordion design and native toggle behavior; make the open-state display override win over Elementor’s default display:none. Closed panels remain hidden. No wording, URL, metadata, layout redesign or Employer FAQ work. Add EN/ES desktop/mobile checks for actual answer visibility, keyboard/click expansion and collapse.

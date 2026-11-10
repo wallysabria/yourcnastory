@@ -159,3 +159,34 @@ for (const path of ['/careerpaths/careers-in-nursing/', '/es/carreras/carreras-e
     await expect(page.locator('[id="mds-coordinator"]')).toBeVisible();
   });
 }
+for (const [locale, path] of [
+  ['en', '/frequently-asked-questions/'],
+  ['es', '/es/preguntas-frecuentes/'],
+]) {
+  for (const width of [1440, 390]) {
+    test(`every FAQ answer visibly opens and closes ${locale} @ ${width}`, async ({ page }) => {
+      await page.setViewportSize({ width, height: 1000 });
+      await page.goto(path);
+      const questions = page.locator('button.elementor-tab-title');
+      await expect(questions).toHaveCount(11);
+      for (let i = 0; i < 11; i++) {
+        const question = questions.nth(i);
+        const panelId = await question.getAttribute('aria-controls');
+        expect(panelId).toBeTruthy();
+        const answer = page.locator(`[id="${panelId}"]`);
+        await expect(answer).toBeHidden();
+        await question.click();
+        await expect(question).toHaveAttribute('aria-expanded', 'true');
+        await expect(answer).toBeVisible();
+        await expect(answer).toContainText(/\S/);
+        await question.press('Space');
+        await expect(question).toHaveAttribute('aria-expanded', 'false');
+        await expect(answer).toBeHidden();
+        await question.press('Enter');
+        await expect(answer).toBeVisible();
+        await question.click();
+        await expect(answer).toBeHidden();
+      }
+    });
+  }
+}

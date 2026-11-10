@@ -109,7 +109,7 @@
   display: none !important;
 }
 .page-content .elementor-tab-content:not([hidden]) {
-  display: block;
+  display: block !important;
 }
 .native-video-dialog {
   border: 0;
