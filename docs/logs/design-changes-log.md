@@ -85,3 +85,8 @@ Owner requested circular picture windows and formatting matching the “Where wi
 ## D-010 — Mega-menu dash markers and source spacing — approved
 
 Owner requested matching the reference dropdown's dash/bullet markers as closely as possible. Mark the eight career-role children, five Career Seekers resource children and seven inactive Employer resource children in each language as visual subitems; leave each leading overview link and the program links unmarked. Use decorative CSS dashes and 22.5px indentation (14px source icon, 3.5px inline space and 5px text padding), source 14px/600/28.9px link typography, zero row margins, 16px/900 headings with 10px following space, and 60px vertical panel padding. Dash dimensions reproduce the source SVG rectangle at its 14px rendered size. No punctuation is inserted into frozen labels. Existing hover intent, keyboard/touch behavior, mobile navigation, destinations and Employer gating remain unchanged.
+
+
+## Career SVG styling artifact — approved 2026-11-10
+
+Owner approved removing only the leaked `.cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;}` fragment (both currentColor and grey stroke variants) from eight EN and eight ES career-detail pages. No editorial correction, URL/link destination, metadata, image or layout change. Exact scoped policy: content/migration/svg-text-cleanup.json. Update extraction/parity normalization and hashes together to prevent reintroduction. No other Spanish changes authorized.

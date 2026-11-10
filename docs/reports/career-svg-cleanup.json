@@ -1,0 +1,121 @@
+{
+  "checkedAt": "2026-11-10T13:29:54.209Z",
+  "artifacts": [
+    ".cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;}",
+    ".cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:grey;stroke-miterlimit:10;}"
+  ],
+  "checks": [
+    {
+      "path": "/careerpaths/careers-in-activities/",
+      "locale": "en",
+      "removedTextNodes": 1,
+      "exactTreeComparison": true,
+      "metadataLinksImagesAnchorsUnchanged": true
+    },
+    {
+      "path": "/careerpaths/careers-in-administration/",
+      "locale": "en",
+      "removedTextNodes": 9,
+      "exactTreeComparison": true,
+      "metadataLinksImagesAnchorsUnchanged": true
+    },
+    {
+      "path": "/careerpaths/careers-in-care-coordination/",
+      "locale": "en",
+      "removedTextNodes": 6,
+      "exactTreeComparison": true,
+      "metadataLinksImagesAnchorsUnchanged": true
+    },
+    {
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "locale": "en",
+      "removedTextNodes": 9,
+      "exactTreeComparison": true,
+      "metadataLinksImagesAnchorsUnchanged": true
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "locale": "en",
+      "removedTextNodes": 66,
+      "exactTreeComparison": true,
+      "metadataLinksImagesAnchorsUnchanged": true
+    },
+    {
+      "path": "/careerpaths/careers-in-social-services/",
+      "locale": "en",
+      "removedTextNodes": 7,
+      "exactTreeComparison": true,
+      "metadataLinksImagesAnchorsUnchanged": true
+    },
+    {
+      "path": "/careerpaths/careers-in-support-services/",
+      "locale": "en",
+      "removedTextNodes": 13,
+      "exactTreeComparison": true,
+      "metadataLinksImagesAnchorsUnchanged": true
+    },
+    {
+      "path": "/careerpaths/careers-in-therapy/",
+      "locale": "en",
+      "removedTextNodes": 22,
+      "exactTreeComparison": true,
+      "metadataLinksImagesAnchorsUnchanged": true
+    },
+    {
+      "path": "/es/carreras/carreras-en-actividades/",
+      "locale": "es",
+      "removedTextNodes": 1,
+      "exactTreeComparison": true,
+      "metadataLinksImagesAnchorsUnchanged": true
+    },
+    {
+      "path": "/es/carreras/carreras-en-administracion/",
+      "locale": "es",
+      "removedTextNodes": 9,
+      "exactTreeComparison": true,
+      "metadataLinksImagesAnchorsUnchanged": true
+    },
+    {
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "locale": "es",
+      "removedTextNodes": 9,
+      "exactTreeComparison": true,
+      "metadataLinksImagesAnchorsUnchanged": true
+    },
+    {
+      "path": "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+      "locale": "es",
+      "removedTextNodes": 6,
+      "exactTreeComparison": true,
+      "metadataLinksImagesAnchorsUnchanged": true
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "locale": "es",
+      "removedTextNodes": 66,
+      "exactTreeComparison": true,
+      "metadataLinksImagesAnchorsUnchanged": true
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-de-apoyo/",
+      "locale": "es",
+      "removedTextNodes": 13,
+      "exactTreeComparison": true,
+      "metadataLinksImagesAnchorsUnchanged": true
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-sociales/",
+      "locale": "es",
+      "removedTextNodes": 7,
+      "exactTreeComparison": true,
+      "metadataLinksImagesAnchorsUnchanged": true
+    },
+    {
+      "path": "/es/carreras/carreras-en-terapia/",
+      "locale": "es",
+      "removedTextNodes": 22,
+      "exactTreeComparison": true,
+      "metadataLinksImagesAnchorsUnchanged": true
+    }
+  ]
+}

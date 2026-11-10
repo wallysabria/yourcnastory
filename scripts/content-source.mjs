@@ -1,3 +1,4 @@
+import svgTextCleanup from '../content/migration/svg-text-cleanup.json' with { type: 'json' };
 import jobboardPolicy from '../content/migration/jobboard-policy.json' with { type: 'json' };
 import fs from 'node:fs';
 import path from 'node:path';
@@ -5,6 +6,10 @@ import crypto from 'node:crypto';
 import { load } from 'cheerio';
 export const origin = 'https://yourcnastory.org';
 export const hash = (s) => crypto.createHash('sha256').update(s).digest('hex');
+export const cleanSvgText = (text, url) =>
+  svgTextCleanup.paths.includes(new URL(url, origin).pathname)
+    ? svgTextCleanup.artifacts.reduce((value, artifact) => value.replaceAll(artifact, ''), text)
+    : text;
 export const normalize = (s) => s.replace(/\s+/g, ' ').trim();
 export const filename = (p) =>
   (p === '/' ? 'home' : p.slice(1, -1).replaceAll('/', '--')) + '.json';
@@ -19,6 +24,14 @@ export function sourceDocument(html, url, { removeJobboard = false } = {}) {
     main = $('#main');
   if (main.length !== 1) throw Error('Missing unique #main: ' + url);
   main.find(ignored).remove();
+  // Owner-approved removal of leaked SVG styling, scoped to the 16 career pages.
+  if (svgTextCleanup.paths.includes(new URL(url, origin).pathname)) {
+    const clean = (node) => {
+      if (node.type === 'text') node.data = cleanSvgText(node.data, url);
+      else for (const child of node.children || []) clean(child);
+    };
+    clean(main[0]);
+  }
   const removals = [];
   if (removeJobboard) {
     main.find('a[href*="jobboard.yourcnastory.org"]').each((_, e) => {

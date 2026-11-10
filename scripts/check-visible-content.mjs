@@ -1,6 +1,6 @@
 import fs from 'node:fs';
 import { chromium } from '@playwright/test';
-import { normalize, hash, write } from './content-source.mjs';
+import { normalize, hash, write, cleanSvgText } from './content-source.mjs';
 const index = JSON.parse(fs.readFileSync('content/pages/index.json'));
 const removals = JSON.parse(fs.readFileSync('docs/reports/phase-03-jobboard-removals.json'));
 const browser = await chromium.launch();
@@ -52,7 +52,9 @@ async function worker() {
     const allowed = removals
       .filter((r) => r.page === 'https://yourcnastory.org' + entry.path)
       .map((r) => normalize(r.text));
-    const missing = visible
+    // Compare the owner-approved cleaned source, without treating SVG CSS as copy.
+    const approvedVisible = visible.map((text) => cleanSvgText(text, entry.path));
+    const missing = approvedVisible
       .map(normalize)
       .map((text) => allowed.reduce((value, removed) => value.replaceAll(removed, ''), text))
       .map(normalize)

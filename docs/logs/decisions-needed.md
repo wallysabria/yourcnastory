@@ -159,3 +159,8 @@ Owner requested publication. PR #10 merged as cf6079c844e283a16bc9881dfc9ca2cd35
 
 
 D-010: restored the source screenshot/live shared-menu dash markers, indentation and measured typography/spacing using optional visual-subitem flags and empty CSS decoration. All original EN/ES global data deep-matches main after removing only those flags; no label, URL, mobile hierarchy or footer copy changed. Employer destinations remain inactive. Hover/touch/keyboard implementation unchanged.
+
+
+## Career SVG styling artifact — approved 2026-11-10
+
+Owner approved removing only the leaked `.cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;}` fragment (both currentColor and grey stroke variants) from eight EN and eight ES career-detail pages. No editorial correction, URL/link destination, metadata, image or layout change. Exact scoped policy: content/migration/svg-text-cleanup.json. Update extraction/parity normalization and hashes together to prevent reintroduction. No other Spanish changes authorized.
