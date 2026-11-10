@@ -238,3 +238,79 @@ for (const path of ['/frequently-asked-questions/', '/es/preguntas-frecuentes/']
     });
   }
 }
+for (const [locale, path] of [
+  ['en', '/career-seekers/'],
+  ['es', '/es/aspirantes/'],
+]) {
+  for (const viewport of [
+    { width: 1440, height: 1000 },
+    { width: 390, height: 844 },
+    { width: 844, height: 390 },
+  ]) {
+    test(`video lightbox fits, keeps background inert and stops on close ${locale} @ ${viewport.width}x${viewport.height}`, async ({
+      page,
+    }) => {
+      await page.setViewportSize(viewport);
+      let loads = 0;
+      await page.route('https://www.youtube.com/embed/**', async (route) => {
+        loads++;
+        await route.fulfill({
+          contentType: 'text/html',
+          body: '<!doctype html><html lang="en"><title>Test player</title><body><button>Player control</button></body></html>',
+        });
+      });
+      await page.goto(path);
+      const trigger = page.locator('.native-video-trigger').first();
+      await expect(page.locator('.native-video-dialog iframe')).toHaveCount(0);
+      expect(loads).toBe(0);
+      await trigger.focus();
+      await trigger.press('Enter');
+      const dialog = page.locator('.native-video-dialog[open]');
+      await expect(dialog).toBeVisible();
+      await expect(trigger).toHaveAttribute('aria-expanded', 'true');
+      await expect(dialog.locator('iframe')).toHaveAttribute(
+        'src',
+        /^https:\/\/www\.youtube\.com\/embed\//,
+      );
+      await expect(dialog.locator('.native-dialog-close')).toBeFocused();
+      const rect = await dialog.boundingBox();
+      expect(rect).not.toBeNull();
+      expect(Math.abs(rect!.x + rect!.width / 2 - viewport.width / 2)).toBeLessThan(2);
+      expect(Math.abs(rect!.y + rect!.height / 2 - viewport.height / 2)).toBeLessThan(2);
+      expect(rect!.y).toBeGreaterThanOrEqual(0);
+      expect(rect!.y + rect!.height).toBeLessThanOrEqual(viewport.height);
+      const close = dialog.locator('.native-dialog-close');
+      const closeRect = await close.boundingBox();
+      expect(closeRect!.x).toBeGreaterThanOrEqual(0);
+      expect(closeRect!.y).toBeGreaterThanOrEqual(0);
+      expect(closeRect!.x + closeRect!.width).toBeLessThanOrEqual(viewport.width);
+      expect(closeRect!.y + closeRect!.height).toBeLessThanOrEqual(viewport.height);
+      await page.keyboard.press('Tab');
+      await page.keyboard.press('Tab');
+      expect(await dialog.evaluate((element) => element.matches(':modal'))).toBe(true);
+      // Native modal inertness must prevent focus from reaching page controls.
+      const backgroundControl = page.locator('.search-toggle');
+      await backgroundControl.evaluate((element: HTMLElement) => element.focus());
+      expect(
+        await backgroundControl.evaluate((element) => element === document.activeElement),
+      ).toBe(false);
+      await close.focus();
+      await page.keyboard.press('Escape');
+      await expect(page.locator('.native-video-dialog[open]')).toHaveCount(0);
+      await expect(page.locator('.native-video-dialog iframe')).toHaveCount(0);
+      await expect(trigger).toBeFocused();
+      await expect(trigger).toHaveAttribute('aria-expanded', 'false');
+      await trigger.click();
+      await page.locator('.native-video-dialog[open] .native-dialog-close').click();
+      await expect(page.locator('.native-video-dialog iframe')).toHaveCount(0);
+      await expect(trigger).toBeFocused();
+      await trigger.click();
+      await page.mouse.click(4, viewport.height / 2);
+      await expect(page.locator('.native-video-dialog[open]')).toHaveCount(0);
+      await expect(page.locator('.native-video-dialog iframe')).toHaveCount(0);
+      await expect(trigger).toBeFocused();
+      await expect.poll(() => page.evaluate(() => document.body.style.overflow)).not.toBe('hidden');
+      await expect(page).toHaveURL(new RegExp(path + '$'));
+    });
+  }
+}
