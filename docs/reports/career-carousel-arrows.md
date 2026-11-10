@@ -14,4 +14,4 @@ Evidence: shared-carousel-arrows.json, shared-carousel-arrows-hover.json, shared
 
 PR: https://github.com/wallysabria/yourcnastory/pull/13
 
-Updated protected preview pending. No merge/publication. Normal preview authentication is retained; no temporary bypass credentials created. Existing Employers/chatbot/indexing/tracking gates remain unchanged.
+Updated protected preview: https://yourcnastory-j5v6pkkde-wallysabrias-projects.vercel.app/career-seekers/ No merge/publication. Normal preview authentication is retained; no temporary bypass credentials created. Existing Employers/chatbot/indexing/tracking gates remain unchanged.
