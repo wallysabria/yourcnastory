@@ -1,3 +1,4 @@
+import { externalLinkAttributes } from '@/lib/external-links';
 import Image from 'next/image';
 import type { GlobalContent } from '@/lib/global-content';
 import { employersEnabled } from '@/lib/routing';
@@ -10,7 +11,7 @@ export function SiteFooter({ content }: { content: GlobalContent }) {
     <footer className="site-footer">
       <div className="footer-main">
         <div className="footer-about">
-          <a href={footer.foundationHref}>
+          <a href={footer.foundationHref} {...externalLinkAttributes(footer.foundationHref)}>
             <Image
               src="/images/brand/qchf-logo-white.png"
               alt={footer.logoAlt}
@@ -46,7 +47,9 @@ export function SiteFooter({ content }: { content: GlobalContent }) {
       <div className="footer-bottom">
         <p>
           {copyright[0]}
-          <a href={footer.foundationHref}>{footer.copyrightLinkLabel}</a>
+          <a href={footer.foundationHref} {...externalLinkAttributes(footer.foundationHref)}>
+            {footer.copyrightLinkLabel}
+          </a>
           {copyright.slice(1).join(footer.copyrightLinkLabel)}
         </p>
         <div className="footer-privacy-links">

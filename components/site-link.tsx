@@ -1,3 +1,4 @@
+import { externalLinkAttributes } from '@/lib/external-links';
 import Link from 'next/link';
 import type { ReactNode } from 'react';
 import { hrefFor, isLinkDisabled } from '@/lib/routing';
@@ -21,7 +22,7 @@ export function SiteLink({
       </span>
     );
   return (
-    <Link className={className} href={hrefFor(href)}>
+    <Link className={className} href={hrefFor(href)} {...externalLinkAttributes(href)}>
       {children}
     </Link>
   );

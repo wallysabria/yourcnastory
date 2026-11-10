@@ -122,3 +122,8 @@ Owner requested removing exterior white gaps around the light-blue FAQ section a
 ## D-016 — Source-style video lightboxes — approved 2026-11-10
 
 Owner requested video buttons open a player in a popup/shadowbox matching the reference. Audit: 22 existing source video-button actions on 20 EN/ES pages already target YouTube embed URLs, but theme margins position the dialog at (0,0) and can put the close control off-screen. Center the shared player, fit its 16:9 size within the viewport (including short landscape screens), darken the background and place a visible 44px close control at the top-right. Retain native modal focus handling; Escape/button/backdrop close, restore trigger focus and remove the iframe to stop playback. Keep source button appearance, video IDs/URLs, copy and destinations; defer third-party loading until activation. Previously approved inline Community Resources YouTube/Vidyard players stay inline. Employers remains gated.
+
+
+## D-017 — External page links open in new tabs — approved 2026-11-10
+
+Owner requested a site-wide external-link check and target="_blank" behavior. Apply a shared external HTTP/HTTPS page-link policy in source content, shared navigation, footer and announcement links; include noopener/noreferrer while preserving other rel tokens. Treat production/www/review site aliases as internal. Do not change text, destinations, internal target behavior, mailto/tel links, lightbox buttons or inactive Employer links. Baseline: 275 external instances/34 unique URLs across 48 pages, 101 missing new-tab targets.

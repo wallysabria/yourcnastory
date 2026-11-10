@@ -314,3 +314,21 @@ for (const [locale, path] of [
     });
   }
 }
+for (const path of ['/', '/es/']) {
+  test(`external foundation link opens an isolated tab ${path}`, async ({ page, context }) => {
+    await context.route('https://www.cahf.org/**', (route) =>
+      route.fulfill({ contentType: 'text/html', body: '<title>External destination mock</title>' }),
+    );
+    await page.goto(path);
+    await page.locator('.privacy-banner .privacy-action').nth(1).click();
+    const [tab] = await Promise.all([
+      context.waitForEvent('page'),
+      page.locator('.footer-about a').click(),
+    ]);
+    await tab.waitForLoadState('domcontentloaded');
+    expect(tab.url()).toBe('https://www.cahf.org/Education-Events/QCHF');
+    expect(await tab.evaluate(() => window.opener)).toBeNull();
+    await expect(page).toHaveURL(new RegExp(path + '$'));
+    await tab.close();
+  });
+}

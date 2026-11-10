@@ -52,3 +52,23 @@ test('public templates contain no retired chat launcher or welcome UI', async ({
     expect($(selector).length, entry.path).toBe(0);
   }
 });
+test('all rendered external page links open safely in new tabs', async ({ request }) => {
+  let externalLinks = 0;
+  const ownHosts = new Set(['yourcnastory.org', 'www.yourcnastory.org', 'yourcnastory.vercel.app']);
+  for (const entry of sourceIndex) {
+    const response = await request.get(entry.path);
+    expect(response.status()).toBe(200);
+    const $ = load(await response.text());
+    for (const element of $('a[href]').toArray()) {
+      const href = $(element).attr('href')!;
+      const url = new URL(href, 'https://yourcnastory.org');
+      if (!['http:', 'https:'].includes(url.protocol) || ownHosts.has(url.hostname)) continue;
+      externalLinks++;
+      expect($(element).attr('target'), entry.path + ': ' + href).toBe('_blank');
+      const rel = ($(element).attr('rel') || '').split(/\s+/);
+      expect(rel).toContain('noopener');
+      expect(rel).toContain('noreferrer');
+    }
+  }
+  expect(externalLinks).toBeGreaterThan(0);
+});
