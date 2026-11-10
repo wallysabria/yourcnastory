@@ -1,0 +1,25 @@
+{
+  "approval": "Owner-approved technical artifact cleanup, 2026-11-10; no editorial changes.",
+  "paths": [
+    "/careerpaths/careers-in-activities/",
+    "/careerpaths/careers-in-administration/",
+    "/careerpaths/careers-in-care-coordination/",
+    "/careerpaths/careers-in-certified-nurse-assistant/",
+    "/careerpaths/careers-in-nursing/",
+    "/careerpaths/careers-in-social-services/",
+    "/careerpaths/careers-in-support-services/",
+    "/careerpaths/careers-in-therapy/",
+    "/es/carreras/carreras-en-actividades/",
+    "/es/carreras/carreras-en-administracion/",
+    "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+    "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+    "/es/carreras/carreras-en-enfermeria/",
+    "/es/carreras/carreras-en-servicios-de-apoyo/",
+    "/es/carreras/carreras-en-servicios-sociales/",
+    "/es/carreras/carreras-en-terapia/"
+  ],
+  "artifacts": [
+    ".cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;}",
+    ".cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:grey;stroke-miterlimit:10;}"
+  ]
+}

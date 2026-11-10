@@ -1140,7 +1140,7 @@
                                                                                                                   "children": [
                                                                                                                     {
                                                                                                                       "type": "text",
-                                                                                                                      "value": "Physical Therapy (PT)\n.cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} "
+                                                                                                                      "value": "Physical Therapy (PT)\n "
                                                                                                                     }
                                                                                                                   ],
                                                                                                                   "source": {
@@ -1160,7 +1160,7 @@
                                                                                                                   "children": [
                                                                                                                     {
                                                                                                                       "type": "text",
-                                                                                                                      "value": "Occupational Therapy (OT)\n.cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} "
+                                                                                                                      "value": "Occupational Therapy (OT)\n "
                                                                                                                     }
                                                                                                                   ],
                                                                                                                   "source": {
@@ -1180,7 +1180,7 @@
                                                                                                                   "children": [
                                                                                                                     {
                                                                                                                       "type": "text",
-                                                                                                                      "value": " Speech\n.cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} "
+                                                                                                                      "value": " Speech\n "
                                                                                                                     }
                                                                                                                   ],
                                                                                                                   "source": {
@@ -1200,7 +1200,7 @@
                                                                                                                   "children": [
                                                                                                                     {
                                                                                                                       "type": "text",
-                                                                                                                      "value": " Respiratory\n.cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} "
+                                                                                                                      "value": " Respiratory\n "
                                                                                                                     }
                                                                                                                   ],
                                                                                                                   "source": {
@@ -1220,7 +1220,7 @@
                                                                                                                   "children": [
                                                                                                                     {
                                                                                                                       "type": "text",
-                                                                                                                      "value": " Music\n.cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} "
+                                                                                                                      "value": " Music\n "
                                                                                                                     }
                                                                                                                   ],
                                                                                                                   "source": {
@@ -1391,7 +1391,7 @@
                                                                                                                   "children": [
                                                                                                                     {
                                                                                                                       "type": "text",
-                                                                                                                      "value": "Online Continuing Education Providers\n.cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} "
+                                                                                                                      "value": "Online Continuing Education Providers\n "
                                                                                                                     }
                                                                                                                   ],
                                                                                                                   "source": {
@@ -1414,7 +1414,7 @@
                                                                                                                   "children": [
                                                                                                                     {
                                                                                                                       "type": "text",
-                                                                                                                      "value": "Continuing Education Units Providers (CEU)\n.cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} "
+                                                                                                                      "value": "Continuing Education Units Providers (CEU)\n "
                                                                                                                     }
                                                                                                                   ],
                                                                                                                   "source": {
@@ -1578,7 +1578,7 @@
                                                                                                                   "children": [
                                                                                                                     {
                                                                                                                       "type": "text",
-                                                                                                                      "value": "Physical Therapy Assistant (PTA)\n.cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} "
+                                                                                                                      "value": "Physical Therapy Assistant (PTA)\n "
                                                                                                                     }
                                                                                                                   ],
                                                                                                                   "source": {
@@ -1598,7 +1598,7 @@
                                                                                                                   "children": [
                                                                                                                     {
                                                                                                                       "type": "text",
-                                                                                                                      "value": "Occupational Therapy Assistant (OTA)\n.cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} "
+                                                                                                                      "value": "Occupational Therapy Assistant (OTA)\n "
                                                                                                                     }
                                                                                                                   ],
                                                                                                                   "source": {
@@ -2586,7 +2586,7 @@
                                                                                                                   "children": [
                                                                                                                     {
                                                                                                                       "type": "text",
-                                                                                                                      "value": "Physical Therapy (PT)\n.cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} "
+                                                                                                                      "value": "Physical Therapy (PT)\n "
                                                                                                                     }
                                                                                                                   ],
                                                                                                                   "source": {
@@ -2606,7 +2606,7 @@
                                                                                                                   "children": [
                                                                                                                     {
                                                                                                                       "type": "text",
-                                                                                                                      "value": "Occupational Therapy (OT)\n.cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} "
+                                                                                                                      "value": "Occupational Therapy (OT)\n "
                                                                                                                     }
                                                                                                                   ],
                                                                                                                   "source": {
@@ -2626,7 +2626,7 @@
                                                                                                                   "children": [
                                                                                                                     {
                                                                                                                       "type": "text",
-                                                                                                                      "value": " Speech\n.cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} "
+                                                                                                                      "value": " Speech\n "
                                                                                                                     }
                                                                                                                   ],
                                                                                                                   "source": {
@@ -2646,7 +2646,7 @@
                                                                                                                   "children": [
                                                                                                                     {
                                                                                                                       "type": "text",
-                                                                                                                      "value": " Respiratory\n.cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} "
+                                                                                                                      "value": " Respiratory\n "
                                                                                                                     }
                                                                                                                   ],
                                                                                                                   "source": {
@@ -2666,7 +2666,7 @@
                                                                                                                   "children": [
                                                                                                                     {
                                                                                                                       "type": "text",
-                                                                                                                      "value": " Music\n.cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} "
+                                                                                                                      "value": " Music\n "
                                                                                                                     }
                                                                                                                   ],
                                                                                                                   "source": {
@@ -2952,7 +2952,7 @@
                                                                                                                   "children": [
                                                                                                                     {
                                                                                                                       "type": "text",
-                                                                                                                      "value": "Director of Rehabilitation Services\n.cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} "
+                                                                                                                      "value": "Director of Rehabilitation Services\n "
                                                                                                                     }
                                                                                                                   ],
                                                                                                                   "source": {
@@ -3942,7 +3942,7 @@
                                                                                                                   "children": [
                                                                                                                     {
                                                                                                                       "type": "text",
-                                                                                                                      "value": "Physical Therapy (PT)\n.cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} "
+                                                                                                                      "value": "Physical Therapy (PT)\n "
                                                                                                                     }
                                                                                                                   ],
                                                                                                                   "source": {
@@ -3962,7 +3962,7 @@
                                                                                                                   "children": [
                                                                                                                     {
                                                                                                                       "type": "text",
-                                                                                                                      "value": "Occupational Therapy (OT)\n.cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} "
+                                                                                                                      "value": "Occupational Therapy (OT)\n "
                                                                                                                     }
                                                                                                                   ],
                                                                                                                   "source": {
@@ -3982,7 +3982,7 @@
                                                                                                                   "children": [
                                                                                                                     {
                                                                                                                       "type": "text",
-                                                                                                                      "value": " Speech\n.cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} "
+                                                                                                                      "value": " Speech\n "
                                                                                                                     }
                                                                                                                   ],
                                                                                                                   "source": {
@@ -4002,7 +4002,7 @@
                                                                                                                   "children": [
                                                                                                                     {
                                                                                                                       "type": "text",
-                                                                                                                      "value": " Respiratory\n.cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} "
+                                                                                                                      "value": " Respiratory\n "
                                                                                                                     }
                                                                                                                   ],
                                                                                                                   "source": {
@@ -4022,7 +4022,7 @@
                                                                                                                   "children": [
                                                                                                                     {
                                                                                                                       "type": "text",
-                                                                                                                      "value": " Music\n.cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} "
+                                                                                                                      "value": " Music\n "
                                                                                                                     }
                                                                                                                   ],
                                                                                                                   "source": {
@@ -4306,7 +4306,7 @@
                                                                                                                   "children": [
                                                                                                                     {
                                                                                                                       "type": "text",
-                                                                                                                      "value": "Regional Director of Rehabilitation\n.cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} "
+                                                                                                                      "value": "Regional Director of Rehabilitation\n "
                                                                                                                     }
                                                                                                                   ],
                                                                                                                   "source": {
@@ -4326,7 +4326,7 @@
                                                                                                                   "children": [
                                                                                                                     {
                                                                                                                       "type": "text",
-                                                                                                                      "value": "Corporate Director of Rehabilitation\n.cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} "
+                                                                                                                      "value": "Corporate Director of Rehabilitation\n "
                                                                                                                     }
                                                                                                                   ],
                                                                                                                   "source": {
@@ -6055,10 +6055,10 @@
     "snapshotHash": "f07eed26569f24b492451461866528c26c573a041a7d8b3efec7ba85641faf1f",
     "authority": "rendered-live-copy; owner approved 2026-11-07",
     "normalization": "DOM-decoded text; source text-node characters retained",
-    "textCharactersHash": "e52de571efa3a608efa801d4a5b3f84155d39401e3e82d4efd6c811e1ec1311c"
+    "textCharactersHash": "749e0814a3f1116bd9dabf373402b796c15c25d0d5cc50d0b20f3d4511398138"
   },
   "inventory": {
-    "text": "A Rewarding Career In Therapy Therapists and related staff members work one-on-one with residents to improve mobility and strength. Restorative Aide A restorative aide is a certified nursing assistant (CNA) who has additional, specialized training in restorative nursing care. Restorative aides assist residents with exercises designed by the nursing or rehabilitation staff to help them improve the use of limbs and body functions. A restorative aide’s duties can include assisting residents with walking, strength training and range of motion exercises, dressing and grooming. Restorative aides work as a part of a care team and are responsible for documenting residents’ daily activities and progress. Like CNAs, restorative aides play a very hands-on role in the care process and spend a significant part of their time working closely with residents. EDUCATION & EXPERIENCE Restorative aide is a skill and a job classification that builds on a CNA (Certified Nurse Aide). Work experience as a CNA and completion of a state-approved restorative aide program that consists of lecture, demonstration, and skills test. The class is not certified, however, it is an approved continued education unit course by the CDPH. Available through CNAP CUSP program Salary Average $41,000 Certifications Physical Therapy (PT) .cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} Occupational Therapy (OT) .cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} Speech .cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} Respiratory .cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} Music .cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} Continuing Education Courses approved by the California Department of Public Health (CDPH), Training Program Review Unit (TPRU): Online Continuing Education Providers .cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} Continuing Education Units Providers (CEU) .cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} Career Paths Physical Therapy Assistant (PTA) .cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} Occupational Therapy Assistant (OTA) .cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} Rehabilitation Therapist A rehabilitation therapist is a health and wellness specialist trained to assist, diagnose and treat individuals with mobility problems caused by injury, illness or accidents. Rehabilitation therapists are responsible for evaluating and diagnosing mobility impairments resulting from strains, fractures, sprains, diseases, and numerous other conditions. Based on their examinations, they recommend and administer therapeutic exercises and other forms of appropriate treatment. EDUCATION & EXPERIENCE Rehabilitation therapists are required to have a Master’s degree in biology, chemistry, physics, anatomy or a similar field. They must pass the National Physical Therapy Examination (NPTE) administered by the Federation of State Boards of Physical Therapy (FSBPT). Salary Average $73,800 Certifications Physical Therapy (PT) .cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} Occupational Therapy (OT) .cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} Speech .cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} Respiratory .cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} Music .cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} Continuing Education Career Paths Director of Rehabilitation Services .cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} Director of Rehabilitation Services A Director of Rehabilitation Services directs the programs and staff of the rehabilitation services department for the senior living community. They set and implement guidelines for rehabilitation programs such as physical therapy, occupational therapy, and speech therapy and assigns patients to staff therapists for treatment and reviews residents’ progress. The director of rehabilitation also communicates results of resident care to other services and departments. EDUCATION & EXPERIENCE A Director of Rehabilitation Services must meet all of the same education and certification requirements as a rehabilitation therapist. The role may also require an advanced degree in physical therapy and at least seven years of direct experience in the field. Salary Average $100,000 Certifications Physical Therapy (PT) .cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} Occupational Therapy (OT) .cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} Speech .cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} Respiratory .cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} Music .cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} Continuing Education Career Paths Regional Director of Rehabilitation .cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} Corporate Director of Rehabilitation .cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} Hey there! Ask me anything! × 1 Explore the diverse career opportunities in long-term care Uncover your path to personal and professional fulfilment in this rewarding industry. Certified Nurse Assistant Nursing Administration Social Services Therapy Care Coordination Activities Support Services",
+    "text": "A Rewarding Career In Therapy Therapists and related staff members work one-on-one with residents to improve mobility and strength. Restorative Aide A restorative aide is a certified nursing assistant (CNA) who has additional, specialized training in restorative nursing care. Restorative aides assist residents with exercises designed by the nursing or rehabilitation staff to help them improve the use of limbs and body functions. A restorative aide’s duties can include assisting residents with walking, strength training and range of motion exercises, dressing and grooming. Restorative aides work as a part of a care team and are responsible for documenting residents’ daily activities and progress. Like CNAs, restorative aides play a very hands-on role in the care process and spend a significant part of their time working closely with residents. EDUCATION & EXPERIENCE Restorative aide is a skill and a job classification that builds on a CNA (Certified Nurse Aide). Work experience as a CNA and completion of a state-approved restorative aide program that consists of lecture, demonstration, and skills test. The class is not certified, however, it is an approved continued education unit course by the CDPH. Available through CNAP CUSP program Salary Average $41,000 Certifications Physical Therapy (PT) Occupational Therapy (OT) Speech Respiratory Music Continuing Education Courses approved by the California Department of Public Health (CDPH), Training Program Review Unit (TPRU): Online Continuing Education Providers Continuing Education Units Providers (CEU) Career Paths Physical Therapy Assistant (PTA) Occupational Therapy Assistant (OTA) Rehabilitation Therapist A rehabilitation therapist is a health and wellness specialist trained to assist, diagnose and treat individuals with mobility problems caused by injury, illness or accidents. Rehabilitation therapists are responsible for evaluating and diagnosing mobility impairments resulting from strains, fractures, sprains, diseases, and numerous other conditions. Based on their examinations, they recommend and administer therapeutic exercises and other forms of appropriate treatment. EDUCATION & EXPERIENCE Rehabilitation therapists are required to have a Master’s degree in biology, chemistry, physics, anatomy or a similar field. They must pass the National Physical Therapy Examination (NPTE) administered by the Federation of State Boards of Physical Therapy (FSBPT). Salary Average $73,800 Certifications Physical Therapy (PT) Occupational Therapy (OT) Speech Respiratory Music Continuing Education Career Paths Director of Rehabilitation Services Director of Rehabilitation Services A Director of Rehabilitation Services directs the programs and staff of the rehabilitation services department for the senior living community. They set and implement guidelines for rehabilitation programs such as physical therapy, occupational therapy, and speech therapy and assigns patients to staff therapists for treatment and reviews residents’ progress. The director of rehabilitation also communicates results of resident care to other services and departments. EDUCATION & EXPERIENCE A Director of Rehabilitation Services must meet all of the same education and certification requirements as a rehabilitation therapist. The role may also require an advanced degree in physical therapy and at least seven years of direct experience in the field. Salary Average $100,000 Certifications Physical Therapy (PT) Occupational Therapy (OT) Speech Respiratory Music Continuing Education Career Paths Regional Director of Rehabilitation Corporate Director of Rehabilitation Hey there! Ask me anything! × 1 Explore the diverse career opportunities in long-term care Uncover your path to personal and professional fulfilment in this rewarding industry. Certified Nurse Assistant Nursing Administration Social Services Therapy Care Coordination Activities Support Services",
     "links": [
       {
         "href": "https://yourcnastory.org/cna-certifications/",
@@ -6066,15 +6066,15 @@
       },
       {
         "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Online-Continuing-Education-Providers.aspx",
-        "text": "Online Continuing Education Providers\n.cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} "
+        "text": "Online Continuing Education Providers\n "
       },
       {
         "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/CEUProviders.aspx",
-        "text": "Continuing Education Units Providers (CEU)\n.cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} "
+        "text": "Continuing Education Units Providers (CEU)\n "
       },
       {
         "href": "#director-rehabilitation-services",
-        "text": "Director of Rehabilitation Services\n.cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;} "
+        "text": "Director of Rehabilitation Services\n "
       },
       {
         "href": "https://yourcnastory.org/careerpaths/careers-in-certified-nurse-assistant/",
