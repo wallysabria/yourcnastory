@@ -13,3 +13,10 @@ Evidence: video-lightboxes.json, video-lightboxes-tests.json and six EN/ES scree
 PR: https://github.com/wallysabria/yourcnastory/pull/15
 
 Protected preview: https://yourcnastory-9iam74xfu-wallysabrias-projects.vercel.app/career-seekers/ No merge/publication; normal preview protection retained.
+
+
+## Publication — owner approved 2026-11-10
+
+PR #15 merged as ec2934981a597cdfe4cec8dd9a5f707a1e91e5e3. No GitHub Actions run registered on the PR, so remaining workflow checks were run locally before merge: typecheck, content parity 48/48, search spike, zero production dependency vulnerabilities and audit validation, in addition to the existing lint/build/format/86-test passes. The merged commit then passed both GitHub workflows (foundation run 42856676131; audit 42856676369).
+
+Deployment https://yourcnastory-ma3wlr38k-wallysabrias-projects.vercel.app is READY and owns https://yourcnastory.vercel.app/. Published source-button audit passed all 60 visible activations across 20 EN/ES pages and three desktop/touch-phone/landscape sizes (22 instances; six source-hidden breakpoint variants recorded). Source URLs unchanged, dialogs centered/fitted, close controls inside viewport, iframe removed and trigger focus/body scrolling restored. EN/ES Career Seekers pages return 200/noindex. Evidence: video-lightboxes-production.json, video-lightboxes-production-guards.json and six screenshots in video-lightboxes-production/. YouTube frames remain mocked in automated evidence; no live-provider playback/analytics verification is claimed. Prior unmerged/unpublished notes are superseded. No custom-domain cutover, Employer enablement or phase advancement.

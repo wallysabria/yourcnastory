@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/career-seekers/",
+    "status": 200,
+    "noindex": true
+  },
+  {
+    "path": "/es/aspirantes/",
+    "status": 200,
+    "noindex": true
+  }
+]
