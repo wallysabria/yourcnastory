@@ -159,3 +159,82 @@ for (const path of ['/careerpaths/careers-in-nursing/', '/es/carreras/carreras-e
     await expect(page.locator('[id="mds-coordinator"]')).toBeVisible();
   });
 }
+for (const [locale, path] of [
+  ['en', '/frequently-asked-questions/'],
+  ['es', '/es/preguntas-frecuentes/'],
+]) {
+  for (const width of [1440, 390]) {
+    test(`every FAQ answer visibly opens and closes ${locale} @ ${width}`, async ({ page }) => {
+      await page.setViewportSize({ width, height: 1000 });
+      await page.goto(path);
+      const questions = page.locator('button.elementor-tab-title');
+      await expect(questions).toHaveCount(11);
+      for (let i = 0; i < 11; i++) {
+        const question = questions.nth(i);
+        const panelId = await question.getAttribute('aria-controls');
+        expect(panelId).toBeTruthy();
+        const answer = page.locator(`[id="${panelId}"]`);
+        await expect(answer).toBeHidden();
+        await question.click();
+        await expect(question).toHaveAttribute('aria-expanded', 'true');
+        await expect(answer).toBeVisible();
+        await expect(answer).toContainText(/\S/);
+        await question.press('Space');
+        await expect(question).toHaveAttribute('aria-expanded', 'false');
+        await expect(answer).toBeHidden();
+        await question.press('Enter');
+        await expect(answer).toBeVisible();
+        await question.click();
+        await expect(answer).toBeHidden();
+      }
+    });
+  }
+}
+for (const path of ['/frequently-asked-questions/', '/es/preguntas-frecuentes/']) {
+  for (const width of [320, 768, 1440]) {
+    test(`signup stays inside its section as content grows ${path} @ ${width}`, async ({
+      page,
+    }) => {
+      await page.setViewportSize({ width, height: 900 });
+      await page.goto(path);
+      await page.locator('.privacy-banner .privacy-action').nth(1).click();
+      const form = page.locator('.native-signup');
+      const checkLayout = async () => {
+        const result = await form.evaluate((element) => {
+          const bounds = element.getBoundingClientRect();
+          const section = element.closest('.elementor-top-section')!;
+          const area = section.getBoundingClientRect();
+          const previous = section.previousElementSibling?.getBoundingClientRect();
+          const next = section.nextElementSibling?.getBoundingClientRect();
+          const controls = Array.from(element.querySelectorAll('input:not([name="website"])'))
+            .filter((input) => input.getClientRects().length > 0)
+            .map((input) => input.getBoundingClientRect());
+          return {
+            contained: bounds.top >= area.top - 1 && bounds.bottom <= area.bottom + 1,
+            clearAbove: !previous || bounds.top >= previous.bottom - 1,
+            clearBelow: !next || bounds.bottom <= next.top + 1,
+            fieldsContained: controls.every(
+              (r) => r.left >= bounds.left - 1 && r.right <= bounds.right + 1,
+            ),
+            noOverflow: document.documentElement.scrollWidth <= innerWidth,
+          };
+        });
+        expect(result).toEqual({
+          contained: true,
+          clearAbove: true,
+          clearBelow: true,
+          fieldsContained: true,
+          noOverflow: true,
+        });
+      };
+      await checkLayout();
+      // Empty submission validates locally; no network signup or real subscription.
+      await form.locator('[type="submit"]').click();
+      await expect(form.locator('[role="alert"]')).toBeVisible();
+      await checkLayout();
+      await page.locator('button.elementor-tab-title').first().click();
+      await expect(page.locator('.elementor-tab-content').first()).toBeVisible();
+      await checkLayout();
+    });
+  }
+}

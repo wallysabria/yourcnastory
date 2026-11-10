@@ -102,3 +102,18 @@ Keyboard-only focus outline restored on these buttons because inherited theme ru
 ## D-012 — Shared carousel arrow circles — approved 2026-11-10
 
 Owner expanded D-011 to other pages/sections including Career Seekers and Quick Links, and selected pale-blue circles. Apply the shared blue 24px chevrons, source translations and visible keyboard focus to all native carousel previous/next controls in both languages; retain each source carousel’s 40px box and responsive offsets. Use #eaf3ff fill, #d6e6fa thin border, slightly stronger #dcecff fill/#bfd8f5 border on hover. No shadow, size animation or new motion. Circle treatment applies to directional carousel controls; inline link arrows, menu disclosures and back-to-top remain in their existing contexts. No copy, URLs, slide order or behavior changes. Employers content remains gated.
+
+
+## FAQ answer visibility — approved bug fix 2026-11-10
+
+Owner reported the Career Seekers FAQ answers do not reveal. Preserve the existing accordion design and native toggle behavior; make the open-state display override win over Elementor’s default display:none. Closed panels remain hidden. No wording, URL, metadata, layout redesign or Employer FAQ work. Add EN/ES desktop/mobile checks for actual answer visibility, keyboard/click expansion and collapse.
+
+
+## D-013 — Modern Career Seekers FAQ cards — approved 2026-11-10
+
+Owner approved separate white question cards on a soft gray background, rounded corners/subtle borders/generous spacing, dark semibold questions and right-aligned blue plus/minus in pale-blue circles matching the carousel controls. Answers appear below questions with comfortable line spacing. Preserve hero, Quick Links, original EN/ES copy/links/order/IDs and toggle behavior. Scope to faq-accordion template in both languages; Employers FAQ remains gated. Keyboard focus is visible, color transitions honor reduced motion, no height animation. Implementation extends the unmerged FAQ PR #14.
+
+
+## D-014/D-015 — FAQ gaps and responsive signup sizing — approved 2026-11-10
+
+Owner requested removing exterior white gaps around the light-blue FAQ section and compacting signup form fields/descriptions/disclaimer across every placement, with no overlap into adjacent sections at responsive sizes. Reset FAQ exterior margins; preserve inner card padding. Remove inherited form wrapper margins (-200px top/-280px bottom), keep sections in normal flow sized to their form, use 14px labels, 16px input text, existing 11px helper/disclaimer text with tighter 1.45 line-height, and consistent field spacing. Do not edit disclosure wording/consent, fields, validation, destinations or submission integrations. All 18 EN/ES placements are in scope; no live form submissions.

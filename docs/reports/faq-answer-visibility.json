@@ -1,0 +1,257 @@
+{
+  "checkedAt": "2026-11-10T14:53:51.237Z",
+  "checks": [
+    {
+      "locale": "en",
+      "path": "/frequently-asked-questions/",
+      "width": 1440,
+      "states": [
+        {
+          "hidden": false,
+          "display": "block",
+          "answerCharacters": 228
+        },
+        {
+          "hidden": false,
+          "display": "block",
+          "answerCharacters": 160
+        },
+        {
+          "hidden": true,
+          "display": "none",
+          "answerCharacters": 586
+        },
+        {
+          "hidden": true,
+          "display": "none",
+          "answerCharacters": 702
+        },
+        {
+          "hidden": true,
+          "display": "none",
+          "answerCharacters": 152
+        },
+        {
+          "hidden": true,
+          "display": "none",
+          "answerCharacters": 182
+        },
+        {
+          "hidden": true,
+          "display": "none",
+          "answerCharacters": 368
+        },
+        {
+          "hidden": true,
+          "display": "none",
+          "answerCharacters": 1639
+        },
+        {
+          "hidden": true,
+          "display": "none",
+          "answerCharacters": 178
+        },
+        {
+          "hidden": true,
+          "display": "none",
+          "answerCharacters": 203
+        },
+        {
+          "hidden": true,
+          "display": "none",
+          "answerCharacters": 178
+        }
+      ],
+      "screenshot": "docs/reports/faq-answer-visibility/en-1440.png"
+    },
+    {
+      "locale": "es",
+      "path": "/es/preguntas-frecuentes/",
+      "width": 1440,
+      "states": [
+        {
+          "hidden": false,
+          "display": "block",
+          "answerCharacters": 173
+        },
+        {
+          "hidden": false,
+          "display": "block",
+          "answerCharacters": 169
+        },
+        {
+          "hidden": true,
+          "display": "none",
+          "answerCharacters": 642
+        },
+        {
+          "hidden": true,
+          "display": "none",
+          "answerCharacters": 756
+        },
+        {
+          "hidden": true,
+          "display": "none",
+          "answerCharacters": 175
+        },
+        {
+          "hidden": true,
+          "display": "none",
+          "answerCharacters": 207
+        },
+        {
+          "hidden": true,
+          "display": "none",
+          "answerCharacters": 387
+        },
+        {
+          "hidden": true,
+          "display": "none",
+          "answerCharacters": 1858
+        },
+        {
+          "hidden": true,
+          "display": "none",
+          "answerCharacters": 210
+        },
+        {
+          "hidden": true,
+          "display": "none",
+          "answerCharacters": 250
+        },
+        {
+          "hidden": true,
+          "display": "none",
+          "answerCharacters": 187
+        }
+      ],
+      "screenshot": "docs/reports/faq-answer-visibility/es-1440.png"
+    },
+    {
+      "locale": "en",
+      "path": "/frequently-asked-questions/",
+      "width": 390,
+      "states": [
+        {
+          "hidden": false,
+          "display": "block",
+          "answerCharacters": 228
+        },
+        {
+          "hidden": false,
+          "display": "block",
+          "answerCharacters": 160
+        },
+        {
+          "hidden": true,
+          "display": "none",
+          "answerCharacters": 586
+        },
+        {
+          "hidden": true,
+          "display": "none",
+          "answerCharacters": 702
+        },
+        {
+          "hidden": true,
+          "display": "none",
+          "answerCharacters": 152
+        },
+        {
+          "hidden": true,
+          "display": "none",
+          "answerCharacters": 182
+        },
+        {
+          "hidden": true,
+          "display": "none",
+          "answerCharacters": 368
+        },
+        {
+          "hidden": true,
+          "display": "none",
+          "answerCharacters": 1639
+        },
+        {
+          "hidden": true,
+          "display": "none",
+          "answerCharacters": 178
+        },
+        {
+          "hidden": true,
+          "display": "none",
+          "answerCharacters": 203
+        },
+        {
+          "hidden": true,
+          "display": "none",
+          "answerCharacters": 178
+        }
+      ],
+      "screenshot": "docs/reports/faq-answer-visibility/en-390.png"
+    },
+    {
+      "locale": "es",
+      "path": "/es/preguntas-frecuentes/",
+      "width": 390,
+      "states": [
+        {
+          "hidden": false,
+          "display": "block",
+          "answerCharacters": 173
+        },
+        {
+          "hidden": false,
+          "display": "block",
+          "answerCharacters": 169
+        },
+        {
+          "hidden": true,
+          "display": "none",
+          "answerCharacters": 642
+        },
+        {
+          "hidden": true,
+          "display": "none",
+          "answerCharacters": 756
+        },
+        {
+          "hidden": true,
+          "display": "none",
+          "answerCharacters": 175
+        },
+        {
+          "hidden": true,
+          "display": "none",
+          "answerCharacters": 207
+        },
+        {
+          "hidden": true,
+          "display": "none",
+          "answerCharacters": 387
+        },
+        {
+          "hidden": true,
+          "display": "none",
+          "answerCharacters": 1858
+        },
+        {
+          "hidden": true,
+          "display": "none",
+          "answerCharacters": 210
+        },
+        {
+          "hidden": true,
+          "display": "none",
+          "answerCharacters": 250
+        },
+        {
+          "hidden": true,
+          "display": "none",
+          "answerCharacters": 187
+        }
+      ],
+      "screenshot": "docs/reports/faq-answer-visibility/es-390.png"
+    }
+  ]
+}

@@ -109,7 +109,7 @@
   display: none !important;
 }
 .page-content .elementor-tab-content:not([hidden]) {
-  display: block;
+  display: block !important;
 }
 .native-video-dialog {
   border: 0;
@@ -594,4 +594,235 @@ body:has(.site-header:not(.is-scrolled)) .back-to-top {
 }
 .page-content.page-content .native-carousel.owl-carousel .owl-nav button::before {
   content: none;
+}
+/* D-013: owner-approved FAQ cards, scoped to Career Seekers EN/ES. */
+.page-content[data-template='faq-accordion']
+  #main
+  .elementor-top-section:has(.elementor-accordion) {
+  background: #f4f7fa;
+  padding-block: 72px;
+}
+.page-content[data-template='faq-accordion']
+  #main
+  .elementor-top-section:has(.elementor-accordion)
+  > .elementor-container {
+  max-width: 1000px;
+}
+.page-content[data-template='faq-accordion'] #main .elementor-accordion {
+  display: grid;
+  gap: 14px;
+  border: 0;
+}
+.page-content[data-template='faq-accordion'] #main .elementor-accordion-item {
+  background: #fff;
+  border: 1px solid #dce4ec;
+  border-radius: 16px;
+  overflow: clip;
+  transition: border-color 140ms ease;
+}
+.page-content[data-template='faq-accordion'] #main .elementor-accordion-item:hover,
+.page-content[data-template='faq-accordion'] #main .elementor-accordion-item:focus-within {
+  border-color: #aac9ee;
+}
+.page-content[data-template='faq-accordion'] #main button.elementor-tab-title {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  width: 100%;
+  padding: 24px;
+  border: 0;
+  border-radius: 15px;
+  background: transparent;
+  color: #243f4b;
+  font-family: inherit;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.5;
+  text-align: left;
+}
+.page-content[data-template='faq-accordion'] #main button.elementor-tab-title:focus-visible {
+  outline: 2px solid #0159d3;
+  outline-offset: -5px;
+}
+.page-content[data-template='faq-accordion'] #main .elementor-accordion-title {
+  flex: 1;
+  min-width: 0;
+  color: inherit;
+  font: inherit;
+}
+.page-content[data-template='faq-accordion'] #main .elementor-accordion-icon {
+  order: 1;
+  flex: 0 0 32px;
+  display: grid;
+  place-items: center;
+  float: none;
+  width: 32px;
+  height: 32px;
+  margin: 0;
+  border-radius: 50%;
+  background: #eaf3ff;
+  color: #0159d3;
+  font-size: 14px;
+  line-height: 1;
+}
+.page-content[data-template='faq-accordion'] #main .elementor-accordion-icon-closed {
+  display: block;
+}
+.page-content[data-template='faq-accordion'] #main .elementor-accordion-icon-opened {
+  display: none;
+}
+.page-content[data-template='faq-accordion']
+  #main
+  .elementor-active
+  .elementor-accordion-icon-closed {
+  display: none;
+}
+.page-content[data-template='faq-accordion']
+  #main
+  .elementor-active
+  .elementor-accordion-icon-opened {
+  display: block;
+}
+.page-content[data-template='faq-accordion'] #main .elementor-tab-content {
+  padding: 0 24px 24px;
+  border: 0;
+  background: transparent;
+  color: #5b5b5b;
+  font-size: 17px;
+  line-height: 1.8;
+}
+.page-content[data-template='faq-accordion'] #main .elementor-tab-content p:last-child {
+  margin-bottom: 0;
+}
+@media (max-width: 767px) {
+  .page-content[data-template='faq-accordion']
+    #main
+    .elementor-top-section:has(.elementor-accordion) {
+    padding-block: 40px;
+  }
+  .page-content[data-template='faq-accordion'] #main button.elementor-tab-title {
+    gap: 14px;
+    padding: 20px 18px;
+    font-size: 16px;
+  }
+  .page-content[data-template='faq-accordion'] #main .elementor-tab-content {
+    padding: 0 18px 20px;
+    font-size: 16px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .page-content[data-template='faq-accordion'] #main .elementor-accordion-item {
+    transition: none;
+  }
+}
+/* D-014: remove outer FAQ gaps; retain the card section's internal padding. */
+.page-content[data-template='faq-accordion']
+  #main
+  .elementor-top-section:has(.elementor-accordion) {
+  margin-block: 0;
+}
+/* D-015: signup sections size to their form instead of using overlapping offsets. */
+.page-content #main .elementor-top-section:has(.native-signup) {
+  margin-block: 0;
+  padding-block: 48px;
+}
+.page-content #main .elementor-top-section:has(.native-signup) > .elementor-container {
+  min-height: 0;
+  height: auto;
+  align-items: center;
+}
+.page-content #main .formRight {
+  position: relative;
+  inset: auto;
+  transform: none;
+  width: 100%;
+  margin: 0;
+}
+.page-content #main .formRight > .elementor-widget-container {
+  margin: 0;
+  padding: 0;
+}
+.page-content #main #mc_embed_signup .native-signup {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+.page-content #main #mc_embed_signup .mc-field-group {
+  width: 100%;
+  min-height: 0;
+  margin: 0 0 12px;
+  padding: 0;
+}
+.page-content #main #mc_embed_signup .mc-field-group label,
+.page-content #main #mc_embed_signup .native-language-group legend {
+  margin: 0 0 6px;
+  font-size: 14px;
+  line-height: 1.4;
+}
+.page-content
+  #main
+  #mc_embed_signup
+  input:is([type='text'], [type='email'], [type='tel']):not([name='website']) {
+  min-height: 42px;
+  height: auto;
+  margin-bottom: 0;
+  padding: 8px 10px;
+  font-size: 16px;
+  line-height: 1.4;
+}
+.page-content #main #mc_embed_signup .small-meta,
+.page-content #main #mc_embed_signup .helper_text,
+.page-content #main #mc_embed_signup .indicates-required {
+  font-size: 11px;
+  line-height: 1.45;
+}
+.page-content #main #mc_embed_signup .small-meta {
+  margin-top: 8px;
+}
+.page-content #main #mc_embed_signup .helper_text {
+  display: block;
+  margin-top: 6px;
+  padding: 0;
+}
+.page-content #main #mc_embed_signup .indicates-required {
+  margin: 0 0 12px;
+}
+.page-content #main #mc_embed_signup .native-language-group ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin: 8px 0;
+  padding: 0;
+}
+.page-content #main #mc_embed_signup .native-language-group li {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin: 0;
+}
+.page-content #main #mc_embed_signup .native-language-group li label {
+  margin: 0;
+}
+@media (max-width: 767px) {
+  .page-content #main .elementor-top-section:has(.native-signup) {
+    padding-block: 32px;
+  }
+}
+/* Keep the compact fields inset within the existing white form card. */
+.page-content #main #mc_embed_signup {
+  padding: 24px;
+}
+.page-content #main #mc_embed_signup .asterisk {
+  position: static;
+  font-size: 1em;
+  line-height: inherit;
+  vertical-align: baseline;
+}
+@media (max-width: 767px) {
+  .page-content #main .elementor-column:has(.native-signup) > .elementor-widget-wrap {
+    padding: 16px;
+  }
+  .page-content #main #mc_embed_signup {
+    padding: 20px;
+  }
 }
