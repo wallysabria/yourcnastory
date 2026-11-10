@@ -8,4 +8,4 @@ All 18 placements (nine EN/nine ES) passed at 320,390,600,767,768,1024,1280,1440
 
 FAQ exterior section margins are reset to zero (D-014), preserving inner card padding. Future English Employer FAQ must reuse the approved card design; recorded in docs/phases/phase-08-owner-decisions.md. Employers content remains pending/gated, /faqs/ stays distinct from Career Seekers FAQ, and no Employer pages are enabled by this work.
 
-PR #14 includes these owner-requested refinements with the FAQ reveal fix/card design. Updated preview pending; no merge/publication or phase advancement.
+PR #14 includes these owner-requested refinements with the FAQ reveal fix/card design. Updated protected preview: https://yourcnastory-oc0m35s15-wallysabrias-projects.vercel.app/frequently-asked-questions/; no merge/publication or phase advancement.

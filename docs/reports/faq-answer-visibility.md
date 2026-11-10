@@ -12,7 +12,7 @@ Verification: lint/build/format pass; all 80 tests pass, including all 11 questi
 
 PR: https://github.com/wallysabria/yourcnastory/pull/14
 
-Updated protected preview pending. No merge/publication; no integration/indexing changes. Preview protection is retained and no temporary access credentials were created.
+Updated protected preview: https://yourcnastory-oc0m35s15-wallysabrias-projects.vercel.app/frequently-asked-questions/ No merge/publication; no integration/indexing changes. Preview protection is retained and no temporary access credentials were created.
 
 
 ## Owner refinements — 2026-11-10
