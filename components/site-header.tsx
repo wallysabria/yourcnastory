@@ -1,4 +1,5 @@
 'use client';
+import { externalLinkAttributes } from '@/lib/external-links';
 import { SearchDialog } from './search-dialog';
 import { useEffect, useRef, useState } from 'react';
 import Image from 'next/image';
@@ -75,7 +76,9 @@ export function SiteHeader({
       {announcement?.enabled && announcement.text && (
         <div className="announcement">
           {split[0]}
-          <a href={announcement.href}>{announcement.linkLabel}</a>
+          <a href={announcement.href} {...externalLinkAttributes(announcement.href)}>
+            {announcement.linkLabel}
+          </a>
           {split.slice(1).join(announcement.linkLabel)}
         </div>
       )}
@@ -149,6 +152,7 @@ export function SiteHeader({
                   <Link
                     className="nav-label"
                     href={hrefFor(group.href)}
+                    {...externalLinkAttributes(group.href)}
                     aria-haspopup="true"
                     aria-expanded={active === index}
                     aria-controls={'mega-' + index}

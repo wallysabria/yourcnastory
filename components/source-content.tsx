@@ -1,3 +1,4 @@
+import { externalLinkAttributes, secureNewTabRel } from '@/lib/external-links';
 import { InlineVideo } from './inline-video';
 import videoPosters from '@/content/integrations/external-video-posters.json';
 import { isLegacyChat } from '@/lib/legacy-ui';
@@ -332,7 +333,8 @@ export function renderSourceNode(node: ContentNode, key: string, ctx: Context): 
       delete props.role;
     } else {
       props.href = href;
-      if (props.target === '_blank') props.rel = 'noopener noreferrer';
+      Object.assign(props, externalLinkAttributes(href, props.rel as string | undefined));
+      if (props.target === '_blank') props.rel = secureNewTabRel(props.rel as string | undefined);
       if (
         !texts(node).trim() &&
         !first(node, (n) => n.type === 'element' && n.tag === 'img' && Boolean(n.attrs.alt)) &&
