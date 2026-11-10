@@ -90,3 +90,15 @@ Owner requested matching the reference dropdown's dash/bullet markers as closely
 ## Career SVG styling artifact — approved 2026-11-10
 
 Owner approved removing only the leaked `.cls-63ce7424ea57ea6c8380058e-1{fill:none;stroke:currentColor;stroke-miterlimit:10;}` fragment (both currentColor and grey stroke variants) from eight EN and eight ES career-detail pages. No editorial correction, URL/link destination, metadata, image or layout change. Exact scoped policy: content/migration/svg-text-cleanup.json. Update extraction/parity normalization and hashes together to prevent reintroduction. No other Spanish changes authorized.
+
+
+## D-011 — Career-detail carousel arrows — approved 2026-11-10
+
+Owner requested matching the source left/right carousel arrows. Scoped to EN/ES careerpath-entry pages: reuse the already self-hosted Font Awesome 5 Free 900 chevrons f053/f054 at 24px, brand blue #0159d3, original 40px control boxes and responsive positions; restore source translateY(-50%) for previous and translate(-100%, -50%) for next. Source desktop previous offset -62px/mobile 0 and next left 100% remain in existing route CSS. Keep button labels, keyboard/touch/scroll behavior, focus indication, all copy/destinations and other carousels unchanged. Screenshot red boxes are annotations. No new font, dependency or source-site change.
+
+Keyboard-only focus outline restored on these buttons because inherited theme rules suppressed it. Scoped icon pseudo-elements explicitly reset the theme hover-background positioning/opacity so both chevrons remain visible.
+
+
+## D-012 — Shared carousel arrow circles — approved 2026-11-10
+
+Owner expanded D-011 to other pages/sections including Career Seekers and Quick Links, and selected pale-blue circles. Apply the shared blue 24px chevrons, source translations and visible keyboard focus to all native carousel previous/next controls in both languages; retain each source carousel’s 40px box and responsive offsets. Use #eaf3ff fill, #d6e6fa thin border, slightly stronger #dcecff fill/#bfd8f5 border on hover. No shadow, size animation or new motion. Circle treatment applies to directional carousel controls; inline link arrows, menu disclosures and back-to-top remain in their existing contexts. No copy, URLs, slide order or behavior changes. Employers content remains gated.

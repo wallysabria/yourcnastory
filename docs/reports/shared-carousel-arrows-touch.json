@@ -1,0 +1,14 @@
+[
+  {
+    "locale": "en",
+    "path": "/career-seekers/",
+    "width": 390,
+    "touchNextPrevious": true
+  },
+  {
+    "locale": "es",
+    "path": "/es/aspirantes/",
+    "width": 390,
+    "touchNextPrevious": true
+  }
+]
