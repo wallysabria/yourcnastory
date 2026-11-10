@@ -546,33 +546,26 @@ body:has(.site-header:not(.is-scrolled)) .back-to-top {
   font-weight: 400;
   line-height: 1.7;
 }
-/* D-011: source Font Awesome chevrons and offsets on career-detail carousels. */
-.page-content[data-template='careerpath-entry'] .native-carousel.owl-carousel .owl-nav button {
+/* D-011/D-012: shared source-style carousel chevrons with subtle pale-blue circles. */
+.page-content.page-content .native-carousel.owl-carousel .owl-nav button:is(.owl-prev, .owl-next) {
   color: #0159d3;
+  background: #eaf3ff;
+  border: 1px solid #d6e6fa;
+  border-radius: 50%;
+  padding: 0;
 }
-.page-content[data-template='careerpath-entry']
-  .native-carousel.owl-carousel
-  .owl-nav
-  button.owl-prev {
+.page-content.page-content .native-carousel.owl-carousel .owl-nav button.owl-prev {
   transform: translateY(-50%);
 }
-.page-content[data-template='careerpath-entry']
-  .native-carousel.owl-carousel
-  .owl-nav
-  button.owl-next {
+.page-content.page-content .native-carousel.owl-carousel .owl-nav button.owl-next {
   transform: translate(-100%, -50%);
 }
-.page-content[data-template='careerpath-entry']
-  .native-carousel.owl-carousel
-  .owl-nav
-  button
-  > svg {
+.page-content.page-content .native-carousel.owl-carousel .owl-nav button > svg {
   display: none;
 }
-.page-content[data-template='careerpath-entry']
-  .native-carousel.owl-carousel
-  .owl-nav
-  button::after {
+.page-content.page-content .native-carousel.owl-carousel .owl-nav button::after {
+  display: block;
+  background: none;
   position: static;
   width: auto;
   height: auto;
@@ -581,16 +574,24 @@ body:has(.site-header:not(.is-scrolled)) .back-to-top {
   font: 900 24px / 1 'Font Awesome 5 Free';
   -webkit-font-smoothing: antialiased;
 }
-.page-content[data-template='careerpath-entry'] .native-carousel.owl-carousel .owl-prev::after {
+.page-content.page-content .native-carousel.owl-carousel .owl-prev::after {
   content: '\f053';
 }
-.page-content[data-template='careerpath-entry'] .native-carousel.owl-carousel .owl-next::after {
+.page-content.page-content .native-carousel.owl-carousel .owl-next::after {
   content: '\f054';
 }
-.page-content[data-template='careerpath-entry']
-  .native-carousel.owl-carousel
-  .owl-nav
-  button:focus-visible {
+.page-content.page-content .native-carousel.owl-carousel .owl-nav button:focus-visible {
   outline: 2px solid var(--focus);
   outline-offset: 3px;
+}
+
+.page-content.page-content
+  .native-carousel.owl-carousel
+  .owl-nav
+  button:is(.owl-prev, .owl-next):hover {
+  background: #dcecff;
+  border-color: #bfd8f5;
+}
+.page-content.page-content .native-carousel.owl-carousel .owl-nav button::before {
+  content: none;
 }

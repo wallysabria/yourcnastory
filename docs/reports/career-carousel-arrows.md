@@ -1,15 +1,17 @@
-# Career-detail carousel arrows
+# Shared carousel arrows and subtle circles
 
-Owner requested matching source controls (D-011 approved, 2026-11-10). Separate CSS-only correction scoped to careerpath-entry, shared by eight English/eight Spanish career pages. Existing native buttons, accessible labels, handlers, slide order, links, copy, metadata and all other carousels are unchanged.
+The source-style chevrons now cover all native carousel navigation, including Career Seekers, Quick Links, homepage, career-detail and other shared sections in both languages. D-011/D-012 are owner-approved; owner selected pale-blue circles on 2026-11-10. This expands the same unmerged PR #13 and does not advance a phase.
 
-Public source measured after carousel initialization: Font Awesome 5 Free 900 chevrons f053/f054 at 24px, #0159d3, transparent 40×40px control boxes. Desktop previous offset -62px and mobile 0px; next left 100%, translated -40px. Both controls translate vertically -20px to center on the source row. The rebuild previously used thin gray SVG chevrons and omitted translations. Reuse the already self-hosted source font and existing responsive offsets; no dependency, font download, redesign or image edit. Source background pseudo-element styles are reset for the glyph; visible keyboard-only focus is restored. Red screenshot rectangles are annotations, not borders to reproduce.
+Use the existing self-hosted Font Awesome 5 Free 900 chevrons at 24px, blue #0159d3, in existing 40px controls with a #eaf3ff circular fill and thin #d6e6fa border. Hover uses #dcecff/#bfd8f5. Restore source horizontal/vertical translations; each carousel keeps its own responsive offsets. Visible keyboard-only focus remains. Route-specific background pseudo-element rules are reset so chevrons stay visible, including Quick Links. No shadow, scaling, new animation, font or dependency. Reduced-motion handling remains unchanged.
 
-Verification: lint/build/format checks; existing 70-test regression passed. Final arrow-specific checks pass 32 views (16 pages × 1920/390): exact source color/font/glyph, 40px boxes, x offsets, persistent glyph opacity, both arrows aligned, mouse Next, Enter Previous and visible keyboard focus. Snapshots are in career-carousel-arrows/; measurements in career-carousel-arrows.json; test stats in career-carousel-arrows-tests.json. These browser checks ran on the local production build. Source inspected publicly with tracking blocked; no WordPress login/forms.
+Only app/content.css changes runtime behavior/presentation. Copy, metadata, destinations, slide order, source layouts and event handlers remain unchanged. Inline link arrows, disclosure icons and back-to-top are distinct contexts and keep their source treatment. Employers destinations remain inactive.
 
-Review PR: https://github.com/wallysabria/yourcnastory/pull/13
+Verification: lint/build/format and all 70 existing regression tests pass. All 48 built pages inspected at 1920px/390px (96 page views); 43 visible carousels on 38 pages, 86 carousel views total, pass checks for circle/color/glyph/font/opacity/display, control dimensions and keyboard focus. Two intentionally hidden breakpoint variants are recorded separately. Mouse/Enter navigation checked wherever additional slides exist. EN/ES Quick Links touch Next/Previous and hover colors verified separately. Some desktop carousels already show every item: their pre-existing no-advance behavior is unchanged. Raw source untouched, no live forms or tracking enabled.
 
-Protected preview: https://yourcnastory-9nr8qfixg-wallysabrias-projects.vercel.app/careerpaths/careers-in-certified-nurse-assistant/
+Evidence: shared-carousel-arrows.json, shared-carousel-arrows-hover.json, shared-carousel-arrows-touch.json, shared-carousel-arrows-tests.json and screenshots in shared-carousel-arrows/. Browser checks ran against the local production build. Earlier career-only evidence is retained as the original source comparison; the shared evidence supersedes it for the final styling.
 
-Preview authentication is retained; no temporary bypass credentials were created. Browser evidence above is from the local production build.
+![Quick Links circles](shared-carousel-arrows/-career-seekers--1-1920.png)
 
-![English source-style carousel controls](career-carousel-arrows/en-1920.png) No merge/publication or phase advancement. Existing Employers/chatbot/indexing/tracking gates remain unchanged.
+PR: https://github.com/wallysabria/yourcnastory/pull/13
+
+Updated protected preview pending. No merge/publication. Normal preview authentication is retained; no temporary bypass credentials created. Existing Employers/chatbot/indexing/tracking gates remain unchanged.
