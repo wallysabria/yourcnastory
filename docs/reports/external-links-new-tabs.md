@@ -13,3 +13,8 @@ PR: https://github.com/wallysabria/yourcnastory/pull/16
 Protected preview: https://yourcnastory-inao8kf3p-wallysabrias-projects.vercel.app/
 
 Normal preview authentication retained; no temporary access credentials created. No merge/publication or phase advancement. Shared policy will apply to future migrated content through the same renderers, while Employers content remains gated.
+
+
+## Publication — owner approved 2026-11-10
+
+PR #16 merged as f9646746af7a160275223372759e66920dfc530c after all PR checks passed. Deployment https://yourcnastory-m8x5sutiu-wallysabrias-projects.vercel.app is READY and owns https://yourcnastory.vercel.app/. Public audit passed all 48 pages: 275 external instances/34 destinations have target="_blank" and noopener/noreferrer; 101 targets corrected versus the baseline. Exact URL/label comparisons and internal/special targets remain unchanged. Both EN/ES browser tests passed against the public review alias, confirming an additional tab opens with window.opener null and the source page stays in place; external destination responses were mocked. Evidence: external-links-new-tabs-production.json. Prior unpublished review notes are superseded. No custom-domain cutover, Employer enablement or integration changes.

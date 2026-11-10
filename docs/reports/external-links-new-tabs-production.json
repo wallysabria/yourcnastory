@@ -1,0 +1,2223 @@
+{
+  "checkedAt": "2026-11-10T19:48:44.613Z",
+  "pages": [
+    {
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "links": 67,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "links": 87,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/careerpaths/careers-in-support-services/",
+      "links": 59,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/careerpaths/careers-in-therapy/",
+      "links": 60,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/careerpaths/careers-in-care-coordination/",
+      "links": 59,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/careerpaths/careers-in-social-services/",
+      "links": 65,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/careerpaths/careers-in-activities/",
+      "links": 58,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/careerpaths/careers-in-administration/",
+      "links": 59,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/",
+      "links": 66,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/career-seekers/",
+      "links": 88,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/career-paths-in-long-term-care/",
+      "links": 73,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/community-resources/",
+      "links": 60,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/privacy-policy/",
+      "links": 57,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/certified-nurse-assistant-program/",
+      "links": 60,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/cna-training-providers/",
+      "links": 53,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/what-is-long-term-care/",
+      "links": 57,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/career-advancement/",
+      "links": 82,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/earn-and-learn-la/",
+      "links": 68,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/frequently-asked-questions/",
+      "links": 70,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/earn-and-learn-cvalley/",
+      "links": 68,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/earn-and-learn-bayarea/",
+      "links": 68,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/earn-and-learn-norcal/",
+      "links": 68,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/earn-and-learn-san-diego/",
+      "links": 68,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/earn-and-learn/",
+      "links": 68,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/es/",
+      "links": 66,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/es/que-es-cuidar-a-largo-plazo/",
+      "links": 57,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/es/recursos-comunitarios/",
+      "links": 60,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+      "links": 73,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/es/programa-cna/",
+      "links": 60,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/es/aspirantes/",
+      "links": 88,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/es/programa-cna-2/",
+      "links": 53,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "links": 70,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "links": 68,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "links": 87,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-de-apoyo/",
+      "links": 59,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/es/carreras/carreras-en-terapia/",
+      "links": 60,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+      "links": 59,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-sociales/",
+      "links": 65,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/es/carreras/carreras-en-actividades/",
+      "links": 58,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/es/carreras/carreras-en-administracion/",
+      "links": 59,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/es/politica-de-privacidad/",
+      "links": 57,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "links": 82,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/es/ganar-y-aprender-la/",
+      "links": 68,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/es/gana-y-aprende-cvalley/",
+      "links": 68,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/es/gana-y-aprende-bayarea/",
+      "links": 68,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/es/earn-and-learn-norcal/",
+      "links": 68,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/es/gana-y-aprende-san-diego/",
+      "links": 68,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    },
+    {
+      "path": "/es/earn-and-learn/",
+      "links": 68,
+      "urlsAndLabelsUnchanged": true,
+      "internalAndSpecialTargetsUnchanged": true
+    }
+  ],
+  "externalLinkInstances": 275,
+  "uniqueExternalUrls": 34,
+  "targetsCorrected": 101,
+  "external": [
+    {
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/CNA.aspx#:~:text=Be%20at%20least%20sixteen%20(16,Obtain%20a%20criminal%20record%20clearance.",
+      "label": "California Department of Public Health",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Facility-Based-Nurse-Assistant-Training-Programs.aspx",
+      "label": "Facility-based CNA Training Programs  ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Certified-Nurse-Assistant-Training-Programs.aspx",
+      "label": "Community-based CNA Training Programs  ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Online-CNA-Training-Providers.aspx",
+      "label": "Online CNA Training Program Providers  ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Online-Continuing-Education-Providers.aspx",
+      "label": "Online Continuing Education Providers\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/CEUProviders.aspx",
+      "label": "Continuing Education Units Providers (CEU)\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Quality Care Health Foundation",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "href": "https://www.bvnpt.ca.gov/applicants/summary_vn.shtml",
+      "label": "California Board of Vocational Nursing",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Online-Continuing-Education-Providers.aspx",
+      "label": "Online Continuing Education Providers\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/CEUProviders.aspx",
+      "label": "Continuing Education Units Providers (CEU)\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "href": "https://www.rn.ca.gov/applicants/lic-exam.shtml",
+      "label": "the National Council of State Boards of Nursing (NCSBN).",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Online-Continuing-Education-Providers.aspx",
+      "label": "Online Continuing Education Providers\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/CEUProviders.aspx",
+      "label": "Continuing Education Units Providers (CEU)\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Online-Continuing-Education-Providers.aspx",
+      "label": "Online Continuing Education Providers\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/CEUProviders.aspx",
+      "label": "Continuing Education Units Providers (CEU)\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Online-Continuing-Education-Providers.aspx",
+      "label": "Online Continuing Education Providers\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/CEUProviders.aspx",
+      "label": "Continuing Education Units Providers (CEU)\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "href": "https://www.cahf.org/events/event-registration/?eventcd=DSD021026",
+      "label": "DSD Training",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Online-Continuing-Education-Providers.aspx",
+      "label": "Online Continuing Education Providers\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/CEUProviders.aspx",
+      "label": "Continuing Education Units Providers (CEU)\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Online-Continuing-Education-Providers.aspx",
+      "label": "Online Continuing Education Providers\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/CEUProviders.aspx",
+      "label": "Continuing Education Units Providers (CEU)\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Online-Continuing-Education-Providers.aspx",
+      "label": "Online Continuing Education Providers\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/CEUProviders.aspx",
+      "label": "Continuing Education Units Providers (CEU)\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Quality Care Health Foundation",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-support-services/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-support-services/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Quality Care Health Foundation",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-therapy/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Online-Continuing-Education-Providers.aspx",
+      "label": "Online Continuing Education Providers\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-therapy/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/CEUProviders.aspx",
+      "label": "Continuing Education Units Providers (CEU)\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-therapy/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-therapy/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Quality Care Health Foundation",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-care-coordination/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-care-coordination/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Quality Care Health Foundation",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-social-services/",
+      "href": "https://www.cahf.org/Education-Events/Education/On-Demand-Course-Catalog/Social-Services-Designee-Certification-Program",
+      "label": "Social Services Designee Certification Program",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-social-services/",
+      "href": "https://www.cahf.org/Education-Events/Event-Info/sessionaltcd/SSDONLINE3",
+      "label": "Social Services Designee Certification\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-social-services/",
+      "href": "https://www.cdss.ca.gov/inforesources/foster-care/cans/training-and-certification",
+      "label": "Department of Social services\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-social-services/",
+      "href": "https://www.cdss.ca.gov/inforesources/foster-care/cans/training-and-certification",
+      "label": "Department of Social services",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-social-services/",
+      "href": "https://www.cdss.ca.gov/inforesources/foster-care/cans/training-and-certification",
+      "label": "Department of Social services\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-social-services/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-social-services/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Quality Care Health Foundation",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-activities/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-activities/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Quality Care Health Foundation",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-administration/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Online-Continuing-Education-Providers.aspx",
+      "label": "Online Continuing Education Providers\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-administration/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/CEUProviders.aspx",
+      "label": "Continuing Education Units Providers (CEU)\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-administration/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/careerpaths/careers-in-administration/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Quality Care Health Foundation",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/",
+      "href": "https://sisucare.com/",
+      "label": " ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/",
+      "href": "https://www.ncnursingacademy.com/programs/direct-care-workforce-innovation-project?gclid=Cj0KCQiAwvKtBhDrARIsAJj-kThXefQVd4zSNQILKJnqSl9xfLhOvFK0_bD1AI1Dozj1RM0ISyiFtx8aAlZSEALw_wcB",
+      "label": " ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/",
+      "href": "https://clovisadult.cusd.com/nurse-assistant",
+      "label": " ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/",
+      "href": "https://facetshealthcare.com/",
+      "label": " ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/",
+      "href": "https://go.unitekcollege.edu/?utm_source=google&utm_medium=cpc&utm_term=unitek&utm_campaign=All-Brand-Search&utm_adgroup=General&utm_content=684797170309&network=g&placement=&program=&campus=&keyword=unitek&match_type=p&device=c&gad_source=1&gclid=CjwKCAiAt5euBhB9EiwAdkXWOxwkIQYdVS97xsqqQDl69dCUClWfTzIqH2qfLQOAzv_gAgfFG5FqThoCAacQAvD_BwE",
+      "label": " ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/",
+      "href": "https://hcinteractive.com/cusp/",
+      "label": " ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/",
+      "href": "https://synergyhealthcareeducation.com/",
+      "label": " ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Quality Care Health Foundation",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/career-seekers/",
+      "href": "https://www.census.gov/topics/population/older-aging.html",
+      "label": "  The U.S. senior population is growing rapidlyLearn More ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/career-seekers/",
+      "href": "https://www.cdc.gov/nchs/fastats/nursing-home-care.htm",
+      "label": "  An estimated 1.3 million people resided in nursing home facilities as of 2020Learn More ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/career-seekers/",
+      "href": "http://eepurl.com/iHs9UM",
+      "label": "See terms",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/career-seekers/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/career-seekers/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Quality Care Health Foundation",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/career-paths-in-long-term-care/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/career-paths-in-long-term-care/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Quality Care Health Foundation",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/community-resources/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Online-CNA-Training-Providers.aspx",
+      "label": "  Nurse Assistant Training Providers (Online Schools) ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/community-resources/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Certified-Nurse-Assistant-Training-Programs.aspx",
+      "label": "  Certified Nurse Assistant (CNA) Training Programs (Schools) ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/community-resources/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Facility-Based-Nurse-Assistant-Training-Programs.aspx",
+      "label": "  Facility-based Nurse Assistant Training Programs (Skilled Nursing Facilities) ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/community-resources/",
+      "href": "https://docs.google.com/spreadsheets/d/1izJ-UEb6VyigMTIaXrdvRtY7XgcT0qQd/edit?usp=sharing&ouid=116256928001491444929&rtpof=true&sd=true",
+      "label": "  CNAP Earn and Learn Partners* ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/community-resources/",
+      "href": "https://drive.google.com/file/d/114OUsMQ6hWJjK9dYjgDSrZjI7I_wzzaa/view?usp=drive_link",
+      "label": "  Download Toolkit  ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/community-resources/",
+      "href": "https://drive.google.com/file/d/114OUsMQ6hWJjK9dYjgDSrZjI7I_wzzaa/view?usp=drive_link",
+      "label": "  CNA Toolkit (English) ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/community-resources/",
+      "href": "https://drive.google.com/file/d/1P6Srr1oBXeeAM034cER6kEKhmNdc7l7Z/view?usp=drive_link",
+      "label": "  CNA Toolkit (Spanish) ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/community-resources/",
+      "href": "https://drive.google.com/file/d/1rlGe70HR0bkqizvaxI_rlKGDBIEgapoQ/view?usp=drive_link",
+      "label": "  CNA Toolkit (Arabic) ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/community-resources/",
+      "href": "https://drive.google.com/file/d/1drGdgN4XRBPNkQmXMX44Ax13kltzDBHc/view?usp=drive_link",
+      "label": "  CNA Toolkit (Dari) ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/community-resources/",
+      "href": "https://drive.google.com/file/d/1tr0xYcmPYDrd9dYWqT5uWC0dMkt4nXFc/view?usp=drive_link",
+      "label": "  CNA Toolkit (Swahili) ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/community-resources/",
+      "href": "https://docs.google.com/forms/d/e/1FAIpQLSc0D3eEMK794UCALMAHFjeqVNNUhwpY8j4nDArt0vSI-iqQFQ/viewform",
+      "label": "  Take CNA Practice Exam ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/community-resources/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/community-resources/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Quality Care Health Foundation",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/privacy-policy/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/privacy-policy/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Quality Care Health Foundation",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/certified-nurse-assistant-program/",
+      "href": "https://www.census.gov/topics/population/older-aging.html",
+      "label": "  The U.S. senior population is growing rapidlyLearn More ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/certified-nurse-assistant-program/",
+      "href": "https://www.cdc.gov/nchs/fastats/nursing-home-care.htm",
+      "label": "  An estimated 1.3 million people resided in nursing home facilities as of 2020Learn More ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/certified-nurse-assistant-program/",
+      "href": "https://docs.google.com/spreadsheets/d/1izJ-UEb6VyigMTIaXrdvRtY7XgcT0qQd/edit?usp=sharing&ouid=116256928001491444929&rtpof=true&sd=true",
+      "label": "  Find an Earn and Learn Training Facility  ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/certified-nurse-assistant-program/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Facility-Based-Nurse-Assistant-Training-Programs.aspx",
+      "label": "  Find a Facility Based Training Program  ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/certified-nurse-assistant-program/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Certified-Nurse-Assistant-Training-Programs.aspx",
+      "label": "  Find a Community Based Training Program  ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/certified-nurse-assistant-program/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Online-CNA-Training-Providers.aspx",
+      "label": "  Find an Online Training Program  ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/certified-nurse-assistant-program/",
+      "href": "https://drive.google.com/file/d/1oRWGmAkiB2NhDsSIzmTk49G0yMp81iAn/view?usp=drive_link",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/certified-nurse-assistant-program/",
+      "href": "https://drive.google.com/file/d/1oRWGmAkiB2NhDsSIzmTk49G0yMp81iAn/view?usp=drive_link",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/certified-nurse-assistant-program/",
+      "href": "https://drive.google.com/file/d/1-w0RmKzAzfodbZhzFIb8k8NZZOIUZ5Kl/view?usp=sharing",
+      "label": "Download the CNA Upskilling Timeline",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/certified-nurse-assistant-program/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/certified-nurse-assistant-program/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Quality Care Health Foundation",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/cna-training-providers/",
+      "href": "https://docs.google.com/spreadsheets/d/1izJ-UEb6VyigMTIaXrdvRtY7XgcT0qQd/edit?usp=sharing&ouid=116256928001491444929&rtpof=true&sd=true",
+      "label": "  List of CNA Earn and Learn Training Partners  ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/cna-training-providers/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Facility-Based-Nurse-Assistant-Training-Programs.aspx",
+      "label": "  List of Facility Based Training Programs  ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/cna-training-providers/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Online-CNA-Training-Providers.aspx",
+      "label": "  List of Online Training Programs  ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/cna-training-providers/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Certified-Nurse-Assistant-Training-Programs.aspx",
+      "label": "  List of Community Based Training Programs  ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/cna-training-providers/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/cna-training-providers/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Quality Care Health Foundation",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/what-is-long-term-care/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/what-is-long-term-care/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Quality Care Health Foundation",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/career-advancement/",
+      "href": "https://www.consumeraffairs.com/health/long-term-care-statistics.html",
+      "label": "  Long-term care facilities in the US currently serve over 8.3 million residentsLearn More ",
+      "target": "_blank",
+      "rel": "nofollow noopener noreferrer"
+    },
+    {
+      "path": "/career-advancement/",
+      "href": "https://www.consumeraffairs.com/health/long-term-care-statistics.html",
+      "label": "  By 2030, the number of nursing home residents in the US is expected to doubleLearn More ",
+      "target": "_blank",
+      "rel": "nofollow noopener noreferrer"
+    },
+    {
+      "path": "/career-advancement/",
+      "href": "http://eepurl.com/iHs9UM",
+      "label": "See terms",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/career-advancement/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/career-advancement/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Quality Care Health Foundation",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/earn-and-learn-la/",
+      "href": "https://www.cdc.gov/nchs/fastats/nursing-home-care.htm",
+      "label": "  An estimated 1.3 million people resided in nursing home facilities as of 2020Learn More ",
+      "target": "_blank",
+      "rel": "nofollow noopener noreferrer"
+    },
+    {
+      "path": "/earn-and-learn-la/",
+      "href": "http://eepurl.com/iHs9UM",
+      "label": "See terms",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/earn-and-learn-la/",
+      "href": "https://docs.google.com/spreadsheets/d/1izJ-UEb6VyigMTIaXrdvRtY7XgcT0qQd/edit?usp=sharing&ouid=116256928001491444929&rtpof=true&sd=true",
+      "label": "  Find an Earn and Learn Training Facility  ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/earn-and-learn-la/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/earn-and-learn-la/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Quality Care Health Foundation",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/frequently-asked-questions/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/CNA.aspx#:~:text=Be%20at%20least%20sixteen%20(16,Obtain%20a%20criminal%20record%20clearance.",
+      "label": "California Department of Public Health",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/frequently-asked-questions/",
+      "href": "http://eepurl.com/iHs9UM",
+      "label": "See terms",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/frequently-asked-questions/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/frequently-asked-questions/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Quality Care Health Foundation",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/earn-and-learn-cvalley/",
+      "href": "https://www.cdc.gov/nchs/fastats/nursing-home-care.htm",
+      "label": "  An estimated 1.3 million people resided in nursing home facilities as of 2020Learn More ",
+      "target": "_blank",
+      "rel": "nofollow noopener noreferrer"
+    },
+    {
+      "path": "/earn-and-learn-cvalley/",
+      "href": "http://eepurl.com/iHs9UM",
+      "label": "See terms",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/earn-and-learn-cvalley/",
+      "href": "https://docs.google.com/spreadsheets/d/1izJ-UEb6VyigMTIaXrdvRtY7XgcT0qQd/edit?usp=sharing&ouid=116256928001491444929&rtpof=true&sd=true",
+      "label": "  Find an Earn and Learn Training Facility  ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/earn-and-learn-cvalley/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/earn-and-learn-cvalley/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Quality Care Health Foundation",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/earn-and-learn-bayarea/",
+      "href": "https://www.cdc.gov/nchs/fastats/nursing-home-care.htm",
+      "label": "  An estimated 1.3 million people resided in nursing home facilities as of 2020Learn More ",
+      "target": "_blank",
+      "rel": "nofollow noopener noreferrer"
+    },
+    {
+      "path": "/earn-and-learn-bayarea/",
+      "href": "http://eepurl.com/iHs9UM",
+      "label": "See terms",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/earn-and-learn-bayarea/",
+      "href": "https://docs.google.com/spreadsheets/d/1izJ-UEb6VyigMTIaXrdvRtY7XgcT0qQd/edit?usp=sharing&ouid=116256928001491444929&rtpof=true&sd=true",
+      "label": "  Find an Earn and Learn Training Facility  ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/earn-and-learn-bayarea/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/earn-and-learn-bayarea/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Quality Care Health Foundation",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/earn-and-learn-norcal/",
+      "href": "https://www.cdc.gov/nchs/fastats/nursing-home-care.htm",
+      "label": "  An estimated 1.3 million people resided in nursing home facilities as of 2020Learn More ",
+      "target": "_blank",
+      "rel": "nofollow noopener noreferrer"
+    },
+    {
+      "path": "/earn-and-learn-norcal/",
+      "href": "http://eepurl.com/iHs9UM",
+      "label": "See terms",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/earn-and-learn-norcal/",
+      "href": "https://docs.google.com/spreadsheets/d/1izJ-UEb6VyigMTIaXrdvRtY7XgcT0qQd/edit?usp=sharing&ouid=116256928001491444929&rtpof=true&sd=true",
+      "label": "  Find an Earn and Learn Training Facility  ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/earn-and-learn-norcal/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/earn-and-learn-norcal/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Quality Care Health Foundation",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/earn-and-learn-san-diego/",
+      "href": "https://www.cdc.gov/nchs/fastats/nursing-home-care.htm",
+      "label": "  An estimated 1.3 million people resided in nursing home facilities as of 2020Learn More ",
+      "target": "_blank",
+      "rel": "nofollow noopener noreferrer"
+    },
+    {
+      "path": "/earn-and-learn-san-diego/",
+      "href": "http://eepurl.com/iHs9UM",
+      "label": "See terms",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/earn-and-learn-san-diego/",
+      "href": "https://docs.google.com/spreadsheets/d/1izJ-UEb6VyigMTIaXrdvRtY7XgcT0qQd/edit?usp=sharing&ouid=116256928001491444929&rtpof=true&sd=true",
+      "label": "  Find an Earn and Learn Training Facility  ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/earn-and-learn-san-diego/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/earn-and-learn-san-diego/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Quality Care Health Foundation",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/earn-and-learn/",
+      "href": "https://www.cdc.gov/nchs/fastats/nursing-home-care.htm",
+      "label": "  An estimated 1.3 million people resided in nursing home facilities as of 2020Learn More ",
+      "target": "_blank",
+      "rel": "nofollow noopener noreferrer"
+    },
+    {
+      "path": "/earn-and-learn/",
+      "href": "http://eepurl.com/iHs9UM",
+      "label": "See terms",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/earn-and-learn/",
+      "href": "https://docs.google.com/spreadsheets/d/1izJ-UEb6VyigMTIaXrdvRtY7XgcT0qQd/edit?usp=sharing&ouid=116256928001491444929&rtpof=true&sd=true",
+      "label": "  Find an Earn and Learn Training Facility  ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/earn-and-learn/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/earn-and-learn/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Quality Care Health Foundation",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/",
+      "href": "https://sisucare.com/",
+      "label": " ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/",
+      "href": "https://www.ncnursingacademy.com/programs/direct-care-workforce-innovation-project?gclid=Cj0KCQiAwvKtBhDrARIsAJj-kThXefQVd4zSNQILKJnqSl9xfLhOvFK0_bD1AI1Dozj1RM0ISyiFtx8aAlZSEALw_wcB",
+      "label": " ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/",
+      "href": "https://clovisadult.cusd.com/nurse-assistant",
+      "label": " ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/",
+      "href": "https://facetshealthcare.com/",
+      "label": " ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/",
+      "href": "https://go.unitekcollege.edu/?utm_source=google&utm_medium=cpc&utm_term=unitek&utm_campaign=All-Brand-Search&utm_adgroup=General&utm_content=684797170309&network=g&placement=&program=&campus=&keyword=unitek&match_type=p&device=c&gad_source=1&gclid=CjwKCAiAt5euBhB9EiwAdkXWOxwkIQYdVS97xsqqQDl69dCUClWfTzIqH2qfLQOAzv_gAgfFG5FqThoCAacQAvD_BwE",
+      "label": " ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/",
+      "href": "https://hcinteractive.com/cusp/",
+      "label": " ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/",
+      "href": "https://synergyhealthcareeducation.com/",
+      "label": " ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Fundación Quality Care Health",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/que-es-cuidar-a-largo-plazo/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/que-es-cuidar-a-largo-plazo/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Fundación Quality Care Health",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/recursos-comunitarios/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Online-CNA-Training-Providers.aspx",
+      "label": "  Programas de Capacitación para Asistentes de Enfermería (en línea) ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/recursos-comunitarios/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Certified-Nurse-Assistant-Training-Programs.aspx",
+      "label": "  Programas de Capacitación para Asistentes de Enfermería Certificados (Escuelas) ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/recursos-comunitarios/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Facility-Based-Nurse-Assistant-Training-Programs.aspx",
+      "label": "  Programas de Capacitación en Residencias (Centros de Enfermería Especializada) ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/recursos-comunitarios/",
+      "href": "https://docs.google.com/spreadsheets/d/1izJ-UEb6VyigMTIaXrdvRtY7XgcT0qQd/edit?usp=sharing&ouid=116256928001491444929&rtpof=true&sd=true",
+      "label": "  Socios Earn and Learn CNAP ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/recursos-comunitarios/",
+      "href": "https://drive.google.com/file/d/114OUsMQ6hWJjK9dYjgDSrZjI7I_wzzaa/view?usp=drive_link",
+      "label": "  Descargar Kit  ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/recursos-comunitarios/",
+      "href": "https://drive.google.com/file/d/114OUsMQ6hWJjK9dYjgDSrZjI7I_wzzaa/view?usp=drive_link",
+      "label": "  Kit de Herramientas de CNA (inglés) ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/recursos-comunitarios/",
+      "href": "https://drive.google.com/file/d/1P6Srr1oBXeeAM034cER6kEKhmNdc7l7Z/view?usp=drive_link",
+      "label": "  Kit de Herramientas de CNA (español) ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/recursos-comunitarios/",
+      "href": "https://drive.google.com/file/d/1rlGe70HR0bkqizvaxI_rlKGDBIEgapoQ/view?usp=drive_link",
+      "label": "  Kit de Herramientas de CNA (árabe) ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/recursos-comunitarios/",
+      "href": "https://drive.google.com/file/d/1drGdgN4XRBPNkQmXMX44Ax13kltzDBHc/view?usp=drive_link",
+      "label": "  Kit de Herramientas de CNA (dari) ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/recursos-comunitarios/",
+      "href": "https://drive.google.com/file/d/1tr0xYcmPYDrd9dYWqT5uWC0dMkt4nXFc/view?usp=drive_link",
+      "label": "  Kit de Herramientas de CNA (suajili) ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/recursos-comunitarios/",
+      "href": "https://docs.google.com/forms/d/e/1FAIpQLSc0D3eEMK794UCALMAHFjeqVNNUhwpY8j4nDArt0vSI-iqQFQ/viewform",
+      "label": "  Tomar Examen de Práctica de CNA (en inglés) ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/recursos-comunitarios/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/recursos-comunitarios/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Fundación Quality Care Health",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Fundación Quality Care Health",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/programa-cna/",
+      "href": "https://www.census.gov/topics/population/older-aging.html",
+      "label": "  La población de personas mayores en Estados Unidos está creciendo rápidamente.Ver más ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/programa-cna/",
+      "href": "https://www.cdc.gov/nchs/fastats/nursing-home-care.htm",
+      "label": "  Se estima que 1.3 millones de personas residían en centros de cuidados para ancianos a partir de 2020Ver más ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/programa-cna/",
+      "href": "https://docs.google.com/spreadsheets/d/1izJ-UEb6VyigMTIaXrdvRtY7XgcT0qQd/edit?usp=sharing&ouid=116256928001491444929&rtpof=true&sd=true",
+      "label": "  Encuentra un Centro de Capacitación \"Earn and Learn\"  ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/programa-cna/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Facility-Based-Nurse-Assistant-Training-Programs.aspx",
+      "label": "  Encuentra centros de certificación  ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/programa-cna/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Certified-Nurse-Assistant-Training-Programs.aspx",
+      "label": "  Encuentra escuelas de certificación  ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/programa-cna/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Online-CNA-Training-Providers.aspx",
+      "label": "  Encuentra certificación en línea  ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/programa-cna/",
+      "href": "https://drive.google.com/file/d/1oRWGmAkiB2NhDsSIzmTk49G0yMp81iAn/view?usp=drive_link",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/programa-cna/",
+      "href": "https://drive.google.com/file/d/1oRWGmAkiB2NhDsSIzmTk49G0yMp81iAn/view?usp=drive_link",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/programa-cna/",
+      "href": "https://drive.google.com/file/d/1-w0RmKzAzfodbZhzFIb8k8NZZOIUZ5Kl/view?usp=sharing",
+      "label": "Descarga el cronograma de mejora de habilidades de CNA",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/programa-cna/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/programa-cna/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Fundación Quality Care Health",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/aspirantes/",
+      "href": "https://www.census.gov/topics/population/older-aging.html",
+      "label": "  La población de personas mayores en Estados Unidos está creciendo rápidamente.Ver más ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/aspirantes/",
+      "href": "https://www.cdc.gov/nchs/fastats/nursing-home-care.htm",
+      "label": "  Se estima que 1.3 millones de personas residían en centros de cuidados para ancianos a partir de 2020Ver más ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/aspirantes/",
+      "href": "http://eepurl.com/iHs9UM",
+      "label": "Consulta los términos",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/aspirantes/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/aspirantes/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Fundación Quality Care Health",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/programa-cna-2/",
+      "href": "https://docs.google.com/spreadsheets/d/1izJ-UEb6VyigMTIaXrdvRtY7XgcT0qQd/edit?usp=sharing&ouid=116256928001491444929&rtpof=true&sd=true",
+      "label": "  Lista de programas de Earn and Learn  ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/programa-cna-2/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Facility-Based-Nurse-Assistant-Training-Programs.aspx",
+      "label": "  Lista de Escuelas  ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/programa-cna-2/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Online-CNA-Training-Providers.aspx",
+      "label": "  Lista de programas de capacitación en línea  ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/programa-cna-2/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Certified-Nurse-Assistant-Training-Programs.aspx",
+      "label": "  Lista de programas comunitarios de capacitación  ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/programa-cna-2/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/programa-cna-2/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Fundación Quality Care Health",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/CNA.aspx#:~:text=Beatleastsixteen(16,Obtainacriminalrecordclearance.",
+      "label": "Departamento de Salud Pública de\nCalifornia.",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "href": "http://eepurl.com/iHs9UM",
+      "label": "Consulta los términos",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Fundación Quality Care Health",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/CNA.aspx#:~:text=Be%20at%20least%20sixteen%20(16,Obtain%20a%20criminal%20record%20clearance.",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/CNA.aspx#:~:text=Beatleastsixteen(16,Obtainacriminalrecordclearance.",
+      "label": " Departamento de Salud\nPública de California.",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Facility-Based-Nurse-Assistant-Training-Programs.aspx",
+      "label": "Programas de Capacitación de CNA en Residencias  ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Certified-Nurse-Assistant-Training-Programs.aspx",
+      "label": "Programas Comunitarios de Capacitación de CNA  ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Online-CNA-Training-Providers.aspx",
+      "label": "Proveedores de Programas de Capacitación de CNA en Línea  ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Online-Continuing-Education-Providers.aspx",
+      "label": "Online Continuing Education Providers\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/CEUProviders.aspx",
+      "label": "Continuing Education Units Providers (CEU)\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Fundación Quality Care Health",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "href": "https://www.bvnpt.ca.gov/applicants/summary_vn.shtml",
+      "label": "de la Junta de\nEnfermería Vocacional de California.",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Online-Continuing-Education-Providers.aspx",
+      "label": "Online Continuing Education Providers\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/CEUProviders.aspx",
+      "label": "Continuing Education Units Providers (CEU)\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "href": "https://www.rn.ca.gov/applicants/lic-exam.shtml",
+      "label": " Estatales de Enfermería (NCSBN)",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Online-Continuing-Education-Providers.aspx",
+      "label": "Online Continuing Education Providers\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/CEUProviders.aspx",
+      "label": "Continuing Education Units Providers (CEU)\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Online-Continuing-Education-Providers.aspx",
+      "label": "Online Continuing Education Providers\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/CEUProviders.aspx",
+      "label": "Continuing Education Units Providers (CEU)\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Online-Continuing-Education-Providers.aspx",
+      "label": "Online Continuing Education Providers\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/CEUProviders.aspx",
+      "label": "Continuing Education Units Providers (CEU)\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "href": "https://www.cahf.org/events/event-registration/?eventcd=DSD021026",
+      "label": "Formación de DSD",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Online-Continuing-Education-Providers.aspx",
+      "label": "Online Continuing Education Providers\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/CEUProviders.aspx",
+      "label": "Continuing Education Units Providers (CEU)\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Online-Continuing-Education-Providers.aspx",
+      "label": "Online Continuing Education Providers\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/CEUProviders.aspx",
+      "label": "Continuing Education Units Providers (CEU)\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Online-Continuing-Education-Providers.aspx",
+      "label": "Online Continuing Education Providers\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/CEUProviders.aspx",
+      "label": "Continuing Education Units Providers (CEU)\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Fundación Quality Care Health",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-de-apoyo/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-de-apoyo/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Fundación Quality Care Health",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-terapia/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Online-Continuing-Education-Providers.aspx",
+      "label": "Online Continuing Education Providers\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-terapia/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/CEUProviders.aspx",
+      "label": "Continuing Education Units Providers (CEU)\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-terapia/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-terapia/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Fundación Quality Care Health",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Fundación Quality Care Health",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-sociales/",
+      "href": "https://www.cahf.org/Education-Events/Education/On-Demand-Course-Catalog/Social-Services-Designee-Certification-Program",
+      "label": "Servicios Sociales\naprobado por el estado",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-sociales/",
+      "href": "https://www.cahf.org/Education-Events/Event-Info/sessionaltcd/SSDONLINE3",
+      "label": "Social Services Designee Certification\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-sociales/",
+      "href": "https://www.cdss.ca.gov/inforesources/foster-care/cans/training-and-certification",
+      "label": "Department of Social services\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-sociales/",
+      "href": "https://www.cdss.ca.gov/inforesources/foster-care/cans/training-and-certification",
+      "label": " trabajadores sociales.",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-sociales/",
+      "href": "https://www.cdss.ca.gov/inforesources/foster-care/cans/training-and-certification",
+      "label": "Department of Social services\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-sociales/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-sociales/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Fundación Quality Care Health",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-actividades/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-actividades/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Fundación Quality Care Health",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-administracion/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Online-Continuing-Education-Providers.aspx",
+      "label": "Online Continuing Education Providers\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-administracion/",
+      "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/CEUProviders.aspx",
+      "label": "Continuing Education Units Providers (CEU)\n ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-administracion/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/carreras/carreras-en-administracion/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Fundación Quality Care Health",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/politica-de-privacidad/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/politica-de-privacidad/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Fundación Quality Care Health",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "href": "https://www.consumeraffairs.com/health/long-term-care-statistics.html",
+      "label": "  En el país, las residencias y asilos de adultos mayores\natienden a más de 8.3 millones de residentesVer más ",
+      "target": "_blank",
+      "rel": "nofollow noopener noreferrer"
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "href": "https://www.consumeraffairs.com/health/long-term-care-statistics.html",
+      "label": "  Para 2030, se espera que este número se dupliqueVer más ",
+      "target": "_blank",
+      "rel": "nofollow noopener noreferrer"
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "href": "http://eepurl.com/iHs9UM",
+      "label": "Consulta los términos",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Fundación Quality Care Health",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/ganar-y-aprender-la/",
+      "href": "https://www.cdc.gov/nchs/fastats/nursing-home-care.htm",
+      "label": "  Se estima que 1.3 millones de personas residían en centros de cuidados para ancianos a partir de 2020Ver más ",
+      "target": "_blank",
+      "rel": "nofollow noopener noreferrer"
+    },
+    {
+      "path": "/es/ganar-y-aprender-la/",
+      "href": "http://eepurl.com/iHs9UM",
+      "label": "Consulta los términos",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/ganar-y-aprender-la/",
+      "href": "https://docs.google.com/spreadsheets/d/1izJ-UEb6VyigMTIaXrdvRtY7XgcT0qQd/edit?usp=sharing&ouid=116256928001491444929&rtpof=true&sd=true",
+      "label": "  Encuentra un Centro de Capacitación \"Earn and Learn\"  ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/ganar-y-aprender-la/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/ganar-y-aprender-la/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Fundación Quality Care Health",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/gana-y-aprende-cvalley/",
+      "href": "https://www.cdc.gov/nchs/fastats/nursing-home-care.htm",
+      "label": "  Se estima que 1.3 millones de personas residían en centros de cuidados para ancianos a partir de 2020Ver más ",
+      "target": "_blank",
+      "rel": "nofollow noopener noreferrer"
+    },
+    {
+      "path": "/es/gana-y-aprende-cvalley/",
+      "href": "http://eepurl.com/iHs9UM",
+      "label": "Consulta los términos",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/gana-y-aprende-cvalley/",
+      "href": "https://docs.google.com/spreadsheets/d/1izJ-UEb6VyigMTIaXrdvRtY7XgcT0qQd/edit?usp=sharing&ouid=116256928001491444929&rtpof=true&sd=true",
+      "label": "  Encuentra un Centro de Capacitación \"Earn and Learn\"  ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/gana-y-aprende-cvalley/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/gana-y-aprende-cvalley/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Fundación Quality Care Health",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/gana-y-aprende-bayarea/",
+      "href": "https://www.cdc.gov/nchs/fastats/nursing-home-care.htm",
+      "label": "  Se estima que 1.3 millones de personas residían en centros de cuidados para ancianos a partir de 2020Ver más ",
+      "target": "_blank",
+      "rel": "nofollow noopener noreferrer"
+    },
+    {
+      "path": "/es/gana-y-aprende-bayarea/",
+      "href": "http://eepurl.com/iHs9UM",
+      "label": "Consulta los términos",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/gana-y-aprende-bayarea/",
+      "href": "https://docs.google.com/spreadsheets/d/1izJ-UEb6VyigMTIaXrdvRtY7XgcT0qQd/edit?usp=sharing&ouid=116256928001491444929&rtpof=true&sd=true",
+      "label": "  Encuentra un Centro de Capacitación \"Earn and Learn\"  ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/gana-y-aprende-bayarea/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/gana-y-aprende-bayarea/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Fundación Quality Care Health",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/earn-and-learn-norcal/",
+      "href": "https://www.cdc.gov/nchs/fastats/nursing-home-care.htm",
+      "label": "  Se estima que 1.3 millones de personas residían en centros de cuidados para ancianos a partir de 2020Ver más ",
+      "target": "_blank",
+      "rel": "nofollow noopener noreferrer"
+    },
+    {
+      "path": "/es/earn-and-learn-norcal/",
+      "href": "http://eepurl.com/iHs9UM",
+      "label": "Consulta los términos",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/earn-and-learn-norcal/",
+      "href": "https://docs.google.com/spreadsheets/d/1izJ-UEb6VyigMTIaXrdvRtY7XgcT0qQd/edit?usp=sharing&ouid=116256928001491444929&rtpof=true&sd=true",
+      "label": "  Encuentra un Centro de Capacitación \"Earn and Learn\"  ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/earn-and-learn-norcal/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/earn-and-learn-norcal/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Fundación Quality Care Health",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/gana-y-aprende-san-diego/",
+      "href": "https://www.cdc.gov/nchs/fastats/nursing-home-care.htm",
+      "label": "  Se estima que 1.3 millones de personas residían en centros de cuidados para ancianos a partir de 2020Ver más ",
+      "target": "_blank",
+      "rel": "nofollow noopener noreferrer"
+    },
+    {
+      "path": "/es/gana-y-aprende-san-diego/",
+      "href": "http://eepurl.com/iHs9UM",
+      "label": "Consulta los términos",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/gana-y-aprende-san-diego/",
+      "href": "https://docs.google.com/spreadsheets/d/1izJ-UEb6VyigMTIaXrdvRtY7XgcT0qQd/edit?usp=sharing&ouid=116256928001491444929&rtpof=true&sd=true",
+      "label": "  Encuentra un Centro de Capacitación \"Earn and Learn\"  ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/gana-y-aprende-san-diego/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/gana-y-aprende-san-diego/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Fundación Quality Care Health",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/earn-and-learn/",
+      "href": "https://www.cdc.gov/nchs/fastats/nursing-home-care.htm",
+      "label": "  Se estima que 1.3 millones de personas residían en centros de cuidados para ancianos a partir de 2020Ver más ",
+      "target": "_blank",
+      "rel": "nofollow noopener noreferrer"
+    },
+    {
+      "path": "/es/earn-and-learn/",
+      "href": "http://eepurl.com/iHs9UM",
+      "label": "Consulta los términos",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/earn-and-learn/",
+      "href": "https://docs.google.com/spreadsheets/d/1izJ-UEb6VyigMTIaXrdvRtY7XgcT0qQd/edit?usp=sharing&ouid=116256928001491444929&rtpof=true&sd=true",
+      "label": "  Encuentra un Centro de Capacitación \"Earn and Learn\"  ",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/earn-and-learn/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    {
+      "path": "/es/earn-and-learn/",
+      "href": "https://www.cahf.org/Education-Events/QCHF",
+      "label": "Fundación Quality Care Health",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  ]
+}
