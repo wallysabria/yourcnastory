@@ -1,5 +1,5 @@
 'use client';
-import { useEffect, useRef, useState, type ReactNode, type CSSProperties } from 'react';
+import { useEffect, useId, useRef, useState, type ReactNode, type CSSProperties } from 'react';
 import labels from '@/content/ui/widgets.json';
 import type { Locale } from '@/lib/content-schema';
 function Glyph({ kind }: { kind: 'previous' | 'next' | 'pause' | 'play' | 'close' }) {
@@ -283,6 +283,7 @@ export function VideoTrigger({
     trigger = useRef<HTMLButtonElement>(null),
     [playing, setPlaying] = useState(false);
   const t = labels[locale];
+  const dialogId = useId();
   useEffect(() => {
     if (!playing) return;
     const previous = document.body.style.overflow;
@@ -293,8 +294,6 @@ export function VideoTrigger({
   }, [playing]);
   function close() {
     dialog.current?.close();
-    setPlaying(false);
-    trigger.current?.focus();
   }
   return (
     <>
@@ -304,6 +303,9 @@ export function VideoTrigger({
         type="button"
         className={(className || '') + ' native-video-trigger'}
         aria-label={t.playVideo}
+        aria-haspopup="dialog"
+        aria-controls={dialogId}
+        aria-expanded={playing}
         onClick={() => {
           setPlaying(true);
           dialog.current?.showModal();
@@ -314,9 +316,15 @@ export function VideoTrigger({
       {
         <dialog
           ref={dialog}
+          id={dialogId}
+          aria-modal="true"
           className="native-video-dialog"
           aria-label={t.video}
-          onCancel={() => {
+          onCancel={(event) => {
+            event.preventDefault();
+            close();
+          }}
+          onClose={() => {
             setPlaying(false);
             trigger.current?.focus();
           }}

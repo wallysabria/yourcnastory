@@ -117,3 +117,8 @@ Owner approved separate white question cards on a soft gray background, rounded 
 ## D-014/D-015 — FAQ gaps and responsive signup sizing — approved 2026-11-10
 
 Owner requested removing exterior white gaps around the light-blue FAQ section and compacting signup form fields/descriptions/disclaimer across every placement, with no overlap into adjacent sections at responsive sizes. Reset FAQ exterior margins; preserve inner card padding. Remove inherited form wrapper margins (-200px top/-280px bottom), keep sections in normal flow sized to their form, use 14px labels, 16px input text, existing 11px helper/disclaimer text with tighter 1.45 line-height, and consistent field spacing. Do not edit disclosure wording/consent, fields, validation, destinations or submission integrations. All 18 EN/ES placements are in scope; no live form submissions.
+
+
+## D-016 — Source-style video lightboxes — approved 2026-11-10
+
+Owner requested video buttons open a player in a popup/shadowbox matching the reference. Audit: 22 existing source video-button actions on 20 EN/ES pages already target YouTube embed URLs, but theme margins position the dialog at (0,0) and can put the close control off-screen. Center the shared player, fit its 16:9 size within the viewport (including short landscape screens), darken the background and place a visible 44px close control at the top-right. Retain native modal focus handling; Escape/button/backdrop close, restore trigger focus and remove the iframe to stop playback. Keep source button appearance, video IDs/URLs, copy and destinations; defer third-party loading until activation. Previously approved inline Community Resources YouTube/Vidyard players stay inline. Employers remains gated.

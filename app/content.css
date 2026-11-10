@@ -826,3 +826,51 @@ body:has(.site-header:not(.is-scrolled)) .back-to-top {
     padding: 20px;
   }
 }
+/* D-016: centered, viewport-fitting video lightboxes with an accessible close control. */
+.page-content.page-content .native-video-dialog {
+  position: fixed;
+  inset: 0;
+  margin: auto;
+  width: min(1600px, 90vw, calc((100dvh - 96px) * 16 / 9));
+  max-width: 90vw;
+  max-height: none;
+  height: fit-content;
+  padding: 0;
+  border: 0;
+  background: #000;
+  overflow: visible;
+}
+.page-content.page-content .native-video-dialog::backdrop {
+  background: rgb(0 10 20 / 88%);
+}
+.page-content.page-content .native-video-dialog > iframe {
+  display: block;
+  width: 100%;
+  height: auto;
+  min-height: 0;
+  aspect-ratio: 16 / 9;
+  border: 0;
+}
+.page-content.page-content .native-video-dialog > .native-dialog-close {
+  position: fixed;
+  top: max(12px, env(safe-area-inset-top));
+  right: max(12px, env(safe-area-inset-right));
+  display: grid;
+  place-items: center;
+  width: 44px;
+  height: 44px;
+  margin: 0;
+  padding: 10px;
+  border: 0;
+  border-radius: 50%;
+  background: transparent;
+  color: #fff;
+  cursor: pointer;
+}
+.page-content.page-content .native-video-dialog > .native-dialog-close:hover {
+  background: rgb(255 255 255 / 12%);
+}
+.page-content.page-content .native-video-dialog > .native-dialog-close:focus-visible {
+  outline: 2px solid #fff;
+  outline-offset: 2px;
+}

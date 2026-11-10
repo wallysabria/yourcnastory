@@ -1,0 +1,1504 @@
+{
+  "checkedAt": "2026-11-10T16:30:19.261Z",
+  "pages": 20,
+  "buttons": 22,
+  "hidden": [
+    {
+      "path": "/career-advancement/",
+      "viewport": {
+        "width": 1920,
+        "height": 1000
+      },
+      "videoUrl": "https://www.youtube.com/embed/4TgejVEX9Nc?feature=oembed"
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "viewport": {
+        "width": 1920,
+        "height": 1000
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed"
+    },
+    {
+      "path": "/career-advancement/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "videoUrl": "https://www.youtube.com/embed/4TgejVEX9Nc?feature=oembed"
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed"
+    },
+    {
+      "path": "/career-advancement/",
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "videoUrl": "https://www.youtube.com/embed/4TgejVEX9Nc?feature=oembed"
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed"
+    }
+  ],
+  "method": "Mock YouTube iframe responses; source embed URLs/IDs unchanged. No real provider playback or analytics verification.",
+  "checks": [
+    {
+      "path": "/career-seekers/",
+      "viewport": {
+        "width": 1920,
+        "height": 1000
+      },
+      "videoUrl": "https://www.youtube.com/embed/jZ_0pUQh8KY?feature=oembed",
+      "rect": {
+        "x": 160,
+        "y": 50,
+        "width": 1600,
+        "height": 900
+      },
+      "close": {
+        "x": 1864,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true,
+      "screenshot": "docs/reports/video-lightboxes/en-1920x1000.png"
+    },
+    {
+      "path": "/certified-nurse-assistant-program/",
+      "viewport": {
+        "width": 1920,
+        "height": 1000
+      },
+      "videoUrl": "https://www.youtube.com/embed/qCKWeZ15LFE?feature=oembed",
+      "rect": {
+        "x": 160,
+        "y": 50,
+        "width": 1600,
+        "height": 900
+      },
+      "close": {
+        "x": 1864,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/cna-training-providers/",
+      "viewport": {
+        "width": 1920,
+        "height": 1000
+      },
+      "videoUrl": "https://www.youtube.com/embed/UZltQ2X0NHI?feature=oembed",
+      "rect": {
+        "x": 160,
+        "y": 50,
+        "width": 1600,
+        "height": 900
+      },
+      "close": {
+        "x": 1864,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/career-advancement/",
+      "viewport": {
+        "width": 1920,
+        "height": 1000
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed",
+      "rect": {
+        "x": 160,
+        "y": 50,
+        "width": 1600,
+        "height": 900
+      },
+      "close": {
+        "x": 1864,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/earn-and-learn-la/",
+      "viewport": {
+        "width": 1920,
+        "height": 1000
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed",
+      "rect": {
+        "x": 160,
+        "y": 50,
+        "width": 1600,
+        "height": 900
+      },
+      "close": {
+        "x": 1864,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/earn-and-learn-cvalley/",
+      "viewport": {
+        "width": 1920,
+        "height": 1000
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed",
+      "rect": {
+        "x": 160,
+        "y": 50,
+        "width": 1600,
+        "height": 900
+      },
+      "close": {
+        "x": 1864,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/earn-and-learn-bayarea/",
+      "viewport": {
+        "width": 1920,
+        "height": 1000
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed",
+      "rect": {
+        "x": 160,
+        "y": 50,
+        "width": 1600,
+        "height": 900
+      },
+      "close": {
+        "x": 1864,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/earn-and-learn-norcal/",
+      "viewport": {
+        "width": 1920,
+        "height": 1000
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed",
+      "rect": {
+        "x": 160,
+        "y": 50,
+        "width": 1600,
+        "height": 900
+      },
+      "close": {
+        "x": 1864,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/earn-and-learn-san-diego/",
+      "viewport": {
+        "width": 1920,
+        "height": 1000
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed",
+      "rect": {
+        "x": 160,
+        "y": 50,
+        "width": 1600,
+        "height": 900
+      },
+      "close": {
+        "x": 1864,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/earn-and-learn/",
+      "viewport": {
+        "width": 1920,
+        "height": 1000
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed",
+      "rect": {
+        "x": 160,
+        "y": 50,
+        "width": 1600,
+        "height": 900
+      },
+      "close": {
+        "x": 1864,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/es/programa-cna/",
+      "viewport": {
+        "width": 1920,
+        "height": 1000
+      },
+      "videoUrl": "https://www.youtube.com/embed/WiXMpwgm5yQ?feature=oembed",
+      "rect": {
+        "x": 160,
+        "y": 50,
+        "width": 1600,
+        "height": 900
+      },
+      "close": {
+        "x": 1864,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/es/aspirantes/",
+      "viewport": {
+        "width": 1920,
+        "height": 1000
+      },
+      "videoUrl": "https://www.youtube.com/embed/aGlgas0MGss?feature=oembed",
+      "rect": {
+        "x": 160,
+        "y": 50,
+        "width": 1600,
+        "height": 900
+      },
+      "close": {
+        "x": 1864,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true,
+      "screenshot": "docs/reports/video-lightboxes/es-1920x1000.png"
+    },
+    {
+      "path": "/es/programa-cna-2/",
+      "viewport": {
+        "width": 1920,
+        "height": 1000
+      },
+      "videoUrl": "https://www.youtube.com/embed/iIszYFiiTYU?feature=oembed",
+      "rect": {
+        "x": 160,
+        "y": 50,
+        "width": 1600,
+        "height": 900
+      },
+      "close": {
+        "x": 1864,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "viewport": {
+        "width": 1920,
+        "height": 1000
+      },
+      "videoUrl": "https://www.youtube.com/embed/4TgejVEX9Nc?feature=oembed",
+      "rect": {
+        "x": 160,
+        "y": 50,
+        "width": 1600,
+        "height": 900
+      },
+      "close": {
+        "x": 1864,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "escape",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/es/ganar-y-aprender-la/",
+      "viewport": {
+        "width": 1920,
+        "height": 1000
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed",
+      "rect": {
+        "x": 160,
+        "y": 50,
+        "width": 1600,
+        "height": 900
+      },
+      "close": {
+        "x": 1864,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/es/gana-y-aprende-cvalley/",
+      "viewport": {
+        "width": 1920,
+        "height": 1000
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed",
+      "rect": {
+        "x": 160,
+        "y": 50,
+        "width": 1600,
+        "height": 900
+      },
+      "close": {
+        "x": 1864,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/es/gana-y-aprende-bayarea/",
+      "viewport": {
+        "width": 1920,
+        "height": 1000
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed",
+      "rect": {
+        "x": 160,
+        "y": 50,
+        "width": 1600,
+        "height": 900
+      },
+      "close": {
+        "x": 1864,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/es/earn-and-learn-norcal/",
+      "viewport": {
+        "width": 1920,
+        "height": 1000
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed",
+      "rect": {
+        "x": 160,
+        "y": 50,
+        "width": 1600,
+        "height": 900
+      },
+      "close": {
+        "x": 1864,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/es/gana-y-aprende-san-diego/",
+      "viewport": {
+        "width": 1920,
+        "height": 1000
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed",
+      "rect": {
+        "x": 160,
+        "y": 50,
+        "width": 1600,
+        "height": 900
+      },
+      "close": {
+        "x": 1864,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/es/earn-and-learn/",
+      "viewport": {
+        "width": 1920,
+        "height": 1000
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed",
+      "rect": {
+        "x": 160,
+        "y": 50,
+        "width": 1600,
+        "height": 900
+      },
+      "close": {
+        "x": 1864,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/career-seekers/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "videoUrl": "https://www.youtube.com/embed/jZ_0pUQh8KY?feature=oembed",
+      "rect": {
+        "x": 19.5,
+        "y": 323.28125,
+        "width": 351,
+        "height": 197.4375
+      },
+      "close": {
+        "x": 334,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "touch button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true,
+      "screenshot": "docs/reports/video-lightboxes/en-390x844.png"
+    },
+    {
+      "path": "/certified-nurse-assistant-program/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "videoUrl": "https://www.youtube.com/embed/qCKWeZ15LFE?feature=oembed",
+      "rect": {
+        "x": 19.5,
+        "y": 323.28125,
+        "width": 351,
+        "height": 197.4375
+      },
+      "close": {
+        "x": 334,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "touch button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/cna-training-providers/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "videoUrl": "https://www.youtube.com/embed/UZltQ2X0NHI?feature=oembed",
+      "rect": {
+        "x": 19.5,
+        "y": 323.28125,
+        "width": 351,
+        "height": 197.4375
+      },
+      "close": {
+        "x": 334,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "touch button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/career-advancement/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed",
+      "rect": {
+        "x": 19.5,
+        "y": 323.28125,
+        "width": 351,
+        "height": 197.4375
+      },
+      "close": {
+        "x": 334,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "touch button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/earn-and-learn-la/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed",
+      "rect": {
+        "x": 19.5,
+        "y": 323.28125,
+        "width": 351,
+        "height": 197.4375
+      },
+      "close": {
+        "x": 334,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "touch button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/earn-and-learn-cvalley/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed",
+      "rect": {
+        "x": 19.5,
+        "y": 323.28125,
+        "width": 351,
+        "height": 197.4375
+      },
+      "close": {
+        "x": 334,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "touch button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/earn-and-learn-bayarea/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed",
+      "rect": {
+        "x": 19.5,
+        "y": 323.28125,
+        "width": 351,
+        "height": 197.4375
+      },
+      "close": {
+        "x": 334,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "touch button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/earn-and-learn-norcal/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed",
+      "rect": {
+        "x": 19.5,
+        "y": 323.28125,
+        "width": 351,
+        "height": 197.4375
+      },
+      "close": {
+        "x": 334,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "touch button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/earn-and-learn-san-diego/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed",
+      "rect": {
+        "x": 19.5,
+        "y": 323.28125,
+        "width": 351,
+        "height": 197.4375
+      },
+      "close": {
+        "x": 334,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "touch button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/earn-and-learn/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed",
+      "rect": {
+        "x": 19.5,
+        "y": 323.28125,
+        "width": 351,
+        "height": 197.4375
+      },
+      "close": {
+        "x": 334,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "touch button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/es/programa-cna/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "videoUrl": "https://www.youtube.com/embed/WiXMpwgm5yQ?feature=oembed",
+      "rect": {
+        "x": 19.5,
+        "y": 323.28125,
+        "width": 351,
+        "height": 197.4375
+      },
+      "close": {
+        "x": 334,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "touch button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/es/aspirantes/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "videoUrl": "https://www.youtube.com/embed/aGlgas0MGss?feature=oembed",
+      "rect": {
+        "x": 19.5,
+        "y": 323.28125,
+        "width": 351,
+        "height": 197.4375
+      },
+      "close": {
+        "x": 334,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "touch button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true,
+      "screenshot": "docs/reports/video-lightboxes/es-390x844.png"
+    },
+    {
+      "path": "/es/programa-cna-2/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "videoUrl": "https://www.youtube.com/embed/iIszYFiiTYU?feature=oembed",
+      "rect": {
+        "x": 19.5,
+        "y": 323.28125,
+        "width": 351,
+        "height": 197.4375
+      },
+      "close": {
+        "x": 334,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "touch button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "videoUrl": "https://www.youtube.com/embed/4TgejVEX9Nc?feature=oembed",
+      "rect": {
+        "x": 19.5,
+        "y": 323.28125,
+        "width": 351,
+        "height": 197.4375
+      },
+      "close": {
+        "x": 334,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "touch button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/es/ganar-y-aprender-la/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed",
+      "rect": {
+        "x": 19.5,
+        "y": 323.28125,
+        "width": 351,
+        "height": 197.4375
+      },
+      "close": {
+        "x": 334,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "touch button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/es/gana-y-aprende-cvalley/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed",
+      "rect": {
+        "x": 19.5,
+        "y": 323.28125,
+        "width": 351,
+        "height": 197.4375
+      },
+      "close": {
+        "x": 334,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "touch button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/es/gana-y-aprende-bayarea/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed",
+      "rect": {
+        "x": 19.5,
+        "y": 323.28125,
+        "width": 351,
+        "height": 197.4375
+      },
+      "close": {
+        "x": 334,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "touch button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/es/earn-and-learn-norcal/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed",
+      "rect": {
+        "x": 19.5,
+        "y": 323.28125,
+        "width": 351,
+        "height": 197.4375
+      },
+      "close": {
+        "x": 334,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "touch button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/es/gana-y-aprende-san-diego/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed",
+      "rect": {
+        "x": 19.5,
+        "y": 323.28125,
+        "width": 351,
+        "height": 197.4375
+      },
+      "close": {
+        "x": 334,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "touch button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/es/earn-and-learn/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed",
+      "rect": {
+        "x": 19.5,
+        "y": 323.28125,
+        "width": 351,
+        "height": 197.4375
+      },
+      "close": {
+        "x": 334,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "touch button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/career-seekers/",
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "videoUrl": "https://www.youtube.com/embed/jZ_0pUQh8KY?feature=oembed",
+      "rect": {
+        "x": 160.671875,
+        "y": 48,
+        "width": 522.65625,
+        "height": 293.984375
+      },
+      "close": {
+        "x": 788,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true,
+      "screenshot": "docs/reports/video-lightboxes/en-844x390.png"
+    },
+    {
+      "path": "/certified-nurse-assistant-program/",
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "videoUrl": "https://www.youtube.com/embed/qCKWeZ15LFE?feature=oembed",
+      "rect": {
+        "x": 160.671875,
+        "y": 48,
+        "width": 522.65625,
+        "height": 293.984375
+      },
+      "close": {
+        "x": 788,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/cna-training-providers/",
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "videoUrl": "https://www.youtube.com/embed/UZltQ2X0NHI?feature=oembed",
+      "rect": {
+        "x": 160.671875,
+        "y": 48,
+        "width": 522.65625,
+        "height": 293.984375
+      },
+      "close": {
+        "x": 788,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/career-advancement/",
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed",
+      "rect": {
+        "x": 160.671875,
+        "y": 48,
+        "width": 522.65625,
+        "height": 293.984375
+      },
+      "close": {
+        "x": 788,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/earn-and-learn-la/",
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed",
+      "rect": {
+        "x": 160.671875,
+        "y": 48,
+        "width": 522.65625,
+        "height": 293.984375
+      },
+      "close": {
+        "x": 788,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/earn-and-learn-cvalley/",
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed",
+      "rect": {
+        "x": 160.671875,
+        "y": 48,
+        "width": 522.65625,
+        "height": 293.984375
+      },
+      "close": {
+        "x": 788,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/earn-and-learn-bayarea/",
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed",
+      "rect": {
+        "x": 160.671875,
+        "y": 48,
+        "width": 522.65625,
+        "height": 293.984375
+      },
+      "close": {
+        "x": 788,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/earn-and-learn-norcal/",
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed",
+      "rect": {
+        "x": 160.671875,
+        "y": 48,
+        "width": 522.65625,
+        "height": 293.984375
+      },
+      "close": {
+        "x": 788,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/earn-and-learn-san-diego/",
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed",
+      "rect": {
+        "x": 160.671875,
+        "y": 48,
+        "width": 522.65625,
+        "height": 293.984375
+      },
+      "close": {
+        "x": 788,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/earn-and-learn/",
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed",
+      "rect": {
+        "x": 160.671875,
+        "y": 48,
+        "width": 522.65625,
+        "height": 293.984375
+      },
+      "close": {
+        "x": 788,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/es/programa-cna/",
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "videoUrl": "https://www.youtube.com/embed/WiXMpwgm5yQ?feature=oembed",
+      "rect": {
+        "x": 160.671875,
+        "y": 48,
+        "width": 522.65625,
+        "height": 293.984375
+      },
+      "close": {
+        "x": 788,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/es/aspirantes/",
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "videoUrl": "https://www.youtube.com/embed/aGlgas0MGss?feature=oembed",
+      "rect": {
+        "x": 160.671875,
+        "y": 48,
+        "width": 522.65625,
+        "height": 293.984375
+      },
+      "close": {
+        "x": 788,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true,
+      "screenshot": "docs/reports/video-lightboxes/es-844x390.png"
+    },
+    {
+      "path": "/es/programa-cna-2/",
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "videoUrl": "https://www.youtube.com/embed/iIszYFiiTYU?feature=oembed",
+      "rect": {
+        "x": 160.671875,
+        "y": 48,
+        "width": 522.65625,
+        "height": 293.984375
+      },
+      "close": {
+        "x": 788,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "videoUrl": "https://www.youtube.com/embed/4TgejVEX9Nc?feature=oembed",
+      "rect": {
+        "x": 160.671875,
+        "y": 48,
+        "width": 522.65625,
+        "height": 293.984375
+      },
+      "close": {
+        "x": 788,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "escape",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/es/ganar-y-aprender-la/",
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed",
+      "rect": {
+        "x": 160.671875,
+        "y": 48,
+        "width": 522.65625,
+        "height": 293.984375
+      },
+      "close": {
+        "x": 788,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/es/gana-y-aprende-cvalley/",
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed",
+      "rect": {
+        "x": 160.671875,
+        "y": 48,
+        "width": 522.65625,
+        "height": 293.984375
+      },
+      "close": {
+        "x": 788,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/es/gana-y-aprende-bayarea/",
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed",
+      "rect": {
+        "x": 160.671875,
+        "y": 48,
+        "width": 522.65625,
+        "height": 293.984375
+      },
+      "close": {
+        "x": 788,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/es/earn-and-learn-norcal/",
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed",
+      "rect": {
+        "x": 160.671875,
+        "y": 48,
+        "width": 522.65625,
+        "height": 293.984375
+      },
+      "close": {
+        "x": 788,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/es/gana-y-aprende-san-diego/",
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed",
+      "rect": {
+        "x": 160.671875,
+        "y": 48,
+        "width": 522.65625,
+        "height": 293.984375
+      },
+      "close": {
+        "x": 788,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    },
+    {
+      "path": "/es/earn-and-learn/",
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "videoUrl": "https://www.youtube.com/embed/P6pGtAGBfD8?feature=oembed",
+      "rect": {
+        "x": 160.671875,
+        "y": 48,
+        "width": 522.65625,
+        "height": 293.984375
+      },
+      "close": {
+        "x": 788,
+        "y": 12,
+        "width": 44,
+        "height": 44
+      },
+      "closeMethod": "button",
+      "iframeRemoved": true,
+      "focusRestored": true,
+      "noNavigation": true
+    }
+  ]
+}
