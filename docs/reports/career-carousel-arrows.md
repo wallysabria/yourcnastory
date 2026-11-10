@@ -6,4 +6,10 @@ Public source measured after carousel initialization: Font Awesome 5 Free 900 ch
 
 Verification: lint/build/format checks; existing 70-test regression passed. Final arrow-specific checks pass 32 views (16 pages × 1920/390): exact source color/font/glyph, 40px boxes, x offsets, persistent glyph opacity, both arrows aligned, mouse Next, Enter Previous and visible keyboard focus. Snapshots are in career-carousel-arrows/; measurements in career-carousel-arrows.json; test stats in career-carousel-arrows-tests.json. These browser checks ran on the local production build. Source inspected publicly with tracking blocked; no WordPress login/forms.
 
-Review PR/preview pending. No merge/publication or phase advancement. Existing Employers/chatbot/indexing/tracking gates remain unchanged.
+Review PR: https://github.com/wallysabria/yourcnastory/pull/13
+
+Protected preview: https://yourcnastory-9nr8qfixg-wallysabrias-projects.vercel.app/careerpaths/careers-in-certified-nurse-assistant/
+
+Preview authentication is retained; no temporary bypass credentials were created. Browser evidence above is from the local production build.
+
+![English source-style carousel controls](career-carousel-arrows/en-1920.png) No merge/publication or phase advancement. Existing Employers/chatbot/indexing/tracking gates remain unchanged.
