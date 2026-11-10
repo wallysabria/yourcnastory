@@ -595,3 +595,123 @@ body:has(.site-header:not(.is-scrolled)) .back-to-top {
 .page-content.page-content .native-carousel.owl-carousel .owl-nav button::before {
   content: none;
 }
+/* D-013: owner-approved FAQ cards, scoped to Career Seekers EN/ES. */
+.page-content[data-template='faq-accordion']
+  #main
+  .elementor-top-section:has(.elementor-accordion) {
+  background: #f4f7fa;
+  padding-block: 72px;
+}
+.page-content[data-template='faq-accordion']
+  #main
+  .elementor-top-section:has(.elementor-accordion)
+  > .elementor-container {
+  max-width: 1000px;
+}
+.page-content[data-template='faq-accordion'] #main .elementor-accordion {
+  display: grid;
+  gap: 14px;
+  border: 0;
+}
+.page-content[data-template='faq-accordion'] #main .elementor-accordion-item {
+  background: #fff;
+  border: 1px solid #dce4ec;
+  border-radius: 16px;
+  overflow: clip;
+  transition: border-color 140ms ease;
+}
+.page-content[data-template='faq-accordion'] #main .elementor-accordion-item:hover,
+.page-content[data-template='faq-accordion'] #main .elementor-accordion-item:focus-within {
+  border-color: #aac9ee;
+}
+.page-content[data-template='faq-accordion'] #main button.elementor-tab-title {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  width: 100%;
+  padding: 24px;
+  border: 0;
+  border-radius: 15px;
+  background: transparent;
+  color: #243f4b;
+  font-family: inherit;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.5;
+  text-align: left;
+}
+.page-content[data-template='faq-accordion'] #main button.elementor-tab-title:focus-visible {
+  outline: 2px solid #0159d3;
+  outline-offset: -5px;
+}
+.page-content[data-template='faq-accordion'] #main .elementor-accordion-title {
+  flex: 1;
+  min-width: 0;
+  color: inherit;
+  font: inherit;
+}
+.page-content[data-template='faq-accordion'] #main .elementor-accordion-icon {
+  order: 1;
+  flex: 0 0 32px;
+  display: grid;
+  place-items: center;
+  float: none;
+  width: 32px;
+  height: 32px;
+  margin: 0;
+  border-radius: 50%;
+  background: #eaf3ff;
+  color: #0159d3;
+  font-size: 14px;
+  line-height: 1;
+}
+.page-content[data-template='faq-accordion'] #main .elementor-accordion-icon-closed {
+  display: block;
+}
+.page-content[data-template='faq-accordion'] #main .elementor-accordion-icon-opened {
+  display: none;
+}
+.page-content[data-template='faq-accordion']
+  #main
+  .elementor-active
+  .elementor-accordion-icon-closed {
+  display: none;
+}
+.page-content[data-template='faq-accordion']
+  #main
+  .elementor-active
+  .elementor-accordion-icon-opened {
+  display: block;
+}
+.page-content[data-template='faq-accordion'] #main .elementor-tab-content {
+  padding: 0 24px 24px;
+  border: 0;
+  background: transparent;
+  color: #5b5b5b;
+  font-size: 17px;
+  line-height: 1.8;
+}
+.page-content[data-template='faq-accordion'] #main .elementor-tab-content p:last-child {
+  margin-bottom: 0;
+}
+@media (max-width: 767px) {
+  .page-content[data-template='faq-accordion']
+    #main
+    .elementor-top-section:has(.elementor-accordion) {
+    padding-block: 40px;
+  }
+  .page-content[data-template='faq-accordion'] #main button.elementor-tab-title {
+    gap: 14px;
+    padding: 20px 18px;
+    font-size: 16px;
+  }
+  .page-content[data-template='faq-accordion'] #main .elementor-tab-content {
+    padding: 0 18px 20px;
+    font-size: 16px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .page-content[data-template='faq-accordion'] #main .elementor-accordion-item {
+    transition: none;
+  }
+}

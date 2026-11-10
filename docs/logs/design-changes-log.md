@@ -107,3 +107,8 @@ Owner expanded D-011 to other pages/sections including Career Seekers and Quick 
 ## FAQ answer visibility — approved bug fix 2026-11-10
 
 Owner reported the Career Seekers FAQ answers do not reveal. Preserve the existing accordion design and native toggle behavior; make the open-state display override win over Elementor’s default display:none. Closed panels remain hidden. No wording, URL, metadata, layout redesign or Employer FAQ work. Add EN/ES desktop/mobile checks for actual answer visibility, keyboard/click expansion and collapse.
+
+
+## D-013 — Modern Career Seekers FAQ cards — approved 2026-11-10
+
+Owner approved separate white question cards on a soft gray background, rounded corners/subtle borders/generous spacing, dark semibold questions and right-aligned blue plus/minus in pale-blue circles matching the carousel controls. Answers appear below questions with comfortable line spacing. Preserve hero, Quick Links, original EN/ES copy/links/order/IDs and toggle behavior. Scope to faq-accordion template in both languages; Employers FAQ remains gated. Keyboard focus is visible, color transitions honor reduced motion, no height animation. Implementation extends the unmerged FAQ PR #14.
