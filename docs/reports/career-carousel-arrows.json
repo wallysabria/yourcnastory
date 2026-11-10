@@ -1,0 +1,1417 @@
+{
+  "checkedAt": "2026-11-10T13:55:32.239Z",
+  "checks": [
+    {
+      "path": "/careerpaths/careers-in-activities/",
+      "width": 1920,
+      "data": {
+        "left": 350,
+        "right": 1570,
+        "buttons": [
+          {
+            "label": "Previous slide",
+            "x": 288,
+            "y": 524.671875,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, 0, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          },
+          {
+            "label": "Next slide",
+            "x": 1530,
+            "y": 524.671875,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, -40, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          }
+        ]
+      },
+      "mouseNext": true,
+      "keyboardPrevious": true,
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      }
+    },
+    {
+      "path": "/careerpaths/careers-in-administration/",
+      "width": 1920,
+      "data": {
+        "left": 350,
+        "right": 1570,
+        "buttons": [
+          {
+            "label": "Previous slide",
+            "x": 288,
+            "y": 525.421875,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, 0, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          },
+          {
+            "label": "Next slide",
+            "x": 1530,
+            "y": 525.421875,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, -40, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          }
+        ]
+      },
+      "mouseNext": true,
+      "keyboardPrevious": true,
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      }
+    },
+    {
+      "path": "/careerpaths/careers-in-care-coordination/",
+      "width": 1920,
+      "data": {
+        "left": 350,
+        "right": 1570,
+        "buttons": [
+          {
+            "label": "Previous slide",
+            "x": 288,
+            "y": 524.609375,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, 0, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          },
+          {
+            "label": "Next slide",
+            "x": 1530,
+            "y": 524.609375,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, -40, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          }
+        ]
+      },
+      "mouseNext": true,
+      "keyboardPrevious": true,
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      }
+    },
+    {
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "width": 1920,
+      "data": {
+        "left": 350,
+        "right": 1570,
+        "buttons": [
+          {
+            "label": "Previous slide",
+            "x": 288,
+            "y": 525.21875,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, 0, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          },
+          {
+            "label": "Next slide",
+            "x": 1530,
+            "y": 525.21875,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, -40, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          }
+        ]
+      },
+      "mouseNext": true,
+      "keyboardPrevious": true,
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      },
+      "screenshot": "docs/reports/career-carousel-arrows/en-1920.png"
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "width": 1920,
+      "data": {
+        "left": 350,
+        "right": 1570,
+        "buttons": [
+          {
+            "label": "Previous slide",
+            "x": 288,
+            "y": 525.296875,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, 0, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          },
+          {
+            "label": "Next slide",
+            "x": 1530,
+            "y": 525.296875,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, -40, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          }
+        ]
+      },
+      "mouseNext": true,
+      "keyboardPrevious": true,
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      }
+    },
+    {
+      "path": "/careerpaths/careers-in-social-services/",
+      "width": 1920,
+      "data": {
+        "left": 350,
+        "right": 1570,
+        "buttons": [
+          {
+            "label": "Previous slide",
+            "x": 288,
+            "y": 524.9375,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, 0, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          },
+          {
+            "label": "Next slide",
+            "x": 1530,
+            "y": 524.9375,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, -40, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          }
+        ]
+      },
+      "mouseNext": true,
+      "keyboardPrevious": true,
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      }
+    },
+    {
+      "path": "/careerpaths/careers-in-support-services/",
+      "width": 1920,
+      "data": {
+        "left": 350,
+        "right": 1570,
+        "buttons": [
+          {
+            "label": "Previous slide",
+            "x": 288,
+            "y": 524.8125,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, 0, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          },
+          {
+            "label": "Next slide",
+            "x": 1530,
+            "y": 524.8125,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, -40, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          }
+        ]
+      },
+      "mouseNext": true,
+      "keyboardPrevious": true,
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      }
+    },
+    {
+      "path": "/careerpaths/careers-in-therapy/",
+      "width": 1920,
+      "data": {
+        "left": 350,
+        "right": 1570,
+        "buttons": [
+          {
+            "label": "Previous slide",
+            "x": 288,
+            "y": 525.21875,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, 0, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          },
+          {
+            "label": "Next slide",
+            "x": 1530,
+            "y": 525.21875,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, -40, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          }
+        ]
+      },
+      "mouseNext": true,
+      "keyboardPrevious": true,
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      }
+    },
+    {
+      "path": "/es/carreras/carreras-en-actividades/",
+      "width": 1920,
+      "data": {
+        "left": 350,
+        "right": 1570,
+        "buttons": [
+          {
+            "label": "Diapositiva anterior",
+            "x": 288,
+            "y": 524.671875,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, 0, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          },
+          {
+            "label": "Diapositiva siguiente",
+            "x": 1530,
+            "y": 524.671875,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, -40, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          }
+        ]
+      },
+      "mouseNext": true,
+      "keyboardPrevious": true,
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      }
+    },
+    {
+      "path": "/es/carreras/carreras-en-administracion/",
+      "width": 1920,
+      "data": {
+        "left": 350,
+        "right": 1570,
+        "buttons": [
+          {
+            "label": "Diapositiva anterior",
+            "x": 288,
+            "y": 525.421875,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, 0, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          },
+          {
+            "label": "Diapositiva siguiente",
+            "x": 1530,
+            "y": 525.421875,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, -40, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          }
+        ]
+      },
+      "mouseNext": true,
+      "keyboardPrevious": true,
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      }
+    },
+    {
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "width": 1920,
+      "data": {
+        "left": 350,
+        "right": 1570,
+        "buttons": [
+          {
+            "label": "Diapositiva anterior",
+            "x": 288,
+            "y": 525.046875,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, 0, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          },
+          {
+            "label": "Diapositiva siguiente",
+            "x": 1530,
+            "y": 525.046875,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, -40, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          }
+        ]
+      },
+      "mouseNext": true,
+      "keyboardPrevious": true,
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      },
+      "screenshot": "docs/reports/career-carousel-arrows/es-1920.png"
+    },
+    {
+      "path": "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+      "width": 1920,
+      "data": {
+        "left": 350,
+        "right": 1570,
+        "buttons": [
+          {
+            "label": "Diapositiva anterior",
+            "x": 288,
+            "y": 525.421875,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, 0, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          },
+          {
+            "label": "Diapositiva siguiente",
+            "x": 1530,
+            "y": 525.421875,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, -40, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          }
+        ]
+      },
+      "mouseNext": true,
+      "keyboardPrevious": true,
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      }
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "width": 1920,
+      "data": {
+        "left": 350,
+        "right": 1570,
+        "buttons": [
+          {
+            "label": "Diapositiva anterior",
+            "x": 288,
+            "y": 524.6875,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, 0, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          },
+          {
+            "label": "Diapositiva siguiente",
+            "x": 1530,
+            "y": 524.6875,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, -40, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          }
+        ]
+      },
+      "mouseNext": true,
+      "keyboardPrevious": true,
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      }
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-de-apoyo/",
+      "width": 1920,
+      "data": {
+        "left": 350,
+        "right": 1570,
+        "buttons": [
+          {
+            "label": "Diapositiva anterior",
+            "x": 288,
+            "y": 524.8125,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, 0, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          },
+          {
+            "label": "Diapositiva siguiente",
+            "x": 1530,
+            "y": 524.8125,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, -40, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          }
+        ]
+      },
+      "mouseNext": true,
+      "keyboardPrevious": true,
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      }
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-sociales/",
+      "width": 1920,
+      "data": {
+        "left": 350,
+        "right": 1570,
+        "buttons": [
+          {
+            "label": "Diapositiva anterior",
+            "x": 288,
+            "y": 525,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, 0, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          },
+          {
+            "label": "Diapositiva siguiente",
+            "x": 1530,
+            "y": 525,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, -40, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          }
+        ]
+      },
+      "mouseNext": true,
+      "keyboardPrevious": true,
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      }
+    },
+    {
+      "path": "/es/carreras/carreras-en-terapia/",
+      "width": 1920,
+      "data": {
+        "left": 350,
+        "right": 1570,
+        "buttons": [
+          {
+            "label": "Diapositiva anterior",
+            "x": 288,
+            "y": 524.6875,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, 0, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          },
+          {
+            "label": "Diapositiva siguiente",
+            "x": 1530,
+            "y": 524.6875,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, -40, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          }
+        ]
+      },
+      "mouseNext": true,
+      "keyboardPrevious": true,
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      }
+    },
+    {
+      "path": "/careerpaths/careers-in-activities/",
+      "width": 390,
+      "data": {
+        "left": 40,
+        "right": 350,
+        "buttons": [
+          {
+            "label": "Previous slide",
+            "x": 40,
+            "y": 524.53125,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, 0, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          },
+          {
+            "label": "Next slide",
+            "x": 310,
+            "y": 524.53125,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, -40, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          }
+        ]
+      },
+      "mouseNext": true,
+      "keyboardPrevious": true,
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      }
+    },
+    {
+      "path": "/careerpaths/careers-in-administration/",
+      "width": 390,
+      "data": {
+        "left": 40,
+        "right": 350,
+        "buttons": [
+          {
+            "label": "Previous slide",
+            "x": 40,
+            "y": 524.90625,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, 0, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          },
+          {
+            "label": "Next slide",
+            "x": 310,
+            "y": 524.90625,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, -40, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          }
+        ]
+      },
+      "mouseNext": true,
+      "keyboardPrevious": true,
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      }
+    },
+    {
+      "path": "/careerpaths/careers-in-care-coordination/",
+      "width": 390,
+      "data": {
+        "left": 40,
+        "right": 350,
+        "buttons": [
+          {
+            "label": "Previous slide",
+            "x": 40,
+            "y": 525.390625,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, 0, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          },
+          {
+            "label": "Next slide",
+            "x": 310,
+            "y": 525.390625,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, -40, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          }
+        ]
+      },
+      "mouseNext": true,
+      "keyboardPrevious": true,
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      }
+    },
+    {
+      "path": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "width": 390,
+      "data": {
+        "left": 40,
+        "right": 350,
+        "buttons": [
+          {
+            "label": "Previous slide",
+            "x": 40,
+            "y": 525.3125,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, 0, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          },
+          {
+            "label": "Next slide",
+            "x": 310,
+            "y": 525.3125,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, -40, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          }
+        ]
+      },
+      "mouseNext": true,
+      "keyboardPrevious": true,
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      },
+      "screenshot": "docs/reports/career-carousel-arrows/en-390.png"
+    },
+    {
+      "path": "/careerpaths/careers-in-nursing/",
+      "width": 390,
+      "data": {
+        "left": 40,
+        "right": 350,
+        "buttons": [
+          {
+            "label": "Previous slide",
+            "x": 40,
+            "y": 524.890625,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, 0, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          },
+          {
+            "label": "Next slide",
+            "x": 310,
+            "y": 524.890625,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, -40, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          }
+        ]
+      },
+      "mouseNext": true,
+      "keyboardPrevious": true,
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      }
+    },
+    {
+      "path": "/careerpaths/careers-in-social-services/",
+      "width": 390,
+      "data": {
+        "left": 40,
+        "right": 350,
+        "buttons": [
+          {
+            "label": "Previous slide",
+            "x": 40,
+            "y": 524.8125,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, 0, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          },
+          {
+            "label": "Next slide",
+            "x": 310,
+            "y": 524.8125,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, -40, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          }
+        ]
+      },
+      "mouseNext": true,
+      "keyboardPrevious": true,
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      }
+    },
+    {
+      "path": "/careerpaths/careers-in-support-services/",
+      "width": 390,
+      "data": {
+        "left": 40,
+        "right": 350,
+        "buttons": [
+          {
+            "label": "Previous slide",
+            "x": 40,
+            "y": 524.5,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, 0, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          },
+          {
+            "label": "Next slide",
+            "x": 310,
+            "y": 524.5,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, -40, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          }
+        ]
+      },
+      "mouseNext": true,
+      "keyboardPrevious": true,
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      }
+    },
+    {
+      "path": "/careerpaths/careers-in-therapy/",
+      "width": 390,
+      "data": {
+        "left": 40,
+        "right": 350,
+        "buttons": [
+          {
+            "label": "Previous slide",
+            "x": 40,
+            "y": 525.46875,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, 0, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          },
+          {
+            "label": "Next slide",
+            "x": 310,
+            "y": 525.46875,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, -40, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          }
+        ]
+      },
+      "mouseNext": true,
+      "keyboardPrevious": true,
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      }
+    },
+    {
+      "path": "/es/carreras/carreras-en-actividades/",
+      "width": 390,
+      "data": {
+        "left": 40,
+        "right": 350,
+        "buttons": [
+          {
+            "label": "Diapositiva anterior",
+            "x": 40,
+            "y": 524.75,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, 0, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          },
+          {
+            "label": "Diapositiva siguiente",
+            "x": 310,
+            "y": 524.75,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, -40, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          }
+        ]
+      },
+      "mouseNext": true,
+      "keyboardPrevious": true,
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      }
+    },
+    {
+      "path": "/es/carreras/carreras-en-administracion/",
+      "width": 390,
+      "data": {
+        "left": 40,
+        "right": 350,
+        "buttons": [
+          {
+            "label": "Diapositiva anterior",
+            "x": 40,
+            "y": 524.734375,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, 0, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          },
+          {
+            "label": "Diapositiva siguiente",
+            "x": 310,
+            "y": 524.734375,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, -40, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          }
+        ]
+      },
+      "mouseNext": true,
+      "keyboardPrevious": true,
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      }
+    },
+    {
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "width": 390,
+      "data": {
+        "left": 40,
+        "right": 350,
+        "buttons": [
+          {
+            "label": "Diapositiva anterior",
+            "x": 40,
+            "y": 524.84375,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, 0, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          },
+          {
+            "label": "Diapositiva siguiente",
+            "x": 310,
+            "y": 524.84375,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, -40, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          }
+        ]
+      },
+      "mouseNext": true,
+      "keyboardPrevious": true,
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      },
+      "screenshot": "docs/reports/career-carousel-arrows/es-390.png"
+    },
+    {
+      "path": "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+      "width": 390,
+      "data": {
+        "left": 40,
+        "right": 350,
+        "buttons": [
+          {
+            "label": "Diapositiva anterior",
+            "x": 40,
+            "y": 524.609375,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, 0, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          },
+          {
+            "label": "Diapositiva siguiente",
+            "x": 310,
+            "y": 524.609375,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, -40, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          }
+        ]
+      },
+      "mouseNext": true,
+      "keyboardPrevious": true,
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      }
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "width": 390,
+      "data": {
+        "left": 40,
+        "right": 350,
+        "buttons": [
+          {
+            "label": "Diapositiva anterior",
+            "x": 40,
+            "y": 524.5625,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, 0, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          },
+          {
+            "label": "Diapositiva siguiente",
+            "x": 310,
+            "y": 524.5625,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, -40, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          }
+        ]
+      },
+      "mouseNext": true,
+      "keyboardPrevious": true,
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      }
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-de-apoyo/",
+      "width": 390,
+      "data": {
+        "left": 40,
+        "right": 350,
+        "buttons": [
+          {
+            "label": "Diapositiva anterior",
+            "x": 40,
+            "y": 525.15625,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, 0, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          },
+          {
+            "label": "Diapositiva siguiente",
+            "x": 310,
+            "y": 525.15625,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, -40, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          }
+        ]
+      },
+      "mouseNext": true,
+      "keyboardPrevious": true,
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      }
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-sociales/",
+      "width": 390,
+      "data": {
+        "left": 40,
+        "right": 350,
+        "buttons": [
+          {
+            "label": "Diapositiva anterior",
+            "x": 40,
+            "y": 524.59375,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, 0, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          },
+          {
+            "label": "Diapositiva siguiente",
+            "x": 310,
+            "y": 524.59375,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, -40, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          }
+        ]
+      },
+      "mouseNext": true,
+      "keyboardPrevious": true,
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      }
+    },
+    {
+      "path": "/es/carreras/carreras-en-terapia/",
+      "width": 390,
+      "data": {
+        "left": 40,
+        "right": 350,
+        "buttons": [
+          {
+            "label": "Diapositiva anterior",
+            "x": 40,
+            "y": 524.859375,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, 0, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          },
+          {
+            "label": "Diapositiva siguiente",
+            "x": 310,
+            "y": 524.859375,
+            "w": 40,
+            "h": 40,
+            "color": "rgb(1, 89, 211)",
+            "transform": "matrix(1, 0, 0, 1, -40, -20)",
+            "font": "900 24px / 24px \"Font Awesome 5 Free\"",
+            "glyph": "\"\"",
+            "opacity": "1",
+            "pseudoPosition": "static",
+            "svgDisplay": "none"
+          }
+        ]
+      },
+      "mouseNext": true,
+      "keyboardPrevious": true,
+      "focus": {
+        "visible": true,
+        "outline": "solid"
+      }
+    }
+  ]
+}

@@ -546,3 +546,51 @@ body:has(.site-header:not(.is-scrolled)) .back-to-top {
   font-weight: 400;
   line-height: 1.7;
 }
+/* D-011: source Font Awesome chevrons and offsets on career-detail carousels. */
+.page-content[data-template='careerpath-entry'] .native-carousel.owl-carousel .owl-nav button {
+  color: #0159d3;
+}
+.page-content[data-template='careerpath-entry']
+  .native-carousel.owl-carousel
+  .owl-nav
+  button.owl-prev {
+  transform: translateY(-50%);
+}
+.page-content[data-template='careerpath-entry']
+  .native-carousel.owl-carousel
+  .owl-nav
+  button.owl-next {
+  transform: translate(-100%, -50%);
+}
+.page-content[data-template='careerpath-entry']
+  .native-carousel.owl-carousel
+  .owl-nav
+  button
+  > svg {
+  display: none;
+}
+.page-content[data-template='careerpath-entry']
+  .native-carousel.owl-carousel
+  .owl-nav
+  button::after {
+  position: static;
+  width: auto;
+  height: auto;
+  opacity: 1;
+  transition: none;
+  font: 900 24px / 1 'Font Awesome 5 Free';
+  -webkit-font-smoothing: antialiased;
+}
+.page-content[data-template='careerpath-entry'] .native-carousel.owl-carousel .owl-prev::after {
+  content: '\f053';
+}
+.page-content[data-template='careerpath-entry'] .native-carousel.owl-carousel .owl-next::after {
+  content: '\f054';
+}
+.page-content[data-template='careerpath-entry']
+  .native-carousel.owl-carousel
+  .owl-nav
+  button:focus-visible {
+  outline: 2px solid var(--focus);
+  outline-offset: 3px;
+}
