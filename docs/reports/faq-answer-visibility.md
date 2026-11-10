@@ -18,3 +18,8 @@ Updated protected preview: https://yourcnastory-oc0m35s15-wallysabrias-projects.
 ## Owner refinements — 2026-11-10
 
 D-014 removes outer margins above/below the FAQ card section; internal padding is retained. D-015 fixes every signup placement using normal flow, compact labels/disclaimer line-height and padded cards. All 18 EN/ES placements passed nine widths (162 views), including section/field containment and no overflow. Six additional regression cases cover feedback and FAQ expansion growth; current suite totals 80 passes. Detail and evidence: signup-layout.md, signup-layout.json, signup-layout-tests.json and signup-layout/. Future English Employer FAQ reuse is recorded in docs/phases/phase-08-owner-decisions.md; Employers remains gated. These refinements extend the same unmerged PR #14.
+
+
+## Publication — owner approved 2026-11-10
+
+PR #14 merged as da8bd873cbd027873c7e5dbeef6b4223609e164c after all CI checks passed. Deployment https://yourcnastory-kioull1o8-wallysabrias-projects.vercel.app is READY and owns https://yourcnastory.vercel.app/. Public checks passed all 18 form placements at 320/768/1440 (54 views), eight EN/ES FAQ card views (88 cards), and four automated tests opening/closing every FAQ answer via click/Enter/Space in both languages on desktop/mobile. EN/ES FAQ pages return 200/noindex without production tracking scripts. Evidence: faq-signup-production.json, signup-layout-production.json, faq-cards-production.json and associated screenshot directories. Earlier unmerged/unpublished review notes are superseded. Employers content remains gated; future FAQ styling requirement is recorded. No custom-domain cutover, real subscriptions, integration activation or phase advancement.

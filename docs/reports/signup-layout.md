@@ -9,3 +9,8 @@ All 18 placements (nine EN/nine ES) passed at 320,390,600,767,768,1024,1280,1440
 FAQ exterior section margins are reset to zero (D-014), preserving inner card padding. Future English Employer FAQ must reuse the approved card design; recorded in docs/phases/phase-08-owner-decisions.md. Employers content remains pending/gated, /faqs/ stays distinct from Career Seekers FAQ, and no Employer pages are enabled by this work.
 
 PR #14 includes these owner-requested refinements with the FAQ reveal fix/card design. Updated protected preview: https://yourcnastory-oc0m35s15-wallysabrias-projects.vercel.app/frequently-asked-questions/; no merge/publication or phase advancement.
+
+
+## Publication — owner approved 2026-11-10
+
+PR #14 merged as da8bd873cbd027873c7e5dbeef6b4223609e164c after all CI checks passed. Deployment https://yourcnastory-kioull1o8-wallysabrias-projects.vercel.app is READY and owns https://yourcnastory.vercel.app/. Public checks passed all 18 form placements at 320/768/1440 (54 views), eight EN/ES FAQ card views (88 cards), and four automated tests opening/closing every FAQ answer via click/Enter/Space in both languages on desktop/mobile. EN/ES FAQ pages return 200/noindex without production tracking scripts. Evidence: faq-signup-production.json, signup-layout-production.json, faq-cards-production.json and associated screenshot directories. Earlier unmerged/unpublished review notes are superseded. Employers content remains gated; future FAQ styling requirement is recorded. No custom-domain cutover, real subscriptions, integration activation or phase advancement.

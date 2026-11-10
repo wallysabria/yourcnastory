@@ -1,0 +1,33 @@
+{
+  "checkedAt": "2026-11-10T16:14:03.398Z",
+  "mergeSha": "da8bd873cbd027873c7e5dbeef6b4223609e164c",
+  "deployment": "https://yourcnastory-kioull1o8-wallysabrias-projects.vercel.app",
+  "alias": "https://yourcnastory.vercel.app",
+  "checks": [
+    {
+      "path": "/frequently-asked-questions/",
+      "status": 200,
+      "noindex": true,
+      "productionTrackingScriptsAbsent": true
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "status": 200,
+      "noindex": true,
+      "productionTrackingScriptsAbsent": true
+    }
+  ],
+  "formPlacements": 18,
+  "formViews": 54,
+  "faqLayoutViews": 8,
+  "faqCardChecks": 88,
+  "publishedFaqTests": {
+    "command": "TEST_BASE_URL=https://yourcnastory.vercel.app npx playwright test --project=chromium --grep \"every FAQ answer visibly opens and closes\" --reporter=line",
+    "passed": 4,
+    "questionsPerLanguage": 11,
+    "viewports": [
+      1440,
+      390
+    ]
+  }
+}
