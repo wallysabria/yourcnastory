@@ -127,3 +127,7 @@ Owner requested video buttons open a player in a popup/shadowbox matching the re
 ## D-017 — External page links open in new tabs — approved 2026-11-10
 
 Owner requested a site-wide external-link check and target="_blank" behavior. Apply a shared external HTTP/HTTPS page-link policy in source content, shared navigation, footer and announcement links; include noopener/noreferrer while preserving other rel tokens. Treat production/www/review site aliases as internal. Do not change text, destinations, internal target behavior, mailto/tel links, lightbox buttons or inactive Employer links. Baseline: 275 external instances/34 unique URLs across 48 pages, 101 missing new-tab targets.
+
+## D-019 — Employer external embeds — approved 2026-11-16
+
+Owner explicitly approved click-to-load existing Microsoft Forms and Vimeo embeds for /cnap-employer-signup/ and /employer-resources/. Keep the original source URLs; show an English provider-loading notice and native activation button. No passive iframe requests, live form submissions, copy rewrites or provider substitutions. UI text lives in content/ui/external-frame.json. Approved Employer FAQ reuse remains D-013.

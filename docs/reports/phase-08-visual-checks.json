@@ -1,0 +1,182 @@
+[
+  {
+    "path": "/cna-certifications/",
+    "width": 1440,
+    "source": {
+      "status": 200,
+      "scrollWidth": 1440,
+      "height": 3174
+    },
+    "local": {
+      "status": 200,
+      "h1": "CNA Upskilling Program (CUSP) Certifications",
+      "scrollWidth": 1440,
+      "height": 3554
+    }
+  },
+  {
+    "path": "/employer-resources/",
+    "width": 1440,
+    "source": {
+      "status": 200,
+      "scrollWidth": 1440,
+      "height": 6794
+    },
+    "local": {
+      "status": 200,
+      "h1": "Employer Resources",
+      "scrollWidth": 1440,
+      "height": 7156
+    }
+  },
+  {
+    "path": "/cnap-employer-signup/",
+    "width": 1440,
+    "source": {
+      "status": 200,
+      "scrollWidth": 1440,
+      "height": 1755
+    },
+    "local": {
+      "status": 200,
+      "h1": "CNAP Application",
+      "scrollWidth": 1440,
+      "height": 1648
+    }
+  },
+  {
+    "path": "/cnap-awards/",
+    "width": 1440,
+    "source": {
+      "status": 200,
+      "scrollWidth": 1440,
+      "height": 4639
+    },
+    "local": {
+      "status": 200,
+      "h1": "CNAP Financial Awards",
+      "scrollWidth": 1440,
+      "height": 5493
+    }
+  },
+  {
+    "path": "/faqs/",
+    "width": 1440,
+    "source": {
+      "status": 200,
+      "scrollWidth": 1440,
+      "height": 4078
+    },
+    "local": {
+      "status": 200,
+      "h1": "Employers Frequently Asked Questions (FAQs)",
+      "scrollWidth": 1440,
+      "height": 6949
+    }
+  },
+  {
+    "path": "/cusp-upskilling/",
+    "width": 1440,
+    "source": {
+      "status": 200,
+      "scrollWidth": 1440,
+      "height": 3677
+    },
+    "local": {
+      "status": 200,
+      "h1": "CNA Upskilling Program (CUSP)",
+      "scrollWidth": 1440,
+      "height": 4462
+    }
+  },
+  {
+    "path": "/cna-certifications/",
+    "width": 390,
+    "source": {
+      "status": 200,
+      "scrollWidth": 390,
+      "height": 5386
+    },
+    "local": {
+      "status": 200,
+      "h1": "CNA Upskilling Program (CUSP) Certifications",
+      "scrollWidth": 390,
+      "height": 6091
+    }
+  },
+  {
+    "path": "/employer-resources/",
+    "width": 390,
+    "source": {
+      "status": 200,
+      "scrollWidth": 390,
+      "height": 13764
+    },
+    "local": {
+      "status": 200,
+      "h1": "Employer Resources",
+      "scrollWidth": 390,
+      "height": 14396
+    }
+  },
+  {
+    "path": "/cnap-employer-signup/",
+    "width": 390,
+    "source": {
+      "status": 200,
+      "scrollWidth": 390,
+      "height": 2594
+    },
+    "local": {
+      "status": 200,
+      "h1": "CNAP Application",
+      "scrollWidth": 390,
+      "height": 2639
+    }
+  },
+  {
+    "path": "/cnap-awards/",
+    "width": 390,
+    "source": {
+      "status": 200,
+      "scrollWidth": 390,
+      "height": 8839
+    },
+    "local": {
+      "status": 200,
+      "h1": "CNAP Financial Awards",
+      "scrollWidth": 390,
+      "height": 9973
+    }
+  },
+  {
+    "path": "/faqs/",
+    "width": 390,
+    "source": {
+      "status": 200,
+      "scrollWidth": 390,
+      "height": 5642
+    },
+    "local": {
+      "status": 200,
+      "h1": "Employers Frequently Asked Questions (FAQs)",
+      "scrollWidth": 390,
+      "height": 8773
+    }
+  },
+  {
+    "path": "/cusp-upskilling/",
+    "width": 390,
+    "source": {
+      "status": 200,
+      "scrollWidth": 390,
+      "height": 6199
+    },
+    "local": {
+      "status": 200,
+      "h1": "CNA Upskilling Program (CUSP)",
+      "scrollWidth": 390,
+      "height": 8000
+    }
+  }
+]

@@ -874,3 +874,81 @@ body:has(.site-header:not(.is-scrolled)) .back-to-top {
   outline: 2px solid #fff;
   outline-offset: 2px;
 }
+
+/* Phase 8: external content loads only after an explicit user action. */
+.page-content .employer-frame {
+  display: block;
+  width: 100%;
+  border: 0;
+  max-width: 100%;
+}
+.page-content .employer-form-frame {
+  height: 1100px;
+  min-height: 75vh;
+}
+.page-content .employer-video-frame {
+  aspect-ratio: 16/9;
+  height: auto;
+}
+.employer-frame-placeholder {
+  padding: 32px;
+  background: #f4f7fa;
+  text-align: center;
+  color: #23424d;
+}
+.employer-frame-placeholder button {
+  padding: 12px 24px;
+  border: 0;
+  border-radius: 24px;
+  background: #005ad8;
+  color: white;
+  font: inherit;
+  cursor: pointer;
+}
+.employer-frame-placeholder button:focus-visible {
+  outline: 3px solid #23424d;
+  outline-offset: 4px;
+}
+.page-content .native-employer-tabs button.the7-e-tab-title {
+  font: inherit;
+  cursor: pointer;
+  border: 0;
+  background: transparent;
+  color: inherit;
+}
+.page-content .native-employer-tabs .the7-e-tab-content[hidden] {
+  display: none !important;
+}
+.page-content .native-employer-tabs .the7-e-tab-content:not([hidden]) {
+  display: block !important;
+}
+.page-content .native-employer-tabs button:focus-visible {
+  outline: 3px solid #005ad8;
+  outline-offset: 3px;
+}
+.page-content .native-employer-tabs .native-mobile-tab {
+  display: none;
+}
+@media (max-width: 767px) {
+  .page-content .native-employer-tabs .native-mobile-tab {
+    display: flex;
+    width: 100%;
+  }
+  .page-content .native-employer-tabs .the7-e-tabs-nav-wrapper {
+    display: none;
+  }
+}
+.page-content .native-employer-tabs .the7-e-tab-content:not([hidden]) {
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+@media (max-width: 767px) {
+  .page-content .native-employer-tabs .the7-e-tabs-content .native-mobile-tab {
+    display: flex !important;
+    width: 100%;
+    padding: 16px;
+  }
+  .page-content .native-employer-tabs .the7-e-tab-item-wrapper {
+    display: block !important;
+  }
+}

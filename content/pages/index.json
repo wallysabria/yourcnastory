@@ -286,5 +286,41 @@
     "file": "content/pages/es--earn-and-learn.json",
     "locale": "es",
     "sha256": "ef4f1d28dd4d70027fdf7981d765745f7365d6efd5aba33c5386984963e5430d"
+  },
+  {
+    "path": "/cna-certifications/",
+    "file": "content/pages/cna-certifications.json",
+    "locale": "en",
+    "sha256": "98676da605eee84adf19f11172315c41ea1393a542476dc9f77aacb98f1f03ae"
+  },
+  {
+    "path": "/employer-resources/",
+    "file": "content/pages/employer-resources.json",
+    "locale": "en",
+    "sha256": "2786838c2c97587509f2b37d3d20970ee987e8c0372a38da5e9a6f86eca457fb"
+  },
+  {
+    "path": "/cnap-employer-signup/",
+    "file": "content/pages/cnap-employer-signup.json",
+    "locale": "en",
+    "sha256": "bc831f450f511f51b73f21bd900781c3e5b4ecd068758f7dfd875543688f180d"
+  },
+  {
+    "path": "/cnap-awards/",
+    "file": "content/pages/cnap-awards.json",
+    "locale": "en",
+    "sha256": "dcea8a054e72f75b03e544583c571c46129e297767c67384c58fc81b870c9487"
+  },
+  {
+    "path": "/faqs/",
+    "file": "content/pages/faqs.json",
+    "locale": "en",
+    "sha256": "72f4c515954dab813aa3e36c81f86cfcaaf5def000edbe3f984daad40cf68c60"
+  },
+  {
+    "path": "/cusp-upskilling/",
+    "file": "content/pages/cusp-upskilling.json",
+    "locale": "en",
+    "sha256": "d5518bc586744e9f8e988ee0493f6c999a2750bbb975260b07b38a27ac78809f"
   }
 ]

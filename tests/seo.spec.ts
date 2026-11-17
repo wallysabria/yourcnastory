@@ -58,16 +58,22 @@ test('all pages preserve metadata, reciprocal languages, source OG fields and re
       .get();
     expect(alternate).toContainEqual({ lang: route.locale, href: origin + route.path });
     expect(alternate.some((a) => a.lang === 'vi' || a.lang === 'zh')).toBe(false);
-    expect(alternate).toContainEqual({
-      lang: route.locale === 'en' ? 'es' : 'en',
-      href: origin + route.counterpart,
-    });
+    if (route.section !== 'employers')
+      expect(alternate).toContainEqual({
+        lang: route.locale === 'en' ? 'es' : 'en',
+        href: origin + route.counterpart,
+      });
+    else expect(alternate.some((a) => a.lang === 'es')).toBe(false);
     expect(alternate.find((a) => a.lang === 'x-default')?.href).toBe(
       origin + (route.locale === 'en' ? route.path : route.counterpart),
     );
     expect($('h1')).toHaveLength(1);
     $('#main [role=heading]').each((_, e) => expect(e.tagName).toBe('h' + $(e).attr('aria-level')));
     const graph = JSON.parse($('script[type="application/ld+json"]').text());
+    if (route.section === 'employers') {
+      expect(graph).toBeNull();
+      continue;
+    }
     expect(graph['@context']).toBe('https://schema.org');
     const types = graph['@graph'].map((n: { '@type': string }) => n['@type']);
     expect(types).toContain('Organization');
@@ -132,7 +138,19 @@ test('language sitemap/index and llms links exclude Employers, retired languages
     ).toBe(true);
     $('url').each((_, e) => {
       expect($(e).find('lastmod').text()).toMatch(/^\d{4}-\d{2}-\d{2}T/);
-      expect($(e).find('xhtml\\:link')).toHaveLength(3);
+      expect($(e).find('xhtml\\:link')).toHaveLength(
+        $(e).find('loc').text().includes('/es/') ||
+          ![
+            '/cna-certifications/',
+            '/employer-resources/',
+            '/cnap-employer-signup/',
+            '/cnap-awards/',
+            '/faqs/',
+            '/cusp-upskilling/',
+          ].some((p) => $(e).find('loc').text().endsWith(p))
+          ? 3
+          : 2,
+      );
     });
   }
   const robots = await (await request.get('/robots.txt')).text();

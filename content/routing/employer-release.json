@@ -1,0 +1,13 @@
+{
+  "approved": [
+    "/cna-certifications/",
+    "/employer-resources/",
+    "/cnap-employer-signup/",
+    "/cnap-awards/",
+    "/faqs/",
+    "/cusp-upskilling/"
+  ],
+  "held": ["/employers/", "/train-and-gain/", "/advocate/"],
+  "englishOnly": true,
+  "enabled": true
+}

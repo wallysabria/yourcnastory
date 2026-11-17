@@ -137,7 +137,15 @@
     "section": "employers",
     "counterpart": "/es/certificaciones-cna/",
     "template": "standard-content-or-legacy",
-    "metadata": null,
+    "metadata": {
+      "title": "CUSP Certifications - Certified Nurse Assistant Program (CNAP) Quality Care Health Foundation",
+      "description": "From specialized skills to advanced training, elevate your healthcare career with various certifications available to CNAs through CNAP.",
+      "canonical": "https://yourcnastory.org/cna-certifications/",
+      "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "ogTitle": "CNA Certifications",
+      "ogDescription": "From specialized skills to advanced training, elevate your healthcare career with various certifications available to CNAs through CNAP.",
+      "ogImage": "https://yourcnastory.org/wp-content/uploads/2023/09/qchf-header-insert-1.jpg"
+    },
     "heading": null,
     "anchors": []
   },
@@ -1399,7 +1407,15 @@
     "section": "employers",
     "counterpart": "/es/recursos-para-empresarios/",
     "template": "anchored-resources",
-    "metadata": null,
+    "metadata": {
+      "title": "Employer Resources - Certified Nurse Assistant Program (CNAP) Quality Care Health Foundation",
+      "description": "",
+      "canonical": "https://yourcnastory.org/employer-resources/",
+      "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "ogTitle": "Employer Resources",
+      "ogDescription": "Employer Resources Nurse Assistant Training Programs (CNA Training Providers) in California Nurse Assistant Training Providers (Online Schools) Certified Nurse Assistant (CNA) Training Programs (Schools) Facility-based Nurse Assistant Training Programs (Skilled Nursing Facilities) CNAP Earn and Learn Partners* *This is not inclusive of all CA state Earn and Learn programs, and may sporadically change. Contact CNAP…",
+      "ogImage": "https://yourcnastory.org/wp-content/uploads/2023/09/training-programs.jpg"
+    },
     "heading": null,
     "anchors": []
   },
@@ -1410,7 +1426,15 @@
     "section": "employers",
     "counterpart": "/es/inscripcion-de-empresarios-a-la-cnap/",
     "template": "standard-content-or-legacy",
-    "metadata": null,
+    "metadata": {
+      "title": "CNAP Employer Signup - Certified Nurse Assistant Program (CNAP) Quality Care Health Foundation",
+      "description": "",
+      "canonical": "https://yourcnastory.org/cnap-employer-signup/",
+      "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "ogTitle": "CNAP Employer Signup",
+      "ogDescription": "CNAP Application Join CNAP and Help Grow a Thriving CNA Workforce in California ﻿",
+      "ogImage": ""
+    },
     "heading": null,
     "anchors": []
   },
@@ -2173,7 +2197,15 @@
     "section": "employers",
     "counterpart": "/es/premios-cnap/",
     "template": "standard-content-or-legacy",
-    "metadata": null,
+    "metadata": {
+      "title": "CNAP Financial Awards - Certified Nurse Assistant Program (CNAP) Quality Care Health Foundation",
+      "description": "",
+      "canonical": "https://yourcnastory.org/cnap-awards/",
+      "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "ogTitle": "CNAP Financial Awards",
+      "ogDescription": "CNAP Financial Awards Partner with CNAP and take advantage of the various financial awards that are available to benefit SNF workforce development initiatives in California. You may be eligible for multiple awards depending on your facilities needs and goals, and may apply for all awards through one single application. Applications must be received for each…",
+      "ogImage": ""
+    },
     "heading": null,
     "anchors": []
   },
@@ -2184,7 +2216,15 @@
     "section": "employers",
     "counterpart": null,
     "template": "faq-accordion",
-    "metadata": null,
+    "metadata": {
+      "title": "Frequently Asked Questions - Certified Nurse Assistant Program (CNAP) Quality Care Health Foundation",
+      "description": "",
+      "canonical": "https://yourcnastory.org/faqs/",
+      "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "ogTitle": "Frequently Asked Questions",
+      "ogDescription": "Employers Frequently Asked Questions (FAQs) NATP What is a Facility NATP? A facility that has obtained an accredited California Nurse Assistant Training Program (NATP) through the California Department of Public Health (CDPH). This is reflected via a 280A form designation that the facility is NATP accredited to train CNA’s. Am I eligible for the Facility-based NATP…",
+      "ogImage": ""
+    },
     "heading": null,
     "anchors": []
   },
@@ -2195,7 +2235,15 @@
     "section": "employers",
     "counterpart": "/es/cusp-upskilling/",
     "template": "standard-content-or-legacy",
-    "metadata": null,
+    "metadata": {
+      "title": "CUSP- CNA Upskilling - Certified Nurse Assistant Program (CNAP) Quality Care Health Foundation",
+      "description": "",
+      "canonical": "https://yourcnastory.org/cusp-upskilling/",
+      "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "ogTitle": "CUSP- CNA Upskilling",
+      "ogDescription": "CNA Upskilling Program (CUSP) The CNA Up Skilling Program (CUSP) is designed to create a supportive career advancement environment, empowering CNAs with opportunities for personal and professional growth. CUSP provides CNAs with the chance to advance through recognized levels of achievement based on their completed micro-certification modules and work experience. As the CNA progresses, they’ll…",
+      "ogImage": ""
+    },
     "heading": null,
     "anchors": []
   },

@@ -1,0 +1,10 @@
+[
+  {
+    "path": "/cna-certifications/",
+    "performance": 0.79,
+    "lcpMs": 4958.6314999999995,
+    "cls": 0,
+    "tbtMs": 71,
+    "mode": "local mobile lab, one run; not field Core Web Vitals"
+  }
+]

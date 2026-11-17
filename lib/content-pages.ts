@@ -47,6 +47,12 @@ import page44 from '../content/pages/es--gana-y-aprende-bayarea.json' with { typ
 import page45 from '../content/pages/es--earn-and-learn-norcal.json' with { type: 'json' };
 import page46 from '../content/pages/es--gana-y-aprende-san-diego.json' with { type: 'json' };
 import page47 from '../content/pages/es--earn-and-learn.json' with { type: 'json' };
+import page48 from '../content/pages/cna-certifications.json' with { type: 'json' };
+import page49 from '../content/pages/employer-resources.json' with { type: 'json' };
+import page50 from '../content/pages/cnap-employer-signup.json' with { type: 'json' };
+import page51 from '../content/pages/cnap-awards.json' with { type: 'json' };
+import page52 from '../content/pages/faqs.json' with { type: 'json' };
+import page53 from '../content/pages/cusp-upskilling.json' with { type: 'json' };
 const pages: Record<string, unknown> = {
   '/careerpaths/careers-in-certified-nurse-assistant/': page0,
   '/careerpaths/careers-in-nursing/': page1,
@@ -96,6 +102,12 @@ const pages: Record<string, unknown> = {
   '/es/earn-and-learn-norcal/': page45,
   '/es/gana-y-aprende-san-diego/': page46,
   '/es/earn-and-learn/': page47,
+  '/cna-certifications/': page48,
+  '/employer-resources/': page49,
+  '/cnap-employer-signup/': page50,
+  '/cnap-awards/': page51,
+  '/faqs/': page52,
+  '/cusp-upskilling/': page53,
 };
 export function contentAt(path: string) {
   const data = Object.hasOwn(pages, path) ? pages[path] : undefined;

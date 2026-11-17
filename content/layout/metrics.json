@@ -574,5 +574,77 @@
       "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
       "mainWidth": 390
     }
+  },
+  "/employer-resources/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/cna-certifications/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/cnap-awards/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/cnap-employer-signup/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/faqs/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/cusp-upskilling/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
   }
 }

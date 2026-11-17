@@ -1,18 +1,22 @@
+const employerOnly = process.argv.includes('--employers');
+const approvedEmployers = JSON.parse(
+  fs.readFileSync('content/routing/employer-release.json'),
+).approved;
 import fs from 'node:fs';
 import path from 'node:path';
 import { load } from 'cheerio';
 import postcss from 'postcss';
 import { hash, write, sourceDocument } from './content-source.mjs';
 const records = JSON.parse(fs.readFileSync('_source/phase-03/reconciliation.json'));
-const routes = JSON.parse(fs.readFileSync('content/routing/slug-map.json')).filter(
-  (r) => r.section !== 'employers',
+const routes = JSON.parse(fs.readFileSync('content/routing/slug-map.json')).filter((r) =>
+  employerOnly ? approvedEmployers.includes(r.path) : r.section !== 'employers',
 );
 const media = new Map(
   JSON.parse(fs.readFileSync('content/media/manifest.json')).map((r) => [r.url, r.path]),
 );
 const styles = new Map(),
   originals = new Map(),
-  pages = {},
+  pages = employerOnly ? JSON.parse(fs.readFileSync('content/layout/pages.json')) : {},
   assets = [],
   unmapped = new Set();
 const fontStyles = [];
@@ -278,7 +282,12 @@ for (const [key, css] of styles) fs.writeFileSync('public/styles/source/' + key 
 fs.writeFileSync('public/styles/source/fonts.css', [...new Set(fontStyles)].join('\n'));
 write('content/layout/pages.json', pages);
 write('content/layout/assets.json', assets);
-write('docs/reports/phase-04-unmapped-css-assets.json', [...unmapped]);
+write(
+  employerOnly
+    ? 'docs/reports/phase-08-unmapped-css-assets.json'
+    : 'docs/reports/phase-04-unmapped-css-assets.json',
+  [...unmapped],
+);
 console.log({
   pages: Object.keys(pages).length,
   styleFiles: styles.size,
