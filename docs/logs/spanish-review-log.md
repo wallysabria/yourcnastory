@@ -191,3 +191,7 @@ No Spanish Employer pages or new Spanish UI strings added. Historical route rese
 ## D-020 — CUSP refresh
 
 English CUSP page only; no Spanish page or interface string changes. Original source titles provide accordion labels.
+
+## D-022 — Awards refresh
+
+English Employer page only. No Spanish page, translation, or interface changes. The approved new English navigation label is “Jump to an award”.

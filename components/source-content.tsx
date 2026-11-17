@@ -1,3 +1,4 @@
+import { AwardNavigation } from './award-navigation';
 import Image from 'next/image';
 import { youtubeVideoId } from '@/lib/youtube';
 import { EmployerTabs } from './employer-tabs';
@@ -135,8 +136,76 @@ export function renderSourceNode(node: ContentNode, key: string, ctx: Context): 
   const settings = setting(raw);
   const widgetSettings = raw['data-widget_type'] ? settings : ctx.widgetSettings;
   const context = { ...ctx, widgetSettings };
-  const children = (inContext = context) =>
-    node.children.map((child, i) => renderSourceNode(child, key + '.' + i, inContext));
+  const isAwards = ctx.layout.bodyClasses.split(/\s+/).includes('page-id-95275');
+  const awardCards = ['ae6e84a', 'fc8b74f', 'f7198d0', '6baacc9', 'e4e7e1a', '1b85b90', 'f727979'];
+  const children = (inContext = context) => {
+    const rendered = node.children.map((child, i) =>
+      renderSourceNode(child, key + '.' + i, inContext),
+    );
+    if (isAwards && raw['data-elementor-id'] === '95275') {
+      const start = node.children.findIndex(
+        (n) => n.type === 'element' && n.source?.elementorId === 'a9f540c',
+      );
+      const end =
+        node.children.findIndex(
+          (n) => n.type === 'element' && n.source?.elementorId === 'f727979',
+        ) + 1;
+      if (start >= 0 && end > start)
+        return [
+          ...rendered.slice(0, start),
+          <div className="awards-scope" key="awards-scope">
+            {rendered.slice(start, end)}
+          </div>,
+          ...rendered.slice(end),
+        ];
+    }
+    return rendered;
+  };
+  if (isAwards && node.source?.elementorId === 'a9f540c') {
+    const items: { label: string; id: string }[] = [];
+    const scan = (n: ContentNode) => {
+      if (n.type !== 'element') return;
+      if (n.tag === 'a' && n.attrs.href) {
+        const url = new URL(n.attrs.href, 'https://yourcnastory.org');
+        if (url.hash)
+          items.push({ label: texts(n).trim(), id: decodeURIComponent(url.hash.slice(1)) });
+      }
+      n.children.forEach(scan);
+    };
+    scan(node);
+    return <AwardNavigation key={key} items={items} />;
+  }
+  if (isAwards && node.tag === 'h6') {
+    const paragraph = node.children.findIndex((n) => n.type === 'element' && n.tag === 'p');
+    const limit = paragraph < 0 ? node.children.length : paragraph;
+    const double = node.children.findIndex((n, i) => {
+      const next = node.children[i + 1];
+      return (
+        i < limit &&
+        n.type === 'element' &&
+        n.tag === 'br' &&
+        next?.type === 'element' &&
+        next.tag === 'br'
+      );
+    });
+    const end = double >= 0 ? double : limit;
+    const body = paragraph >= 0 ? paragraph : double >= 0 ? double + 2 : limit;
+    return (
+      <div key={key} className="award-title-group">
+        <h2 id={node.attrs.id} className="award-title">
+          {node.children.slice(0, end).map((c, i) => renderSourceNode(c, key + '.' + i, context))}
+        </h2>
+        {body < node.children.length && (
+          <div className="award-definitions">
+            {node.children
+              .slice(body)
+              .map((c, i) => renderSourceNode(c, key + '.' + (body + i), context))}
+          </div>
+        )}
+      </div>
+    );
+  }
+
   if (ctx.layout.bodyClasses.includes('page-id-96540') && node.source?.elementorId === '9d50f65') {
     const cards: { node: ContentNode; path: string }[] = [];
     let heading: { node: ContentNode; path: string } | undefined;
@@ -315,6 +384,10 @@ export function renderSourceNode(node: ContentNode, key: string, ctx: Context): 
     );
   }
   const props: Record<string, unknown> = { key, className: classes || undefined };
+  if (isAwards && awardCards.includes(node.source?.elementorId || '')) {
+    props['data-award-card'] = true;
+    props.tabIndex = -1;
+  }
   for (const [name, value] of Object.entries(node.attrs)) {
     if (['src', 'srcset', 'href', 'value', 'role'].includes(name)) continue;
     const names: Record<string, string> = {

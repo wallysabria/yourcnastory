@@ -13,6 +13,10 @@ import { notFound } from 'next/navigation';
 import { metadataFor } from '@/lib/metadata';
 import { renderableRoutes, routeAt, canRender } from '@/lib/routing';
 const cuspStyles = readFileSync(path.join(process.cwd(), 'public/styles/cusp-refresh.css'), 'utf8');
+const awardsStyles = readFileSync(
+  path.join(process.cwd(), 'public/styles/awards-refresh.css'),
+  'utf8',
+);
 export const dynamicParams = false;
 export function generateStaticParams() {
   return renderableRoutes().map((route) => ({ slug: route.path.split('/').filter(Boolean) }));
@@ -44,7 +48,7 @@ export default async function Page({ params }: { params: Promise<{ slug?: string
     if (/^h[1-6]$/.test(node.tag) && nodeText(node).trim()) {
       headingEntries.push({
         key,
-        level: Number(node.tag[1]),
+        level: route!.path === '/cnap-awards/' && node.tag === 'h6' ? 2 : Number(node.tag[1]),
         text: nodeText(node),
         tag: node.tag,
         id: node.attrs.id,
@@ -99,12 +103,19 @@ export default async function Page({ params }: { params: Promise<{ slug?: string
       {route.path === '/cusp-upskilling/' && (
         <style data-cusp-refresh dangerouslySetInnerHTML={{ __html: cuspStyles }} />
       )}
+      {route.path === '/cnap-awards/' && (
+        <style data-awards-refresh dangerouslySetInnerHTML={{ __html: awardsStyles }} />
+      )}
       <div className="source-document">
         <div
           className={
             'page-content ' +
             layout.bodyClasses +
-            (route.path === '/cusp-upskilling/' ? ' cusp-refresh' : '')
+            (route.path === '/cusp-upskilling/'
+              ? ' cusp-refresh'
+              : route.path === '/cnap-awards/'
+                ? ' awards-refresh'
+                : '')
           }
           style={style}
           data-template={layout.template}

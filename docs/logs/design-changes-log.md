@@ -139,3 +139,7 @@ Owner approved a focused /cusp-upskilling/ refresh: white rounded Overview/Goal/
 ## D-021 — Restore CUSP implementation video — approved 2026-11-16
 
 Owner requested restoring the YouTube video visible on the current reference page's Successful CUSP Implementation block, using click-to-load and the existing shadowbox player. Source widget 731d597 declares https://www.youtube.com/watch?v=aTyd4jfB0OY. Preserve copy/URLs and the D-020 refresh; use a self-hosted original thumbnail, no provider requests before activation, existing modal sizing/Escape/focus restoration and iframe removal on close. Desktop two-column block; mobile stack. Correct the watch?v= URL parser; retain existing Community Resources inline player behavior.
+
+## D-022 — Financial Awards navigation and cards — approved 2026-11-16
+
+Owner approved /cnap-awards/ refresh: labeled Jump to an award navigation using the five original labels, pale pills with section-aware selected state, sticky desktop navigation below header, compact wrapping mobile layout, unobscured anchor targets, and white award cards with clearer documentation/application spacing. Preserve all wording, amounts, source destinations and original anchors, including E&Laward. Scope to this page; group all three CUSP awards under the existing CUSP navigation entry. No held pages, other Employer page styling, chatbot/database or live integrations.

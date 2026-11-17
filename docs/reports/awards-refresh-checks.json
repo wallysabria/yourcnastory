@@ -1,0 +1,82 @@
+[
+  {
+    "width": 1440,
+    "nav": 1,
+    "cards": 7,
+    "scope": 1,
+    "overflow": false,
+    "violations": [
+      {
+        "id": "color-contrast",
+        "nodes": [
+          {
+            "target": [
+              ".elementor-size-xl"
+            ],
+            "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "nav": 1,
+    "cards": 7,
+    "scope": 1,
+    "overflow": false,
+    "violations": [
+      {
+        "id": "color-contrast",
+        "nodes": [
+          {
+            "target": [
+              ".elementor-size-xl"
+            ],
+            "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "nav": 1,
+    "cards": 7,
+    "scope": 1,
+    "overflow": false,
+    "violations": [
+      {
+        "id": "color-contrast",
+        "nodes": [
+          {
+            "target": [
+              ".elementor-size-xl"
+            ],
+            "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "nav": 1,
+    "cards": 7,
+    "scope": 1,
+    "overflow": false,
+    "violations": [
+      {
+        "id": "color-contrast",
+        "nodes": [
+          {
+            "target": [
+              ".elementor-size-xl"
+            ],
+            "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.11 (foreground color: #ffffff, background color: #0bc4d9, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1"
+          }
+        ]
+      }
+    ]
+  }
+]
