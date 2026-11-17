@@ -1,0 +1,27 @@
+# CUSP design refresh — D-020
+
+Owner approved the focused /cusp-upskilling/ refresh on 2026-11-16. Branch: codex/cusp-design-refresh. Review only; merge/publication not requested yet.
+
+## Changes
+
+- FAQ-style pale section backgrounds, white rounded overview panel, vertical desktop navigation and mobile accordion controls.
+- Seven independently expandable native level cards with source titles/panel IDs and plus/minus circles. Existing content remains in server-rendered markup.
+- Five benefit cards arranged in a responsive 3/2/1-column grid, using original icons and verbatim copy; source decorative empty columns removed from rendered layout.
+- Enlarged original timeline inside a white bordered card, with consistent section spacing.
+- Original hero, content JSON, media, destinations, metadata and URL unchanged. No content or database work on held pages. Stylesheet/class are applied only to this route.
+
+## Verification
+
+Four-width capture/audit at 1440/768/390/320: no document overflow, seven level cards and zero axe violations in the initial state. See cusp-refresh-checks.json. Screenshots are local/ignored at docs/audit/screenshots/cusp-refresh/; desktop/mobile inspected, including the corrected five-card grid.
+
+Expanded-card checks verify all seven bodies are visible and readable, all original anchor IDs remain present, benefit cards have usable widths, and desktop vertical keyboard navigation works. All four fully expanded states flag only the inherited link-in-text-block rule on four original external links; source link treatment retained under the owner's earlier D-004 decision, full audit attached to tests. Do not claim zero expanded-state axe violations or full WCAG conformance. Existing site-wide mobile lab-performance flags remain open; no new field CWV claim.
+
+Final lint, types, formatting, build and full test results recorded after completion below. Source-copy parity is unchanged because no source page file is modified; original 54-page committed/captured verification is rerun for handoff. External links retain new-tab security attributes. No live forms, API calls, tracking activation, protection bypass or custom-domain changes.
+
+PR/preview pending push. Review preview may require normal Vercel sign-in; no protection bypass will be created.
+
+## Final local checks
+
+111 Playwright tests passed, including four-width expanded-card/anchor/readability coverage and overview keyboard navigation. Lint, typecheck, formatting and production build passed. Committed-source parity: 54/54, with original text hashes asserted. No source content/media/metadata files changed.
+
+When every card is expanded, four pre-existing inline links trigger link-in-text-block (color-only identification). D-004 retained source link treatment; the new tests attach these findings and reject all other axe violations. Initial-state audits at all four widths found zero violations. This is not a claim of zero violations in every interactive state.

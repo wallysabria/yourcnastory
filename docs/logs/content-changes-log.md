@@ -95,3 +95,7 @@ Owner approved removing only the leaked `.cls-63ce7424ea57ea6c8380058e-1{fill:no
 ## Phase 8 English-only partial migration — 2026-11-16
 
 Six approved English Employer pages extracted verbatim from captured current public pages; job-board removal report contains zero entries. Source iframe fallback contains an invisible TinyMCE bookmark fragment; original content-tree bytes retained, non-visible iframe fallback excluded symmetrically from visible-copy parity. Source iframe URL is preserved. No held-page content or Spanish Employer copy migrated.
+
+## D-020 implementation — 2026-11-16
+
+CUSP refresh changes rendered presentation only; original page JSON/text, images, links, anchors and metadata retained. Seven source levels now appear as native expandable cards; five source advantages are rendered as one grid without the original decorative empty columns. Both source paragraphs and source navigation labels remain verbatim.

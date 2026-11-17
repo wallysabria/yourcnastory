@@ -135,6 +135,30 @@ export function renderSourceNode(node: ContentNode, key: string, ctx: Context): 
   const context = { ...ctx, widgetSettings };
   const children = (inContext = context) =>
     node.children.map((child, i) => renderSourceNode(child, key + '.' + i, inContext));
+  if (ctx.layout.bodyClasses.includes('page-id-96540') && node.source?.elementorId === '9d50f65') {
+    const cards: { node: ContentNode; path: string }[] = [];
+    let heading: { node: ContentNode; path: string } | undefined;
+    const scan = (n: ContentNode, path: string) => {
+      if (n.type !== 'element') return;
+      if (!heading && /^h[1-6]$/.test(n.tag) && texts(n).trim()) heading = { node: n, path };
+      if (has(n, 'wf-cell')) {
+        cards.push({ node: n, path });
+        return;
+      }
+      n.children.forEach((c, i) => scan(c, path + '.' + i));
+    };
+    scan(node, key);
+    return (
+      <section key={key} id={node.attrs.id} className="cusp-benefits">
+        <div className="cusp-benefits-inner">
+          {heading && renderSourceNode(heading.node, heading.path, context)}
+          <div className="cusp-benefit-grid">
+            {cards.map((c) => renderSourceNode(c.node, c.path, context))}
+          </div>
+        </div>
+      </section>
+    );
+  }
   if (!tagNames.has(tag)) return children();
   if (raw['data-widget_type'] === 'table-of-contents.default') {
     const title = first(node, (n) => n.type === 'element' && has(n, 'elementor-toc__header-title'));
@@ -157,6 +181,11 @@ export function renderSourceNode(node: ContentNode, key: string, ctx: Context): 
     return (
       <EmployerTabs
         key={key}
+        presentation={
+          ctx.layout.bodyClasses.includes('page-id-96540') && titles.length > 3
+            ? 'accordion'
+            : 'tabs'
+        }
         items={titles.flatMap((title) => {
           if (title.type !== 'element') return [];
           const panel = first(

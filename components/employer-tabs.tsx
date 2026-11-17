@@ -1,9 +1,36 @@
 'use client';
 import { useRef, useState, type ReactNode } from 'react';
 type Item = { title: string; titleId: string; panelId: string; body: ReactNode };
-export function EmployerTabs({ items }: { items: Item[] }) {
+export function EmployerTabs({
+  items,
+  presentation = 'tabs',
+}: {
+  items: Item[];
+  presentation?: 'tabs' | 'accordion';
+}) {
   const [active, setActive] = useState(0);
   const buttons = useRef<(HTMLButtonElement | null)[]>([]);
+  if (presentation === 'accordion')
+    return (
+      <div className="cusp-levels">
+        {items.map((item, i) => (
+          <details key={item.panelId} className="cusp-level-card" open={i === 0}>
+            <summary id={item.titleId}>
+              <span>{item.title}</span>
+              <span className="cusp-toggle" aria-hidden="true" />
+            </summary>
+            <div
+              id={item.panelId}
+              role="region"
+              aria-labelledby={item.titleId}
+              className="cusp-level-body"
+            >
+              {item.body}
+            </div>
+          </details>
+        ))}
+      </div>
+    );
   return (
     <div className="the7-e-tabs-wrapper native-employer-tabs">
       <div className="the7-e-tabs-nav-wrapper">
@@ -11,6 +38,7 @@ export function EmployerTabs({ items }: { items: Item[] }) {
           <div
             className="the7-e-tabs-nav"
             role="tablist"
+            aria-orientation="vertical"
             aria-label={items.map((i) => i.title.trim()).join(', ')}
           >
             {items.map((item, i) => (
@@ -29,9 +57,9 @@ export function EmployerTabs({ items }: { items: Item[] }) {
                 onClick={() => setActive(i)}
                 onKeyDown={(event) => {
                   const next =
-                    event.key === 'ArrowRight'
+                    event.key === 'ArrowRight' || event.key === 'ArrowDown'
                       ? (i + 1) % items.length
-                      : event.key === 'ArrowLeft'
+                      : event.key === 'ArrowLeft' || event.key === 'ArrowUp'
                         ? (i - 1 + items.length) % items.length
                         : event.key === 'Home'
                           ? 0

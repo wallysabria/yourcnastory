@@ -93,9 +93,16 @@ export default async function Page({ params }: { params: Promise<{ slug?: string
       {(styleBundles as Record<string, string[]>)[route.path].map((url) => (
         <link key={url} rel="stylesheet" href={url} precedence="source-content" />
       ))}
+      {route.path === '/cusp-upskilling/' && (
+        <link rel="stylesheet" href="/styles/cusp-refresh.css" precedence="cusp-refresh" />
+      )}
       <div className="source-document">
         <div
-          className={'page-content ' + layout.bodyClasses}
+          className={
+            'page-content ' +
+            layout.bodyClasses +
+            (route.path === '/cusp-upskilling/' ? ' cusp-refresh' : '')
+          }
           style={style}
           data-template={layout.template}
           data-pagefind-body
