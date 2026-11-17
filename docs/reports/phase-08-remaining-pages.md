@@ -30,3 +30,7 @@ Train and Gain’s WordPress inquiry form is explicitly a placeholder by owner r
 
 Preview: https://yourcnastory-git-codex-employers-r-583bbc-wallysabrias-projects.vercel.app (Vercel sign-in may be required). PR: https://github.com/wallysabria/yourcnastory/pull/21. Review /employers/, /train-and-gain/ and /advocate/ on this deployment. Not merged or published to main in this task. Later content edits and the final Train and Gain inquiry form remain pending owner direction. Existing source wording/amounts are preserved rather than reconciled editorially. No DNS/WordPress changes or live form submissions were made.
 
+
+## Publication verification
+
+Owner approved merge/publication. PR #21 merged as 3a190505a3c25c61f7d30b5db42797085910ca08. All three public review-site URLs returned HTTP 200 at https://yourcnastory.vercel.app. All 30 Employer browser tests passed against that published deployment, including the four-width non-submitting placeholder checks, click-to-load/lightbox video behavior, restored portrait mask and preserved anchors. All 135 PR CI tests passed before merge.
