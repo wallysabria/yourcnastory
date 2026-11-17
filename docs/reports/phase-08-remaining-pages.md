@@ -28,4 +28,5 @@ Train and Gain’s WordPress inquiry form is explicitly a placeholder by owner r
 
 ## Review and remaining work
 
-Preview and PR: pending deployment. Not merged or published to main in this task. Later content edits and the final Train and Gain inquiry form remain pending owner direction. Existing source wording/amounts are preserved rather than reconciled editorially. No DNS/WordPress changes or live form submissions were made.
+Preview: https://yourcnastory-git-codex-employers-r-583bbc-wallysabrias-projects.vercel.app (Vercel sign-in may be required). PR: https://github.com/wallysabria/yourcnastory/pull/21. Review /employers/, /train-and-gain/ and /advocate/ on this deployment. Not merged or published to main in this task. Later content edits and the final Train and Gain inquiry form remain pending owner direction. Existing source wording/amounts are preserved rather than reconciled editorially. No DNS/WordPress changes or live form submissions were made.
+
