@@ -33,3 +33,9 @@ Follow-up responsive-state check: closing all overview panels on mobile and resi
 Review PR: https://github.com/wallysabria/yourcnastory/pull/18
 
 Protected branch preview: https://yourcnastory-git-codex-cusp-design-1fac94-wallysabrias-projects.vercel.app/cusp-upskilling/ (normal Vercel sign-in). The page-only stylesheet is inlined during static generation to avoid an extra render-blocking request. Latest mobile lab sample remains LCP ~4.59s, CLS 0 and TBT ~74ms; performance acceptance remains open, not a claim of field CWV. The old phase-08 report is preserved. An added keyboard test confirms the overview is reachable after closing all mobile panels and resizing to desktop.
+
+## Publication — owner authorized 2026-11-16
+
+PR #18 merged as 436287890246749fa2deefd2c4ac6ad7b031d205 after green CI (112 tests). Vercel deployment 63QDYo4iaFsuCdB2TZJ5GSwwyu6Z completed successfully. The refresh is public at https://yourcnastory.vercel.app/cusp-upskilling/ without sign-in or bypass. Six published-site tests passed across 1440/768/390/320, covering every level card, original anchors, benefit widths, keyboard controls and mobile-to-desktop state. Employers, Train and Gain, Advocate remain HTTP 404. Existing link-style and lab performance flags remain documented; indexing stays blocked. No chatbot/database, live tracking, live form submissions or custom-domain cutover.
+
+Earlier preview-only/unmerged statements describe the review handoff and are superseded by this owner-authorized publication.
