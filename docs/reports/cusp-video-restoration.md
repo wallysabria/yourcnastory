@@ -20,3 +20,9 @@ Current public source https://yourcnastory.org/cusp-upskilling/ declares widget 
 Local screenshots at docs/audit/screenshots/cusp-video/: desktop/mobile block and dialog. Both block screenshots visually reviewed. Dialog screenshots/tests block provider requests, so they prove local modal behavior and destination, not a completed YouTube playback session. Source thumbnail inspected and matches the owner's screenshot. No live form, analytics, chatbot or database actions. Existing accessibility/performance flags remain as previously documented.
 
 PR/preview pending push; normal Vercel sign-in may be required. No protection bypass created.
+
+## Publication — owner authorized 2026-11-16
+
+PR #19 merged as 7bc10dda95808c94fb60a2a1cad98133263bd145 after green CI (116 tests). Vercel deployment FzVVnsHm1Kkhg63ZkiKmZEhkYkzg completed successfully. Restored video is public at https://yourcnastory.vercel.app/cusp-upskilling/ without sign-in or bypass. Three published-site tests passed at 1440x1000, 390x844 and 844x390: no passive YouTube requests, correct video ID in the activated lightbox, viewport bounds, Escape/close-button cleanup and returned focus. Provider requests were intercepted in these automated tests; no completed playback session is claimed. Indexing stays blocked. No other page publication, held-page activation, live tracking, live form or database work.
+
+Earlier review-only/unmerged statements describe the handoff and are superseded by this owner-authorized publication.
