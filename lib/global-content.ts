@@ -46,5 +46,25 @@ export interface GlobalContent {
   };
 }
 export function globalContent(locale: Locale): GlobalContent {
-  return globalSettingsSchema.parse(locale === 'es' ? es : en);
+  const content = globalSettingsSchema.parse(locale === 'es' ? es : en);
+  const employer = globalSettingsSchema.parse(en).nav.find((group) => group.employer)!;
+  if (locale === 'es')
+    content.nav = content.nav.map((group) =>
+      group.employer ? { ...group, href: employer.href, columns: employer.columns } : group,
+    );
+  content.mobile = content.mobile.map((item) =>
+    item.employer
+      ? {
+          ...item,
+          href: employer.href,
+          children: employer.columns.map((column) => ({
+            label: column.title,
+            href: null,
+            employer: true,
+            children: column.items.map((link) => ({ ...link, children: [] })),
+          })),
+        }
+      : item,
+  );
+  return content;
 }

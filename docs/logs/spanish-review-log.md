@@ -203,3 +203,7 @@ Employers, Train and Gain and Advocate migrated in English only. No Spanish cont
 ## D-024 — Employer language controls
 
 English-only Employer routes now omit desktop and mobile language controls. No Spanish strings, translations or content changed; Career Seekers/shared language controls remain unchanged.
+
+## D-025 — owner-approved navigation exception
+
+Keep “Empleadores” as the Spanish menu title; route it to /employers/ and reuse English Employer submenu headings, labels and destinations on desktop/mobile. The Spanish source JSON is retained unchanged; only rendered navigation is overridden. No Spanish page-body, Career Seekers menu, footer or translation edits.

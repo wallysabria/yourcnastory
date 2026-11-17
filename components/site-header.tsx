@@ -13,7 +13,7 @@ function MobileBranch({ item, enabled }: { item: MobileItem; enabled: boolean })
   return item.children.length ? (
     <details className="mobile-branch">
       <summary>{item.label}</summary>
-      <div>
+      <div lang={item.employer ? 'en' : undefined}>
         {item.children.map((child) => (
           <MobileBranch key={child.label + child.href} item={child} enabled={enabled} />
         ))}
@@ -171,7 +171,12 @@ export function SiteHeader({
                     {group.label}
                   </Link>
                 )}
-                <div id={'mega-' + index} className="mega-panel" hidden={active !== index}>
+                <div
+                  id={'mega-' + index}
+                  className="mega-panel"
+                  lang={group.employer ? 'en' : undefined}
+                  hidden={active !== index}
+                >
                   <div className="mega-columns">
                     {group.columns.map((column) => (
                       <section key={column.title}>

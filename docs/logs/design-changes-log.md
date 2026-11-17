@@ -151,3 +151,7 @@ Owner requested a placeholder because this element will change. Retain the curre
 ## D-024 — English-only Employer header — approved
 
 Owner explicitly requested that every Employer page omit the English/Español selector. Do not render the desktop language menu or mobile language branch on routes classified as Employers, including future Employer pages. Career Seekers and shared-page language controls remain unchanged. No copy, URLs or translations changed.
+
+## D-025 — Spanish navigation to English Employer content — approved
+
+Owner explicitly requested retaining “Empleadores” as the Spanish top-level label, linking it to /employers/, and displaying the English Employer mega-menu labels/destinations. Apply the same English child navigation on mobile. Use the English desktop Employer menu as the shared source for mobile links too, correcting the legacy mobile Employer FAQ destination to /faqs/ and including all canonical menu links. English fragments carry lang=en while the Spanish top-level label remains Spanish. Raw Spanish source copy remains unchanged; this is an explicit navigation-only override.
