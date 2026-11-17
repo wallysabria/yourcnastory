@@ -1,0 +1,98 @@
+[
+  {
+    "path": "/employers/",
+    "width": 1440,
+    "source": {
+      "status": 200,
+      "h1": "Build Your CNA Workforce with CNAP",
+      "scrollWidth": 1440,
+      "height": 5011
+    },
+    "local": {
+      "status": 200,
+      "h1": "Build Your CNA Workforce with CNAP",
+      "scrollWidth": 1440,
+      "height": 5681
+    }
+  },
+  {
+    "path": "/train-and-gain/",
+    "width": 1440,
+    "source": {
+      "status": 200,
+      "h1": "Train and Gain:Build Your CNA Pipeline with Earn and Learn Financial Awards",
+      "scrollWidth": 1440,
+      "height": 6282
+    },
+    "local": {
+      "status": 200,
+      "h1": "Train and Gain:Build Your CNA Pipeline with Earn and Learn Financial Awards",
+      "scrollWidth": 1440,
+      "height": 6465
+    }
+  },
+  {
+    "path": "/advocate/",
+    "width": 1440,
+    "source": {
+      "status": 200,
+      "h1": "You Can Help Your SNF Partners Unlock $2,000 per CNA Trained",
+      "scrollWidth": 1440,
+      "height": 4365
+    },
+    "local": {
+      "status": 200,
+      "h1": "You Can Help Your SNF Partners Unlock $2,000 per CNA Trained",
+      "scrollWidth": 1440,
+      "height": 4389
+    }
+  },
+  {
+    "path": "/employers/",
+    "width": 390,
+    "source": {
+      "status": 200,
+      "h1": "Build Your CNA Workforce with CNAP",
+      "scrollWidth": 390,
+      "height": 8918
+    },
+    "local": {
+      "status": 200,
+      "h1": "Build Your CNA Workforce with CNAP",
+      "scrollWidth": 390,
+      "height": 9714
+    }
+  },
+  {
+    "path": "/train-and-gain/",
+    "width": 390,
+    "source": {
+      "status": 200,
+      "h1": "Train and Gain:Build Your CNA Pipeline with Earn and Learn Financial Awards",
+      "scrollWidth": 390,
+      "height": 10364
+    },
+    "local": {
+      "status": 200,
+      "h1": "Train and Gain:Build Your CNA Pipeline with Earn and Learn Financial Awards",
+      "scrollWidth": 390,
+      "height": 10743
+    }
+  },
+  {
+    "path": "/advocate/",
+    "width": 390,
+    "source": {
+      "status": 200,
+      "h1": "You Can Help Your SNF Partners Unlock $2,000 per CNA Trained",
+      "scrollWidth": 390,
+      "height": 7526
+    },
+    "local": {
+      "status": 200,
+      "h1": "You Can Help Your SNF Partners Unlock $2,000 per CNA Trained",
+      "scrollWidth": 390,
+      "height": 7511
+    }
+  }
+]

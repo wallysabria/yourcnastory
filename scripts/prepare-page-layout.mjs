@@ -9,7 +9,10 @@ import postcss from 'postcss';
 import { hash, write, sourceDocument } from './content-source.mjs';
 const records = JSON.parse(fs.readFileSync('_source/phase-03/reconciliation.json'));
 const routes = JSON.parse(fs.readFileSync('content/routing/slug-map.json')).filter((r) =>
-  employerOnly ? approvedEmployers.includes(r.path) : r.section !== 'employers',
+  employerOnly
+    ? approvedEmployers.includes(r.path) &&
+      (!process.env.EMPLOYER_PATHS || JSON.parse(process.env.EMPLOYER_PATHS).includes(r.path))
+    : r.section !== 'employers',
 );
 const media = new Map(
   JSON.parse(fs.readFileSync('content/media/manifest.json')).map((r) => [r.url, r.path]),
@@ -17,7 +20,7 @@ const media = new Map(
 const styles = new Map(),
   originals = new Map(),
   pages = employerOnly ? JSON.parse(fs.readFileSync('content/layout/pages.json')) : {},
-  assets = [],
+  assets = employerOnly ? JSON.parse(fs.readFileSync('content/layout/assets.json')) : [],
   unmapped = new Set();
 const fontStyles = [];
 const mailchimpCssUrl = 'https://cdn-images.mailchimp.com/embedcode/classic-061523.css';
@@ -94,7 +97,7 @@ const bodyClasses = new Set(
   }),
 );
 const mapUrls = (value) =>
-  value.replace(/url\((['"]?)([^)'"\s]+)\1\)/g, (all, quote, raw) => {
+  value.replace(/url\(\s*(['"]?)([^)'"\s]+)\1\s*\)/g, (all, quote, raw) => {
     if (raw.startsWith('data:') || raw.startsWith('#')) return all;
     try {
       const u = new URL(raw, 'https://yourcnastory.org');
@@ -257,7 +260,10 @@ for (const route of routes) {
 }
 for (const url of [...unmapped]) {
   if (
-    !url.startsWith('https://yourcnastory.org/wp-content/themes/dt-the7/images/') ||
+    !(
+      url.startsWith('https://yourcnastory.org/wp-content/themes/dt-the7/images/') ||
+      url.startsWith('https://yourcnastory.org/wp-content/plugins/elementor/assets/mask-shapes/')
+    ) ||
     !url.endsWith('.svg')
   )
     continue;
@@ -281,7 +287,7 @@ fs.mkdirSync('public/styles/source', { recursive: true });
 for (const [key, css] of styles) fs.writeFileSync('public/styles/source/' + key + '.css', css);
 fs.writeFileSync('public/styles/source/fonts.css', [...new Set(fontStyles)].join('\n'));
 write('content/layout/pages.json', pages);
-write('content/layout/assets.json', assets);
+write('content/layout/assets.json', [...new Map(assets.map((r) => [r.url, r])).values()]);
 write(
   employerOnly
     ? 'docs/reports/phase-08-unmapped-css-assets.json'

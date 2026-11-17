@@ -22,7 +22,9 @@ for (const width of [1440, 390])
         ? ['color-contrast', 'link-in-text-block']
         : [];
       expect(result.violations.filter((v) => !accepted.includes(v.id))).toEqual([]);
-      await expect(page.locator('footer a[href*="employers"]')).toHaveCount(0);
+      await expect(page.locator('footer a[href="/employers/"]')).toHaveCount(
+        path.startsWith('/es/') ? 0 : 2,
+      );
     });
 test('language switcher goes to the actual translated counterpart', async ({ page }) => {
   await page.goto('/cna-training-providers/');

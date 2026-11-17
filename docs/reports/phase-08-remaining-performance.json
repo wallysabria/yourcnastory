@@ -1,0 +1,26 @@
+[
+  {
+    "path": "/employers/",
+    "performance": 0.91,
+    "lcpMs": 2113.712,
+    "cls": 0,
+    "tbtMs": 259.5,
+    "mode": "local mobile lab, one run; not field Core Web Vitals"
+  },
+  {
+    "path": "/train-and-gain/",
+    "performance": 0.9,
+    "lcpMs": 2148.72645,
+    "cls": 0,
+    "tbtMs": 283.5,
+    "mode": "local mobile lab, one run; not field Core Web Vitals"
+  },
+  {
+    "path": "/advocate/",
+    "performance": 0.94,
+    "lcpMs": 2115.5960999999998,
+    "cls": 0,
+    "tbtMs": 191.5,
+    "mode": "local mobile lab, one run; not field Core Web Vitals"
+  }
+]

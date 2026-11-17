@@ -322,5 +322,23 @@
     "file": "content/pages/cusp-upskilling.json",
     "locale": "en",
     "sha256": "d5518bc586744e9f8e988ee0493f6c999a2750bbb975260b07b38a27ac78809f"
+  },
+  {
+    "path": "/employers/",
+    "file": "content/pages/employers.json",
+    "locale": "en",
+    "sha256": "577dc0bff49905d882be61854a8e22d438708a6dd99aca738be39eae417331e0"
+  },
+  {
+    "path": "/train-and-gain/",
+    "file": "content/pages/train-and-gain.json",
+    "locale": "en",
+    "sha256": "f698c321e5f4dbb8907adc05e4258ff5234e5dce8dd65ff259aa9fb795dd8d59"
+  },
+  {
+    "path": "/advocate/",
+    "file": "content/pages/advocate.json",
+    "locale": "en",
+    "sha256": "e3a494c6931c3a50ffc0e9927d77f4020d7c56261e51d2d2d63745326fe66e93"
   }
 ]

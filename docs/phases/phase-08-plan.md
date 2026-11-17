@@ -11,3 +11,7 @@ Owner approved this scope in chat on 2026-11-16. This overrides the original all
 - Verify exact source content, metadata, URLs, anchors, media/document paths, FAQ/tab behavior, desktop/mobile containment, accessibility, performance and existing regressions.
 - Open a separate PR/preview for review; no merge, review-alias publication, DNS cutover or live integration activation in this step.
 - Chatbot database work remains on hold on its existing branch; no chatbot/database changes belong here. Employers bot/Phase 9 remain deferred.
+
+## Phase 8 continuation — remaining English pages
+
+Owner approved migrating current public-site versions of /employers/, /train-and-gain/ and /advocate/ while editorial changes remain pending. All three become active through the existing release allowlist. Employer content remains English-only; historical Spanish routes remain reserved/unbuilt. Current public-source copy/punctuation is authoritative. No chatbot/database or live integration activation. The Train and Gain WordPress inquiry form is explicitly a non-submitting placeholder, owner requested in chat; its integration will change later. Separate branch/PR/preview before publication.

@@ -171,3 +171,7 @@ Owner approved removing only the leaked `.cls-63ce7424ea57ea6c8380058e-1{fill:no
 ## Phase 8 scoped approval — 2026-11-16
 
 Owner approved six English Employer pages, current public copy and existing Microsoft Forms; three held routes remain inactive. See docs/phases/phase-08-plan.md. Click-to-load Forms/Vimeo approved separately as D-019. Database setup for chatbot held at owner's request; no database operation or Phase 9 work. Source-style contrast remains owner-retained under D-004; report inherited failures, do not silently recolor buttons. Audit-only /cna-employers/ and calculator routes still need lifecycle disposition and remain unbuilt/unredirected.
+
+## Phase 8 remaining pages — current decision
+
+Owner lifted the hold on /employers/, /train-and-gain/ and /advocate/ for their current public-site versions, with future editorial changes still pending. Train and Gain inquiry form is a non-submitting placeholder by owner request; final fields/submission destination remain deferred. Employer chatbot and its database remain deferred.

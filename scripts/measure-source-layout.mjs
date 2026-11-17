@@ -6,7 +6,10 @@ import fs from 'node:fs';
 import { chromium } from '@playwright/test';
 import { write } from './content-source.mjs';
 const routes = JSON.parse(fs.readFileSync('content/routing/slug-map.json')).filter((r) =>
-  employerOnly ? approvedEmployers.includes(r.path) : r.section !== 'employers',
+  employerOnly
+    ? approvedEmployers.includes(r.path) &&
+      (!process.env.EMPLOYER_PATHS || JSON.parse(process.env.EMPLOYER_PATHS).includes(r.path))
+    : r.section !== 'employers',
 );
 const browser = await chromium.launch();
 const results = employerOnly ? JSON.parse(fs.readFileSync('content/layout/metrics.json')) : {};

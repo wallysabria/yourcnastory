@@ -24,5 +24,32 @@
     "mode": "lightbox",
     "sourcePage": "/cusp-upskilling/",
     "sourceWidget": "731d597"
+  },
+  {
+    "videoId": "u57NKWBtly4",
+    "url": "https://i.ytimg.com/vi/u57NKWBtly4/maxresdefault.jpg",
+    "path": "/images/content/employer-program-overview-youtube.jpg",
+    "bytes": 77323,
+    "sha256": "c68ae39f914db09e2b517bc054096116fb599c6f16e933c629d365f06cf0cfe6",
+    "mode": "lightbox",
+    "sourcePage": "/employers/"
+  },
+  {
+    "videoId": "rkUeBvfv-Vc",
+    "url": "https://i.ytimg.com/vi/rkUeBvfv-Vc/maxresdefault.jpg",
+    "path": "/images/content/employer-program-benefits-youtube.jpg",
+    "bytes": 77607,
+    "sha256": "c4f180a45f0791d0904938de58bcb9e10907c8ba5599ef757c0334486801313e",
+    "mode": "lightbox",
+    "sourcePage": "/employers/"
+  },
+  {
+    "videoId": "Re_NAsAbiBE",
+    "url": "https://i.ytimg.com/vi/Re_NAsAbiBE/hqdefault.jpg",
+    "path": "/images/content/train-and-gain-overview-youtube.jpg",
+    "bytes": 17153,
+    "sha256": "842a28d561ebe47f5fed725051d6e752d18098af0c811cd3a29c05a3f174eb1a",
+    "mode": "lightbox",
+    "sourcePage": "/train-and-gain/"
   }
 ]

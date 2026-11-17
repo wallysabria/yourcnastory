@@ -36,7 +36,7 @@ export function hrefFor(href: string): string {
 export function isLinkDisabled(href: string, employer: boolean, enabled: boolean): boolean {
   const route = href.startsWith('/') ? routeAt(href.split('#')[0]) : undefined;
   const path = href.startsWith('/') ? normalizePath(href.split(/[?#]/)[0]) : '';
-  if (employerRelease.held.includes(path)) return true;
+  if ((employerRelease.held as string[]).includes(path)) return true;
   if (employer || route?.section === 'employers')
     return !enabled || !employerRelease.approved.includes(path);
   return false;

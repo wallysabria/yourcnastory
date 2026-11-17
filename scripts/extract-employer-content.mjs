@@ -10,7 +10,10 @@ import {
   tree,
   mediaReferences,
 } from './content-source.mjs';
-const records = JSON.parse(fs.readFileSync('_source/phase-08/reconciliation.json'));
+const selected = process.env.EMPLOYER_PATHS ? JSON.parse(process.env.EMPLOYER_PATHS) : null;
+const records = JSON.parse(fs.readFileSync('_source/phase-08/reconciliation.json')).filter(
+  (r) => !selected || selected.includes(r.path),
+);
 const routes = JSON.parse(fs.readFileSync('content/routing/slug-map.json'));
 const index = JSON.parse(fs.readFileSync('content/pages/index.json'));
 const candidates = new Map(
@@ -103,7 +106,10 @@ for (const record of records) {
 write('content/pages/index.json', index);
 write('content/routing/slug-map.json', routes);
 write('content/seo/source-head.json', sourceHeads);
-write('docs/reports/phase-08-jobboard-removals.json', removals);
+write(
+  process.env.EMPLOYER_REMOVALS_REPORT || 'docs/reports/phase-08-jobboard-removals.json',
+  removals,
+);
 write('docs/reports/phase-03-media-candidates.json', [...candidates.values()]);
 const previous = JSON.parse(fs.readFileSync('_source/phase-03/reconciliation.json'));
 write('_source/phase-03/reconciliation.json', [

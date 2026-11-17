@@ -70,3 +70,82 @@ for (const width of [1440, 390])
     }
     await expect(set.locator('[role=tabpanel]:visible')).toHaveCount(1);
   });
+
+for (const width of [1440, 768, 390, 320])
+  test(`Train and Gain placeholder never submits at ${width}`, async ({ page }) => {
+    await page.setViewportSize({ width, height: 900 });
+    const submissions: string[] = [];
+    page.on('request', (r) => {
+      if (r.method() === 'POST') submissions.push(r.url());
+    });
+    await page.goto('/train-and-gain/');
+    const box = page.locator('[data-form-placeholder]');
+    await expect(box.getByRole('note')).toHaveText(
+      'Form preview only — submissions are not available yet.',
+    );
+    await expect(box.locator('form')).toHaveCount(0);
+    for (const field of await box.locator('input:not([type=hidden]),select,textarea').all())
+      await expect(field).toBeDisabled();
+    expect(submissions).toEqual([]);
+    expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth + 1)).toBe(
+      true,
+    );
+  });
+
+for (const [path, ids] of [
+  ['/employers/', ['u57NKWBtly4', 'rkUeBvfv-Vc']],
+  ['/train-and-gain/', ['Re_NAsAbiBE']],
+] as const)
+  test(`New Employer videos load only in a lightbox ${path}`, async ({ page }) => {
+    const providerRequests: string[] = [];
+    page.on('request', (r) => {
+      if (/youtube\.com|ytimg\.com/.test(r.url())) providerRequests.push(r.url());
+    });
+    await page.route('**/*', (r) =>
+      /youtube\.com|ytimg\.com/.test(r.request().url()) ? r.abort() : r.continue(),
+    );
+    await page.goto(path);
+    await page.getByRole('button', { name: 'Decline all optional tools', exact: true }).click();
+    const triggers = page.locator('button.native-video-poster');
+    await expect(triggers).toHaveCount(ids.length);
+    expect(providerRequests).toEqual([]);
+    for (let i = 0; i < ids.length; i++) {
+      const trigger = triggers.nth(i);
+      await trigger.scrollIntoViewIfNeeded();
+      await trigger.focus();
+      await trigger.press('Enter');
+      const dialog = page.locator('dialog:visible');
+      await expect(dialog.locator('iframe')).toHaveAttribute('src', new RegExp(ids[i]));
+      await page.keyboard.press('Escape');
+      await expect(trigger).toBeFocused();
+      await expect(page.locator('iframe')).toHaveCount(0);
+    }
+  });
+
+test('New Employer pages preserve anchors and have no passive WordPress dependencies', async ({
+  page,
+}) => {
+  for (const slug of ['employers', 'train-and-gain', 'advocate']) {
+    const requests: string[] = [];
+    page.on('request', (r) => {
+      if (new URL(r.url()).hostname === 'yourcnastory.org') requests.push(r.url());
+    });
+    await page.goto('/' + slug + '/');
+    await page.evaluate(async () => {
+      for (let y = 0; y < document.body.scrollHeight; y += 800) {
+        scrollTo(0, y);
+        await new Promise((r) => setTimeout(r, 20));
+      }
+    });
+    expect(requests).toEqual([]);
+  }
+  await page.goto('/train-and-gain/');
+  const image = page.locator('img.wp-image-101553');
+  await image.scrollIntoViewIfNeeded();
+  expect(await image.evaluate((e) => (e as HTMLImageElement).naturalWidth)).toBeGreaterThan(0);
+  expect(await image.evaluate((e) => getComputedStyle(e).maskImage)).toContain(
+    '/images/icons/circle-',
+  );
+  for (const id of ['zane', 'program-works', 'program_works', 'contact_form'])
+    await expect(page.locator(`[id="${id}"]`)).toHaveCount(1);
+});
