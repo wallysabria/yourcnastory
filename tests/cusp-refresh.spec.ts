@@ -55,3 +55,19 @@ test('CUSP overview supports vertical keyboard navigation and page-only styleshe
   await page.goto('/faqs/');
   await expect(page.locator('link[href="/styles/cusp-refresh.css"]')).toHaveCount(0);
 });
+
+test('overview stays keyboard reachable after closing mobile panels and resizing', async ({
+  page,
+}) => {
+  await page.setViewportSize({ width: 390, height: 900 });
+  await page.goto('/cusp-upskilling/');
+  const overview = page.locator('.native-mobile-tab').first();
+  await overview.click();
+  await expect(overview).toHaveAttribute('aria-expanded', 'false');
+  await page.setViewportSize({ width: 1440, height: 1000 });
+  const first = page.getByRole('tab').first();
+  await expect(first).toHaveAttribute('tabindex', '0');
+  await first.focus();
+  await first.press('Enter');
+  await expect(first).toHaveAttribute('aria-selected', 'true');
+});

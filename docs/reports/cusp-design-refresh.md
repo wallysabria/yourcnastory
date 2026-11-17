@@ -18,10 +18,14 @@ Expanded-card checks verify all seven bodies are visible and readable, all origi
 
 Final lint, types, formatting, build and full test results recorded after completion below. Source-copy parity is unchanged because no source page file is modified; original 54-page committed/captured verification is rerun for handoff. External links retain new-tab security attributes. No live forms, API calls, tracking activation, protection bypass or custom-domain changes.
 
-PR/preview pending push. Review preview may require normal Vercel sign-in; no protection bypass will be created.
+PR: https://github.com/wallysabria/yourcnastory/pull/18
+
+Protected review preview: https://yourcnastory-git-codex-cusp-design-1fac94-wallysabrias-projects.vercel.app/cusp-upskilling/ Review preview may require normal Vercel sign-in; no protection bypass will be created.
 
 ## Final local checks
 
 111 Playwright tests passed, including four-width expanded-card/anchor/readability coverage and overview keyboard navigation. Lint, typecheck, formatting and production build passed. Committed-source parity: 54/54, with original text hashes asserted. No source content/media/metadata files changed.
 
 When every card is expanded, four pre-existing inline links trigger link-in-text-block (color-only identification). D-004 retained source link treatment; the new tests attach these findings and reject all other axe violations. Initial-state audits at all four widths found zero violations. This is not a claim of zero violations in every interactive state.
+
+Follow-up responsive-state check: closing all overview panels on mobile and resizing to desktop preserves a keyboard tab stop. Six focused CUSP tests passed after this correction; lint and build passed again. No new visual/copy change.

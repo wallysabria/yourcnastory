@@ -53,7 +53,7 @@ export function EmployerTabs({
                 role="tab"
                 aria-selected={active === i}
                 aria-controls={item.panelId}
-                tabIndex={active === i ? 0 : -1}
+                tabIndex={active === i || (active < 0 && i === 0) ? 0 : -1}
                 onClick={() => setActive(i)}
                 onKeyDown={(event) => {
                   const next =
