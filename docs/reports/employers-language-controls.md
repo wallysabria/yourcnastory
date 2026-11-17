@@ -17,3 +17,7 @@ Owner requested retaining “Empleadores” as the Spanish top-level label, with
 Verification adds a Spanish Career Seekers desktop/mobile comparison and checks every Employer submenu destination returns 200. The same PR includes the prior D-024 removal of language selectors on Employer pages.
 
 Follow-up local checks: 65 focused checks passed, and the new Spanish navigation check passed after correcting its consent-banner lookup to use the Spanish UI. Lint/build/formatting passed. Final CI reruns all 138 tests.
+
+## Publication verification
+
+Owner approved merge/publication. PR #22 merged as f1a895649bd1f87603e64aa6994ae371d9b19dff; Vercel publication succeeded. All 138 PR CI tests passed. Three targeted browser checks passed against https://yourcnastory.vercel.app, covering all nine Employer pages at 1440/390px with no language selectors, retained Career Seekers language switching, and the Spanish Empleadores label with English desktop/mobile menu labels and working destinations.
