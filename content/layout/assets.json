@@ -83,5 +83,10 @@
     "url": "https://yourcnastory.org/wp-content/themes/dt-the7/images/a-l.svg",
     "path": "/images/icons/a-l-7d40e76f.svg",
     "kind": "source-ui"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/plugins/elementor/assets/mask-shapes/circle.svg",
+    "path": "/images/icons/circle-f2f31d3a.svg",
+    "kind": "source-ui"
   }
 ]

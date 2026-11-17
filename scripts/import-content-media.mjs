@@ -2,6 +2,9 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { load } from 'cheerio';
 import { hash, write } from './content-source.mjs';
+const previousMedia = new Map(
+  JSON.parse(fs.readFileSync('content/media/manifest.json')).map((r) => [r.url, r]),
+);
 const pages = JSON.parse(fs.readFileSync('_source/phase-03/reconciliation.json'));
 const media = new Map(
   JSON.parse(fs.readFileSync('docs/reports/phase-03-media-candidates.json')).map((r) => [r.url, r]),
@@ -85,7 +88,7 @@ async function worker() {
       ? 'public' + decodeURIComponent(u.pathname)
       : 'public/images/content/' + stem + '-' + hash(r.url).slice(0, 8) + ext;
     let status = 200,
-      contentType = '';
+      contentType = previousMedia.get(r.url)?.contentType || '';
     if (!fs.existsSync(target)) {
       const response = await fetch(r.url, { signal: AbortSignal.timeout(45000) });
       status = response.status;

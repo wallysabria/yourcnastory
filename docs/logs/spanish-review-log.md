@@ -195,3 +195,7 @@ English CUSP page only; no Spanish page or interface string changes. Original so
 ## D-022 — Awards refresh
 
 English Employer page only. No Spanish page, translation, or interface changes. The approved new English navigation label is “Jump to an award”.
+
+## Phase 8 remaining English pages
+
+Employers, Train and Gain and Advocate migrated in English only. No Spanish content, translation or interface strings added. Spanish Employer route reservations remain inactive, and no unavailable counterpart is emitted in hreflang.

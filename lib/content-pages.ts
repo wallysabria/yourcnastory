@@ -53,6 +53,9 @@ import page50 from '../content/pages/cnap-employer-signup.json' with { type: 'js
 import page51 from '../content/pages/cnap-awards.json' with { type: 'json' };
 import page52 from '../content/pages/faqs.json' with { type: 'json' };
 import page53 from '../content/pages/cusp-upskilling.json' with { type: 'json' };
+import page54 from '../content/pages/employers.json' with { type: 'json' };
+import page55 from '../content/pages/train-and-gain.json' with { type: 'json' };
+import page56 from '../content/pages/advocate.json' with { type: 'json' };
 const pages: Record<string, unknown> = {
   '/careerpaths/careers-in-certified-nurse-assistant/': page0,
   '/careerpaths/careers-in-nursing/': page1,
@@ -108,6 +111,9 @@ const pages: Record<string, unknown> = {
   '/cnap-awards/': page51,
   '/faqs/': page52,
   '/cusp-upskilling/': page53,
+  '/employers/': page54,
+  '/train-and-gain/': page55,
+  '/advocate/': page56,
 };
 export function contentAt(path: string) {
   const data = Object.hasOwn(pages, path) ? pages[path] : undefined;

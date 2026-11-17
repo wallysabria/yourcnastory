@@ -952,3 +952,22 @@ body:has(.site-header:not(.is-scrolled)) .back-to-top {
     display: block !important;
   }
 }
+
+/* Owner-requested Train and Gain form placeholder; no submission route. */
+.employer-form-placeholder fieldset {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  min-width: 0;
+}
+.employer-form-placeholder-note {
+  padding: 14px 18px;
+  border: 1px solid #cbdced;
+  border-radius: 10px;
+  background: #eaf3ff;
+  color: #243f4b;
+}
+.employer-form-placeholder :is(input, select, textarea) {
+  max-width: 100%;
+  box-sizing: border-box;
+}

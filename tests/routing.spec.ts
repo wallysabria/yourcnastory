@@ -23,7 +23,7 @@ test('validated route map preserves reciprocal pairs and excludes gated content'
   expect(renderableRoutes().some((r) => !['en', 'es'].includes(r.locale))).toBe(false);
   for (const route of routes.filter((r) => r.section === 'employers')) {
     expect(canRender(route, false)).toBe(false);
-    expect(canRender(route, true)).toBe(route.locale === 'en' && route.path !== '/employers/');
+    expect(canRender(route, true)).toBe(route.locale === 'en');
   }
 });
 test('both global settings validate and Spanish copy stays source-driven', () => {
@@ -38,10 +38,10 @@ test('both global settings validate and Spanish copy stays source-driven', () =>
 });
 test('employer links are inert with the gate off and active with it on', () => {
   expect(isLinkDisabled('/employers/', true, false)).toBe(true);
-  expect(isLinkDisabled('/employers/', true, true)).toBe(true);
+  expect(isLinkDisabled('/employers/', true, true)).toBe(false);
   expect(isLinkDisabled('/faqs/', true, true)).toBe(false);
-  expect(isLinkDisabled('/train-and-gain/', true, true)).toBe(true);
-  expect(isLinkDisabled('/advocate/', true, true)).toBe(true);
+  expect(isLinkDisabled('/train-and-gain/', true, true)).toBe(false);
+  expect(isLinkDisabled('/advocate/', true, true)).toBe(false);
   expect(isLinkDisabled('/career-seekers/', false, false)).toBe(false);
 });
 test('all activated redirects map directly without redirect chains', () => {

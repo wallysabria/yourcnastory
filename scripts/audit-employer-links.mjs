@@ -63,7 +63,7 @@ try {
     }
   }
   fs.writeFileSync(
-    'docs/reports/phase-08-internal-links.json',
+    process.env.EMPLOYER_LINK_REPORT || 'docs/reports/phase-08-internal-links.json',
     JSON.stringify(
       { checks, failures: checks.filter((c) => c.status >= 400 || c.held || !c.anchor) },
       null,

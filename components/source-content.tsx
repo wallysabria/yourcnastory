@@ -1,3 +1,4 @@
+import employerUi from '@/content/ui/employer-placeholder.json';
 import { AwardNavigation } from './award-navigation';
 import Image from 'next/image';
 import { youtubeVideoId } from '@/lib/youtube';
@@ -333,6 +334,17 @@ export function renderSourceNode(node: ContentNode, key: string, ctx: Context): 
       );
     return null;
   }
+  if (tag === 'form' && node.attrs.id === 'fluentform_4')
+    return (
+      <div key={key} id={node.attrs.id} className="employer-form-placeholder" data-form-placeholder>
+        <p className="employer-form-placeholder-note" role="note">
+          {employerUi.formNotice}
+        </p>
+        <fieldset disabled aria-label={employerUi.formLabel}>
+          {children()}
+        </fieldset>
+      </div>
+    );
   if (tag === 'form')
     return (
       <SignupForm key={key} locale={ctx.locale}>
@@ -544,6 +556,12 @@ export function renderSourceNode(node: ContentNode, key: string, ctx: Context): 
         }
       }
     }
+  }
+  if (tag === 'a' && has(node, 'the7-icon-box-grid') && texts(node).trim())
+    props['aria-label'] = texts(node).trim();
+  if (has(node, 'ff-el-progress-bar')) {
+    props.role = 'presentation';
+    props['aria-hidden'] = true;
   }
   if (extra.vectors)
     output.push(

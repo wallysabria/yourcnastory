@@ -646,5 +646,41 @@
       "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
       "mainWidth": 390
     }
+  },
+  "/employers/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/train-and-gain/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
+  },
+  "/advocate/": {
+    "desktop": {
+      "headerSpace": 0,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/01/cnap-white-reversed-logo-v2.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
+      "mainWidth": 390
+    }
   }
 }

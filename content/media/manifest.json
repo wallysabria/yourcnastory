@@ -102,7 +102,10 @@
       "/es/gana-y-aprende-bayarea/",
       "/es/earn-and-learn-norcal/",
       "/es/gana-y-aprende-san-diego/",
-      "/es/earn-and-learn/"
+      "/es/earn-and-learn/",
+      "/employers/",
+      "/train-and-gain/",
+      "/advocate/"
     ],
     "path": "/images/content/layered-waves-bg-03-150a1aaf.svg",
     "kind": "media",
@@ -135,7 +138,8 @@
       "/cnap-employer-signup/",
       "/cnap-awards/",
       "/faqs/",
-      "/cusp-upskilling/"
+      "/cusp-upskilling/",
+      "/employers/"
     ],
     "path": "/images/content/layered-waves-row-0-3d7adc2b.svg",
     "kind": "media",
@@ -3151,7 +3155,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2023/09/Buena-Vista-e1700498537285-1024x810.jpeg",
-    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/"],
+    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/", "/employers/"],
     "path": "/images/content/buena-vista-e1700498537285-1024x810-122a49c8.jpeg",
     "kind": "media",
     "status": 200,
@@ -3161,7 +3165,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2023/09/Buena-Vista-e1700498537285-1200x949.jpeg",
-    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/"],
+    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/", "/employers/"],
     "path": "/images/content/buena-vista-e1700498537285-1200x949-52af5dcf.jpeg",
     "kind": "media",
     "status": 200,
@@ -3171,7 +3175,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2023/09/Buena-Vista-e1700498537285-15x12.jpeg",
-    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/"],
+    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/", "/employers/"],
     "path": "/images/content/buena-vista-e1700498537285-15x12-584afaf4.jpeg",
     "kind": "media",
     "status": 200,
@@ -3181,7 +3185,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2023/09/Buena-Vista-e1700498537285-300x237.jpeg",
-    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/"],
+    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/", "/employers/"],
     "path": "/images/content/buena-vista-e1700498537285-300x237-40bb8ded.jpeg",
     "kind": "media",
     "status": 200,
@@ -3191,7 +3195,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2023/09/Buena-Vista-e1700498537285-768x607.jpeg",
-    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/"],
+    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/", "/employers/"],
     "path": "/images/content/buena-vista-e1700498537285-768x607-588146da.jpeg",
     "kind": "media",
     "status": 200,
@@ -3201,7 +3205,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2023/09/Buena-Vista-e1700498537285.jpeg",
-    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/"],
+    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/", "/employers/"],
     "path": "/images/content/buena-vista-e1700498537285-71aacb35.jpeg",
     "kind": "media",
     "status": 200,
@@ -3466,7 +3470,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2023/09/Compass-H-16x12.jpg",
-    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/"],
+    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/", "/employers/"],
     "path": "/images/content/compass-h-16x12-7809ae7a.jpg",
     "kind": "media",
     "status": 200,
@@ -3476,7 +3480,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2023/09/Compass-H-300x225.jpg",
-    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/"],
+    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/", "/employers/"],
     "path": "/images/content/compass-h-300x225-b70bf115.jpg",
     "kind": "media",
     "status": 200,
@@ -3486,7 +3490,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2023/09/Compass-H-768x576.jpg",
-    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/"],
+    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/", "/employers/"],
     "path": "/images/content/compass-h-768x576-065efad8.jpg",
     "kind": "media",
     "status": 200,
@@ -3496,7 +3500,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2023/09/Compass-H.jpg",
-    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/"],
+    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/", "/employers/"],
     "path": "/images/content/compass-h-ed7b68d1.jpg",
     "kind": "media",
     "status": 200,
@@ -3505,8 +3509,18 @@
     "sha256": "fb85eee782156a3911a14a136b9c98a2cfd2ea12bd5e18018acf4c77d613cd36"
   },
   {
+    "url": "https://yourcnastory.org/wp-content/uploads/2023/09/diversity-1024x683-1.jpg",
+    "pages": ["/employers/", "/train-and-gain/"],
+    "path": "/images/content/diversity-1024x683-1-c32b36e4.jpg",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/jpeg",
+    "bytes": 149047,
+    "sha256": "cc08270858dcdb7aa093b114a8f90799c108888cc5980c39c29181569d205239"
+  },
+  {
     "url": "https://yourcnastory.org/wp-content/uploads/2023/09/e0qkrGuv-WXseiffzgvcCVDhNjhC2a_-1024x576.jpg",
-    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/"],
+    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/", "/employers/"],
     "path": "/images/content/e0qkrguv-wxseiffzgvccvdhnjhc2a-1024x576-a0f2d9bc.jpg",
     "kind": "media",
     "status": 200,
@@ -3516,7 +3530,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2023/09/e0qkrGuv-WXseiffzgvcCVDhNjhC2a_-1200x675.jpg",
-    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/"],
+    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/", "/employers/"],
     "path": "/images/content/e0qkrguv-wxseiffzgvccvdhnjhc2a-1200x675-ebfcbfc1.jpg",
     "kind": "media",
     "status": 200,
@@ -3526,7 +3540,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2023/09/e0qkrGuv-WXseiffzgvcCVDhNjhC2a_-18x10.jpg",
-    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/"],
+    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/", "/employers/"],
     "path": "/images/content/e0qkrguv-wxseiffzgvccvdhnjhc2a-18x10-28471625.jpg",
     "kind": "media",
     "status": 200,
@@ -3536,7 +3550,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2023/09/e0qkrGuv-WXseiffzgvcCVDhNjhC2a_-300x169.jpg",
-    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/"],
+    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/", "/employers/"],
     "path": "/images/content/e0qkrguv-wxseiffzgvccvdhnjhc2a-300x169-48f8b8ff.jpg",
     "kind": "media",
     "status": 200,
@@ -3546,7 +3560,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2023/09/e0qkrGuv-WXseiffzgvcCVDhNjhC2a_-768x432.jpg",
-    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/"],
+    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/", "/employers/"],
     "path": "/images/content/e0qkrguv-wxseiffzgvccvdhnjhc2a-768x432-a4089c6f.jpg",
     "kind": "media",
     "status": 200,
@@ -3556,7 +3570,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2023/09/e0qkrGuv-WXseiffzgvcCVDhNjhC2a_.jpg",
-    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/"],
+    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/", "/employers/"],
     "path": "/images/content/e0qkrguv-wxseiffzgvccvdhnjhc2a-ab52c501.jpg",
     "kind": "media",
     "status": 200,
@@ -3566,7 +3580,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2023/09/IKma68d8CmvNnSK2Gg1fHyPlhHECs7_--1024x576.jpg",
-    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/"],
+    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/", "/employers/"],
     "path": "/images/content/ikma68d8cmvnnsk2gg1fhyplhhecs7-1024x576-8ccc2ad3.jpg",
     "kind": "media",
     "status": 200,
@@ -3576,7 +3590,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2023/09/IKma68d8CmvNnSK2Gg1fHyPlhHECs7_--1200x675.jpg",
-    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/"],
+    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/", "/employers/"],
     "path": "/images/content/ikma68d8cmvnnsk2gg1fhyplhhecs7-1200x675-b10b50ed.jpg",
     "kind": "media",
     "status": 200,
@@ -3586,7 +3600,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2023/09/IKma68d8CmvNnSK2Gg1fHyPlhHECs7_--18x10.jpg",
-    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/"],
+    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/", "/employers/"],
     "path": "/images/content/ikma68d8cmvnnsk2gg1fhyplhhecs7-18x10-28da3236.jpg",
     "kind": "media",
     "status": 200,
@@ -3596,7 +3610,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2023/09/IKma68d8CmvNnSK2Gg1fHyPlhHECs7_--300x169.jpg",
-    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/"],
+    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/", "/employers/"],
     "path": "/images/content/ikma68d8cmvnnsk2gg1fhyplhhecs7-300x169-d3184f3f.jpg",
     "kind": "media",
     "status": 200,
@@ -3606,7 +3620,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2023/09/IKma68d8CmvNnSK2Gg1fHyPlhHECs7_--768x432.jpg",
-    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/"],
+    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/", "/employers/"],
     "path": "/images/content/ikma68d8cmvnnsk2gg1fhyplhhecs7-768x432-d5df18c0.jpg",
     "kind": "media",
     "status": 200,
@@ -3616,7 +3630,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2023/09/IKma68d8CmvNnSK2Gg1fHyPlhHECs7_-.jpg",
-    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/"],
+    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/", "/employers/"],
     "path": "/images/content/ikma68d8cmvnnsk2gg1fhyplhhecs7-a0a378a9.jpg",
     "kind": "media",
     "status": 200,
@@ -4214,7 +4228,13 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2023/09/toolkit-refugees-1024x683.jpg",
-    "pages": ["/employer-resources/", "/cnap-awards/", "/faqs/", "/cusp-upskilling/"],
+    "pages": [
+      "/employer-resources/",
+      "/cnap-awards/",
+      "/faqs/",
+      "/cusp-upskilling/",
+      "/employers/"
+    ],
     "path": "/images/content/toolkit-refugees-1024x683-42a22067.jpg",
     "kind": "media",
     "status": 200,
@@ -4224,7 +4244,13 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2023/09/toolkit-refugees-18x12.jpg",
-    "pages": ["/employer-resources/", "/cnap-awards/", "/faqs/", "/cusp-upskilling/"],
+    "pages": [
+      "/employer-resources/",
+      "/cnap-awards/",
+      "/faqs/",
+      "/cusp-upskilling/",
+      "/employers/"
+    ],
     "path": "/images/content/toolkit-refugees-18x12-4189cd39.jpg",
     "kind": "media",
     "status": 200,
@@ -4234,7 +4260,13 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2023/09/toolkit-refugees-300x200.jpg",
-    "pages": ["/employer-resources/", "/cnap-awards/", "/faqs/", "/cusp-upskilling/"],
+    "pages": [
+      "/employer-resources/",
+      "/cnap-awards/",
+      "/faqs/",
+      "/cusp-upskilling/",
+      "/employers/"
+    ],
     "path": "/images/content/toolkit-refugees-300x200-f4454bb5.jpg",
     "kind": "media",
     "status": 200,
@@ -4244,7 +4276,13 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2023/09/toolkit-refugees-768x512.jpg",
-    "pages": ["/employer-resources/", "/cnap-awards/", "/faqs/", "/cusp-upskilling/"],
+    "pages": [
+      "/employer-resources/",
+      "/cnap-awards/",
+      "/faqs/",
+      "/cusp-upskilling/",
+      "/employers/"
+    ],
     "path": "/images/content/toolkit-refugees-768x512-0893c69f.jpg",
     "kind": "media",
     "status": 200,
@@ -4254,7 +4292,13 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2023/09/toolkit-refugees.jpg",
-    "pages": ["/employer-resources/", "/cnap-awards/", "/faqs/", "/cusp-upskilling/"],
+    "pages": [
+      "/employer-resources/",
+      "/cnap-awards/",
+      "/faqs/",
+      "/cusp-upskilling/",
+      "/employers/"
+    ],
     "path": "/images/content/toolkit-refugees-ca02c73a.jpg",
     "kind": "media",
     "status": 200,
@@ -4264,7 +4308,13 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2023/09/training-programs-1024x683.jpg",
-    "pages": ["/employer-resources/", "/cnap-awards/", "/faqs/", "/cusp-upskilling/"],
+    "pages": [
+      "/employer-resources/",
+      "/cnap-awards/",
+      "/faqs/",
+      "/cusp-upskilling/",
+      "/employers/"
+    ],
     "path": "/images/content/training-programs-1024x683-f72474f4.jpg",
     "kind": "media",
     "status": 200,
@@ -4274,7 +4324,13 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2023/09/training-programs-18x12.jpg",
-    "pages": ["/employer-resources/", "/cnap-awards/", "/faqs/", "/cusp-upskilling/"],
+    "pages": [
+      "/employer-resources/",
+      "/cnap-awards/",
+      "/faqs/",
+      "/cusp-upskilling/",
+      "/employers/"
+    ],
     "path": "/images/content/training-programs-18x12-9e1a81dc.jpg",
     "kind": "media",
     "status": 200,
@@ -4284,7 +4340,13 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2023/09/training-programs-300x200.jpg",
-    "pages": ["/employer-resources/", "/cnap-awards/", "/faqs/", "/cusp-upskilling/"],
+    "pages": [
+      "/employer-resources/",
+      "/cnap-awards/",
+      "/faqs/",
+      "/cusp-upskilling/",
+      "/employers/"
+    ],
     "path": "/images/content/training-programs-300x200-f2ade0bc.jpg",
     "kind": "media",
     "status": 200,
@@ -4294,7 +4356,13 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2023/09/training-programs-768x512.jpg",
-    "pages": ["/employer-resources/", "/cnap-awards/", "/faqs/", "/cusp-upskilling/"],
+    "pages": [
+      "/employer-resources/",
+      "/cnap-awards/",
+      "/faqs/",
+      "/cusp-upskilling/",
+      "/employers/"
+    ],
     "path": "/images/content/training-programs-768x512-6ca068c9.jpg",
     "kind": "media",
     "status": 200,
@@ -4304,7 +4372,13 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2023/09/training-programs.jpg",
-    "pages": ["/employer-resources/", "/cnap-awards/", "/faqs/", "/cusp-upskilling/"],
+    "pages": [
+      "/employer-resources/",
+      "/cnap-awards/",
+      "/faqs/",
+      "/cusp-upskilling/",
+      "/employers/"
+    ],
     "path": "/images/content/training-programs-2f50acf2.jpg",
     "kind": "media",
     "status": 200,
@@ -4324,7 +4398,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2023/09/WG0Y42zOT0K3eTYMrvWQ8qFEtM-jZRuq-1024x576.jpg",
-    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/"],
+    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/", "/employers/"],
     "path": "/images/content/wg0y42zot0k3etymrvwq8qfetm-jzruq-1024x576-3c2cce89.jpg",
     "kind": "media",
     "status": 200,
@@ -4334,7 +4408,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2023/09/WG0Y42zOT0K3eTYMrvWQ8qFEtM-jZRuq-1200x675.jpg",
-    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/"],
+    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/", "/employers/"],
     "path": "/images/content/wg0y42zot0k3etymrvwq8qfetm-jzruq-1200x675-9243e771.jpg",
     "kind": "media",
     "status": 200,
@@ -4344,7 +4418,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2023/09/WG0Y42zOT0K3eTYMrvWQ8qFEtM-jZRuq-18x10.jpg",
-    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/"],
+    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/", "/employers/"],
     "path": "/images/content/wg0y42zot0k3etymrvwq8qfetm-jzruq-18x10-91058996.jpg",
     "kind": "media",
     "status": 200,
@@ -4354,7 +4428,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2023/09/WG0Y42zOT0K3eTYMrvWQ8qFEtM-jZRuq-300x169.jpg",
-    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/"],
+    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/", "/employers/"],
     "path": "/images/content/wg0y42zot0k3etymrvwq8qfetm-jzruq-300x169-4ee0ba74.jpg",
     "kind": "media",
     "status": 200,
@@ -4364,7 +4438,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2023/09/WG0Y42zOT0K3eTYMrvWQ8qFEtM-jZRuq-768x432.jpg",
-    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/"],
+    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/", "/employers/"],
     "path": "/images/content/wg0y42zot0k3etymrvwq8qfetm-jzruq-768x432-c6c7c109.jpg",
     "kind": "media",
     "status": 200,
@@ -4374,7 +4448,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2023/09/WG0Y42zOT0K3eTYMrvWQ8qFEtM-jZRuq.jpg",
-    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/"],
+    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/", "/employers/"],
     "path": "/images/content/wg0y42zot0k3etymrvwq8qfetm-jzruq-7cb1701a.jpg",
     "kind": "media",
     "status": 200,
@@ -4511,7 +4585,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2024/02/2023-NATP-Group-Pictures-18x12.jpg",
-    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/"],
+    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/", "/employers/"],
     "path": "/images/content/2023-natp-group-pictures-18x12-e174ea1a.jpg",
     "kind": "media",
     "status": 200,
@@ -4521,7 +4595,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2024/02/2023-NATP-Group-Pictures-300x212.jpg",
-    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/"],
+    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/", "/employers/"],
     "path": "/images/content/2023-natp-group-pictures-300x212-75cec8a9.jpg",
     "kind": "media",
     "status": 200,
@@ -4531,7 +4605,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2024/02/2023-NATP-Group-Pictures-768x542.jpg",
-    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/"],
+    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/", "/employers/"],
     "path": "/images/content/2023-natp-group-pictures-768x542-ee891ba9.jpg",
     "kind": "media",
     "status": 200,
@@ -4541,7 +4615,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2024/02/2023-NATP-Group-Pictures.jpg",
-    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/"],
+    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/", "/employers/"],
     "path": "/images/content/2023-natp-group-pictures-d085d6e0.jpg",
     "kind": "media",
     "status": 200,
@@ -4557,7 +4631,8 @@
       "/cna-certifications/",
       "/employer-resources/",
       "/cnap-awards/",
-      "/faqs/"
+      "/faqs/",
+      "/employers/"
     ],
     "path": "/images/content/gettyimages-1354166323-1024x681-fa930211.jpg",
     "kind": "media",
@@ -4574,7 +4649,8 @@
       "/cna-certifications/",
       "/employer-resources/",
       "/cnap-awards/",
-      "/faqs/"
+      "/faqs/",
+      "/employers/"
     ],
     "path": "/images/content/gettyimages-1354166323-1200x798-05146027.jpg",
     "kind": "media",
@@ -4591,7 +4667,8 @@
       "/cna-certifications/",
       "/employer-resources/",
       "/cnap-awards/",
-      "/faqs/"
+      "/faqs/",
+      "/employers/"
     ],
     "path": "/images/content/gettyimages-1354166323-1536x1022-8b73a009.jpg",
     "kind": "media",
@@ -4608,7 +4685,8 @@
       "/cna-certifications/",
       "/employer-resources/",
       "/cnap-awards/",
-      "/faqs/"
+      "/faqs/",
+      "/employers/"
     ],
     "path": "/images/content/gettyimages-1354166323-18x12-b7a1aa2d.jpg",
     "kind": "media",
@@ -4625,7 +4703,8 @@
       "/cna-certifications/",
       "/employer-resources/",
       "/cnap-awards/",
-      "/faqs/"
+      "/faqs/",
+      "/employers/"
     ],
     "path": "/images/content/gettyimages-1354166323-2048x1363-4ae704eb.jpg",
     "kind": "media",
@@ -4642,7 +4721,8 @@
       "/cna-certifications/",
       "/employer-resources/",
       "/cnap-awards/",
-      "/faqs/"
+      "/faqs/",
+      "/employers/"
     ],
     "path": "/images/content/gettyimages-1354166323-300x200-93ad2aca.jpg",
     "kind": "media",
@@ -4659,7 +4739,8 @@
       "/cna-certifications/",
       "/employer-resources/",
       "/cnap-awards/",
-      "/faqs/"
+      "/faqs/",
+      "/employers/"
     ],
     "path": "/images/content/gettyimages-1354166323-768x511-daea8b51.jpg",
     "kind": "media",
@@ -4670,7 +4751,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2024/02/GettyImages-1354166323-scaled.jpg",
-    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/"],
+    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/", "/employers/"],
     "path": "/images/content/gettyimages-1354166323-scaled-b5966bd1.jpg",
     "kind": "media",
     "status": 200,
@@ -4680,7 +4761,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2024/02/IMG2768086434016407330-1024x768.jpg",
-    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/"],
+    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/", "/employers/"],
     "path": "/images/content/img2768086434016407330-1024x768-4c2527a1.jpg",
     "kind": "media",
     "status": 200,
@@ -4690,7 +4771,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2024/02/IMG2768086434016407330-1200x900.jpg",
-    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/"],
+    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/", "/employers/"],
     "path": "/images/content/img2768086434016407330-1200x900-f285e50b.jpg",
     "kind": "media",
     "status": 200,
@@ -4700,7 +4781,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2024/02/IMG2768086434016407330-1536x1152.jpg",
-    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/"],
+    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/", "/employers/"],
     "path": "/images/content/img2768086434016407330-1536x1152-8aeeb18c.jpg",
     "kind": "media",
     "status": 200,
@@ -4710,7 +4791,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2024/02/IMG2768086434016407330-16x12.jpg",
-    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/"],
+    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/", "/employers/"],
     "path": "/images/content/img2768086434016407330-16x12-c967d47a.jpg",
     "kind": "media",
     "status": 200,
@@ -4720,7 +4801,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2024/02/IMG2768086434016407330-2048x1536.jpg",
-    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/"],
+    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/", "/employers/"],
     "path": "/images/content/img2768086434016407330-2048x1536-9a1e20c5.jpg",
     "kind": "media",
     "status": 200,
@@ -4730,7 +4811,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2024/02/IMG2768086434016407330-300x225.jpg",
-    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/"],
+    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/", "/employers/"],
     "path": "/images/content/img2768086434016407330-300x225-38d8cdd7.jpg",
     "kind": "media",
     "status": 200,
@@ -4740,7 +4821,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2024/02/IMG2768086434016407330-768x576.jpg",
-    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/"],
+    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/", "/employers/"],
     "path": "/images/content/img2768086434016407330-768x576-ef9e0262.jpg",
     "kind": "media",
     "status": 200,
@@ -4750,7 +4831,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2024/02/IMG2768086434016407330-scaled.jpg",
-    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/"],
+    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/", "/employers/"],
     "path": "/images/content/img2768086434016407330-scaled-bbf685b2.jpg",
     "kind": "media",
     "status": 200,
@@ -4760,7 +4841,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2024/02/southern-Inyo-18x12.png",
-    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/"],
+    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/", "/employers/"],
     "path": "/images/content/southern-inyo-18x12-4cbe0a29.png",
     "kind": "media",
     "status": 200,
@@ -4770,7 +4851,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2024/02/southern-Inyo.png",
-    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/"],
+    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/", "/employers/"],
     "path": "/images/content/southern-inyo-d418fe4d.png",
     "kind": "media",
     "status": 200,
@@ -5120,7 +5201,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2024/11/financial-awards-18x10.jpg",
-    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/"],
+    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/", "/employers/"],
     "path": "/images/content/financial-awards-18x10-b38b699a.jpg",
     "kind": "media",
     "status": 200,
@@ -5130,7 +5211,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2024/11/financial-awards-300x169.jpg",
-    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/"],
+    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/", "/employers/"],
     "path": "/images/content/financial-awards-300x169-b46f715a.jpg",
     "kind": "media",
     "status": 200,
@@ -5140,7 +5221,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2024/11/financial-awards-768x432.jpg",
-    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/"],
+    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/", "/employers/"],
     "path": "/images/content/financial-awards-768x432-21ebd47c.jpg",
     "kind": "media",
     "status": 200,
@@ -5150,7 +5231,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2024/11/financial-awards.jpg",
-    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/"],
+    "pages": ["/cnap-awards/", "/faqs/", "/cusp-upskilling/", "/employers/"],
     "path": "/images/content/financial-awards-97206fff.jpg",
     "kind": "media",
     "status": 200,
@@ -5344,6 +5425,56 @@
     "sha256": "13c79b5e7bdd814e3e8311d747238224ba8ef066c4a0971cfa1b1e999eaf9671"
   },
   {
+    "url": "https://yourcnastory.org/wp-content/uploads/2025/08/male-nurse-helping-elderly-youtube-clip-1-1024x716.jpg",
+    "pages": ["/employers/"],
+    "path": "/images/content/male-nurse-helping-elderly-youtube-clip-1-1024x716-a67c7265.jpg",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/jpeg",
+    "bytes": 92093,
+    "sha256": "859d4e8e381a69d0c759d107511c62b4d66d9ee2505d59765e3ba049291dab2f"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2025/08/male-nurse-helping-elderly-youtube-clip-1-18x12.jpg",
+    "pages": ["/employers/"],
+    "path": "/images/content/male-nurse-helping-elderly-youtube-clip-1-18x12-b91e9d40.jpg",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/jpeg",
+    "bytes": 867,
+    "sha256": "37cd1dd8da59a602f5283bf6562a300a041aa647f97490456c2e4ff14756d2f3"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2025/08/male-nurse-helping-elderly-youtube-clip-1-300x210.jpg",
+    "pages": ["/employers/"],
+    "path": "/images/content/male-nurse-helping-elderly-youtube-clip-1-300x210-d0e994ac.jpg",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/jpeg",
+    "bytes": 15338,
+    "sha256": "be0ffecabf9d32b35f5c795b65e3f782b6b365d76056c8a6b64d83a3cedf4733"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2025/08/male-nurse-helping-elderly-youtube-clip-1-768x537.jpg",
+    "pages": ["/employers/"],
+    "path": "/images/content/male-nurse-helping-elderly-youtube-clip-1-768x537-e06665f5.jpg",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/jpeg",
+    "bytes": 60810,
+    "sha256": "65352e0327b3d94833f97043c00cc49c3c6860295046d2bfba15fe6818d84267"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2025/08/male-nurse-helping-elderly-youtube-clip-1.jpg",
+    "pages": ["/employers/"],
+    "path": "/images/content/male-nurse-helping-elderly-youtube-clip-1-74e46702.jpg",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/jpeg",
+    "bytes": 126351,
+    "sha256": "f65b755eb8c09e4720b1999a5caa007ef09fbf2c189586e2122028ed249c2319"
+  },
+  {
     "url": "https://yourcnastory.org/wp-content/uploads/2025/09/female-nurse-youtube-clip-3-1024x630.avif",
     "pages": ["/certified-nurse-assistant-program/", "/es/programa-cna/"],
     "path": "/images/content/female-nurse-youtube-clip-3-1024x630-cc31e947.avif",
@@ -5404,6 +5535,16 @@
     "sha256": "89b101c34c034b22e2e4d558d1f1e4264df7bedc83c8147f583d847e3559fccc"
   },
   {
+    "url": "https://yourcnastory.org/wp-content/uploads/2025/11/alternative-natp-2.webp",
+    "pages": ["/train-and-gain/"],
+    "path": "/images/content/alternative-natp-2-bf0c6b25.webp",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/webp",
+    "bytes": 16740,
+    "sha256": "fe0c03ead59ac0d3eb79cf6adf11a4e59fa8f28616ddab64005c38d62e0a5071"
+  },
+  {
     "url": "https://yourcnastory.org/wp-content/uploads/2025/11/Blank-CDPH-278C-Facility-Declaration-of-Participation-in-1.pdf",
     "pages": ["/faqs/"],
     "path": "/wp-content/uploads/2025/11/Blank-CDPH-278C-Facility-Declaration-of-Participation-in-1.pdf",
@@ -5424,8 +5565,188 @@
     "sha256": "88aeb4fea242f4922405e48332a6ee6caa73999c0aef56188ad325178d63e8c1"
   },
   {
+    "url": "https://yourcnastory.org/wp-content/uploads/2025/11/community-partnership-1.webp",
+    "pages": ["/train-and-gain/"],
+    "path": "/images/content/community-partnership-1-8b8330e6.webp",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/webp",
+    "bytes": 29012,
+    "sha256": "de4191c30e67d3056e7c73d3cb1e3d909efd2a2aa012e8a1aa9e4d140cb3fda7"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2025/11/earn-and-learn-appllication-packet-3.zip",
+    "pages": ["/train-and-gain/"],
+    "path": "/wp-content/uploads/2025/11/earn-and-learn-appllication-packet-3.zip",
+    "kind": "document",
+    "status": 200,
+    "contentType": "application/zip",
+    "bytes": 1230580,
+    "sha256": "5147eaf2721e85da5db596cd04aae5c9c14974a877c8b8a7d1cdd52cbc071d75"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2025/11/earn-and-learn-photo1-12x12.webp",
+    "pages": ["/train-and-gain/"],
+    "path": "/images/content/earn-and-learn-photo1-12x12-9cbde570.webp",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/webp",
+    "bytes": 196,
+    "sha256": "c9281919eaca15e9330e7e588efd36177e71271862c38c4ffd45a230a5449cae"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2025/11/earn-and-learn-photo1-150x150.webp",
+    "pages": ["/train-and-gain/"],
+    "path": "/images/content/earn-and-learn-photo1-150x150-41139b87.webp",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/webp",
+    "bytes": 5904,
+    "sha256": "7a01374bd5ac7e8b3636390320a06738477f0ff03cd9d9991ae02c63c8e5d635"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2025/11/earn-and-learn-photo1-300x300.webp",
+    "pages": ["/train-and-gain/"],
+    "path": "/images/content/earn-and-learn-photo1-300x300-c7a29e1d.webp",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/webp",
+    "bytes": 15102,
+    "sha256": "27e16ac0b11483f6edd1afc9123229b111fad7b091956f3443a0aec1ff7f7e76"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2025/11/earn-and-learn-photo1-768x768.webp",
+    "pages": ["/train-and-gain/"],
+    "path": "/images/content/earn-and-learn-photo1-768x768-115d826e.webp",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/webp",
+    "bytes": 44962,
+    "sha256": "41c14f108c8df8c1c226427806e48d0c5b97d06d10f1c9d0db6a1ae59dbfe1ff"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2025/11/earn-and-learn-photo1.webp",
+    "pages": ["/train-and-gain/"],
+    "path": "/images/content/earn-and-learn-photo1-175da2f0.webp",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/webp",
+    "bytes": 34092,
+    "sha256": "a3d6f0945440ca91939e0d6c7931db15f57297be19b92d22c77c13bafe5c063b"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2025/11/earn-and-learn-photo2.1-12x12.webp",
+    "pages": ["/train-and-gain/"],
+    "path": "/images/content/earn-and-learn-photo2-1-12x12-d9eb3860.webp",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/webp",
+    "bytes": 186,
+    "sha256": "a9b9d2b0c172642dd0e5aa8c84959d4e59a64548e139799ff8493c270d0bf57a"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2025/11/earn-and-learn-photo2.1-150x150.webp",
+    "pages": ["/train-and-gain/"],
+    "path": "/images/content/earn-and-learn-photo2-1-150x150-36fa1e97.webp",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/webp",
+    "bytes": 4260,
+    "sha256": "008cb778471d45726ff453d07729e898a1162e01fcb31673e888976d7820cd46"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2025/11/earn-and-learn-photo2.1-300x300.webp",
+    "pages": ["/train-and-gain/"],
+    "path": "/images/content/earn-and-learn-photo2-1-300x300-09ca2657.webp",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/webp",
+    "bytes": 10106,
+    "sha256": "07e31b92daa54500ab7a92fb36200c187296369bde1a2904d60fdc223f577eb6"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2025/11/earn-and-learn-photo2.1-768x768.webp",
+    "pages": ["/train-and-gain/"],
+    "path": "/images/content/earn-and-learn-photo2-1-768x768-43d26521.webp",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/webp",
+    "bytes": 31344,
+    "sha256": "35472c9252ceaf0ecd3f1443c1e2806ffc6e342b39559f2e692edee4ebe5f500"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2025/11/earn-and-learn-photo2.1.webp",
+    "pages": ["/train-and-gain/"],
+    "path": "/images/content/earn-and-learn-photo2-1-ff2bf8df.webp",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/webp",
+    "bytes": 24058,
+    "sha256": "605bb579c0d0294c8f913627348c1636d37d425ee0cdb5d6e752f67b6ff23e93"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2025/11/earn-and-learn-photo4-12x12.webp",
+    "pages": ["/train-and-gain/"],
+    "path": "/images/content/earn-and-learn-photo4-12x12-bb808955.webp",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/webp",
+    "bytes": 196,
+    "sha256": "8771661a668c70bb3e3cc5d8b8c50d88976051b5d649cd07a849e7760c06f6d3"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2025/11/earn-and-learn-photo4-150x150.webp",
+    "pages": ["/train-and-gain/"],
+    "path": "/images/content/earn-and-learn-photo4-150x150-7fc97863.webp",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/webp",
+    "bytes": 6252,
+    "sha256": "c897abe07a8f00ed6b0cd78d39144fcbe272f27334e35dc630eea428f3bb9b8e"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2025/11/earn-and-learn-photo4-300x300.webp",
+    "pages": ["/train-and-gain/"],
+    "path": "/images/content/earn-and-learn-photo4-300x300-0db62090.webp",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/webp",
+    "bytes": 14854,
+    "sha256": "9d68fd9fddbe6ade5e2c9810bc300a1a1eadd2df609b2e4805115dd6dfedc563"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2025/11/earn-and-learn-photo4-768x768.webp",
+    "pages": ["/train-and-gain/"],
+    "path": "/images/content/earn-and-learn-photo4-768x768-9c4db221.webp",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/webp",
+    "bytes": 44726,
+    "sha256": "c401bb8e0801db27861be5d888aa000e6495170d3e5f77141cb81bcebedd76b8"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2025/11/earn-and-learn-photo4.webp",
+    "pages": ["/train-and-gain/"],
+    "path": "/images/content/earn-and-learn-photo4-cfa1ae97.webp",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/webp",
+    "bytes": 34450,
+    "sha256": "7d73cf3300f4d72a5eb3f35aae358224e64fba04e7c50b7e0cc74ab196dc2570"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2025/11/facility-natp-1.webp",
+    "pages": ["/train-and-gain/"],
+    "path": "/images/content/facility-natp-1-d511de13.webp",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/webp",
+    "bytes": 24638,
+    "sha256": "0fe1add84c2b0d9272e00fa194532c53d84449c995c3816807148a97b4af873c"
+  },
+  {
     "url": "https://yourcnastory.org/wp-content/uploads/2025/11/the-pine-at-placerville-v2-18x12.png",
-    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/"],
+    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/", "/employers/"],
     "path": "/images/content/the-pine-at-placerville-v2-18x12-1eaa4216.png",
     "kind": "media",
     "status": 200,
@@ -5435,7 +5756,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2025/11/the-pine-at-placerville-v2-300x200.png",
-    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/"],
+    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/", "/employers/"],
     "path": "/images/content/the-pine-at-placerville-v2-300x200-de419782.png",
     "kind": "media",
     "status": 200,
@@ -5445,7 +5766,7 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2025/11/the-pine-at-placerville-v2-768x512.png",
-    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/"],
+    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/", "/employers/"],
     "path": "/images/content/the-pine-at-placerville-v2-768x512-ed1d2162.png",
     "kind": "media",
     "status": 200,
@@ -5455,13 +5776,273 @@
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2025/11/the-pine-at-placerville-v2.png",
-    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/"],
+    "pages": ["/", "/es/", "/cna-certifications/", "/cnap-awards/", "/faqs/", "/employers/"],
     "path": "/images/content/the-pine-at-placerville-v2-5993589a.png",
     "kind": "media",
     "status": 200,
     "contentType": "",
     "bytes": 330793,
     "sha256": "61c8e143168aed0c12b863d58c3d506fbee14604563f3b5f3367a6824bda65ef"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2026/03/cna-form-background-2-bw.webp",
+    "pages": ["/train-and-gain/"],
+    "path": "/images/content/cna-form-background-2-bw-150d700c.webp",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/webp",
+    "bytes": 37950,
+    "sha256": "1487e3252f1bc0fdee8a00610d4860032fe3c674a133fa3a078d11e307e277cf"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2026/03/Zane_Hatfield-12x12.png",
+    "pages": ["/train-and-gain/", "/advocate/"],
+    "path": "/images/content/zane-hatfield-12x12-554063b4.png",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/png",
+    "bytes": 548,
+    "sha256": "f520c9d621be1d3d59af1ba087b5e0147ea43f6f447e00b034fbe641f8d05040"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2026/03/Zane_Hatfield-150x150.png",
+    "pages": ["/train-and-gain/", "/advocate/"],
+    "path": "/images/content/zane-hatfield-150x150-acd58557.png",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/png",
+    "bytes": 36128,
+    "sha256": "ac1704e69905398ba847b722c736a6261ac008038b86571d7417aea0ba737af5"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2026/03/Zane_Hatfield-300x300.png",
+    "pages": ["/train-and-gain/", "/advocate/"],
+    "path": "/images/content/zane-hatfield-300x300-7c6c214e.png",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/png",
+    "bytes": 121890,
+    "sha256": "6e7c164f91498548f7cfacdc806067e2c510d9af50100299be0faf35a7e59920"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2026/03/Zane_Hatfield.png",
+    "pages": ["/train-and-gain/", "/advocate/"],
+    "path": "/images/content/zane-hatfield-ec817ffb.png",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/png",
+    "bytes": 361944,
+    "sha256": "cccfb0244e39df3483bc6bd73f3219836e27df1d9a2fba9193a04c495f251335"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2026/04/california-cna-training-18x12.jpg",
+    "pages": ["/advocate/"],
+    "path": "/images/content/california-cna-training-18x12-461de098.jpg",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/jpeg",
+    "bytes": 851,
+    "sha256": "3c813556699a723bb9a77f0228a027727e8085d0f869e3ef4f3968c53e66a32f"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2026/04/california-cna-training-300x200.jpg",
+    "pages": ["/advocate/"],
+    "path": "/images/content/california-cna-training-300x200-7f8cc10d.jpg",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/jpeg",
+    "bytes": 15177,
+    "sha256": "52f4cbaecd492ae56aeb9232cc6762d9600f52b097db0a28533e1278f06ecd3f"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2026/04/california-cna-training-768x512.jpg",
+    "pages": ["/advocate/"],
+    "path": "/images/content/california-cna-training-768x512-03d8ce60.jpg",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/jpeg",
+    "bytes": 61615,
+    "sha256": "132512a9f93f8a2925efc77212f55cc1ca6b3948d7917339abe046342dbbedd2"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2026/04/california-cna-training.jpg",
+    "pages": ["/advocate/"],
+    "path": "/images/content/california-cna-training-acf9daf1.jpg",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/jpeg",
+    "bytes": 73888,
+    "sha256": "449f07965f91b4003469631de56057a57763d3106c211097b194d44ed5b7fad6"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2026/04/cnap-california-snif-12x12.jpg",
+    "pages": ["/advocate/"],
+    "path": "/images/content/cnap-california-snif-12x12-6b2cde3c.jpg",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/jpeg",
+    "bytes": 811,
+    "sha256": "e1f520c0a60cf4a95a1eea0862218cc5d965f9696641b73cef6dead3915f8f43"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2026/04/cnap-california-snif-150x150.jpg",
+    "pages": ["/advocate/"],
+    "path": "/images/content/cnap-california-snif-150x150-8b6ffc18.jpg",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/jpeg",
+    "bytes": 7105,
+    "sha256": "bcc83d69acaf4a6163c8db5411e2fa320116f9239a62d6da53684cacdf34d6ef"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2026/04/cnap-california-snif-300x300.jpg",
+    "pages": ["/advocate/"],
+    "path": "/images/content/cnap-california-snif-300x300-69b9d4b0.jpg",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/jpeg",
+    "bytes": 18653,
+    "sha256": "0cca2a6ff8f4c5c08fc42d24b289a470a5fa0b5390b86da2d4cfcf8c8cc7fa06"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2026/04/cnap-california-snif-4-12x12.jpg",
+    "pages": ["/advocate/"],
+    "path": "/images/content/cnap-california-snif-4-12x12-2b4df355.jpg",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/jpeg",
+    "bytes": 814,
+    "sha256": "d31c1f0a751cf7454f9b1dc9d23edb49a37d86a3e52974226afd9b3671f85858"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2026/04/cnap-california-snif-4-150x150.jpg",
+    "pages": ["/advocate/"],
+    "path": "/images/content/cnap-california-snif-4-150x150-5e3c44d7.jpg",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/jpeg",
+    "bytes": 7193,
+    "sha256": "4b188173276c1a4fa3f62be449c498fb8680e126fad680ab14f4afa6504e4787"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2026/04/cnap-california-snif-4-300x300.jpg",
+    "pages": ["/advocate/"],
+    "path": "/images/content/cnap-california-snif-4-300x300-94997026.jpg",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/jpeg",
+    "bytes": 19107,
+    "sha256": "c85c50a261b27c60ce462ed0b27ac7246b9aaf04f39fbb58ebef67f26f0d770f"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2026/04/cnap-california-snif-4.jpg",
+    "pages": ["/advocate/"],
+    "path": "/images/content/cnap-california-snif-4-453c78e3.jpg",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/jpeg",
+    "bytes": 52653,
+    "sha256": "e6cb3d2de79d853d7517d5a1f06038879ae168f0156018e96300ca8094b5bc5f"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2026/04/cnap-california-snif-5-18x12.jpg",
+    "pages": ["/advocate/"],
+    "path": "/images/content/cnap-california-snif-5-18x12-8556b661.jpg",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/jpeg",
+    "bytes": 893,
+    "sha256": "d48925ad2e8642ecc71dd3dd9a1e1d1fbf2ab48256ef78dbc6c5ee4771c75d72"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2026/04/cnap-california-snif-5-300x200.jpg",
+    "pages": ["/advocate/"],
+    "path": "/images/content/cnap-california-snif-5-300x200-dfdb79a1.jpg",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/jpeg",
+    "bytes": 15725,
+    "sha256": "c574aa968fe2b5d040563617a4bb461d76a270311c52ac57279631c432bfe38e"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2026/04/cnap-california-snif-5-768x512.jpg",
+    "pages": ["/advocate/"],
+    "path": "/images/content/cnap-california-snif-5-768x512-b8fef04a.jpg",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/jpeg",
+    "bytes": 60037,
+    "sha256": "12c3432c4f56739d85dbb1b7f2aa094e62e6e02b7d030ce56bf9418dd8eeb000"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2026/04/cnap-california-snif-5.jpg",
+    "pages": ["/advocate/"],
+    "path": "/images/content/cnap-california-snif-5-d8875cb1.jpg",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/jpeg",
+    "bytes": 69503,
+    "sha256": "d5a54bfead8299b626c788ff7cd252cfa5ab83c22f85d8cde3ec0a13f5bf5ece"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2026/04/cnap-california-snif.jpg",
+    "pages": ["/advocate/"],
+    "path": "/images/content/cnap-california-snif-82e1cf4f.jpg",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/jpeg",
+    "bytes": 54306,
+    "sha256": "dc09770c52aaf723436d12293f37da89804758b58bd7cb0161ccc5ac15e41b86"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2026/04/cnap-training-facility-team-18x12.jpg",
+    "pages": ["/advocate/"],
+    "path": "/images/content/cnap-training-facility-team-18x12-e2eaa36c.jpg",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/jpeg",
+    "bytes": 850,
+    "sha256": "510dae2a2f9811d9ce60b78d73248eefc44a48072c4b35e8c8777c664b146332"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2026/04/cnap-training-facility-team-300x200.jpg",
+    "pages": ["/advocate/"],
+    "path": "/images/content/cnap-training-facility-team-300x200-3af17d24.jpg",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/jpeg",
+    "bytes": 12867,
+    "sha256": "1d3c84a7841ebcb63584a50980d0ddb485442f27d8fa1f93b2de1904df81901a"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2026/04/cnap-training-facility-team-768x512.jpg",
+    "pages": ["/advocate/"],
+    "path": "/images/content/cnap-training-facility-team-768x512-9f8a1f11.jpg",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/jpeg",
+    "bytes": 48716,
+    "sha256": "c54799aba2a196235ac4c29d954405a9af27ece5570c388a67c4bbb437ed6ad4"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2026/04/cnap-training-facility-team.jpg",
+    "pages": ["/advocate/"],
+    "path": "/images/content/cnap-training-facility-team-e48adbd7.jpg",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/jpeg",
+    "bytes": 57158,
+    "sha256": "badc9a1b316365c2d888bc43e1dbfc5237a60dfa652a6ba12f6f7893477ead42"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/2026/04/cta-background-advocate.jpg",
+    "pages": ["/advocate/"],
+    "path": "/images/content/cta-background-advocate-2f7184d7.jpg",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/jpeg",
+    "bytes": 64573,
+    "sha256": "ad8e7b06833e54adc4d658a7e8a63125eb3f914c76aa17e4677c36c9124d3cf2"
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/2026/06/GettyImages-2205543807-14x12.webp",
@@ -5599,7 +6180,10 @@
       "/cnap-employer-signup/",
       "/cnap-awards/",
       "/faqs/",
-      "/cusp-upskilling/"
+      "/cusp-upskilling/",
+      "/employers/",
+      "/train-and-gain/",
+      "/advocate/"
     ],
     "path": "/images/content/dmsans-rp2wp2ywxg089uriczasexd86j3t9jz86mvyykk58vxh-84a9da13.woff2",
     "kind": "media",
@@ -5664,7 +6248,10 @@
       "/cnap-employer-signup/",
       "/cnap-awards/",
       "/faqs/",
-      "/cusp-upskilling/"
+      "/cusp-upskilling/",
+      "/employers/",
+      "/train-and-gain/",
+      "/advocate/"
     ],
     "path": "/images/content/dmsans-rp2wp2ywxg089uriczasexd86j3t9jz86mvyyky58q-885f22fa.woff2",
     "kind": "media",
@@ -5729,7 +6316,10 @@
       "/cnap-employer-signup/",
       "/cnap-awards/",
       "/faqs/",
-      "/cusp-upskilling/"
+      "/cusp-upskilling/",
+      "/employers/",
+      "/train-and-gain/",
+      "/advocate/"
     ],
     "path": "/images/content/dmsans-rp2yp2ywxg089urii5-g4vlh9vod8cmcqbu0-k4-2fdae54b.woff2",
     "kind": "media",
@@ -5794,7 +6384,10 @@
       "/cnap-employer-signup/",
       "/cnap-awards/",
       "/faqs/",
-      "/cusp-upskilling/"
+      "/cusp-upskilling/",
+      "/employers/",
+      "/train-and-gain/",
+      "/advocate/"
     ],
     "path": "/images/content/dmsans-rp2yp2ywxg089urii5-g4vlh9vod8cmcqbu6-k6h9q-3ab07190.woff2",
     "kind": "media",
@@ -5859,7 +6452,10 @@
       "/cnap-employer-signup/",
       "/cnap-awards/",
       "/faqs/",
-      "/cusp-upskilling/"
+      "/cusp-upskilling/",
+      "/employers/",
+      "/train-and-gain/",
+      "/advocate/"
     ],
     "path": "/images/content/manrope-xn7gyhe41ni1adirggexsg-633286bf.woff2",
     "kind": "media",
@@ -5924,7 +6520,10 @@
       "/cnap-employer-signup/",
       "/cnap-awards/",
       "/faqs/",
-      "/cusp-upskilling/"
+      "/cusp-upskilling/",
+      "/employers/",
+      "/train-and-gain/",
+      "/advocate/"
     ],
     "path": "/images/content/manrope-xn7gyhe41ni1adirggixsuxd-ada32144.woff2",
     "kind": "media",
@@ -5989,7 +6588,10 @@
       "/cnap-employer-signup/",
       "/cnap-awards/",
       "/faqs/",
-      "/cusp-upskilling/"
+      "/cusp-upskilling/",
+      "/employers/",
+      "/train-and-gain/",
+      "/advocate/"
     ],
     "path": "/images/content/manrope-xn7gyhe41ni1adirggmxsuxd-77060964.woff2",
     "kind": "media",
@@ -6054,7 +6656,10 @@
       "/cnap-employer-signup/",
       "/cnap-awards/",
       "/faqs/",
-      "/cusp-upskilling/"
+      "/cusp-upskilling/",
+      "/employers/",
+      "/train-and-gain/",
+      "/advocate/"
     ],
     "path": "/images/content/manrope-xn7gyhe41ni1adirggoxsuxd-f9e14d5b.woff2",
     "kind": "media",
@@ -6119,7 +6724,10 @@
       "/cnap-employer-signup/",
       "/cnap-awards/",
       "/faqs/",
-      "/cusp-upskilling/"
+      "/cusp-upskilling/",
+      "/employers/",
+      "/train-and-gain/",
+      "/advocate/"
     ],
     "path": "/images/content/manrope-xn7gyhe41ni1adirggqxsuxd-2595d788.woff2",
     "kind": "media",
@@ -6184,7 +6792,10 @@
       "/cnap-employer-signup/",
       "/cnap-awards/",
       "/faqs/",
-      "/cusp-upskilling/"
+      "/cusp-upskilling/",
+      "/employers/",
+      "/train-and-gain/",
+      "/advocate/"
     ],
     "path": "/images/content/manrope-xn7gyhe41ni1adirggsxsuxd-8b69ff6b.woff2",
     "kind": "media",
@@ -6278,6 +6889,16 @@
     "sha256": "7d35a97f448cab6fdd4d59e95043f9ee19b4fade17f6c259b29d18a257663ac4"
   },
   {
+    "url": "https://yourcnastory.org/wp-content/uploads/elementor/thumbs/cnap-california-snif-2-rm1qtiwf9jlp9cbzu8t874xixu7j7ckf0rrorm9idc.jpg",
+    "pages": ["/advocate/"],
+    "path": "/images/content/cnap-california-snif-2-rm1qtiwf9jlp9cbzu8t874xixu7j7ckf0rrorm9idc-d8d11116.jpg",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/jpeg",
+    "bytes": 67881,
+    "sha256": "ec09b16688700f2c107508c0c86b2a2d0ef1ea15128fe86cb66d484c9f2be03e"
+  },
+  {
     "url": "https://yourcnastory.org/wp-content/uploads/elementor/thumbs/cnap-cta-banner-background2-1-qc8m6uah7d5sr98xi8ec2y6eqld7i63pl21llqt740.jpg",
     "pages": [
       "/career-advancement/",
@@ -6301,6 +6922,16 @@
     "contentType": "",
     "bytes": 57038,
     "sha256": "12cddb0b8b1d1d2b8d5b56b6ce162e7c07e2018e9cdc19e266be55d4a576a722"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/elementor/thumbs/director-of-nursing-r54kcvcyb879ti9ssh0h6d8eqcq4bykrn54xqqtm4g.jpg",
+    "pages": ["/train-and-gain/"],
+    "path": "/images/content/director-of-nursing-r54kcvcyb879ti9ssh0h6d8eqcq4bykrn54xqqtm4g-78ffa2a9.jpg",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/jpeg",
+    "bytes": 86809,
+    "sha256": "7ce826895e401c7d1d4cb51400e26aa6552bbf42db8f6884818a4eea0170a074"
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/elementor/thumbs/GettyImages-1081965320-rodhlsgu2w3c1n5tmww7yebhwwhhp4505m0ihoe3wg.webp",
@@ -6411,6 +7042,46 @@
     "contentType": "",
     "bytes": 196034,
     "sha256": "cf44d8fa6cd300025ba2d01111619a4962e29647ffe80e187334ccddcb60c35d"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/elementor/thumbs/qchf-header-insert-4-qc97qgs73kig7mxf8bs2sdpz9eu2edphzmps29qosw.jpg",
+    "pages": ["/employers/"],
+    "path": "/images/content/qchf-header-insert-4-qc97qgs73kig7mxf8bs2sdpz9eu2edphzmps29qosw-632eaaf2.jpg",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/jpeg",
+    "bytes": 108986,
+    "sha256": "183b17be106b22cdeda7bbb7040ed5001f0787b3963d145db021e09180211ab2"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/elementor/thumbs/qchf-header-insert-5-qc97taap5ysjtiihxpxg1if1ccig66h2lzzvlclq2o.jpg",
+    "pages": ["/employers/"],
+    "path": "/images/content/qchf-header-insert-5-qc97taap5ysjtiihxpxg1if1ccig66h2lzzvlclq2o-f0b9dd6b.jpg",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/jpeg",
+    "bytes": 78354,
+    "sha256": "e491cd2b6125c01768e1f368b452ce156f1bc56e70ead5031680adcf9f6ca0ce"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/elementor/thumbs/qchf-header-insert-6-qc97tb8jcstu54h4s8c2m06hxqdtdvksy4nd2mkbwg.jpg",
+    "pages": ["/employers/"],
+    "path": "/images/content/qchf-header-insert-6-qc97tb8jcstu54h4s8c2m06hxqdtdvksy4nd2mkbwg-ec265191.jpg",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/jpeg",
+    "bytes": 91450,
+    "sha256": "a6e5c2c5a773a90fea119268994a888dcc4072f11878fe1b7382fd3c5803dc99"
+  },
+  {
+    "url": "https://yourcnastory.org/wp-content/uploads/elementor/thumbs/qchf-header-insert-7-qc97wmm2om5opltgu2sv0qwef09276yfmc37664jzc.jpg",
+    "pages": ["/employers/"],
+    "path": "/images/content/qchf-header-insert-7-qc97wmm2om5opltgu2sv0qwef09276yfmc37664jzc-c99daf9a.jpg",
+    "kind": "media",
+    "status": 200,
+    "contentType": "image/jpeg",
+    "bytes": 90660,
+    "sha256": "4e075d50bff74c398e4f59510ee77053e3ebbc075124d146e823530dd7fbdbbb"
   },
   {
     "url": "https://yourcnastory.org/wp-content/uploads/elementor/thumbs/socialservices-qc6z4hq21d50he1qb0q2olsamq2zj9ux4eeaz21qug.jpg",

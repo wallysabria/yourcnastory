@@ -5,9 +5,12 @@
     "/cnap-employer-signup/",
     "/cnap-awards/",
     "/faqs/",
-    "/cusp-upskilling/"
+    "/cusp-upskilling/",
+    "/employers/",
+    "/train-and-gain/",
+    "/advocate/"
   ],
-  "held": ["/employers/", "/train-and-gain/", "/advocate/"],
+  "held": [],
   "englishOnly": true,
   "enabled": true
 }

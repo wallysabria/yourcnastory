@@ -25,7 +25,11 @@ try {
     chromePath: chromium.executablePath(),
     chromeFlags: ['--headless', '--disable-gpu', '--no-sandbox'],
   });
-  for (const path of process.argv[2] ? [process.argv[2]] : release.approved) {
+  for (const path of process.env.EMPLOYER_PATHS
+    ? JSON.parse(process.env.EMPLOYER_PATHS)
+    : process.argv[2]
+      ? [process.argv[2]]
+      : release.approved) {
     const result = await lighthouse(origin + path, {
       port: chrome.port,
       logLevel: 'error',
@@ -48,9 +52,10 @@ try {
     console.log(JSON.stringify(rows.at(-1)));
   }
   fs.writeFileSync(
-    process.argv[2]
-      ? '_source/phase-08/lighthouse/one-page-summary.json'
-      : 'docs/reports/phase-08-performance.json',
+    process.env.EMPLOYER_PERFORMANCE_REPORT ||
+      (process.argv[2]
+        ? '_source/phase-08/lighthouse/one-page-summary.json'
+        : 'docs/reports/phase-08-performance.json'),
     JSON.stringify(rows, null, 2) + '\n',
   );
 } finally {

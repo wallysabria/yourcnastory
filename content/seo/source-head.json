@@ -688,5 +688,38 @@
     "ogImageHeight": "",
     "ogImageType": "",
     "ogImageAlt": ""
+  },
+  "/employers/": {
+    "ogType": "article",
+    "ogPublishedTime": "",
+    "lastModified": "2026-11-06T19:18:46+00:00",
+    "ogLocale": "en_US",
+    "ogSiteName": "Certified Nurse Assistant Program (CNAP) Quality Care Health Foundation",
+    "ogImageWidth": "1024",
+    "ogImageHeight": "683",
+    "ogImageType": "image/jpeg",
+    "ogImageAlt": ""
+  },
+  "/train-and-gain/": {
+    "ogType": "article",
+    "ogPublishedTime": "",
+    "lastModified": "2026-06-30T20:59:02+00:00",
+    "ogLocale": "en_US",
+    "ogSiteName": "Certified Nurse Assistant Program (CNAP) Quality Care Health Foundation",
+    "ogImageWidth": "1024",
+    "ogImageHeight": "683",
+    "ogImageType": "image/jpeg",
+    "ogImageAlt": ""
+  },
+  "/advocate/": {
+    "ogType": "article",
+    "ogPublishedTime": "",
+    "lastModified": "2026-04-22T00:32:17+00:00",
+    "ogLocale": "en_US",
+    "ogSiteName": "Certified Nurse Assistant Program (CNAP) Quality Care Health Foundation",
+    "ogImageWidth": "1024",
+    "ogImageHeight": "683",
+    "ogImageType": "image/jpeg",
+    "ogImageAlt": ""
   }
 }

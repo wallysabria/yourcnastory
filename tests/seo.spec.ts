@@ -147,6 +147,9 @@ test('language sitemap/index and llms links exclude Employers, retired languages
             '/cnap-awards/',
             '/faqs/',
             '/cusp-upskilling/',
+            '/employers/',
+            '/train-and-gain/',
+            '/advocate/',
           ].some((p) => $(e).find('loc').text().endsWith(p))
           ? 3
           : 2,

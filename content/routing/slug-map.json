@@ -1396,7 +1396,15 @@
     "section": "employers",
     "counterpart": "/es/empresarios/",
     "template": "standard-content-or-legacy",
-    "metadata": null,
+    "metadata": {
+      "title": "CNA Employers - Certified Nurse Assistant Program (CNAP) Quality Care Health Foundation",
+      "description": "Certified Nurse Assistant Program (CNAP): Increasing the CNA workforce in California through partnerships with CDPH approved facilities.",
+      "canonical": "https://yourcnastory.org/employers/",
+      "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "ogTitle": "Build Your CNA Workforce with CNAP",
+      "ogDescription": "The Certified Nurse Assistant Program (CNAP) is partnering with long-term care facilities in California to increase the CNA workforce.",
+      "ogImage": "https://yourcnastory.org/wp-content/uploads/2023/09/diversity-1024x683-1.jpg"
+    },
     "heading": null,
     "anchors": []
   },
@@ -6442,5 +6450,43 @@
       "pro-elements-handlers-js",
       "wp-emoji-settings"
     ]
+  },
+  {
+    "id": "/train-and-gain/",
+    "path": "/train-and-gain/",
+    "locale": "en",
+    "section": "employers",
+    "counterpart": null,
+    "template": "standard-content-or-legacy",
+    "metadata": {
+      "title": "CNA Employers Earn and Learn - Certified Nurse Assistant Program (CNAP) Quality Care Health Foundation",
+      "description": "Certified Nurse Assistant Program (CNAP): Increasing the CNA workforce in California through partnerships with CDPH approved facilities.",
+      "canonical": "",
+      "robots": "noindex, nofollow",
+      "ogTitle": "Build Your CNA Workforce with CNAP",
+      "ogDescription": "The Certified Nurse Assistant Program (CNAP) is partnering with long-term care facilities in California to increase the CNA workforce.",
+      "ogImage": "https://yourcnastory.org/wp-content/uploads/2023/09/diversity-1024x683-1.jpg"
+    },
+    "heading": null,
+    "anchors": []
+  },
+  {
+    "id": "/advocate/",
+    "path": "/advocate/",
+    "locale": "en",
+    "section": "employers",
+    "counterpart": null,
+    "template": "standard-content-or-legacy",
+    "metadata": {
+      "title": "CNA Training Schools - Certified Nurse Assistant Program (CNAP) Quality Care Health Foundation",
+      "description": "Help Your SNF Partners Unlock $2,000 per CNA Trained.",
+      "canonical": "",
+      "robots": "noindex, nofollow",
+      "ogTitle": "Help your SNF partners unlock $2,000 per CNA trained",
+      "ogDescription": "Your SNF partners are missing out on $2,000 per CNA trained through CNAP's Earn and Learn program, and you can change that.",
+      "ogImage": "https://yourcnastory.org/wp-content/uploads/2026/04/california-cna-training.jpg"
+    },
+    "heading": null,
+    "anchors": []
   }
 ]

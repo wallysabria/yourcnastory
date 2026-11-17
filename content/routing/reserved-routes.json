@@ -112,13 +112,6 @@
     "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
   },
   {
-    "path": "/train-and-gain/",
-    "locale": "en",
-    "observedStatus": 200,
-    "section": "other",
-    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
-  },
-  {
     "path": "/the7_client/client-001/",
     "locale": "en",
     "observedStatus": 200,
@@ -165,13 +158,6 @@
     "locale": "en",
     "observedStatus": 301,
     "section": "employers",
-    "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
-  },
-  {
-    "path": "/advocate/",
-    "locale": "en",
-    "observedStatus": 200,
-    "section": "other",
     "reason": "Audit-only; unresolved disposition or retired/redirected URL. Not a rendered page."
   },
   {

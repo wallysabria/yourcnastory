@@ -1,14 +1,9 @@
 import fs from 'node:fs';
 import { load } from 'cheerio';
 import { hash, origin, write } from './content-source.mjs';
-const paths = [
-  '/cna-certifications/',
-  '/employer-resources/',
-  '/cnap-employer-signup/',
-  '/cnap-awards/',
-  '/faqs/',
-  '/cusp-upskilling/',
-];
+const paths = process.env.EMPLOYER_PATHS
+  ? JSON.parse(process.env.EMPLOYER_PATHS)
+  : JSON.parse(fs.readFileSync('content/routing/employer-release.json')).approved;
 const rows = await Promise.all(
   paths.map(async (path) => {
     const response = await fetch(origin + path, {
@@ -38,7 +33,13 @@ const rows = await Promise.all(
     };
   }),
 );
-write('_source/phase-08/reconciliation.json', rows);
+const previous = fs.existsSync('_source/phase-08/reconciliation.json')
+  ? JSON.parse(fs.readFileSync('_source/phase-08/reconciliation.json'))
+  : [];
+write('_source/phase-08/reconciliation.json', [
+  ...previous.filter((r) => !paths.includes(r.path)),
+  ...rows,
+]);
 console.log(
   JSON.stringify(
     rows.map(({ path, title, headings, forms }) => ({ path, title, headings, forms })),

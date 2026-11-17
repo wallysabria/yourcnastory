@@ -32,7 +32,9 @@ try {
         ? route.abort()
         : route.continue(),
     );
-    for (const path of release.approved) {
+    for (const path of process.env.EMPLOYER_PATHS
+      ? JSON.parse(process.env.EMPLOYER_PATHS)
+      : release.approved) {
       const row = { path, width };
       for (const target of ['source', 'local']) {
         const page = await context.newPage();
@@ -81,7 +83,7 @@ try {
     await context.close();
   }
   fs.writeFileSync(
-    'docs/reports/phase-08-visual-checks.json',
+    process.env.EMPLOYER_VISUAL_REPORT || 'docs/reports/phase-08-visual-checks.json',
     JSON.stringify(checks, null, 2) + '\n',
   );
   console.log({ screenshots: checks.length * 2, checks: checks.length });

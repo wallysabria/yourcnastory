@@ -143,3 +143,7 @@ Owner requested restoring the YouTube video visible on the current reference pag
 ## D-022 — Financial Awards navigation and cards — approved 2026-11-16
 
 Owner approved /cnap-awards/ refresh: labeled Jump to an award navigation using the five original labels, pale pills with section-aware selected state, sticky desktop navigation below header, compact wrapping mobile layout, unobscured anchor targets, and white award cards with clearer documentation/application spacing. Preserve all wording, amounts, source destinations and original anchors, including E&Laward. Scope to this page; group all three CUSP awards under the existing CUSP navigation entry. No held pages, other Employer page styling, chatbot/database or live integrations.
+
+## D-023 — Train and Gain inquiry form placeholder — approved
+
+Owner requested a placeholder because this element will change. Retain the current fields as disabled reference content, add a clear “Form preview only — submissions are not available yet.” notice, and provide no form submission route. The current WordPress inquiry integration is not migrated and no test data is sent. This is separate from the existing Microsoft Forms application and Mailchimp signup.

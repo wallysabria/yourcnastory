@@ -107,3 +107,7 @@ Restore the exact source YouTube ID aTyd4jfB0OY from the preserved widget settin
 ## D-022 — Awards refresh
 
 Presentation-only update to /cnap-awards/: preserve frozen source JSON, metadata, award wording and amounts, all destinations and legacy anchor IDs. Split source heading/definition markup into semantic headings and body copy without editorial changes. New approved navigation label is stored in content/ui/awards.json.
+
+## Phase 8 remaining English pages
+
+Owner approved current public-site content for /employers/, /train-and-gain/ and /advocate/ while edits remain pending. Captured source copy, punctuation, metadata and anchors retained; zero job-board removals in the fresh captures. An older indexed search copy contained an obsolete promotion, but the actual captures do not; no removal is claimed. D-023 records the owner-requested non-submitting inquiry-form placeholder. Source videos reuse click-to-load/lightbox behavior with self-hosted thumbnails. Current source definitions and page-specific award amounts are preserved without editorial reconciliation.
