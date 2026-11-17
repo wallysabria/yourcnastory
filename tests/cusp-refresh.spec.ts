@@ -72,3 +72,50 @@ test('overview stays keyboard reachable after closing mobile panels and resizing
   await first.press('Enter');
   await expect(first).toHaveAttribute('aria-selected', 'true');
 });
+
+for (const viewport of [
+  { width: 1440, height: 1000 },
+  { width: 390, height: 844 },
+  { width: 844, height: 390 },
+])
+  test(
+    'CUSP original video loads only in a lightbox at ' + viewport.width + 'x' + viewport.height,
+    async ({ page }) => {
+      await page.setViewportSize(viewport);
+      const requests: string[] = [];
+      page.on('request', (r) => {
+        if (/youtube\.com|ytimg\.com/.test(r.url())) requests.push(r.url());
+      });
+      await page.route('**/*', (r) =>
+        /youtube\.com|ytimg\.com/.test(r.request().url()) ? r.abort() : r.continue(),
+      );
+      await page.goto('/cusp-upskilling/');
+      const section = page.locator('.elementor-element-f95e626');
+      const trigger = section.getByRole('button', { name: 'Play video', exact: true });
+      await trigger.scrollIntoViewIfNeeded();
+      await expect(trigger).toBeVisible();
+      await expect(trigger.locator('img')).toBeVisible();
+      await expect(section.locator('iframe')).toHaveCount(0);
+      expect(requests).toEqual([]);
+      await trigger.focus();
+      await trigger.press('Enter');
+      const dialog = section.locator('dialog:visible');
+      await expect(dialog).toBeVisible();
+      await expect(dialog.locator('iframe')).toHaveAttribute(
+        'src',
+        /youtube.com\/embed\/aTyd4jfB0OY/,
+      );
+      const rect = await dialog.boundingBox();
+      expect(rect!.x).toBeGreaterThanOrEqual(0);
+      expect(rect!.y).toBeGreaterThanOrEqual(0);
+      expect(rect!.x + rect!.width).toBeLessThanOrEqual(viewport.width + 1);
+      expect(rect!.y + rect!.height).toBeLessThanOrEqual(viewport.height + 1);
+      await page.keyboard.press('Escape');
+      await expect(section.locator('iframe')).toHaveCount(0);
+      await expect(trigger).toBeFocused();
+      await trigger.click();
+      await section.locator('dialog:visible .native-dialog-close').click();
+      await expect(section.locator('iframe')).toHaveCount(0);
+      await expect(trigger).toBeFocused();
+    },
+  );

@@ -4,13 +4,25 @@
     "url": "https://i.ytimg.com/vi/P6pGtAGBfD8/hqdefault.jpg",
     "path": "/images/content/community-resources-youtube-introduction.jpg",
     "bytes": 11949,
-    "sha256": "5012eb05250544f6d36df925406cb3b66d717793c158f15bf473f40bf6bbbe4b"
+    "sha256": "5012eb05250544f6d36df925406cb3b66d717793c158f15bf473f40bf6bbbe4b",
+    "mode": "inline"
   },
   {
     "videoId": "jXHcMcXPpDE",
     "url": "https://i.ytimg.com/vi/jXHcMcXPpDE/hqdefault.jpg",
     "path": "/images/content/community-resources-youtube-careers.jpg",
     "bytes": 8470,
-    "sha256": "c9a819d9e6ca6551fe3173cba1ec09f82dc8bb0a65ea3cb24deab80784df5308"
+    "sha256": "c9a819d9e6ca6551fe3173cba1ec09f82dc8bb0a65ea3cb24deab80784df5308",
+    "mode": "inline"
+  },
+  {
+    "videoId": "aTyd4jfB0OY",
+    "url": "https://i.ytimg.com/vi/aTyd4jfB0OY/maxresdefault.jpg",
+    "path": "/images/content/cusp-successful-implementation-youtube.jpg",
+    "bytes": 75640,
+    "sha256": "493895e45662c654794c3a7124ca8382511ce17d29b06c5fc6d1c3cab561d277",
+    "mode": "lightbox",
+    "sourcePage": "/cusp-upskilling/",
+    "sourceWidget": "731d597"
   }
 ]

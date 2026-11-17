@@ -440,3 +440,42 @@
 .cusp-refresh #main .elementor-element-fd1b3d4 {
   padding-top: 28px !important;
 }
+/* Restored original implementation video; thumbnail is local, player loads on click. */
+.cusp-refresh #main .elementor-element-3d989df > .elementor-container {
+  display: grid !important;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1.25fr);
+  gap: 28px;
+  align-items: center;
+}
+.cusp-refresh #main .elementor-element-3d989df > .elementor-container > .elementor-column {
+  width: 100% !important;
+  min-width: 0;
+}
+.cusp-refresh #main .elementor-element-f95e626 .cusp-implementation-video {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16/9;
+  overflow: hidden;
+  border-radius: 16px;
+}
+.cusp-refresh #main .cusp-implementation-video img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.cusp-refresh #main .cusp-implementation-video .native-video-play {
+  font-size: 24px;
+}
+@media (max-width: 767px) {
+  .cusp-refresh #main .elementor-element-3d989df > .elementor-container {
+    grid-template-columns: 1fr;
+    gap: 22px;
+  }
+}
+@media (max-width: 767px) {
+  .cusp-refresh #main .elementor-element-3d989df > .elementor-container {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 24px;
+  }
+}

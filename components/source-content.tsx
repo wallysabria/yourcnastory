@@ -1,3 +1,5 @@
+import Image from 'next/image';
+import { youtubeVideoId } from '@/lib/youtube';
 import { EmployerTabs } from './employer-tabs';
 import { ExternalFrame } from './external-frame';
 import { externalLinkAttributes, secureNewTabRel } from '@/lib/external-links';
@@ -229,8 +231,28 @@ export function renderSourceNode(node: ContentNode, key: string, ctx: Context): 
       />
     );
   if (has(node, 'elementor-video') && widgetSettings?.video_type === 'youtube') {
-    const id = new URL(String(widgetSettings.youtube_url)).pathname.split('/').pop();
+    const id = youtubeVideoId(String(widgetSettings.youtube_url));
     const poster = videoPosters.find((item) => item.videoId === id);
+    if (poster?.mode === 'lightbox')
+      return (
+        <VideoTrigger
+          key={key}
+          locale={ctx.locale}
+          url={'https://www.youtube.com/embed/' + id + '?rel=0'}
+          className="native-video-poster cusp-implementation-video"
+        >
+          <Image
+            src={poster.path}
+            alt=""
+            width={1280}
+            height={720}
+            sizes="(max-width: 767px) 100vw, 480px"
+          />
+          <span className="native-video-play" aria-hidden="true">
+            ▶
+          </span>
+        </VideoTrigger>
+      );
     if (poster)
       return (
         <InlineVideo
