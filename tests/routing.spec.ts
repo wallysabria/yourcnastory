@@ -33,7 +33,9 @@ test('both global settings validate and Spanish copy stays source-driven', () =>
     expect(content.mobile).toHaveLength(2);
     expect(content.footer.columns).toHaveLength(3);
   }
-  expect(globalContent('es').nav[0].columns[0].items.at(-1)?.label).toBe('PREGUNTAS FREQUENTES');
+  expect(globalContent('es').nav[0].label).toBe('Empleadores');
+  expect(globalContent('es').nav[0].href).toBe('/employers/');
+  expect(globalContent('es').nav[0].columns).toEqual(globalContent('en').nav[0].columns);
   expect(pageSchema.safeParse({ routeId: '/', locale: 'vi', blocks: [] }).success).toBe(false);
 });
 test('employer links are inert with the gate off and active with it on', () => {

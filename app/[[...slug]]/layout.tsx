@@ -38,6 +38,7 @@ export default async function RootLayout({
           content={content}
           enabled={employersEnabled}
           homeHref={home?.path || '/'}
+          showLanguageMenu={route?.section !== 'employers'}
           counterpartHref={counterpart?.section === 'employers' ? null : counterpart?.path || null}
           transparent={true}
         />

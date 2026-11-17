@@ -149,3 +149,64 @@ test('New Employer pages preserve anchors and have no passive WordPress dependen
   for (const id of ['zane', 'program-works', 'program_works', 'contact_form'])
     await expect(page.locator(`[id="${id}"]`)).toHaveCount(1);
 });
+
+for (const width of [1440, 390])
+  test(`All Employer pages omit desktop and mobile language options at ${width}`, async ({
+    page,
+  }) => {
+    await page.setViewportSize({ width, height: 900 });
+    for (const path of release.approved) {
+      await page.goto(path);
+      await expect(page.locator('.language-menu')).toHaveCount(0);
+      await expect(
+        page.locator('.mobile-menu summary').filter({ hasText: /^(English|Español)$/ }),
+      ).toHaveCount(0);
+      await expect(page.locator('.mobile-menu a[lang]')).toHaveCount(0);
+    }
+    await page.goto('/career-seekers/');
+    await expect(page.locator('.language-menu')).toHaveCount(1);
+    await expect(page.locator('.mobile-menu a[lang=es]')).toHaveAttribute(
+      'href',
+      '/es/aspirantes/',
+    );
+  });
+
+test('Spanish Career Seekers navigation keeps Empleadores and uses English Employer destinations', async ({
+  page,
+  request,
+}) => {
+  await page.goto('/es/aspirantes/');
+  const employer = page.locator('.desktop-nav .nav-label').first();
+  await expect(employer).toHaveText('Empleadores');
+  await expect(employer).toHaveAttribute('href', '/employers/');
+  await employer.hover();
+  const panel = page.locator('#mega-0');
+  await expect(panel).toBeVisible();
+  await expect(panel).toHaveAttribute('lang', 'en');
+  await expect(panel.getByRole('link', { name: 'PROGRAM OVERVIEW', exact: true })).toHaveAttribute(
+    'href',
+    '/employers/',
+  );
+  await expect(
+    panel.getByRole('link', { name: 'FREQUENTLY ASKED QUESTIONS', exact: true }),
+  ).toHaveAttribute('href', '/faqs/');
+  const desktop = await panel
+    .locator('a')
+    .evaluateAll((es) => es.map((e) => ({ text: e.textContent, href: e.getAttribute('href') })));
+  expect(desktop.length).toBeGreaterThan(10);
+  expect(desktop.every((e) => !e.href?.startsWith('/es/'))).toBe(true);
+  for (const href of new Set(desktop.map((e) => e.href!.split('#')[0])))
+    expect((await request.get(href)).status()).toBe(200);
+  await page.setViewportSize({ width: 390, height: 900 });
+  await page.locator('.privacy-banner .privacy-action').nth(1).click();
+  await page.getByRole('button', { name: 'Abrir menú', exact: true }).click();
+  const branch = page
+    .locator('.mobile-menu nav > details')
+    .filter({ has: page.getByText('Empleadores', { exact: true }) });
+  await branch.locator(':scope > summary').click();
+  const mobile = await branch
+    .locator('a')
+    .evaluateAll((es) => es.map((e) => ({ text: e.textContent, href: e.getAttribute('href') })));
+  expect(mobile).toEqual(desktop);
+  await expect(branch.locator(':scope > div')).toHaveAttribute('lang', 'en');
+});
