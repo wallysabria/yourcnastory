@@ -24,3 +24,7 @@ Preview: https://yourcnastory-git-codex-awards-desi-402248-wallysabrias-projects
 
 Local results: lint, typecheck, format check and production build passed. Full regression run passed 121 checks; the remaining new copy-comparison test initially used the wrong source field, was corrected, and all six awards checks then passed. CI will rerun the complete 122-test suite.
 
+
+## Publication verification
+
+PR #20 merged as 4dcef177c39391213fd7b8486ae81fc5cca7e258. All 122 tests passed in PR CI, alongside lint, formatting, source parity and build checks. Vercel reported successful publication; https://yourcnastory.vercel.app/cnap-awards/ returned 200 with the new navigation and refresh stylesheet. All six awards browser tests passed against that public URL, including 1440/768/390/320px anchor and keyboard checks, deep links, page-only styling, and exact card wording/destinations.
