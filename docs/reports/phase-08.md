@@ -36,4 +36,8 @@ Other unresolved items: external provider internals/submission verification; aud
 
 ## Review handoff
 
-PR and preview URL: pending branch push. No main merge, review-alias publication, DNS/cutover, paid calls or live tracking activation performed.
+Draft PR: https://github.com/wallysabria/yourcnastory/pull/17
+
+Protected branch preview: https://yourcnastory-git-phase-08-employers-wallysabrias-projects.vercel.app/
+
+Deployment dpl_9ArMYwBwokasNHA7hbgvGDh319NB reached Ready. Authenticated FAQ request returned HTTP 200; other hosted route checks remain pending. Vercel CLI unexpectedly created a persistent automation bypass during that check; automatic review rejected further bypass use. The exact newly created bypass was revoked and its absence verified; other bypass settings were unchanged. No secret value was printed or stored in project files. Use normal Vercel reviewer sign-in; no public-access claim is made. No main merge, review-alias publication, DNS/cutover, paid calls or live tracking activation performed.

@@ -16,12 +16,10 @@ for (const path of release.approved)
         await expect(page.locator(`#main a[href="${held}"]`)).toHaveCount(0);
       await expect(page.locator('iframe')).toHaveCount(0);
       const axe = await new AxeBuilder({ page }).include('#main').analyze();
-      await test
-        .info()
-        .attach('axe-source-audit', {
-          body: JSON.stringify(axe.violations),
-          contentType: 'application/json',
-        });
+      await test.info().attach('axe-source-audit', {
+        body: JSON.stringify(axe.violations),
+        contentType: 'application/json',
+      });
       expect(
         axe.violations
           .filter((v) => v.id !== 'color-contrast')
