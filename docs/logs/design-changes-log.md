@@ -147,3 +147,7 @@ Owner approved /cnap-awards/ refresh: labeled Jump to an award navigation using 
 ## D-023 — Train and Gain inquiry form placeholder — approved
 
 Owner requested a placeholder because this element will change. Retain the current fields as disabled reference content, add a clear “Form preview only — submissions are not available yet.” notice, and provide no form submission route. The current WordPress inquiry integration is not migrated and no test data is sent. This is separate from the existing Microsoft Forms application and Mailchimp signup.
+
+## D-024 — English-only Employer header — approved
+
+Owner explicitly requested that every Employer page omit the English/Español selector. Do not render the desktop language menu or mobile language branch on routes classified as Employers, including future Employer pages. Career Seekers and shared-page language controls remain unchanged. No copy, URLs or translations changed.

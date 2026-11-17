@@ -199,3 +199,7 @@ English Employer page only. No Spanish page, translation, or interface changes. 
 ## Phase 8 remaining English pages
 
 Employers, Train and Gain and Advocate migrated in English only. No Spanish content, translation or interface strings added. Spanish Employer route reservations remain inactive, and no unavailable counterpart is emitted in hreflang.
+
+## D-024 — Employer language controls
+
+English-only Employer routes now omit desktop and mobile language controls. No Spanish strings, translations or content changed; Career Seekers/shared language controls remain unchanged.

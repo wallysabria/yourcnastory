@@ -149,3 +149,24 @@ test('New Employer pages preserve anchors and have no passive WordPress dependen
   for (const id of ['zane', 'program-works', 'program_works', 'contact_form'])
     await expect(page.locator(`[id="${id}"]`)).toHaveCount(1);
 });
+
+for (const width of [1440, 390])
+  test(`All Employer pages omit desktop and mobile language options at ${width}`, async ({
+    page,
+  }) => {
+    await page.setViewportSize({ width, height: 900 });
+    for (const path of release.approved) {
+      await page.goto(path);
+      await expect(page.locator('.language-menu')).toHaveCount(0);
+      await expect(
+        page.locator('.mobile-menu summary').filter({ hasText: /^(English|Español)$/ }),
+      ).toHaveCount(0);
+      await expect(page.locator('.mobile-menu a[lang]')).toHaveCount(0);
+    }
+    await page.goto('/career-seekers/');
+    await expect(page.locator('.language-menu')).toHaveCount(1);
+    await expect(page.locator('.mobile-menu a[lang=es]')).toHaveAttribute(
+      'href',
+      '/es/aspirantes/',
+    );
+  });

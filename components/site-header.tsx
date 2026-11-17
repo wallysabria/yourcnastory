@@ -31,12 +31,14 @@ export function SiteHeader({
   content,
   homeHref,
   counterpartHref,
+  showLanguageMenu,
   transparent,
   enabled,
 }: {
   content: GlobalContent;
   homeHref: string;
   counterpartHref: string | null;
+  showLanguageMenu: boolean;
   transparent: boolean;
   enabled: boolean;
 }) {
@@ -200,18 +202,20 @@ export function SiteHeader({
               onPointerEnter={cancelTimers}
               onPointerLeave={leave}
             />
-            <details className="language-menu" onFocus={close}>
-              <summary>{currentLabel}</summary>
-              <div>
-                {counterpartHref ? (
-                  <a href={counterpartHref} lang={content.locale === 'es' ? 'en' : 'es'}>
-                    {otherLabel}
-                  </a>
-                ) : (
-                  <span aria-disabled="true">{otherLabel}</span>
-                )}
-              </div>
-            </details>
+            {showLanguageMenu && (
+              <details className="language-menu" onFocus={close}>
+                <summary>{currentLabel}</summary>
+                <div>
+                  {counterpartHref ? (
+                    <a href={counterpartHref} lang={content.locale === 'es' ? 'en' : 'es'}>
+                      {otherLabel}
+                    </a>
+                  ) : (
+                    <span aria-disabled="true">{otherLabel}</span>
+                  )}
+                </div>
+              </details>
+            )}
           </nav>
           <SearchDialog locale={content.locale === 'es' ? 'es' : 'en'} />
         </div>
@@ -232,18 +236,20 @@ export function SiteHeader({
           {content.mobile.map((item) => (
             <MobileBranch key={item.label} item={item} enabled={enabled} />
           ))}
-          <details className="mobile-branch">
-            <summary>{currentLabel}</summary>
-            <div>
-              {counterpartHref ? (
-                <a href={counterpartHref} lang={content.locale === 'es' ? 'en' : 'es'}>
-                  {otherLabel}
-                </a>
-              ) : (
-                <span aria-disabled="true">{otherLabel}</span>
-              )}
-            </div>
-          </details>
+          {showLanguageMenu && (
+            <details className="mobile-branch">
+              <summary>{currentLabel}</summary>
+              <div>
+                {counterpartHref ? (
+                  <a href={counterpartHref} lang={content.locale === 'es' ? 'en' : 'es'}>
+                    {otherLabel}
+                  </a>
+                ) : (
+                  <span aria-disabled="true">{otherLabel}</span>
+                )}
+              </div>
+            </details>
+          )}
         </nav>
       </dialog>
     </>
