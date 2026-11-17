@@ -47,7 +47,12 @@ try {
     });
     console.log(JSON.stringify(rows.at(-1)));
   }
-  fs.writeFileSync('docs/reports/phase-08-performance.json', JSON.stringify(rows, null, 2) + '\n');
+  fs.writeFileSync(
+    process.argv[2]
+      ? '_source/phase-08/lighthouse/one-page-summary.json'
+      : 'docs/reports/phase-08-performance.json',
+    JSON.stringify(rows, null, 2) + '\n',
+  );
 } finally {
   await chrome?.kill();
   server.kill();

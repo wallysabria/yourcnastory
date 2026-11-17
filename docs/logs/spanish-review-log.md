@@ -187,3 +187,7 @@ Owner approved removing only the leaked `.cls-63ce7424ea57ea6c8380058e-1{fill:no
 ## Phase 8 — 2026-11-16
 
 No Spanish Employer pages or new Spanish UI strings added. Historical route reservations unchanged; unavailable Spanish Employer counterpart links are omitted from emitted hreflang. Carousel accessible names use existing source text, not new translations.
+
+## D-020 — CUSP refresh
+
+English CUSP page only; no Spanish page or interface string changes. Original source titles provide accordion labels.

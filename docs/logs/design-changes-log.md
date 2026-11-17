@@ -131,3 +131,7 @@ Owner requested a site-wide external-link check and target="_blank" behavior. Ap
 ## D-019 — Employer external embeds — approved 2026-11-16
 
 Owner explicitly approved click-to-load existing Microsoft Forms and Vimeo embeds for /cnap-employer-signup/ and /employer-resources/. Keep the original source URLs; show an English provider-loading notice and native activation button. No passive iframe requests, live form submissions, copy rewrites or provider substitutions. UI text lives in content/ui/external-frame.json. Approved Employer FAQ reuse remains D-013.
+
+## D-020 — CUSP page refresh — approved 2026-11-16
+
+Owner approved a focused /cusp-upskilling/ refresh: white rounded Overview/Goal/Program Details content with desktop navigation and mobile accordions; expandable upskilling-level cards; pale benefit cards in a responsive grid; larger timeline in a white card; tighter section spacing. Preserve hero, source copy, links, images, anchors and metadata. Scope styles to this page; retain other Employer pages and held-route gates. No chatbot/database or live integration work.

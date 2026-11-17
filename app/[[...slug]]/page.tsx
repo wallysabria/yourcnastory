@@ -1,3 +1,5 @@
+import { readFileSync } from 'node:fs';
+import path from 'node:path';
 /* eslint-disable @next/next/no-css-tags -- Audited route-specific CSS uses React stylesheet precedence and resource deduplication. */
 import { structuredData, serializeStructuredData } from '@/lib/structured-data';
 import { contentAt } from '@/lib/content-pages';
@@ -10,6 +12,7 @@ import type { ContentNode } from '@/lib/content-schema';
 import { notFound } from 'next/navigation';
 import { metadataFor } from '@/lib/metadata';
 import { renderableRoutes, routeAt, canRender } from '@/lib/routing';
+const cuspStyles = readFileSync(path.join(process.cwd(), 'public/styles/cusp-refresh.css'), 'utf8');
 export const dynamicParams = false;
 export function generateStaticParams() {
   return renderableRoutes().map((route) => ({ slug: route.path.split('/').filter(Boolean) }));
@@ -93,9 +96,16 @@ export default async function Page({ params }: { params: Promise<{ slug?: string
       {(styleBundles as Record<string, string[]>)[route.path].map((url) => (
         <link key={url} rel="stylesheet" href={url} precedence="source-content" />
       ))}
+      {route.path === '/cusp-upskilling/' && (
+        <style data-cusp-refresh dangerouslySetInnerHTML={{ __html: cuspStyles }} />
+      )}
       <div className="source-document">
         <div
-          className={'page-content ' + layout.bodyClasses}
+          className={
+            'page-content ' +
+            layout.bodyClasses +
+            (route.path === '/cusp-upskilling/' ? ' cusp-refresh' : '')
+          }
           style={style}
           data-template={layout.template}
           data-pagefind-body
