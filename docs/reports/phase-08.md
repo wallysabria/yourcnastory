@@ -41,3 +41,9 @@ Draft PR: https://github.com/wallysabria/yourcnastory/pull/17
 Protected branch preview: https://yourcnastory-git-phase-08-employers-wallysabrias-projects.vercel.app/
 
 Deployment dpl_9ArMYwBwokasNHA7hbgvGDh319NB reached Ready. Authenticated FAQ request returned HTTP 200; other hosted route checks remain pending. Vercel CLI unexpectedly created a persistent automation bypass during that check; automatic review rejected further bypass use. The exact newly created bypass was revoked and its absence verified; other bypass settings were unchanged. No secret value was printed or stored in project files. Use normal Vercel reviewer sign-in; no public-access claim is made. No main merge, review-alias publication, DNS/cutover, paid calls or live tracking activation performed.
+
+## Publication — owner authorized 2026-11-16
+
+Owner explicitly requested merge and publication. PR #17 merged as b9382c56a1026d70ef20d64216d0f3b47f1980e0; Vercel deployment QFHsY7rEv35QixJwXXgKfmYZWM43 completed successfully. All six approved pages return HTTP 200 at https://yourcnastory.vercel.app/ without sign-in or bypass. Published Chromium checks: 17/17 passed, including 1440px/390px layouts, FAQ answers, CUSP tabs, explicit Forms/Vimeo activation, and held/Spanish Employer routes remaining 404. No live form was submitted. Evidence: phase-08-publication.json.
+
+Earlier draft/unpublished statements describe the review handoff and are superseded by this publication. This publishes only the approved partial English Employer scope to the review alias. The three held pages, chatbot/database work, source contrast and mobile performance flags, full-section acceptance and custom-domain launch remain deferred. Indexing remains blocked and production tracking is not enabled.

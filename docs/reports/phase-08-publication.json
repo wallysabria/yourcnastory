@@ -1,0 +1,12 @@
+{
+  "reviewOrigin": "https://yourcnastory.vercel.app",
+  "mergeCommit": "b9382c56a1026d70ef20d64216d0f3b47f1980e0",
+  "pr": 17,
+  "checkedAt": "2026-11-17T02:01:48.084Z",
+  "browserTestsPassed": 17,
+  "failed": 0,
+  "protectionBypass": false,
+  "liveFormsSubmitted": false,
+  "held": ["/employers/", "/train-and-gain/", "/advocate/"],
+  "limits": "Source contrast exceptions retained; local LCP flags and full-phase launch acceptance remain open."
+}
