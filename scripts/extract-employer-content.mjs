@@ -68,6 +68,10 @@ for (const record of records) {
     },
     inventory: inventory($, main),
   };
+  const visibleMain = main.clone();
+  visibleMain.find('iframe').empty();
+  page.inventory = inventory($, visibleMain);
+  page.provenance.visibleTextCharactersHash = hash(textNodes(visibleMain[0]).join(''));
   const file = 'content/pages/' + filename(route.path);
   write(file, page);
   const existingIndex = index.findIndex((r) => r.path === route.path);

@@ -440,10 +440,11 @@
     "snapshotHash": "b2821cf5c47a2cd7e77589a88de3e9de73f07f19cb7b6763cf8bcffaccbe521f",
     "authority": "rendered-live-copy; owner approved Phase 8 2026-11-16",
     "normalization": "DOM-decoded text; source text-node characters retained",
-    "textCharactersHash": "14cbac7488da789de3cbba50da4d20e6db143526b6ab154881892289eb86f59f"
+    "textCharactersHash": "14cbac7488da789de3cbba50da4d20e6db143526b6ab154881892289eb86f59f",
+    "visibleTextCharactersHash": "9a2a64c06308f1c5069b52df47bbe8a1a06aecbe1554e596daa079303d2bd3f4"
   },
   "inventory": {
-    "text": "CNAP Application Join CNAP and Help Grow a Thriving CNA Workforce in California <span style=\"display: inline-block; width: 0px; overflow: hidden; line-height: 0;\" data-mce-type=\"bookmark\" class=\"mce_SELRES_start\"> </span>",
+    "text": "CNAP Application Join CNAP and Help Grow a Thriving CNA Workforce in California",
     "links": [],
     "images": [],
     "anchors": ["main", "content"]
