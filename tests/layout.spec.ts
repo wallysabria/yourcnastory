@@ -18,7 +18,7 @@ for (const width of [1440, 390])
         .analyze();
       // D-004: owner explicitly chose source contrast/link styling on 2026-11-08.
       // Preserve the full audit report; only these documented inherited rules are accepted here.
-      const accepted = ['/career-seekers/', '/es/aspirantes/'].includes(path)
+      const accepted = ['/', '/es/', '/career-seekers/', '/es/aspirantes/'].includes(path)
         ? ['color-contrast', 'link-in-text-block']
         : [];
       expect(result.violations.filter((v) => !accepted.includes(v.id))).toEqual([]);

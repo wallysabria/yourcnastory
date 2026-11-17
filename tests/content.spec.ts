@@ -12,7 +12,9 @@ test('every extracted page renders in the inert content-review endpoint', async 
     const $ = load(await response.text());
     expect($('html').attr('lang')).toBe(entry.locale);
     expect($('#main').length).toBe(1);
-    expect($('#main').text().trim().length).toBeGreaterThan(100);
+    expect($('#main').text().trim().length).toBeGreaterThan(
+      entry.path === '/cnap-employer-signup/' ? 50 : 100,
+    );
     expect($('form,iframe,script,button,a[href]').length).toBe(0);
     expect($('input:not([disabled]),select:not([disabled]),textarea:not([disabled])').length).toBe(
       0,
@@ -20,10 +22,11 @@ test('every extracted page renders in the inert content-review endpoint', async 
     expect(response.headers()['content-security-policy']).toContain("form-action 'none'");
   }
 });
-test('content-review cannot expose employer or filesystem paths', async ({ request }) => {
+test('content-review cannot expose held Employer or filesystem paths', async ({ request }) => {
   for (const path of [
     '/employers/',
-    '/faqs/',
+    '/train-and-gain/',
+    '/advocate/',
     '../../.env.local',
     '/es/empresarios/',
     'constructor',

@@ -1,3 +1,4 @@
+const employerRelease = JSON.parse(fs.readFileSync('content/routing/employer-release.json'));
 import fs from 'node:fs';
 import assert from 'node:assert/strict';
 import { load } from 'cheerio';
@@ -12,13 +13,14 @@ import {
   serialize,
 } from './content-source.mjs';
 const live = process.argv.includes('--live');
-const records = fs.existsSync('_source/phase-03/reconciliation.json')
-  ? JSON.parse(fs.readFileSync('_source/phase-03/reconciliation.json'))
-  : [];
+const records =
+  !process.argv.includes('--committed') && fs.existsSync('_source/phase-03/reconciliation.json')
+    ? JSON.parse(fs.readFileSync('_source/phase-03/reconciliation.json'))
+    : [];
 const index = JSON.parse(fs.readFileSync('content/pages/index.json'));
 const removals = JSON.parse(fs.readFileSync('docs/reports/phase-03-jobboard-removals.json'));
 const routes = JSON.parse(fs.readFileSync('content/routing/slug-map.json')).filter(
-  (r) => r.section !== 'employers',
+  (r) => r.section !== 'employers' || employerRelease.approved.includes(r.path),
 );
 const careers = JSON.parse(fs.readFileSync('content/collections/careerpaths.json'));
 const testimonials = JSON.parse(fs.readFileSync('content/collections/testimonials.json'));
@@ -81,6 +83,17 @@ for (const row of index) {
         'Unmapped source image ' + image.src,
       );
   pageSchema.parse(page);
+  const originalText = (n) => (n.type === 'text' ? n.value : n.children.map(originalText).join(''));
+  assert.equal(
+    hash(
+      page.blocks
+        .flatMap((b) => b.nodes || [])
+        .map(originalText)
+        .join(''),
+    ),
+    page.provenance.textCharactersHash,
+    'Original source text drift ' + row.path,
+  );
   assert.equal(page.path, row.path);
   assert.equal(page.locale, row.locale);
   assert.equal(hash(JSON.stringify(page)), row.sha256, row.file + ' hash drift');
@@ -96,7 +109,8 @@ for (const row of index) {
     row.path + ' job reference',
   );
   let baseline = page.inventory,
-    expectedTextHash = page.provenance.textCharactersHash,
+    expectedTextHash =
+      page.provenance.visibleTextCharactersHash || page.provenance.textCharactersHash,
     expectedMetadata = page.metadata,
     logged = true;
   if (live || records.length) {
@@ -110,6 +124,7 @@ for (const row of index) {
       html = fs.readFileSync('_source/phase-03/' + r.filename, 'utf8');
     }
     const source = sourceDocument(html, origin + row.path, { removeJobboard: true });
+    source.main.find('iframe').empty();
     baseline = inventory(source.$, source.main);
     expectedTextHash = hash(textNodes(source.main).join(''));
     expectedMetadata = metadata(source.$);
@@ -117,6 +132,8 @@ for (const row of index) {
       JSON.stringify(source.removals) ===
       JSON.stringify(removals.filter((r) => r.page === origin + row.path));
   }
+  // Iframe fallback text is not reader-visible; HTML raw-text escaping is not page copy.
+  actual.find('iframe').empty();
   const actualInventory = inventory(actual$, actual);
   const textHash = hash(textNodes(actual).join(''));
   const result = {

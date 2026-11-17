@@ -1,0 +1,452 @@
+{
+  "routeId": "/cnap-employer-signup/",
+  "path": "/cnap-employer-signup/",
+  "locale": "en",
+  "metadata": {
+    "title": "CNAP Employer Signup - Certified Nurse Assistant Program (CNAP) Quality Care Health Foundation",
+    "description": "",
+    "canonical": "https://yourcnastory.org/cnap-employer-signup/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "ogTitle": "CNAP Employer Signup",
+    "ogDescription": "CNAP Application Join CNAP and Help Grow a Thriving CNA Workforce in California ﻿",
+    "ogImage": ""
+  },
+  "blocks": [
+    {
+      "type": "document",
+      "nodes": [
+        {
+          "type": "element",
+          "tag": "div",
+          "attrs": {
+            "id": "main"
+          },
+          "children": [
+            {
+              "type": "element",
+              "tag": "div",
+              "attrs": {},
+              "children": [],
+              "source": {
+                "elementorId": "",
+                "widget": "",
+                "classes": "main-gradient"
+              }
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attrs": {
+                        "id": "content",
+                        "role": "main"
+                      },
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attrs": {},
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "section",
+                              "attrs": {},
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "div",
+                                  "attrs": {},
+                                  "children": [],
+                                  "source": {
+                                    "elementorId": "",
+                                    "widget": "",
+                                    "classes": "elementor-background-overlay"
+                                  }
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "div",
+                                  "attrs": {},
+                                  "children": [
+                                    {
+                                      "type": "element",
+                                      "tag": "div",
+                                      "attrs": {},
+                                      "children": [
+                                        {
+                                          "type": "element",
+                                          "tag": "div",
+                                          "attrs": {},
+                                          "children": [
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "h2",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "text",
+                                                          "value": "CNAP Application"
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": "the7-heading-title elementor-size-default"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "75a700b",
+                                                "widget": "the7-heading.default",
+                                                "classes": "elementor-element elementor-element-75a700b elementor-widget elementor-widget-the7-heading"
+                                              }
+                                            }
+                                          ],
+                                          "source": {
+                                            "elementorId": "",
+                                            "widget": "",
+                                            "classes": "elementor-widget-wrap elementor-element-populated"
+                                          }
+                                        }
+                                      ],
+                                      "source": {
+                                        "elementorId": "0ef9c24",
+                                        "widget": "",
+                                        "classes": "elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0ef9c24"
+                                      }
+                                    }
+                                  ],
+                                  "source": {
+                                    "elementorId": "",
+                                    "widget": "",
+                                    "classes": "elementor-container elementor-column-gap-wider"
+                                  }
+                                }
+                              ],
+                              "source": {
+                                "elementorId": "4f6659e",
+                                "widget": "",
+                                "classes": "elementor-section elementor-top-section elementor-element elementor-element-4f6659e elementor-reverse-tablet elementor-reverse-mobile elementor-section-height-min-height elementor-section-items-stretch elementor-section-boxed elementor-section-height-default"
+                              }
+                            },
+                            {
+                              "type": "element",
+                              "tag": "section",
+                              "attrs": {},
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "div",
+                                  "attrs": {},
+                                  "children": [
+                                    {
+                                      "type": "element",
+                                      "tag": "div",
+                                      "attrs": {},
+                                      "children": [
+                                        {
+                                          "type": "element",
+                                          "tag": "div",
+                                          "attrs": {},
+                                          "children": [
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "h3",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "text",
+                                                          "value": "Join CNAP and Help Grow a Thriving CNA Workforce in California"
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": "elementor-heading-title elementor-size-default"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "34a8aa1",
+                                                "widget": "heading.default",
+                                                "classes": "elementor-element elementor-element-34a8aa1 elementor-widget elementor-widget-heading"
+                                              }
+                                            },
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "div",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "element",
+                                                          "tag": "div",
+                                                          "attrs": {},
+                                                          "children": [],
+                                                          "source": {
+                                                            "elementorId": "",
+                                                            "widget": "",
+                                                            "classes": "elementor-spacer-inner"
+                                                          }
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": "elementor-spacer"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "bd56ec1",
+                                                "widget": "spacer.default",
+                                                "classes": "elementor-element elementor-element-bd56ec1 elementor-widget elementor-widget-spacer"
+                                              }
+                                            },
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "text",
+                                                      "value": " "
+                                                    },
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "iframe",
+                                                      "attrs": {
+                                                        "src": "https://forms.office.com/pages/responsepage.aspx?id=MjUYPPT6E0qRIh5idiUIrZ9AHdd253ZGhgoCFXFGOVxUNUpNN0w0TDkyVEZZVEE4OE9NRDJaNzRRNiQlQCN0PWcu&embed=true",
+                                                        "width": "640px",
+                                                        "height": "480px"
+                                                      },
+                                                      "children": [
+                                                        {
+                                                          "type": "text",
+                                                          "value": "<span style=\"display: inline-block; width: 0px; overflow: hidden; line-height: 0;\" data-mce-type=\"bookmark\" class=\"mce_SELRES_start\">﻿</span> "
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": ""
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "3e6f748",
+                                                "widget": "text-editor.default",
+                                                "classes": "elementor-element elementor-element-3e6f748 elementor-widget elementor-widget-text-editor"
+                                              }
+                                            },
+                                            {
+                                              "type": "element",
+                                              "tag": "div",
+                                              "attrs": {},
+                                              "children": [
+                                                {
+                                                  "type": "element",
+                                                  "tag": "div",
+                                                  "attrs": {},
+                                                  "children": [
+                                                    {
+                                                      "type": "element",
+                                                      "tag": "div",
+                                                      "attrs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "element",
+                                                          "tag": "div",
+                                                          "attrs": {},
+                                                          "children": [],
+                                                          "source": {
+                                                            "elementorId": "",
+                                                            "widget": "",
+                                                            "classes": "elementor-spacer-inner"
+                                                          }
+                                                        }
+                                                      ],
+                                                      "source": {
+                                                        "elementorId": "",
+                                                        "widget": "",
+                                                        "classes": "elementor-spacer"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "source": {
+                                                    "elementorId": "",
+                                                    "widget": "",
+                                                    "classes": "elementor-widget-container"
+                                                  }
+                                                }
+                                              ],
+                                              "source": {
+                                                "elementorId": "7e0f3a0",
+                                                "widget": "spacer.default",
+                                                "classes": "elementor-element elementor-element-7e0f3a0 elementor-widget elementor-widget-spacer"
+                                              }
+                                            }
+                                          ],
+                                          "source": {
+                                            "elementorId": "",
+                                            "widget": "",
+                                            "classes": "elementor-widget-wrap elementor-element-populated"
+                                          }
+                                        }
+                                      ],
+                                      "source": {
+                                        "elementorId": "29fcaf8",
+                                        "widget": "",
+                                        "classes": "elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-29fcaf8"
+                                      }
+                                    }
+                                  ],
+                                  "source": {
+                                    "elementorId": "",
+                                    "widget": "",
+                                    "classes": "elementor-container elementor-column-gap-wider"
+                                  }
+                                }
+                              ],
+                              "source": {
+                                "elementorId": "1419e3b",
+                                "widget": "",
+                                "classes": "elementor-section elementor-top-section elementor-element elementor-element-1419e3b elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                              }
+                            }
+                          ],
+                          "source": {
+                            "elementorId": "",
+                            "widget": "",
+                            "classes": "elementor elementor-7532"
+                          }
+                        }
+                      ],
+                      "source": {
+                        "elementorId": "",
+                        "widget": "",
+                        "classes": "content"
+                      }
+                    }
+                  ],
+                  "source": {
+                    "elementorId": "",
+                    "widget": "",
+                    "classes": "wf-container-main"
+                  }
+                }
+              ],
+              "source": {
+                "elementorId": "",
+                "widget": "",
+                "classes": "wf-wrap"
+              }
+            }
+          ],
+          "source": {
+            "elementorId": "",
+            "widget": "",
+            "classes": "sidebar-none sidebar-divider-off"
+          }
+        }
+      ]
+    }
+  ],
+  "backgrounds": [],
+  "embeds": [
+    {
+      "tag": "iframe",
+      "src": "https://forms.office.com/pages/responsepage.aspx?id=MjUYPPT6E0qRIh5idiUIrZ9AHdd253ZGhgoCFXFGOVxUNUpNN0w0TDkyVEZZVEE4OE9NRDJaNzRRNiQlQCN0PWcu&embed=true",
+      "href": "",
+      "title": "",
+      "settings": ""
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "url": "https://yourcnastory.org/cnap-employer-signup/",
+    "capturedAt": "2026-11-17T01:21:43.087Z",
+    "snapshotHash": "b2821cf5c47a2cd7e77589a88de3e9de73f07f19cb7b6763cf8bcffaccbe521f",
+    "authority": "rendered-live-copy; owner approved Phase 8 2026-11-16",
+    "normalization": "DOM-decoded text; source text-node characters retained",
+    "textCharactersHash": "14cbac7488da789de3cbba50da4d20e6db143526b6ab154881892289eb86f59f",
+    "visibleTextCharactersHash": "9a2a64c06308f1c5069b52df47bbe8a1a06aecbe1554e596daa079303d2bd3f4"
+  },
+  "inventory": {
+    "text": "CNAP Application Join CNAP and Help Grow a Thriving CNA Workforce in California",
+    "links": [],
+    "images": [],
+    "anchors": ["main", "content"]
+  }
+}

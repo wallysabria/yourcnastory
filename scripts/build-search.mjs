@@ -1,3 +1,4 @@
+const employerRelease = JSON.parse(fs.readFileSync('content/routing/employer-release.json'));
 import fs from 'node:fs';
 import path from 'node:path';
 import { execFileSync } from 'node:child_process';
@@ -17,7 +18,12 @@ function indexable(node) {
   return { ...node, children: node.children.map(indexable).filter(Boolean) };
 }
 const routes = JSON.parse(fs.readFileSync('content/routing/slug-map.json')).filter(
-  (r) => r.section !== 'employers',
+  (r) =>
+    r.section !== 'employers' ||
+    (employerRelease.enabled &&
+      process.env.EMPLOYERS_ENABLED !== 'false' &&
+      r.locale === 'en' &&
+      employerRelease.approved.includes(r.path)),
 );
 const site = path.resolve('_source/phase-04/search-site');
 assert.equal(path.dirname(site), path.resolve('_source/phase-04'));

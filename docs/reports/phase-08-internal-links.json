@@ -1,0 +1,257 @@
+{
+  "checks": [
+    {
+      "page": "/employer-resources/",
+      "href": "/wp-content/uploads/2025/07/Partnership_SNFs_CA45_WIBs.pdf",
+      "status": 200,
+      "held": false,
+      "anchor": true
+    },
+    {
+      "page": "/employer-resources/",
+      "href": "/cnap-employer-signup/",
+      "status": 200,
+      "held": false,
+      "anchor": true
+    },
+    {
+      "page": "/cnap-awards/",
+      "href": "/cnap-awards/#NATPaward",
+      "status": 200,
+      "held": false,
+      "anchor": true
+    },
+    {
+      "page": "/cnap-awards/",
+      "href": "/cnap-awards/#DSDaward",
+      "status": 200,
+      "held": false,
+      "anchor": true
+    },
+    {
+      "page": "/cnap-awards/",
+      "href": "/cnap-awards/#E&Laward",
+      "status": 200,
+      "held": false,
+      "anchor": true
+    },
+    {
+      "page": "/cnap-awards/",
+      "href": "/cnap-awards/#CUSPaward",
+      "status": 200,
+      "held": false,
+      "anchor": true
+    },
+    {
+      "page": "/cnap-awards/",
+      "href": "/cnap-awards/#Clinicalaward",
+      "status": 200,
+      "held": false,
+      "anchor": true
+    },
+    {
+      "page": "/cnap-awards/",
+      "href": "/employer-resources/#f-natp-application",
+      "status": 200,
+      "held": false,
+      "anchor": true
+    },
+    {
+      "page": "/cnap-awards/",
+      "href": "/employer-resources/#webinar-hosting-natps",
+      "status": 200,
+      "held": false,
+      "anchor": true
+    },
+    {
+      "page": "/cnap-awards/",
+      "href": "/cnap-employer-signup/",
+      "status": 200,
+      "held": false,
+      "anchor": true
+    },
+    {
+      "page": "/cnap-awards/",
+      "href": "/cna-certifications/",
+      "status": 200,
+      "held": false,
+      "anchor": true
+    },
+    {
+      "page": "/cnap-awards/",
+      "href": "/employer-resources/",
+      "status": 200,
+      "held": false,
+      "anchor": true
+    },
+    {
+      "page": "/cnap-awards/",
+      "href": "/employer-resources/#directory-natps",
+      "status": 200,
+      "held": false,
+      "anchor": true
+    },
+    {
+      "page": "/cnap-awards/",
+      "href": "/employer-resources/#toolkit-refugees",
+      "status": 200,
+      "held": false,
+      "anchor": true
+    },
+    {
+      "page": "/cnap-awards/",
+      "href": "/employer-resources/#webinar-contracting-natps",
+      "status": 200,
+      "held": false,
+      "anchor": true
+    },
+    {
+      "page": "/cnap-awards/",
+      "href": "/employer-resources/#webinar-facility-natps",
+      "status": 200,
+      "held": false,
+      "anchor": true
+    },
+    {
+      "page": "/cnap-awards/",
+      "href": "/cnap-awards/",
+      "status": 200,
+      "held": false,
+      "anchor": true
+    },
+    {
+      "page": "/faqs/",
+      "href": "/employer-resources/",
+      "status": 200,
+      "held": false,
+      "anchor": true
+    },
+    {
+      "page": "/faqs/",
+      "href": "/wp-content/uploads/2025/11/Blank-CDPH-278C-Facility-Declaration-of-Participation-in-1.pdf",
+      "status": 200,
+      "held": false,
+      "anchor": true
+    },
+    {
+      "page": "/faqs/",
+      "href": "/wp-content/uploads/2025/11/Blank-CDPH-278SC-Nurse-Assistant-Pre-Certification-Training-Contract.pdf",
+      "status": 200,
+      "held": false,
+      "anchor": true
+    },
+    {
+      "page": "/faqs/",
+      "href": "/employer-resources/#cearnandlearn",
+      "status": 200,
+      "held": false,
+      "anchor": true
+    },
+    {
+      "page": "/faqs/",
+      "href": "/cnap-awards/",
+      "status": 200,
+      "held": false,
+      "anchor": true
+    },
+    {
+      "page": "/faqs/",
+      "href": "/",
+      "status": 200,
+      "held": false,
+      "anchor": true
+    },
+    {
+      "page": "/faqs/",
+      "href": "/cnap-employer-signup/",
+      "status": 200,
+      "held": false,
+      "anchor": true
+    },
+    {
+      "page": "/faqs/",
+      "href": "/employer-resources/#directory-natps",
+      "status": 200,
+      "held": false,
+      "anchor": true
+    },
+    {
+      "page": "/faqs/",
+      "href": "/employer-resources/#toolkit-refugees",
+      "status": 200,
+      "held": false,
+      "anchor": true
+    },
+    {
+      "page": "/faqs/",
+      "href": "/employer-resources/#webinar-contracting-natps",
+      "status": 200,
+      "held": false,
+      "anchor": true
+    },
+    {
+      "page": "/faqs/",
+      "href": "/employer-resources/#webinar-hosting-natps",
+      "status": 200,
+      "held": false,
+      "anchor": true
+    },
+    {
+      "page": "/faqs/",
+      "href": "/employer-resources/#webinar-facility-natps",
+      "status": 200,
+      "held": false,
+      "anchor": true
+    },
+    {
+      "page": "/cusp-upskilling/",
+      "href": "/employer-resources/",
+      "status": 200,
+      "held": false,
+      "anchor": true
+    },
+    {
+      "page": "/cusp-upskilling/",
+      "href": "/employer-resources/#directory-natps",
+      "status": 200,
+      "held": false,
+      "anchor": true
+    },
+    {
+      "page": "/cusp-upskilling/",
+      "href": "/employer-resources/#toolkit-refugees",
+      "status": 200,
+      "held": false,
+      "anchor": true
+    },
+    {
+      "page": "/cusp-upskilling/",
+      "href": "/employer-resources/#webinar-contracting-natps",
+      "status": 200,
+      "held": false,
+      "anchor": true
+    },
+    {
+      "page": "/cusp-upskilling/",
+      "href": "/employer-resources/#webinar-hosting-natps",
+      "status": 200,
+      "held": false,
+      "anchor": true
+    },
+    {
+      "page": "/cusp-upskilling/",
+      "href": "/employer-resources/#webinar-facility-natps",
+      "status": 200,
+      "held": false,
+      "anchor": true
+    },
+    {
+      "page": "/cusp-upskilling/",
+      "href": "/cnap-awards/",
+      "status": 200,
+      "held": false,
+      "anchor": true
+    }
+  ],
+  "failures": []
+}

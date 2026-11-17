@@ -9,7 +9,7 @@ import type { CSSProperties } from 'react';
 import type { ContentNode } from '@/lib/content-schema';
 import { notFound } from 'next/navigation';
 import { metadataFor } from '@/lib/metadata';
-import { renderableRoutes, routeAt } from '@/lib/routing';
+import { renderableRoutes, routeAt, canRender } from '@/lib/routing';
 export const dynamicParams = false;
 export function generateStaticParams() {
   return renderableRoutes().map((route) => ({ slug: route.path.split('/').filter(Boolean) }));
@@ -22,7 +22,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug?: st
 export default async function Page({ params }: { params: Promise<{ slug?: string[] }> }) {
   const { slug = [] } = await params;
   const route = routeAt('/' + slug.join('/'));
-  if (!route || route.section === 'employers') notFound();
+  if (!route || !canRender(route)) notFound();
   const page = contentAt(route.path);
   if (!page) notFound();
   const layout = (layouts as unknown as Record<string, PageLayout>)[route.path];
@@ -37,7 +37,8 @@ export default async function Page({ params }: { params: Promise<{ slug?: string
     node.type === 'text' ? node.value : node.children.map(nodeText).join('');
   function collect(node: ContentNode, key: string) {
     if (node.type !== 'element') return;
-    if (/^h[1-6]$/.test(node.tag)) {
+    if ((node.source?.classes || '').split(/\s+/).includes('the7-e-tab-title')) return;
+    if (/^h[1-6]$/.test(node.tag) && nodeText(node).trim()) {
       headingEntries.push({
         key,
         level: Number(node.tag[1]),

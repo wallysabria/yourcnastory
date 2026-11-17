@@ -622,5 +622,71 @@
     "lastModified": "2026-06-18T16:41:32+00:00",
     "lastModifiedEvidence": "archived article:modified_time",
     "snapshotHash": "cf13a46c3461683f6e6dacaf30558fca3653262cb625ca00d1533017955b9e20"
+  },
+  "/cna-certifications/": {
+    "ogType": "article",
+    "ogPublishedTime": "",
+    "lastModified": "2026-10-30T23:03:59+00:00",
+    "ogLocale": "en_US",
+    "ogSiteName": "Certified Nurse Assistant Program (CNAP) Quality Care Health Foundation",
+    "ogImageWidth": "800",
+    "ogImageHeight": "800",
+    "ogImageType": "image/jpeg",
+    "ogImageAlt": ""
+  },
+  "/employer-resources/": {
+    "ogType": "article",
+    "ogPublishedTime": "",
+    "lastModified": "2026-06-18T17:15:15+00:00",
+    "ogLocale": "en_US",
+    "ogSiteName": "Certified Nurse Assistant Program (CNAP) Quality Care Health Foundation",
+    "ogImageWidth": "1080",
+    "ogImageHeight": "720",
+    "ogImageType": "image/jpeg",
+    "ogImageAlt": ""
+  },
+  "/cnap-employer-signup/": {
+    "ogType": "article",
+    "ogPublishedTime": "",
+    "lastModified": "2025-11-11T23:48:36+00:00",
+    "ogLocale": "en_US",
+    "ogSiteName": "Certified Nurse Assistant Program (CNAP) Quality Care Health Foundation",
+    "ogImageWidth": "",
+    "ogImageHeight": "",
+    "ogImageType": "",
+    "ogImageAlt": ""
+  },
+  "/cnap-awards/": {
+    "ogType": "article",
+    "ogPublishedTime": "",
+    "lastModified": "2026-11-13T23:21:38+00:00",
+    "ogLocale": "en_US",
+    "ogSiteName": "Certified Nurse Assistant Program (CNAP) Quality Care Health Foundation",
+    "ogImageWidth": "",
+    "ogImageHeight": "",
+    "ogImageType": "",
+    "ogImageAlt": ""
+  },
+  "/faqs/": {
+    "ogType": "article",
+    "ogPublishedTime": "",
+    "lastModified": "2026-11-05T22:36:18+00:00",
+    "ogLocale": "en_US",
+    "ogSiteName": "Certified Nurse Assistant Program (CNAP) Quality Care Health Foundation",
+    "ogImageWidth": "",
+    "ogImageHeight": "",
+    "ogImageType": "",
+    "ogImageAlt": ""
+  },
+  "/cusp-upskilling/": {
+    "ogType": "article",
+    "ogPublishedTime": "",
+    "lastModified": "2026-11-05T22:17:59+00:00",
+    "ogLocale": "en_US",
+    "ogSiteName": "Certified Nurse Assistant Program (CNAP) Quality Care Health Foundation",
+    "ogImageWidth": "",
+    "ogImageHeight": "",
+    "ogImageType": "",
+    "ogImageAlt": ""
   }
 }

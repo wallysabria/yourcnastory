@@ -84,7 +84,8 @@ for (const path of ['/', '/es/']) {
     await employer.hover();
     await expect(page.locator('#mega-0')).toBeVisible();
     await expect(page.locator('#mega-1')).toBeHidden();
-    await expect(page.locator('#mega-0 a[href]')).toHaveCount(0);
+    await expect(page.locator('#mega-0 a[href="/employers/"]')).toHaveCount(0);
+    await expect(page.locator('#mega-0 a[href="/faqs/"]')).toHaveCount(1);
     await page.mouse.move(1, 600);
     await page.clock.fastForward(megaMenuTiming.closeDelayMs - 1);
     await expect(page.locator('#mega-0')).toBeVisible();

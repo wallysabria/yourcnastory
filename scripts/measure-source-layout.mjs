@@ -1,11 +1,15 @@
+const employerOnly = process.argv.includes('--employers');
+const approvedEmployers = JSON.parse(
+  fs.readFileSync('content/routing/employer-release.json'),
+).approved;
 import fs from 'node:fs';
 import { chromium } from '@playwright/test';
 import { write } from './content-source.mjs';
-const routes = JSON.parse(fs.readFileSync('content/routing/slug-map.json')).filter(
-  (r) => r.section !== 'employers',
+const routes = JSON.parse(fs.readFileSync('content/routing/slug-map.json')).filter((r) =>
+  employerOnly ? approvedEmployers.includes(r.path) : r.section !== 'employers',
 );
 const browser = await chromium.launch();
-const results = {};
+const results = employerOnly ? JSON.parse(fs.readFileSync('content/layout/metrics.json')) : {};
 try {
   for (const width of [1440, 390]) {
     const context = await browser.newContext({

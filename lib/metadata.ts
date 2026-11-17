@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 import sourceHeads from '@/content/seo/source-head.json' with { type: 'json' };
-import { counterpartFor } from './routing';
+import { counterpartFor, canRender } from './routing';
 import type { RouteRecord } from './content-schema';
 export const origin = 'https://yourcnastory.org';
 export const isIndexable =
@@ -23,7 +23,8 @@ export function metadataFor(route: RouteRecord, indexable = isIndexable): Metada
       }
     >
   )[route.path];
-  const counterpart = counterpartFor(route);
+  const candidate = counterpartFor(route);
+  const counterpart = candidate && canRender(candidate) ? candidate : undefined;
   const english = route.locale === 'en' ? route : counterpart;
   const languages: Record<string, string> = { [route.locale]: origin + route.path };
   if (counterpart) languages[counterpart.locale] = origin + counterpart.path;

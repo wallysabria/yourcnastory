@@ -1,10 +1,18 @@
+import { EmployerTabs } from './employer-tabs';
+import { ExternalFrame } from './external-frame';
 import { externalLinkAttributes, secureNewTabRel } from '@/lib/external-links';
 import { InlineVideo } from './inline-video';
 import videoPosters from '@/content/integrations/external-video-posters.json';
 import { isLegacyChat } from '@/lib/legacy-ui';
 import { createElement, type ReactNode } from 'react';
 import type { ContentNode, Locale } from '@/lib/content-schema';
-import { routes, reservedRoutes, employersEnabled, normalizePath } from '@/lib/routing';
+import {
+  routes,
+  reservedRoutes,
+  employersEnabled,
+  normalizePath,
+  isLinkDisabled,
+} from '@/lib/routing';
 import {
   AccordionItem,
   Carousel,
@@ -86,6 +94,26 @@ const tagNames = new Set(
 export function renderSourceNode(node: ContentNode, key: string, ctx: Context): ReactNode {
   if (node.type === 'text') return node.value;
   if (isLegacyChat(node)) return null;
+  if (node.tag === 'iframe') {
+    try {
+      const url = new URL(node.attrs.src);
+      if (
+        url.protocol === 'https:' &&
+        ['forms.office.com', 'player.vimeo.com'].includes(url.hostname)
+      )
+        return (
+          <ExternalFrame
+            key={key}
+            src={url.href}
+            title={
+              node.attrs.title ||
+              (url.hostname === 'forms.office.com' ? 'CNAP Application' : 'CNAP video')
+            }
+          />
+        );
+    } catch {}
+    return null;
+  }
   const headingLevel = ctx.headings?.[key] || 0;
   const extra = ctx.layout.nodes[key] || { attrs: {} };
   const raw = extra.attrs;
@@ -119,6 +147,43 @@ export function renderSourceNode(node: ContentNode, key: string, ctx: Context): 
         id={body?.type === 'element' ? body.attrs.id : 'page-toc'}
         items={ctx.toc || []}
         locale={ctx.locale}
+      />
+    );
+  }
+  if (has(node, 'the7-e-tabs-wrapper')) {
+    const nav = first(node, (n) => has(n, 'the7-e-tabs-nav'));
+    const titles =
+      nav?.type === 'element' ? nav.children.filter((n) => has(n, 'the7-e-tab-title')) : [];
+    return (
+      <EmployerTabs
+        key={key}
+        items={titles.flatMap((title) => {
+          if (title.type !== 'element') return [];
+          const panel = first(
+            node,
+            (n) => n.type === 'element' && n.attrs.id === title.attrs['aria-controls'],
+          );
+          if (panel?.type !== 'element') return [];
+          const locate = (
+            root: ContentNode,
+            target: ContentNode,
+            path: string,
+          ): string | undefined =>
+            root === target
+              ? path
+              : root.type === 'element'
+                ? root.children.map((c, i) => locate(c, target, path + '.' + i)).find(Boolean)
+                : undefined;
+          const panelKey = locate(node, panel, key)!;
+          return [
+            {
+              title: texts(title),
+              titleId: title.attrs.id,
+              panelId: panel.attrs.id,
+              body: panel.children.map((c, i) => renderSourceNode(c, panelKey + '.' + i, context)),
+            },
+          ];
+        })}
       />
     );
   }
@@ -184,6 +249,7 @@ export function renderSourceNode(node: ContentNode, key: string, ctx: Context): 
         key={key}
         className={classes}
         locale={ctx.locale}
+        label={texts(node).replace(/\s+/g, ' ').trim().slice(0, 120)}
         columns={Number(config.widget_columns) || 3}
         tablet={Number(config.widget_columns_tablet) || 2}
         mobile={Number(config.widget_columns_mobile) || 1}
@@ -227,7 +293,8 @@ export function renderSourceNode(node: ContentNode, key: string, ctx: Context): 
   }
   if ((tag === 'div' || tag === 'span' || (tag === 'a' && !node.attrs.href)) && !props.role)
     delete props['aria-label'];
-  if (ctx.headings?.[key]) {
+  if (/^h[1-6]$/.test(tag) && !texts(node).trim()) tag = 'div';
+  if (ctx.headings?.[key] && texts(node).trim()) {
     props.role = 'heading';
     props['aria-level'] = ctx.headings[key];
   }
@@ -324,7 +391,11 @@ export function renderSourceNode(node: ContentNode, key: string, ctx: Context): 
       }
     }
     const href = destination(node.attrs.href);
-    const disabled = !employersEnabled && gated.has(normalizePath(href.split(/[?#]/)[0]));
+    const disabled = isLinkDisabled(
+      href,
+      gated.has(normalizePath(href.split(/[?#]/)[0])),
+      employersEnabled,
+    );
     if (disabled) {
       tag = 'span';
       props['aria-disabled'] = true;

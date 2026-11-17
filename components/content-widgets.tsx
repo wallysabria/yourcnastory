@@ -66,6 +66,7 @@ export function AccordionItem({
   );
 }
 export function Carousel({
+  label,
   className,
   locale,
   columns,
@@ -76,6 +77,7 @@ export function Carousel({
   interval,
   children,
 }: {
+  label?: string;
   className: string;
   locale: Locale;
   columns: number;
@@ -144,7 +146,7 @@ export function Carousel({
       style={style}
       role="region"
       aria-roledescription={t.carousel}
-      aria-label={t.carousel}
+      aria-label={label || t.carousel}
       onMouseEnter={() => setHover(true)}
       onMouseLeave={() => setHover(false)}
       onFocusCapture={() => setHover(true)}
