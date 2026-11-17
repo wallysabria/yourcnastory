@@ -135,3 +135,7 @@ Owner explicitly approved click-to-load existing Microsoft Forms and Vimeo embed
 ## D-020 — CUSP page refresh — approved 2026-11-16
 
 Owner approved a focused /cusp-upskilling/ refresh: white rounded Overview/Goal/Program Details content with desktop navigation and mobile accordions; expandable upskilling-level cards; pale benefit cards in a responsive grid; larger timeline in a white card; tighter section spacing. Preserve hero, source copy, links, images, anchors and metadata. Scope styles to this page; retain other Employer pages and held-route gates. No chatbot/database or live integration work.
+
+## D-021 — Restore CUSP implementation video — approved 2026-11-16
+
+Owner requested restoring the YouTube video visible on the current reference page's Successful CUSP Implementation block, using click-to-load and the existing shadowbox player. Source widget 731d597 declares https://www.youtube.com/watch?v=aTyd4jfB0OY. Preserve copy/URLs and the D-020 refresh; use a self-hosted original thumbnail, no provider requests before activation, existing modal sizing/Escape/focus restoration and iframe removal on close. Desktop two-column block; mobile stack. Correct the watch?v= URL parser; retain existing Community Resources inline player behavior.

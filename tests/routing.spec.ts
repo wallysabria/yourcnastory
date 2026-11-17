@@ -112,3 +112,21 @@ test('global navigation URLs remain accounted for in the route or reserved manif
 test('unapproved redirect rows remain inactive even through fallback rules', () => {
   for (const row of deferred) expect(redirectDestination(row.from), row.from).toBeNull();
 });
+
+test('YouTube parser supports source watch URLs and rejects invalid hosts/IDs', async () => {
+  const { youtubeVideoId } = await import('../lib/youtube');
+  for (const url of [
+    'https://www.youtube.com/watch?v=aTyd4jfB0OY',
+    'https://youtu.be/aTyd4jfB0OY',
+    'https://www.youtube.com/embed/aTyd4jfB0OY',
+    'https://www.youtube-nocookie.com/embed/aTyd4jfB0OY',
+  ])
+    expect(youtubeVideoId(url)).toBe('aTyd4jfB0OY');
+  for (const url of [
+    'https://evil.example/watch?v=aTyd4jfB0OY',
+    'https://youtube.com.evil.example/watch?v=aTyd4jfB0OY',
+    'https://www.youtube.com/watch?v=watch',
+    'javascript:alert(1)',
+  ])
+    expect(youtubeVideoId(url)).toBeUndefined();
+});

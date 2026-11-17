@@ -99,3 +99,7 @@ Six approved English Employer pages extracted verbatim from captured current pub
 ## D-020 implementation — 2026-11-16
 
 CUSP refresh changes rendered presentation only; original page JSON/text, images, links, anchors and metadata retained. Seven source levels now appear as native expandable cards; five source advantages are rendered as one grid without the original decorative empty columns. Both source paragraphs and source navigation labels remain verbatim.
+
+## D-021 — CUSP video restoration
+
+Restore the exact source YouTube ID aTyd4jfB0OY from the preserved widget settings. No source-content, metadata, anchor, wording or link-destination edits. Thumbnail and player behavior are restored in the renderer; source records remain unchanged.
