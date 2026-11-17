@@ -1,0 +1,9 @@
+{
+  "mode": "local mobile lab, one run; not field CWV",
+  "performance": 0.81,
+  "lcpMs": 4590.330000000001,
+  "cls": 0,
+  "tbtMs": 73.5,
+  "inlinePageStyles": true,
+  "acceptance": "LCP exceeds 2.5s; no good-CWV claim."
+}

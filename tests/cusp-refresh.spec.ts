@@ -7,6 +7,7 @@ for (const width of [1440, 768, 390, 320])
     await page.setViewportSize({ width, height: 1000 });
     await page.goto('/cusp-upskilling/');
     await expect(page.locator('.cusp-refresh')).toHaveCount(1);
+    await expect(page.locator('style[data-cusp-refresh]')).toHaveCount(1);
     await expect(page.locator('.cusp-level-card')).toHaveCount(7);
     await expect(page.locator('.cusp-benefit-grid>.wf-cell')).toHaveCount(5);
     for (const card of await page.locator('.cusp-level-card').all()) {
@@ -53,7 +54,7 @@ test('CUSP overview supports vertical keyboard navigation and page-only styleshe
   await tabs.nth(1).press('End');
   await expect(tabs.last()).toBeFocused();
   await page.goto('/faqs/');
-  await expect(page.locator('link[href="/styles/cusp-refresh.css"]')).toHaveCount(0);
+  await expect(page.locator('style[data-cusp-refresh]')).toHaveCount(0);
 });
 
 test('overview stays keyboard reachable after closing mobile panels and resizing', async ({
