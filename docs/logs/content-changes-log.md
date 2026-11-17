@@ -103,3 +103,7 @@ CUSP refresh changes rendered presentation only; original page JSON/text, images
 ## D-021 — CUSP video restoration
 
 Restore the exact source YouTube ID aTyd4jfB0OY from the preserved widget settings. No source-content, metadata, anchor, wording or link-destination edits. Thumbnail and player behavior are restored in the renderer; source records remain unchanged.
+
+## D-022 — Awards refresh
+
+Presentation-only update to /cnap-awards/: preserve frozen source JSON, metadata, award wording and amounts, all destinations and legacy anchor IDs. Split source heading/definition markup into semantic headings and body copy without editorial changes. New approved navigation label is stored in content/ui/awards.json.
