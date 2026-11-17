@@ -20,6 +20,7 @@ Source parity: 54/54 passed. Accessibility capture reports only the inherited cy
 
 Local screenshot evidence (ignored, regenerable): docs/audit/screenshots/awards-refresh/awards-{width}.png and navigation-{width}.png. Desktop and mobile viewport screenshots were visually inspected.
 
-Preview: pending deployment. Publication remains pending owner review.
+Preview: https://yourcnastory-git-codex-awards-desi-402248-wallysabrias-projects.vercel.app/cnap-awards/ (Vercel sign-in may be required). PR: https://github.com/wallysabria/yourcnastory/pull/20. Publication remains pending owner review.
 
 Local results: lint, typecheck, format check and production build passed. Full regression run passed 121 checks; the remaining new copy-comparison test initially used the wrong source field, was corrected, and all six awards checks then passed. CI will rerun the complete 122-test suite.
+
