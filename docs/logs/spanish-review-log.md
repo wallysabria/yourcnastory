@@ -207,3 +207,7 @@ English-only Employer routes now omit desktop and mobile language controls. No S
 ## D-025 — owner-approved navigation exception
 
 Keep “Empleadores” as the Spanish menu title; route it to /employers/ and reuse English Employer submenu headings, labels and destinations on desktop/mobile. The Spanish source JSON is retained unchanged; only rendered navigation is overridden. No Spanish page-body, Career Seekers menu, footer or translation edits.
+
+## Search Console privacy/FAQ aliases — 2026-11-19
+
+Owner approved the singular Spanish FAQ alias and Spanish privacy-preference aliases. Reuse the existing Spanish policy page and privacy UI verbatim; no new or changed Spanish strings. Retired Vietnamese/Chinese preferences open English privacy controls.

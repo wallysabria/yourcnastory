@@ -155,3 +155,7 @@ Owner explicitly requested that every Employer page omit the English/Español se
 ## D-025 — Spanish navigation to English Employer content — approved
 
 Owner explicitly requested retaining “Empleadores” as the Spanish top-level label, linking it to /employers/, and displaying the English Employer mega-menu labels/destinations. Apply the same English child navigation on mobile. Use the English desktop Employer menu as the shared source for mobile links too, correcting the legacy mobile Employer FAQ destination to /faqs/ and including all canonical menu links. English fragments carry lang=en while the Spanish top-level label remains Spanish. Raw Spanish source copy remains unchanged; this is an explicit navigation-only override.
+
+## D-026 — Addressable privacy choices — approved 2026-11-19
+
+Owner approved legacy privacy-preference links opening the existing Privacy choices dialog on the corresponding EN/ES policy page. Add a stable privacy-choices fragment to the existing footer control and open the unchanged dialog on policy-page deep links. Preserve language, focus restoration, saved consent, GPC/DNT and default-denied behavior; no consent is granted by navigation. No policy text, visual styling or new Spanish string changes.

@@ -1678,5 +1678,29 @@
     "to": "/es/preguntas-frecuentes/",
     "status": 301,
     "policy": "phase-07-owner-approved-canonical-alias"
+  },
+  {
+    "from": "/careerpaths/",
+    "to": "/career-paths-in-long-term-care/",
+    "status": 301,
+    "policy": "owner-approved-gsc-legacy-cleanup"
+  },
+  {
+    "from": "/careerpaths",
+    "to": "/career-paths-in-long-term-care/",
+    "status": 301,
+    "policy": "owner-approved-gsc-legacy-cleanup"
+  },
+  {
+    "from": "/es/preguntas-frecuente/",
+    "to": "/es/preguntas-frecuentes/",
+    "status": 301,
+    "policy": "owner-approved-gsc-legacy-cleanup"
+  },
+  {
+    "from": "/es/preguntas-frecuente",
+    "to": "/es/preguntas-frecuentes/",
+    "status": 301,
+    "policy": "owner-approved-gsc-legacy-cleanup"
   }
 ]

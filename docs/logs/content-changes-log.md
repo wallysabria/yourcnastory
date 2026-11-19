@@ -111,3 +111,7 @@ Presentation-only update to /cnap-awards/: preserve frozen source JSON, metadata
 ## Phase 8 remaining English pages
 
 Owner approved current public-site content for /employers/, /train-and-gain/ and /advocate/ while edits remain pending. Captured source copy, punctuation, metadata and anchors retained; zero job-board removals in the fresh captures. An older indexed search copy contained an obsolete promotion, but the actual captures do not; no removal is claimed. D-023 records the owner-requested non-submitting inquiry-form placeholder. Source videos reuse click-to-load/lightbox behavior with self-hosted thumbnails. Current source definitions and page-specific award amounts are preserved without editorial reconciliation.
+
+## Search Console URL cleanup — 2026-11-19
+
+No source page copy, metadata, documents or policy wording changed. Owner-approved aliases preserve legacy entry points; retired job-board URLs remain unavailable. Privacy links reuse the existing consent UI without recreating the obsolete WordPress plugin.

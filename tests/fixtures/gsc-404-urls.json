@@ -1,0 +1,137 @@
+[
+  {
+    "path": "/es/bolsa-de-trabajo-cna/",
+    "target": null,
+    "allowedFinalStatus": [404]
+  },
+  {
+    "path": "/*",
+    "target": null,
+    "allowedFinalStatus": [404]
+  },
+  {
+    "path": "/vi/careerpaths/",
+    "target": "/career-paths-in-long-term-care/",
+    "allowedFinalStatus": [200]
+  },
+  {
+    "path": "/es/preguntas-frecuentes-2/",
+    "target": "/es/preguntas-frecuentes/",
+    "allowedFinalStatus": [200]
+  },
+  {
+    "path": "/careerpaths/",
+    "target": "/career-paths-in-long-term-care/",
+    "allowedFinalStatus": [200]
+  },
+  {
+    "path": "/es/preferencias-de-exclusion/",
+    "target": "/es/politica-de-privacidad/#privacy-choices",
+    "allowedFinalStatus": [200]
+  },
+  {
+    "path": "/es/preferencias-de-exclusion/?clang=en",
+    "target": "/es/politica-de-privacidad/#privacy-choices",
+    "allowedFinalStatus": [200]
+  },
+  {
+    "path": "/es/wp-json/complianz/v1/datarequests",
+    "target": null,
+    "allowedFinalStatus": [403, 404]
+  },
+  {
+    "path": "/opt-out-preferences/",
+    "target": "/privacy-policy/#privacy-choices",
+    "allowedFinalStatus": [200]
+  },
+  {
+    "path": "/zh/cna-职位板/",
+    "target": null,
+    "allowedFinalStatus": [404]
+  },
+  {
+    "path": "/wp-content/uploads/*",
+    "target": null,
+    "allowedFinalStatus": [403, 404]
+  },
+  {
+    "path": "/vi/bang-viec-lam-cna/",
+    "target": null,
+    "allowedFinalStatus": [404]
+  },
+  {
+    "path": "/vi/cai-dat-tu-choi/",
+    "target": "/privacy-policy/#privacy-choices",
+    "allowedFinalStatus": [200]
+  },
+  {
+    "path": "/zh/careerpaths/",
+    "target": "/career-paths-in-long-term-care/",
+    "allowedFinalStatus": [200]
+  },
+  {
+    "path": "/zh/退出偏好设置/",
+    "target": "/privacy-policy/#privacy-choices",
+    "allowedFinalStatus": [200]
+  },
+  {
+    "path": "/vi/cai-dat-tu-choi/?clang=en",
+    "target": "/privacy-policy/#privacy-choices",
+    "allowedFinalStatus": [200]
+  },
+  {
+    "path": "/opt-out-preferences/?clang=en",
+    "target": "/privacy-policy/#privacy-choices",
+    "allowedFinalStatus": [200]
+  },
+  {
+    "path": "/vi/cai-dat-tu-choi?clang=en",
+    "target": "/privacy-policy/#privacy-choices",
+    "allowedFinalStatus": [200]
+  },
+  {
+    "path": "/vi/opt-out-preferences?clang=en",
+    "target": "/privacy-policy/#privacy-choices",
+    "allowedFinalStatus": [200]
+  },
+  {
+    "path": "/vi/opt-out-preferences/?clang=en",
+    "target": "/privacy-policy/#privacy-choices",
+    "allowedFinalStatus": [200]
+  },
+  {
+    "path": "/vi/*",
+    "target": null,
+    "allowedFinalStatus": [404]
+  },
+  {
+    "path": "/zh/退出偏好设置?clang=en",
+    "target": "/privacy-policy/#privacy-choices",
+    "allowedFinalStatus": [200]
+  },
+  {
+    "path": "/zh/opt-out-preferences?clang=en",
+    "target": "/privacy-policy/#privacy-choices",
+    "allowedFinalStatus": [200]
+  },
+  {
+    "path": "/zh/退出偏好设置/?clang=en",
+    "target": "/privacy-policy/#privacy-choices",
+    "allowedFinalStatus": [200]
+  },
+  {
+    "path": "/zh/opt-out-preferences/?clang=en",
+    "target": "/privacy-policy/#privacy-choices",
+    "allowedFinalStatus": [200]
+  },
+  {
+    "path": "/es/preguntas-frecuente/",
+    "target": "/es/preguntas-frecuentes/",
+    "allowedFinalStatus": [200]
+  },
+  {
+    "path": "/wp-content/themes/dt-the7-child/*",
+    "target": null,
+    "allowedFinalStatus": [403, 404]
+  }
+]

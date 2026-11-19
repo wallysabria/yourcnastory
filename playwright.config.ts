@@ -14,7 +14,7 @@ export default defineConfig({
     {
       name: 'chromium',
       testMatch:
-        /(?:layout|interactions|consent|seo|addon|employers|cusp-refresh|awards-refresh)\.spec\.ts/,
+        /(?:layout|interactions|consent|seo|addon|employers|cusp-refresh|awards-refresh|gsc-cleanup)\.spec\.ts/,
       use: { ...devices['Desktop Chrome'], viewport: { width: 1440, height: 1000 } },
     },
   ],
