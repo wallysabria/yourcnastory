@@ -1,5 +1,5 @@
 {
-  "origin": "http://127.0.0.1:3104",
+  "origin": "https://yourcnastory.vercel.app",
   "checked": 27,
   "passed": 27,
   "rows": [
@@ -141,7 +141,7 @@
         },
         {
           "path": "/es/wp-json/complianz/v1/datarequests/",
-          "status": 404
+          "status": 403
         }
       ],
       "passed": true
@@ -189,7 +189,7 @@
       "hops": [
         {
           "path": "/wp-content/uploads/*",
-          "status": 404
+          "status": 403
         }
       ],
       "passed": true
@@ -479,7 +479,7 @@
       "hops": [
         {
           "path": "/wp-content/themes/dt-the7-child/*",
-          "status": 404
+          "status": 403
         }
       ],
       "passed": true
