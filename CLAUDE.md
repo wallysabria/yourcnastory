@@ -24,7 +24,7 @@
 
 - **Framework:** Next.js (current stable, App Router), TypeScript (strict), static
   generation by default.
-- **Hosting:** Vercel. **Repo:** https://github.com/wallysabria/yourcnastory
+- **Hosting:** Vercel for development/review; migrate to SiteGround Node.js hosting for the production launch (owner decision 2026-11-19). SiteGround compatibility and deployment must be verified before cutover. **Repo:** https://github.com/wallysabria/yourcnastory
 - **Content:** lives in the repo as MDX/JSON. **No WordPress, no headless CMS.** Structure
   content (typed schemas, one file per page/entry, frontmatter for metadata) so a CMS could
   be added later without a rebuild.

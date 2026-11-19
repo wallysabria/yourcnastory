@@ -4,6 +4,7 @@ This is a current-state register for the 48 Career Seekers/shared pages. It is n
 
 | Priority | Finding / gate | Evidence / required next step |
 |---|---|---|
+| High | Production host migration to SiteGround | Owner selected SiteGround Node.js hosting on 2026-11-19. Migrate from Vercel and complete compatibility, routing/env/security portability, SiteGround staging QA, backup/rollback and domain/SSL verification before launch. See the required checklist in docs/phases/phase-11-cutover.md. No account/DNS changes authorized yet. |
 | Resolved | 10 legacy source URL redirects | Owner approved; 20 direct 301 slash variants implemented and HTTP-tested. 280 active redirect rules total. |
 | High | Spanish /es/empieza-tu-nueva-carrera/ is broken on source and rebuild | Determine approved intended destination; no guessed redirect. |
 | Medium | Three missing deep-link destinations, 50 link occurrences | EN/ES Community Resources #cnap-flyer and CNA career entry #cusp are absent in approved archived source too. Choose valid targets/aliases with owner approval. |
