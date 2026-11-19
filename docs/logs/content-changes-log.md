@@ -115,3 +115,7 @@ Owner approved current public-site content for /employers/, /train-and-gain/ and
 ## Search Console URL cleanup — 2026-11-19
 
 No source page copy, metadata, documents or policy wording changed. Owner-approved aliases preserve legacy entry points; retired job-board URLs remain unavailable. Privacy links reuse the existing consent UI without recreating the obsolete WordPress plugin.
+
+## Content/privacy review package — 2026-11-19
+
+No application/source copy, policy, translation, URL, form integration or tracking setting changed. Review worksheets and proposed EN/ES policy wording live in docs/reviews/content-privacy/. Confirmed owner draft facts: Quality Care Health Foundation; info@yourcnastory.org; email plus optional SMS, subject to verification. All proposed wording and corrections require recorded approval before implementation/publication.

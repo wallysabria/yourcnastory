@@ -211,3 +211,7 @@ Keep “Empleadores” as the Spanish menu title; route it to /employers/ and re
 ## Search Console privacy/FAQ aliases — 2026-11-19
 
 Owner approved the singular Spanish FAQ alias and Spanish privacy-preference aliases. Reuse the existing Spanish policy page and privacy UI verbatim; no new or changed Spanish strings. Retired Vietnamese/Chinese preferences open English privacy controls.
+
+## Content/privacy sign-off preparation — 2026-11-19
+
+Review-only inventory covers 24 current Spanish Career Seekers/shared pages and 61 exact catalog/global interface strings. No Spanish source, metadata or UI string changed. Proposed ES-01–ES-07 findings and every proposed new Spanish privacy paragraph are recorded in full in docs/reviews/content-privacy/spanish-findings.md and privacy-candidate-en-es.md. Native reviewer and owner verdicts are pending. Nine signup-bearing pages currently include three Consulta los términos. labels; SMS terms must be verified before any approved deduplication. Superseded SVG/language-option/English Employer-menu findings are distinguished from current issues.

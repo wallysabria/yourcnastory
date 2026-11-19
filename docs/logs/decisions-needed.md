@@ -179,3 +179,7 @@ Owner lifted the hold on /employers/, /train-and-gain/ and /advocate/ for their 
 ## Search Console cleanup decisions — approved 2026-11-19
 
 Owner approved all four proposed decisions: careerpaths alias to career index; singular Spanish FAQ alias to canonical Spanish FAQ; legacy privacy URLs to the appropriate policy page with the existing Privacy choices dialog automatically opened (retired Vietnamese/Chinese use English); retired job-board/malformed URLs remain unavailable rather than redirecting to homepage, with existing plugin-path blocking preserved. Implemented on codex/legacy-url-cleanup for review. No policy-copy changes, tracking activation, WordPress edits or custom-domain cutover. Remaining historical campaign/demo and Spanish Employer URL dispositions remain separate; proposal: docs/recommendations/remaining-legacy-url-dispositions.md.
+
+## Content/privacy review — 2026-11-19
+
+Owner confirmed Quality Care Health Foundation and info@yourcnastory.org for the privacy draft, and retaining email plus optional SMS with consent/terms verified before launch. These confirmations do not approve final policy text, vendor collection, live Mailchimp/SMS, tracking or a legal rights/retention process. Reviewer assignments remain pending. Package: docs/reviews/content-privacy/README.md. SiteGround remains the planned production host; chat/database remain paused.
