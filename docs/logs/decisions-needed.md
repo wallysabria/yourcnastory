@@ -179,3 +179,8 @@ Owner lifted the hold on /employers/, /train-and-gain/ and /advocate/ for their 
 ## Search Console cleanup decisions — approved 2026-11-19
 
 Owner approved all four proposed decisions: careerpaths alias to career index; singular Spanish FAQ alias to canonical Spanish FAQ; legacy privacy URLs to the appropriate policy page with the existing Privacy choices dialog automatically opened (retired Vietnamese/Chinese use English); retired job-board/malformed URLs remain unavailable rather than redirecting to homepage, with existing plugin-path blocking preserved. Implemented on codex/legacy-url-cleanup for review. No policy-copy changes, tracking activation, WordPress edits or custom-domain cutover. Remaining historical campaign/demo and Spanish Employer URL dispositions remain separate; proposal: docs/recommendations/remaining-legacy-url-dispositions.md.
+
+
+## Production hosting — owner decision 2026-11-19
+
+Final launch destination is SiteGround Node.js hosting, replacing Vercel as production host. Vercel remains the current review environment. Migration is a required launch gate, with compatibility/portability review, isolated SiteGround testing, secrets setup, complete host-specific QA, WordPress backup/rollback, approved domain/SSL cutover and monitoring. Details: docs/phases/phase-11-cutover.md. No account/plan purchase, deployment migration, DNS change, indexing change or integration activation is authorized by this checklist note.
