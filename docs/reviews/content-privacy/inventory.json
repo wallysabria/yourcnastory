@@ -1,0 +1,298 @@
+{
+  "reviewDate": "2026-11-19",
+  "sourceCommit": "07925f4da72171ebc433608e37e76429740292fa",
+  "method": "Local rendered text-block inventory plus exact UI catalogs; not native-language, legal, field or live-integration approval.",
+  "spanishPages": [
+    {
+      "path": "/es/",
+      "title": "California - Programa de asistente de enfermería certificado - Programa de asistente de enfermería certificado (CNAP) Quality Care Health Foundation",
+      "counterpart": "/",
+      "worksheet": "spanish-pages/es.md",
+      "readerCharacters": 8387,
+      "termsLabels": 0,
+      "svgArtifact": false,
+      "emails": []
+    },
+    {
+      "path": "/es/que-es-cuidar-a-largo-plazo/",
+      "title": "¿Qué es Cuidar a Largo Plazo? - Programa de Asistente de Enfermería Certificado (CNA) - Quality Care Health Foundation",
+      "counterpart": "/what-is-long-term-care/",
+      "worksheet": "spanish-pages/es--que-es-cuidar-a-largo-plazo.md",
+      "readerCharacters": 5889,
+      "termsLabels": 0,
+      "svgArtifact": false,
+      "emails": []
+    },
+    {
+      "path": "/es/recursos-comunitarios/",
+      "title": "Recursos Comunitarios - Programa de Asistente de Enfermería Certificado (CNA) - Quality Care Health Foundation",
+      "counterpart": "/community-resources/",
+      "worksheet": "spanish-pages/es--recursos-comunitarios.md",
+      "readerCharacters": 1997,
+      "termsLabels": 0,
+      "svgArtifact": false,
+      "emails": []
+    },
+    {
+      "path": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
+      "title": "Caminos Profesionales - Programa de Asistente de Enfermería Certificado (CNA) - Quality Care Health Foundation",
+      "counterpart": "/career-paths-in-long-term-care/",
+      "worksheet": "spanish-pages/es--caminos-profesionales-en-el-cuidado-a-largo-plazo.md",
+      "readerCharacters": 2771,
+      "termsLabels": 0,
+      "svgArtifact": false,
+      "emails": []
+    },
+    {
+      "path": "/es/programa-cna/",
+      "title": "Programa de Asistente de Enfermería Certificado (CNA) - Quality Care Health Foundation",
+      "counterpart": "/certified-nurse-assistant-program/",
+      "worksheet": "spanish-pages/es--programa-cna.md",
+      "readerCharacters": 4733,
+      "termsLabels": 0,
+      "svgArtifact": false,
+      "emails": []
+    },
+    {
+      "path": "/es/aspirantes/",
+      "title": "Aspirantes - Programa de Asistente de Enfermería Certificado (CNA) - Quality Care Health Foundation",
+      "counterpart": "/career-seekers/",
+      "worksheet": "spanish-pages/es--aspirantes.md",
+      "readerCharacters": 6042,
+      "termsLabels": 3,
+      "svgArtifact": false,
+      "emails": []
+    },
+    {
+      "path": "/es/programa-cna-2/",
+      "title": "Proveedores de formación de CNA - Certified Nurse Assistant Program (CNAP) Quality Care Health Foundation",
+      "counterpart": "/cna-training-providers/",
+      "worksheet": "spanish-pages/es--programa-cna-2.md",
+      "readerCharacters": 1745,
+      "termsLabels": 0,
+      "svgArtifact": false,
+      "emails": []
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "title": "Preguntas Frecuentes - Programa de Asistente de Enfermería Certificado (CNA) - Quality Care Health Foundation",
+      "counterpart": "/frequently-asked-questions/",
+      "worksheet": "spanish-pages/es--preguntas-frecuentes.md",
+      "readerCharacters": 7206,
+      "termsLabels": 3,
+      "svgArtifact": false,
+      "emails": []
+    },
+    {
+      "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
+      "title": "Asistente de Enfermería Certificado - Programa de Asistente de Enfermería Certificado (CNA) - Quality Care Health Foundation",
+      "counterpart": "/careerpaths/careers-in-certified-nurse-assistant/",
+      "worksheet": "spanish-pages/es--carreras--carreras-en-asistente-de-enfermeria-certificado.md",
+      "readerCharacters": 2633,
+      "termsLabels": 0,
+      "svgArtifact": false,
+      "emails": []
+    },
+    {
+      "path": "/es/carreras/carreras-en-enfermeria/",
+      "title": "Enfermería - Programa de Asistente de Enfermería Certificado (CNA) - Quality Care Health Foundation",
+      "counterpart": "/careerpaths/careers-in-nursing/",
+      "worksheet": "spanish-pages/es--carreras--carreras-en-enfermeria.md",
+      "readerCharacters": 10620,
+      "termsLabels": 0,
+      "svgArtifact": false,
+      "emails": []
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-de-apoyo/",
+      "title": "Servicios de Apoyo - Programa de Asistente de Enfermería Certificado (CNA) - Quality Care Health Foundation",
+      "counterpart": "/careerpaths/careers-in-support-services/",
+      "worksheet": "spanish-pages/es--carreras--carreras-en-servicios-de-apoyo.md",
+      "readerCharacters": 6068,
+      "termsLabels": 0,
+      "svgArtifact": false,
+      "emails": []
+    },
+    {
+      "path": "/es/carreras/carreras-en-terapia/",
+      "title": "Terápia - Programa de Asistente de Enfermería Certificado (CNA) - Quality Care Health Foundation",
+      "counterpart": "/careerpaths/careers-in-therapy/",
+      "worksheet": "spanish-pages/es--carreras--carreras-en-terapia.md",
+      "readerCharacters": 4372,
+      "termsLabels": 0,
+      "svgArtifact": false,
+      "emails": []
+    },
+    {
+      "path": "/es/carreras/carreras-en-coordinacion-de-cuidados/",
+      "title": "Coordinación de Cuidados - Programa de Asistente de Enfermería Certificado (CNA) - Quality Care Health Foundation",
+      "counterpart": "/careerpaths/careers-in-care-coordination/",
+      "worksheet": "spanish-pages/es--carreras--carreras-en-coordinacion-de-cuidados.md",
+      "readerCharacters": 3159,
+      "termsLabels": 0,
+      "svgArtifact": false,
+      "emails": []
+    },
+    {
+      "path": "/es/carreras/carreras-en-servicios-sociales/",
+      "title": "Servicios Sociales - Programa de Asistente de Enfermería Certificado (CNA) - Quality Care Health Foundation",
+      "counterpart": "/careerpaths/careers-in-social-services/",
+      "worksheet": "spanish-pages/es--carreras--carreras-en-servicios-sociales.md",
+      "readerCharacters": 4711,
+      "termsLabels": 0,
+      "svgArtifact": false,
+      "emails": []
+    },
+    {
+      "path": "/es/carreras/carreras-en-actividades/",
+      "title": "Actividades - Programa de Asistente de Enfermería Certificado (CNA) - Quality Care Health Foundation",
+      "counterpart": "/careerpaths/careers-in-activities/",
+      "worksheet": "spanish-pages/es--carreras--carreras-en-actividades.md",
+      "readerCharacters": 2058,
+      "termsLabels": 0,
+      "svgArtifact": false,
+      "emails": []
+    },
+    {
+      "path": "/es/carreras/carreras-en-administracion/",
+      "title": "Administración - Programa de Asistente de Enfermería Certificado (CNA) - Quality Care Health Foundation",
+      "counterpart": "/careerpaths/careers-in-administration/",
+      "worksheet": "spanish-pages/es--carreras--carreras-en-administracion.md",
+      "readerCharacters": 2188,
+      "termsLabels": 0,
+      "svgArtifact": false,
+      "emails": []
+    },
+    {
+      "path": "/es/politica-de-privacidad/",
+      "title": "Política de privacidad - Certified Nurse Assistant Program (CNAP) Quality Care Health Foundation",
+      "counterpart": "/privacy-policy/",
+      "worksheet": "spanish-pages/es--politica-de-privacidad.md",
+      "readerCharacters": 7056,
+      "termsLabels": 0,
+      "svgArtifact": false,
+      "emails": [
+        "dkapoor@ihca.org",
+        "mneel@cahf.org.Notificaci"
+      ]
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "title": "Avance Profesional - Programa de Asistente de Enfermería Certificado (CNA) - Quality Care Health Foundation",
+      "counterpart": "/career-advancement/",
+      "worksheet": "spanish-pages/es--avance-profesional.md",
+      "readerCharacters": 4826,
+      "termsLabels": 3,
+      "svgArtifact": false,
+      "emails": []
+    },
+    {
+      "path": "/es/ganar-y-aprender-la/",
+      "title": "Programas Earn and Learn en Los Angeles - Programa de Asistente de Enfermería Certificado (CNA) - Quality Care Health Foundation",
+      "counterpart": "/earn-and-learn-la/",
+      "worksheet": "spanish-pages/es--ganar-y-aprender-la.md",
+      "readerCharacters": 3822,
+      "termsLabels": 3,
+      "svgArtifact": false,
+      "emails": []
+    },
+    {
+      "path": "/es/gana-y-aprende-cvalley/",
+      "title": "Programas Earn and Learn en el Valle Central - Programa de Asistente de Enfermería Certificado (CNA) - Quality Care Health Foundation",
+      "counterpart": "/earn-and-learn-cvalley/",
+      "worksheet": "spanish-pages/es--gana-y-aprende-cvalley.md",
+      "readerCharacters": 3818,
+      "termsLabels": 3,
+      "svgArtifact": false,
+      "emails": []
+    },
+    {
+      "path": "/es/gana-y-aprende-bayarea/",
+      "title": "Programas Earn and Learn en el Área de la Bahía - Programa de Asistente de Enfermería Certificado (CNA) - Quality Care Health Foundation",
+      "counterpart": "/earn-and-learn-bayarea/",
+      "worksheet": "spanish-pages/es--gana-y-aprende-bayarea.md",
+      "readerCharacters": 3822,
+      "termsLabels": 3,
+      "svgArtifact": false,
+      "emails": []
+    },
+    {
+      "path": "/es/earn-and-learn-norcal/",
+      "title": "Programas Earn and Learn en el Norte de California - Programa de Asistente de Enfermería Certificado (CNA) - Quality Care Health Foundation",
+      "counterpart": "/earn-and-learn-norcal/",
+      "worksheet": "spanish-pages/es--earn-and-learn-norcal.md",
+      "readerCharacters": 3824,
+      "termsLabels": 3,
+      "svgArtifact": false,
+      "emails": []
+    },
+    {
+      "path": "/es/gana-y-aprende-san-diego/",
+      "title": "Aspirantes a CNA: gana y aprende (SD) - Programa de Auxiliar de Enfermería Certificado (CNAP) Fundación para la Atención Médica de Calidad",
+      "counterpart": "/earn-and-learn-san-diego/",
+      "worksheet": "spanish-pages/es--gana-y-aprende-san-diego.md",
+      "readerCharacters": 3812,
+      "termsLabels": 3,
+      "svgArtifact": false,
+      "emails": []
+    },
+    {
+      "path": "/es/earn-and-learn/",
+      "title": "CNA Career Seekers - Gana y aprende - Programa de Auxiliares de Enfermería Certificados (CNAP) - Quality Care Health Foundation",
+      "counterpart": "/earn-and-learn/",
+      "worksheet": "spanish-pages/es--earn-and-learn.md",
+      "readerCharacters": 3813,
+      "termsLabels": 3,
+      "svgArtifact": false,
+      "emails": []
+    }
+  ],
+  "interfaceStrings": 61,
+  "automatedFindings": [
+    {
+      "path": "/es/aspirantes/",
+      "kind": "Repeated terms labels",
+      "count": 3
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "kind": "Repeated terms labels",
+      "count": 3
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "kind": "Repeated terms labels",
+      "count": 3
+    },
+    {
+      "path": "/es/ganar-y-aprender-la/",
+      "kind": "Repeated terms labels",
+      "count": 3
+    },
+    {
+      "path": "/es/gana-y-aprende-cvalley/",
+      "kind": "Repeated terms labels",
+      "count": 3
+    },
+    {
+      "path": "/es/gana-y-aprende-bayarea/",
+      "kind": "Repeated terms labels",
+      "count": 3
+    },
+    {
+      "path": "/es/earn-and-learn-norcal/",
+      "kind": "Repeated terms labels",
+      "count": 3
+    },
+    {
+      "path": "/es/gana-y-aprende-san-diego/",
+      "kind": "Repeated terms labels",
+      "count": 3
+    },
+    {
+      "path": "/es/earn-and-learn/",
+      "kind": "Repeated terms labels",
+      "count": 3
+    }
+  ]
+}
