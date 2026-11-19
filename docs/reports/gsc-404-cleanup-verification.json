@@ -1,0 +1,488 @@
+{
+  "origin": "http://127.0.0.1:3104",
+  "checked": 27,
+  "passed": 27,
+  "rows": [
+    {
+      "path": "/es/bolsa-de-trabajo-cna/",
+      "target": null,
+      "allowedFinalStatus": [
+        404
+      ],
+      "hops": [
+        {
+          "path": "/es/bolsa-de-trabajo-cna/",
+          "status": 404
+        }
+      ],
+      "passed": true
+    },
+    {
+      "path": "/*",
+      "target": null,
+      "allowedFinalStatus": [
+        404
+      ],
+      "hops": [
+        {
+          "path": "/*",
+          "status": 404
+        }
+      ],
+      "passed": true
+    },
+    {
+      "path": "/vi/careerpaths/",
+      "target": "/career-paths-in-long-term-care/",
+      "allowedFinalStatus": [
+        200
+      ],
+      "hops": [
+        {
+          "path": "/vi/careerpaths/",
+          "status": 301,
+          "location": "/career-paths-in-long-term-care/"
+        },
+        {
+          "path": "/career-paths-in-long-term-care/",
+          "status": 200
+        }
+      ],
+      "passed": true
+    },
+    {
+      "path": "/es/preguntas-frecuentes-2/",
+      "target": "/es/preguntas-frecuentes/",
+      "allowedFinalStatus": [
+        200
+      ],
+      "hops": [
+        {
+          "path": "/es/preguntas-frecuentes-2/",
+          "status": 301,
+          "location": "/es/preguntas-frecuentes/"
+        },
+        {
+          "path": "/es/preguntas-frecuentes/",
+          "status": 200
+        }
+      ],
+      "passed": true
+    },
+    {
+      "path": "/careerpaths/",
+      "target": "/career-paths-in-long-term-care/",
+      "allowedFinalStatus": [
+        200
+      ],
+      "hops": [
+        {
+          "path": "/careerpaths/",
+          "status": 301,
+          "location": "/career-paths-in-long-term-care/"
+        },
+        {
+          "path": "/career-paths-in-long-term-care/",
+          "status": 200
+        }
+      ],
+      "passed": true
+    },
+    {
+      "path": "/es/preferencias-de-exclusion/",
+      "target": "/es/politica-de-privacidad/#privacy-choices",
+      "allowedFinalStatus": [
+        200
+      ],
+      "hops": [
+        {
+          "path": "/es/preferencias-de-exclusion/",
+          "status": 301,
+          "location": "/es/politica-de-privacidad/#privacy-choices"
+        },
+        {
+          "path": "/es/politica-de-privacidad/",
+          "status": 200
+        }
+      ],
+      "passed": true
+    },
+    {
+      "path": "/es/preferencias-de-exclusion/?clang=en",
+      "target": "/es/politica-de-privacidad/#privacy-choices",
+      "allowedFinalStatus": [
+        200
+      ],
+      "hops": [
+        {
+          "path": "/es/preferencias-de-exclusion/?clang=en",
+          "status": 301,
+          "location": "/es/politica-de-privacidad/?clang=en#privacy-choices"
+        },
+        {
+          "path": "/es/politica-de-privacidad/?clang=en",
+          "status": 200
+        }
+      ],
+      "passed": true
+    },
+    {
+      "path": "/es/wp-json/complianz/v1/datarequests",
+      "target": null,
+      "allowedFinalStatus": [
+        403,
+        404
+      ],
+      "hops": [
+        {
+          "path": "/es/wp-json/complianz/v1/datarequests",
+          "status": 301,
+          "location": "/es/wp-json/complianz/v1/datarequests/"
+        },
+        {
+          "path": "/es/wp-json/complianz/v1/datarequests/",
+          "status": 404
+        }
+      ],
+      "passed": true
+    },
+    {
+      "path": "/opt-out-preferences/",
+      "target": "/privacy-policy/#privacy-choices",
+      "allowedFinalStatus": [
+        200
+      ],
+      "hops": [
+        {
+          "path": "/opt-out-preferences/",
+          "status": 301,
+          "location": "/privacy-policy/#privacy-choices"
+        },
+        {
+          "path": "/privacy-policy/",
+          "status": 200
+        }
+      ],
+      "passed": true
+    },
+    {
+      "path": "/zh/cna-职位板/",
+      "target": null,
+      "allowedFinalStatus": [
+        404
+      ],
+      "hops": [
+        {
+          "path": "/zh/cna-%E8%81%8C%E4%BD%8D%E6%9D%BF/",
+          "status": 404
+        }
+      ],
+      "passed": true
+    },
+    {
+      "path": "/wp-content/uploads/*",
+      "target": null,
+      "allowedFinalStatus": [
+        403,
+        404
+      ],
+      "hops": [
+        {
+          "path": "/wp-content/uploads/*",
+          "status": 404
+        }
+      ],
+      "passed": true
+    },
+    {
+      "path": "/vi/bang-viec-lam-cna/",
+      "target": null,
+      "allowedFinalStatus": [
+        404
+      ],
+      "hops": [
+        {
+          "path": "/vi/bang-viec-lam-cna/",
+          "status": 404
+        }
+      ],
+      "passed": true
+    },
+    {
+      "path": "/vi/cai-dat-tu-choi/",
+      "target": "/privacy-policy/#privacy-choices",
+      "allowedFinalStatus": [
+        200
+      ],
+      "hops": [
+        {
+          "path": "/vi/cai-dat-tu-choi/",
+          "status": 301,
+          "location": "/privacy-policy/#privacy-choices"
+        },
+        {
+          "path": "/privacy-policy/",
+          "status": 200
+        }
+      ],
+      "passed": true
+    },
+    {
+      "path": "/zh/careerpaths/",
+      "target": "/career-paths-in-long-term-care/",
+      "allowedFinalStatus": [
+        200
+      ],
+      "hops": [
+        {
+          "path": "/zh/careerpaths/",
+          "status": 301,
+          "location": "/career-paths-in-long-term-care/"
+        },
+        {
+          "path": "/career-paths-in-long-term-care/",
+          "status": 200
+        }
+      ],
+      "passed": true
+    },
+    {
+      "path": "/zh/退出偏好设置/",
+      "target": "/privacy-policy/#privacy-choices",
+      "allowedFinalStatus": [
+        200
+      ],
+      "hops": [
+        {
+          "path": "/zh/%E9%80%80%E5%87%BA%E5%81%8F%E5%A5%BD%E8%AE%BE%E7%BD%AE/",
+          "status": 301,
+          "location": "/privacy-policy/#privacy-choices"
+        },
+        {
+          "path": "/privacy-policy/",
+          "status": 200
+        }
+      ],
+      "passed": true
+    },
+    {
+      "path": "/vi/cai-dat-tu-choi/?clang=en",
+      "target": "/privacy-policy/#privacy-choices",
+      "allowedFinalStatus": [
+        200
+      ],
+      "hops": [
+        {
+          "path": "/vi/cai-dat-tu-choi/?clang=en",
+          "status": 301,
+          "location": "/privacy-policy/?clang=en#privacy-choices"
+        },
+        {
+          "path": "/privacy-policy/?clang=en",
+          "status": 200
+        }
+      ],
+      "passed": true
+    },
+    {
+      "path": "/opt-out-preferences/?clang=en",
+      "target": "/privacy-policy/#privacy-choices",
+      "allowedFinalStatus": [
+        200
+      ],
+      "hops": [
+        {
+          "path": "/opt-out-preferences/?clang=en",
+          "status": 301,
+          "location": "/privacy-policy/?clang=en#privacy-choices"
+        },
+        {
+          "path": "/privacy-policy/?clang=en",
+          "status": 200
+        }
+      ],
+      "passed": true
+    },
+    {
+      "path": "/vi/cai-dat-tu-choi?clang=en",
+      "target": "/privacy-policy/#privacy-choices",
+      "allowedFinalStatus": [
+        200
+      ],
+      "hops": [
+        {
+          "path": "/vi/cai-dat-tu-choi?clang=en",
+          "status": 301,
+          "location": "/privacy-policy/?clang=en#privacy-choices"
+        },
+        {
+          "path": "/privacy-policy/?clang=en",
+          "status": 200
+        }
+      ],
+      "passed": true
+    },
+    {
+      "path": "/vi/opt-out-preferences?clang=en",
+      "target": "/privacy-policy/#privacy-choices",
+      "allowedFinalStatus": [
+        200
+      ],
+      "hops": [
+        {
+          "path": "/vi/opt-out-preferences?clang=en",
+          "status": 301,
+          "location": "/privacy-policy/?clang=en#privacy-choices"
+        },
+        {
+          "path": "/privacy-policy/?clang=en",
+          "status": 200
+        }
+      ],
+      "passed": true
+    },
+    {
+      "path": "/vi/opt-out-preferences/?clang=en",
+      "target": "/privacy-policy/#privacy-choices",
+      "allowedFinalStatus": [
+        200
+      ],
+      "hops": [
+        {
+          "path": "/vi/opt-out-preferences/?clang=en",
+          "status": 301,
+          "location": "/privacy-policy/?clang=en#privacy-choices"
+        },
+        {
+          "path": "/privacy-policy/?clang=en",
+          "status": 200
+        }
+      ],
+      "passed": true
+    },
+    {
+      "path": "/vi/*",
+      "target": null,
+      "allowedFinalStatus": [
+        404
+      ],
+      "hops": [
+        {
+          "path": "/vi/*",
+          "status": 404
+        }
+      ],
+      "passed": true
+    },
+    {
+      "path": "/zh/退出偏好设置?clang=en",
+      "target": "/privacy-policy/#privacy-choices",
+      "allowedFinalStatus": [
+        200
+      ],
+      "hops": [
+        {
+          "path": "/zh/%E9%80%80%E5%87%BA%E5%81%8F%E5%A5%BD%E8%AE%BE%E7%BD%AE?clang=en",
+          "status": 301,
+          "location": "/privacy-policy/?clang=en#privacy-choices"
+        },
+        {
+          "path": "/privacy-policy/?clang=en",
+          "status": 200
+        }
+      ],
+      "passed": true
+    },
+    {
+      "path": "/zh/opt-out-preferences?clang=en",
+      "target": "/privacy-policy/#privacy-choices",
+      "allowedFinalStatus": [
+        200
+      ],
+      "hops": [
+        {
+          "path": "/zh/opt-out-preferences?clang=en",
+          "status": 301,
+          "location": "/privacy-policy/?clang=en#privacy-choices"
+        },
+        {
+          "path": "/privacy-policy/?clang=en",
+          "status": 200
+        }
+      ],
+      "passed": true
+    },
+    {
+      "path": "/zh/退出偏好设置/?clang=en",
+      "target": "/privacy-policy/#privacy-choices",
+      "allowedFinalStatus": [
+        200
+      ],
+      "hops": [
+        {
+          "path": "/zh/%E9%80%80%E5%87%BA%E5%81%8F%E5%A5%BD%E8%AE%BE%E7%BD%AE/?clang=en",
+          "status": 301,
+          "location": "/privacy-policy/?clang=en#privacy-choices"
+        },
+        {
+          "path": "/privacy-policy/?clang=en",
+          "status": 200
+        }
+      ],
+      "passed": true
+    },
+    {
+      "path": "/zh/opt-out-preferences/?clang=en",
+      "target": "/privacy-policy/#privacy-choices",
+      "allowedFinalStatus": [
+        200
+      ],
+      "hops": [
+        {
+          "path": "/zh/opt-out-preferences/?clang=en",
+          "status": 301,
+          "location": "/privacy-policy/?clang=en#privacy-choices"
+        },
+        {
+          "path": "/privacy-policy/?clang=en",
+          "status": 200
+        }
+      ],
+      "passed": true
+    },
+    {
+      "path": "/es/preguntas-frecuente/",
+      "target": "/es/preguntas-frecuentes/",
+      "allowedFinalStatus": [
+        200
+      ],
+      "hops": [
+        {
+          "path": "/es/preguntas-frecuente/",
+          "status": 301,
+          "location": "/es/preguntas-frecuentes/"
+        },
+        {
+          "path": "/es/preguntas-frecuentes/",
+          "status": 200
+        }
+      ],
+      "passed": true
+    },
+    {
+      "path": "/wp-content/themes/dt-the7-child/*",
+      "target": null,
+      "allowedFinalStatus": [
+        403,
+        404
+      ],
+      "hops": [
+        {
+          "path": "/wp-content/themes/dt-the7-child/*",
+          "status": 404
+        }
+      ],
+      "passed": true
+    }
+  ]
+}

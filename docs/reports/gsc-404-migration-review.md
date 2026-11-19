@@ -61,3 +61,7 @@ The rebuild still returns X-Robots-Tag: noindex, nofollow, noarchive, as intende
 Google recommends a 301 when there is a clear replacement; genuinely removed pages without replacements can return 404/410. Irrelevant homepage redirects can be treated as soft 404s. https://developers.google.com/search/docs/crawling-indexing/troubleshoot-crawling-errors
 
 Pending validation means an instance is queued for rechecking. Historic crawl dates are not a current HTTP test. https://support.google.com/webmasters/answer/7440203?hl=en
+
+## Approved implementation follow-up — 2026-11-19
+
+Owner approved all four decisions. See docs/reports/gsc-404-cleanup.md and gsc-404-cleanup-verification.json. This audit's earlier “pending” findings are historical observations; the new implementation closes its 27 examples in local verification, subject to PR review/publication and eventual custom-domain cutover. Broader historical lifecycle decisions remain separate.

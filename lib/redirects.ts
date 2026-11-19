@@ -1,9 +1,19 @@
+import cleanup from '@/content/routing/legacy-cleanup.json' with { type: 'json' };
 import deferred from '@/content/routing/deferred-redirects.json' with { type: 'json' };
 import reserved from '@/content/routing/reserved-routes.json' with { type: 'json' };
 import rules from '@/content/routing/redirects.json' with { type: 'json' };
 import slugMap from '@/content/routing/slug-map.json' with { type: 'json' };
 export const redirectRules = rules;
 export function redirectDestination(pathname: string): string | null {
+  let decoded: string;
+  try {
+    decoded = decodeURIComponent(pathname).replace(/\/$/, '');
+  } catch {
+    return null;
+  }
+  if (cleanup.unavailable.some((path) => path.replace(/\/$/, '') === decoded)) return null;
+  const privacy = cleanup.privacyAliases.find((rule) => rule.from.replace(/\/$/, '') === decoded);
+  if (privacy) return privacy.to;
   const exact = rules.find((rule) => rule.from === pathname);
   if (exact) return exact.to;
   if (deferred.some((rule) => rule.from === pathname)) return null;

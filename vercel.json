@@ -1403,6 +1403,26 @@
       "source": "/es/preguntas-frecuentes-2",
       "destination": "/es/preguntas-frecuentes/",
       "statusCode": 301
+    },
+    {
+      "source": "/careerpaths/",
+      "destination": "/career-paths-in-long-term-care/",
+      "statusCode": 301
+    },
+    {
+      "source": "/careerpaths",
+      "destination": "/career-paths-in-long-term-care/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/preguntas-frecuente/",
+      "destination": "/es/preguntas-frecuentes/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/preguntas-frecuente",
+      "destination": "/es/preguntas-frecuentes/",
+      "statusCode": 301
     }
   ]
 }

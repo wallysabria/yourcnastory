@@ -18,6 +18,7 @@ export function PrivacyChoices({ locale }: { locale: Locale }) {
   return (
     <button
       type="button"
+      id="privacy-choices"
       className="privacy-choices-button"
       onClick={(event) => {
         event.currentTarget.focus();
@@ -58,9 +59,24 @@ export function PrivacyCenter({ locale, tracking }: { locale: Locale; tracking: 
       setDraft(effectiveConsent());
       setPanel(true);
     };
+    const openDeepLink = () => {
+      if (
+        !['/privacy-policy/', '/es/politica-de-privacidad/'].includes(pathname) ||
+        window.location.hash !== '#privacy-choices'
+      )
+        return;
+      document.getElementById('privacy-choices')?.focus({ preventScroll: true });
+      open();
+    };
+    const frame = requestAnimationFrame(openDeepLink);
     window.addEventListener('ycna:open-privacy', open);
-    return () => window.removeEventListener('ycna:open-privacy', open);
-  }, []);
+    window.addEventListener('hashchange', openDeepLink);
+    return () => {
+      cancelAnimationFrame(frame);
+      window.removeEventListener('ycna:open-privacy', open);
+      window.removeEventListener('hashchange', openDeepLink);
+    };
+  }, [pathname]);
   useEffect(() => {
     if (!panel) return;
     const el = dialog.current;

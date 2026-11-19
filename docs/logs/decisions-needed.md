@@ -175,3 +175,7 @@ Owner approved six English Employer pages, current public copy and existing Micr
 ## Phase 8 remaining pages — current decision
 
 Owner lifted the hold on /employers/, /train-and-gain/ and /advocate/ for their current public-site versions, with future editorial changes still pending. Train and Gain inquiry form is a non-submitting placeholder by owner request; final fields/submission destination remain deferred. Employer chatbot and its database remain deferred.
+
+## Search Console cleanup decisions — approved 2026-11-19
+
+Owner approved all four proposed decisions: careerpaths alias to career index; singular Spanish FAQ alias to canonical Spanish FAQ; legacy privacy URLs to the appropriate policy page with the existing Privacy choices dialog automatically opened (retired Vietnamese/Chinese use English); retired job-board/malformed URLs remain unavailable rather than redirecting to homepage, with existing plugin-path blocking preserved. Implemented on codex/legacy-url-cleanup for review. No policy-copy changes, tracking activation, WordPress edits or custom-domain cutover. Remaining historical campaign/demo and Spanish Employer URL dispositions remain separate; proposal: docs/recommendations/remaining-legacy-url-dispositions.md.

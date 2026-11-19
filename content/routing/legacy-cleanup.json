@@ -1,0 +1,37 @@
+{
+  "privacyAliases": [
+    {
+      "from": "/opt-out-preferences/",
+      "to": "/privacy-policy/#privacy-choices"
+    },
+    {
+      "from": "/es/preferencias-de-exclusion/",
+      "to": "/es/politica-de-privacidad/#privacy-choices"
+    },
+    {
+      "from": "/vi/cai-dat-tu-choi/",
+      "to": "/privacy-policy/#privacy-choices"
+    },
+    {
+      "from": "/vi/opt-out-preferences/",
+      "to": "/privacy-policy/#privacy-choices"
+    },
+    {
+      "from": "/zh/退出偏好设置/",
+      "to": "/privacy-policy/#privacy-choices"
+    },
+    {
+      "from": "/zh/opt-out-preferences/",
+      "to": "/privacy-policy/#privacy-choices"
+    }
+  ],
+  "unavailable": [
+    "/es/bolsa-de-trabajo-cna/",
+    "/vi/bang-viec-lam-cna/",
+    "/zh/cna-职位板/",
+    "/*",
+    "/vi/*",
+    "/wp-content/uploads/*",
+    "/wp-content/themes/dt-the7-child/*"
+  ]
+}
