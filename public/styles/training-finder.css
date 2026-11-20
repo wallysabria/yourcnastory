@@ -80,3 +80,16 @@
 .has-training-finder-hero .site-header.over-hero .brand img { content: url('/images/brand/cnap-logo-white.webp'); }
 .has-training-finder-hero .site-header.over-hero :is(.brand,.nav-label,.icon-button,.language-menu > summary):focus-visible { outline-color: white; }
 @media (max-width: 767px) { .finder-hero { min-height: 300px; padding: 95px 24px 0; } }
+.training-finder .finder-program { display: flex; flex-wrap: wrap; align-items: end; gap: 16px 28px; }
+.training-finder .finder-program > .finder-field { flex: 1 1 260px; max-width: 370px; }
+.training-finder .finder-type-badges { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; }
+.training-finder .finder-type-badge { display: inline-block; border: 1px solid #ccd9e8; border-radius: 999px; background: #f5f8fc; color: #30475e; padding: 3px 9px; font-size: 12px; font-weight: 700; }
+.training-finder .finder-online-description, .training-finder .finder-location-note { font-size: 13px; line-height: 1.6; color: #4b5b6a; }
+.training-finder .finder-clinical-areas, .training-finder .finder-source-note { font-size: 13px; margin: 0 0 16px; }
+.training-finder :is(.finder-clinical-areas,.finder-source-note,.finder-aliases) summary { min-height: 44px; color: #034caa; font-weight: 700; cursor: pointer; }
+.training-finder :is(.finder-clinical-areas,.finder-source-note,.finder-aliases) summary:focus-visible { outline: 3px solid #0056c7; outline-offset: 3px; }
+.training-finder :is(.finder-clinical-areas,.finder-source-note,.finder-aliases) p { margin-top: 8px; }
+@media (max-width: 600px) { .training-finder .finder-program > .finder-field { max-width: none; width: 100%; flex-basis: 100%; } }
+
+.training-finder .finder-aliases { font-size: 13px; margin: 0 0 16px; }
+.training-finder .finder-aliases ul { margin: 8px 0; padding-left: 18px; }

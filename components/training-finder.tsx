@@ -3,6 +3,9 @@ import { useId, useMemo, useRef, useState, type FormEvent } from 'react';
 import labels from '@/content/ui/training-finder.json';
 import {
   directionsUrl,
+  facilityCities,
+  facilityCounties,
+  isOnlineProvider,
   findFacilities,
   normalizeZip,
   type Facility,
@@ -10,7 +13,14 @@ import {
 } from '@/lib/training-finder';
 import type { Locale } from '@/lib/content-schema';
 const pageSize = 9;
-const initialFilters = { query: '', city: '', county: '', radius: 25, earnAndLearnOnly: false };
+const initialFilters = {
+  query: '',
+  city: '',
+  county: '',
+  radius: 25,
+  earnAndLearnOnly: false,
+  trainingType: '',
+};
 const fill = (template: string, values: Record<string, string | number>) =>
   template.replace(/\{(\w+)\}/g, (_, key: string) => String(values[key] ?? ''));
 type ZipAreas = Record<string, [number, number]>;
@@ -46,7 +56,7 @@ export function TrainingFinder({ locale, facilities }: { locale: Locale; facilit
   const [busy, setBusy] = useState(false);
   const [limit, setLimit] = useState(pageSize);
   const counties = useMemo(
-    () => [...new Set(facilities.map((facility) => facility.county))].sort(),
+    () => [...new Set(facilities.flatMap(facilityCounties))].sort(),
     [facilities],
   );
   const cities = useMemo(
@@ -54,19 +64,24 @@ export function TrainingFinder({ locale, facilities }: { locale: Locale; facilit
       [
         ...new Set(
           facilities
-            .filter((facility) => !draft.county || facility.county === draft.county)
-            .map((facility) => facility.city),
+            .filter(
+              (facility) =>
+                (!draft.county || facilityCounties(facility).includes(draft.county)) &&
+                (!draft.trainingType || facility.trainingTypes.includes(draft.trainingType)),
+            )
+            .flatMap(facilityCities),
         ),
       ].sort(),
-    [facilities, draft.county],
+    [facilities, draft.county, draft.trainingType],
   );
   const results = useMemo(() => findFacilities(facilities, applied), [facilities, applied]);
   const shown = results.slice(0, limit);
   async function search(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
     setError('');
-    const normalized = normalizeZip(zip);
-    if (zip.trim() && !normalized) {
+    const onlineOnly = draft.trainingType === 'online';
+    const normalized = onlineOnly ? null : normalizeZip(zip);
+    if (!onlineOnly && zip.trim() && !normalized) {
       setError(text.invalidZip);
       zipInput.current?.focus();
       return;
@@ -132,7 +147,7 @@ export function TrainingFinder({ locale, facilities }: { locale: Locale; facilit
                 autoComplete="off"
                 maxLength={10}
                 value={zip}
-                disabled={busy}
+                disabled={busy || draft.trainingType === 'online'}
                 onChange={(event) => {
                   setZip(event.target.value);
                   setError('');
@@ -146,7 +161,7 @@ export function TrainingFinder({ locale, facilities }: { locale: Locale; facilit
               <label htmlFor={id + '-radius'}>{text.radius}</label>
               <select
                 id={id + '-radius'}
-                disabled={busy || !zip.trim()}
+                disabled={busy || !zip.trim() || draft.trainingType === 'online'}
                 value={draft.radius}
                 onChange={(event) => setDraft({ ...draft, radius: Number(event.target.value) })}
               >
@@ -171,6 +186,23 @@ export function TrainingFinder({ locale, facilities }: { locale: Locale; facilit
             </div>
           </div>
           <div className="finder-program">
+            <div className="finder-field">
+              <label htmlFor={id + '-type'}>{text.trainingType}</label>
+              <select
+                id={id + '-type'}
+                value={draft.trainingType}
+                disabled={busy}
+                onChange={(event) => {
+                  setDraft({ ...draft, trainingType: event.target.value, county: '', city: '' });
+                  setError('');
+                }}
+              >
+                <option value="">{text.allTypes}</option>
+                <option value="online">{text.online}</option>
+                <option value="community-based">{text.communityBased}</option>
+                <option value="facility-based">{text.facilityBased}</option>
+              </select>
+            </div>
             <label className="finder-program-filter">
               <input
                 type="checkbox"
@@ -237,6 +269,11 @@ export function TrainingFinder({ locale, facilities }: { locale: Locale; facilit
             {applied.zip ? fill(text.near, { zip: applied.zip, radius: applied.radius }) : text.all}
           </p>
           {applied.origin && <p className="finder-distance-note">{text.approximate}</p>}
+          {applied.trainingType === 'online' ? (
+            <p className="finder-distance-note">{text.onlineOnlyNote}</p>
+          ) : applied.origin && results.some((f) => !f.location) ? (
+            <p className="finder-distance-note">{text.onlineSearchNote}</p>
+          ) : null}
           {results.length === 0 ? (
             <div className="finder-empty">
               <h3>{text.empty}</h3>
@@ -249,16 +286,67 @@ export function TrainingFinder({ locale, facilities }: { locale: Locale; facilit
             <ul className="finder-cards">
               {shown.map((facility) => (
                 <li key={facility.id} className="finder-card" data-facility-id={facility.id}>
-                  <p className="finder-county">{facility.county}</p>
+                  <p className="finder-county">{facility.county || text.online}</p>
                   <h3>{facility.name}</h3>
+                  <div className="finder-type-badges">
+                    {facility.trainingTypes.map((type) => (
+                      <span className="finder-type-badge" key={type}>
+                        {type === 'online'
+                          ? text.online
+                          : type === 'community-based'
+                            ? text.communityBased
+                            : text.facilityBased}
+                      </span>
+                    ))}
+                  </div>
                   {facility.earnAndLearn === true && (
                     <p className="finder-badge">{text.earnAndLearn}</p>
                   )}
-                  <address>
-                    {facility.address}
-                    <br />
-                    {facility.city}, {facility.state} {facility.zip}
-                  </address>
+                  {!!facility.aliases?.length && (
+                    <details className="finder-aliases">
+                      <summary>{text.alsoListedAs}</summary>
+                      <ul>
+                        {facility.aliases.map((alias) => (
+                          <li key={alias}>{alias}</li>
+                        ))}
+                      </ul>
+                    </details>
+                  )}
+                  {facility.address ? (
+                    <address>
+                      {facility.address}
+                      <br />
+                      {facility.city}, {facility.state} {facility.zip}
+                    </address>
+                  ) : (
+                    <p className="finder-online-description">{text.onlineDescription}</p>
+                  )}
+                  {isOnlineProvider(facility) && (
+                    <details className="finder-clinical-areas">
+                      <summary>{text.clinicalLocations}</summary>
+                      <p>
+                        <strong>{text.clinicalCities}: </strong>
+                        {facility.clinicalCities?.join(', ')}
+                      </p>
+                      <p>
+                        <strong>{text.clinicalCounties}: </strong>
+                        {facility.clinicalCounties?.join(', ')}
+                      </p>
+                    </details>
+                  )}
+                  {facility.address && !facility.location && (
+                    <p className="finder-location-note">{text.unmappedLocation}</p>
+                  )}
+                  {!!facility.sourceNotes?.length && (
+                    <details className="finder-source-note">
+                      <summary>{text.sourceNote}</summary>
+                      {facility.sourceNotes.map((note) => (
+                        <p lang="en" key={note}>
+                          {note}
+                        </p>
+                      ))}
+                    </details>
+                  )}
                   {facility.distance !== undefined && (
                     <div className="finder-distance">
                       <p>
@@ -268,28 +356,49 @@ export function TrainingFinder({ locale, facilities }: { locale: Locale; facilit
                           ),
                         })}
                       </p>
-                      {facility.location.precision === 'zip-area' && (
+                      {facility.location?.precision === 'zip-area' && (
                         <small>{text.zipDistance}</small>
                       )}
                     </div>
                   )}
                   <div className="finder-card-links">
-                    <a
-                      href={'tel:' + facility.phone.replace(/[^\d+]/g, '')}
-                      aria-label={fill(text.callFacility, { name: facility.name })}
-                    >
-                      <span>{text.call}</span> {facility.phone}
-                    </a>
-                    <a
-                      href={directionsUrl(facility)}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      referrerPolicy="no-referrer"
-                      aria-label={fill(text.directionsFacility, { name: facility.name })}
-                    >
-                      {text.directions}
-                      <span aria-hidden="true"> ↗</span>
-                    </a>
+                    {(facility.phones || [facility.phone])
+                      .filter((phone) => /^1?\d{10}$/.test(phone.replace(/\D/g, '')))
+                      .map((phone) => (
+                        <a
+                          key={phone}
+                          href={'tel:' + phone.replace(/[^\d+]/g, '')}
+                          aria-label={
+                            fill(text.callFacility, { name: facility.name }) + ': ' + phone
+                          }
+                        >
+                          <span>{text.call}</span> {phone}
+                        </a>
+                      ))}
+                    {facility.address && (
+                      <a
+                        href={directionsUrl(facility)}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        referrerPolicy="no-referrer"
+                        aria-label={fill(text.directionsFacility, { name: facility.name })}
+                      >
+                        {text.directions}
+                        <span aria-hidden="true"> ↗</span>
+                      </a>
+                    )}
+                    {facility.website && (
+                      <a
+                        href={facility.website}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        referrerPolicy="no-referrer"
+                        aria-label={fill(text.websiteFacility, { name: facility.name })}
+                      >
+                        {text.website}
+                        <span aria-hidden="true"> ↗</span>
+                      </a>
+                    )}
                   </div>
                 </li>
               ))}

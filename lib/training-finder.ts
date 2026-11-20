@@ -1,4 +1,5 @@
 export type Point = { lat: number; lon: number };
+export type TrainingType = 'online' | 'community-based' | 'facility-based';
 export type Facility = {
   id: string;
   name: string;
@@ -7,9 +8,16 @@ export type Facility = {
   state: string;
   zip: string;
   phone: string;
+  phones?: string[];
   county: string;
   earnAndLearn: boolean | null;
-  location: Point & { precision: string };
+  trainingTypes: string[];
+  aliases?: string[];
+  website?: string;
+  clinicalCities?: string[];
+  clinicalCounties?: string[];
+  sourceNotes?: string[];
+  location: (Point & { precision: string }) | null;
 };
 export type FinderFilters = {
   query: string;
@@ -18,15 +26,24 @@ export type FinderFilters = {
   radius: number;
   origin?: Point;
   earnAndLearnOnly?: boolean;
+  trainingType?: string;
 };
+export const isOnlineProvider = (facility: Facility) =>
+  facility.trainingTypes.includes('online') && !facility.address;
+export const facilityCities = (facility: Facility) => [
+  ...new Set([facility.city, ...(facility.clinicalCities || [])].filter(Boolean)),
+];
+export const facilityCounties = (facility: Facility) => [
+  ...new Set([facility.county, ...(facility.clinicalCounties || [])].filter(Boolean)),
+];
 export function normalizeZip(value: string): string | null {
   const zip = value.trim();
   return /^\d{5}(?:-\d{4})?$/.test(zip) ? zip.slice(0, 5) : null;
 }
 export function distanceMiles(a: Point, b: Point): number {
   const radians = (degrees: number) => (degrees * Math.PI) / 180;
-  const lat = radians(b.lat - a.lat);
-  const lon = radians(b.lon - a.lon);
+  const lat = radians(b.lat - a.lat),
+    lon = radians(b.lon - a.lon);
   const h =
     Math.sin(lat / 2) ** 2 +
     Math.cos(radians(a.lat)) * Math.cos(radians(b.lat)) * Math.sin(lon / 2) ** 2;
@@ -39,32 +56,49 @@ const comparable = (text: string) =>
     .toLocaleLowerCase('en-US');
 export function findFacilities(facilities: Facility[], filters: FinderFilters) {
   const terms = comparable(filters.query.trim()).split(/\s+/).filter(Boolean);
+  const useDistance = !!filters.origin && filters.trainingType !== 'online';
   return facilities
-    .filter((facility) => !filters.earnAndLearnOnly || facility.earnAndLearn === true)
+    .filter((f) => !filters.earnAndLearnOnly || f.earnAndLearn === true)
+    .filter((f) => !filters.trainingType || f.trainingTypes.includes(filters.trainingType))
     .filter(
-      (facility) =>
-        (!filters.city || facility.city === filters.city) &&
-        (!filters.county || facility.county === filters.county),
+      (f) =>
+        (!filters.city || facilityCities(f).includes(filters.city)) &&
+        (!filters.county || facilityCounties(f).includes(filters.county)),
     )
-    .filter((facility) => {
+    .filter((f) => {
       const haystack = comparable(
-        [facility.name, facility.city, facility.county, facility.address, facility.zip].join(' '),
+        [
+          f.name,
+          ...(f.aliases || []),
+          ...facilityCities(f),
+          ...facilityCounties(f),
+          f.address,
+          f.zip,
+          ...f.trainingTypes,
+        ].join(' '),
       );
       return terms.every((term) => haystack.includes(term));
     })
-    .map((facility) => ({
-      ...facility,
-      distance: filters.origin ? distanceMiles(filters.origin, facility.location) : undefined,
+    .map((f) => ({
+      ...f,
+      distance:
+        useDistance && filters.origin && f.location && !isOnlineProvider(f)
+          ? distanceMiles(filters.origin, f.location)
+          : undefined,
     }))
-    .filter((facility) => facility.distance === undefined || facility.distance <= filters.radius)
+    .filter((f) => f.distance === undefined || f.distance <= filters.radius)
     .sort(
       (a, b) =>
+        (useDistance ? Number(a.distance === undefined) - Number(b.distance === undefined) : 0) ||
         (a.distance !== undefined && b.distance !== undefined ? a.distance - b.distance : 0) ||
         a.name.localeCompare(b.name, 'en') ||
         a.id.localeCompare(b.id),
     );
 }
 export function directionsUrl(facility: Facility): string {
-  const address = `${facility.address}, ${facility.city}, ${facility.state} ${facility.zip}`;
-  return 'https://www.google.com/maps/dir/?api=1&destination=' + encodeURIComponent(address);
+  if (!facility.address) return '';
+  return (
+    'https://www.google.com/maps/dir/?api=1&destination=' +
+    encodeURIComponent(`${facility.address}, ${facility.city}, ${facility.state} ${facility.zip}`)
+  );
 }

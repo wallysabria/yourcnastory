@@ -35,6 +35,6 @@ for record in data['facilities']:
         lat, lon = centers[record['zip'][:5]]
         record['location'] = dict(lat=lat, lon=lon, precision='zip-area', matchStatus=row[2])
 data['source'].update(dict(importedAt=datetime.datetime.now(datetime.timezone.utc).date().isoformat(), geocoder='https://geocoding.geo.census.gov/geocoder/geographies/addressbatch', benchmark='Public_AR_Current', vintage='Current_Current', zipAreas='https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2025_Gazetteer/2025_Gaz_zcta_national.zip', zipAreasSha256=hashlib.sha256((base/'zcta.zip').read_bytes()).hexdigest()))
-pathlib.Path('content/training/facilities.json').write_text(json.dumps(data, ensure_ascii=False, indent=2)+'\n', encoding='utf8')
+pathlib.Path('content/training/partner-facilities.json').write_text(json.dumps(data, ensure_ascii=False, indent=2)+'\n', encoding='utf8')
 pathlib.Path('public/training-finder/zip-areas.json').write_text(json.dumps(centers, separators=(',', ':'))+'\n', encoding='utf8')
 print('Prepared', len(data['facilities']), 'facilities and', len(centers), 'ZIP areas:', dict(collections.Counter(r['location']['precision'] for r in data['facilities'])))
