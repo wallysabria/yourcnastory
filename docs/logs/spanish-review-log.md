@@ -211,3 +211,45 @@ Keep “Empleadores” as the Spanish menu title; route it to /employers/ and re
 ## Search Console privacy/FAQ aliases — 2026-11-19
 
 Owner approved the singular Spanish FAQ alias and Spanish privacy-preference aliases. Reuse the existing Spanish policy page and privacy UI verbatim; no new or changed Spanish strings. Retired Vietnamese/Chinese preferences open English privacy controls.
+
+## Training finder interface — 2026-11-20
+
+New bilingual finder approved by owner. Existing frozen Spanish page copy is unchanged. All new interface strings below are stored in `content/ui/training-finder.json`; approval of implementation is not native-language sign-off.
+
+| Key | Exact Spanish string | Review |
+| --- | --- | --- |
+| `eyebrow` | EARN AND LEARN | New interface string; native-language review pending |
+| `title` | Encuentra capacitación cerca de ti | New interface string; native-language review pending |
+| `intro` | Explora los centros asociados al programa Earn and Learn de CNAP. Ingresa tu código postal para encontrar centros cercanos o busca por ciudad, condado o nombre del centro. | New interface string; native-language review pending |
+| `zip` | Tu código postal | New interface string; native-language review pending |
+| `zipHint` | Opcional. Usa un código postal de 5 dígitos o ZIP+4. | New interface string; native-language review pending |
+| `radius` | Distancia | New interface string; native-language review pending |
+| `within` | A menos de {miles} millas | New interface string; native-language review pending |
+| `query` | Nombre del centro o palabra clave | New interface string; native-language review pending |
+| `city` | Ciudad | New interface string; native-language review pending |
+| `county` | Condado | New interface string; native-language review pending |
+| `allCities` | Todas las ciudades | New interface string; native-language review pending |
+| `allCounties` | Todos los condados | New interface string; native-language review pending |
+| `search` | Buscar capacitación | New interface string; native-language review pending |
+| `searching` | Buscando centros… | New interface string; native-language review pending |
+| `clear` | Borrar filtros | New interface string; native-language review pending |
+| `results` | Centros de capacitación asociados | New interface string; native-language review pending |
+| `count` | Se muestran {shown} de {count} centros | New interface string; native-language review pending |
+| `near` | A menos de {radius} millas del código postal {zip} | New interface string; native-language review pending |
+| `all` | Explora todos los centros de la lista | New interface string; native-language review pending |
+| `distance` | Distancia aprox.: {miles} mi | New interface string; native-language review pending |
+| `approximate` | Las distancias son aproximadas y se miden en línea recta desde un punto representativo de tu área postal. No son distancias por carretera. | New interface string; native-language review pending |
+| `zipDistance` | La distancia usa el área postal del centro; su ubicación exacta no está verificada. | New interface string; native-language review pending |
+| `notice` | Esta no es una lista completa de los programas Earn and Learn de California. Los centros pueden retirarse del programa o cambiar su disponibilidad. Comunícate con cada centro para confirmar las oportunidades de capacitación, los horarios y los requisitos. | New interface string; native-language review pending |
+| `privacy` | Tu código postal y tu búsqueda permanecen en este navegador. No necesitas dar permiso de ubicación. | New interface string; native-language review pending |
+| `call` | Llamar | New interface string; native-language review pending |
+| `callFacility` | Llamar a {name} | New interface string; native-language review pending |
+| `directions` | Cómo llegar | New interface string; native-language review pending |
+| `directionsFacility` | Cómo llegar a {name} (se abre en una pestaña nueva) | New interface string; native-language review pending |
+| `more` | Mostrar más centros | New interface string; native-language review pending |
+| `empty` | No hay centros que coincidan con estos filtros. | New interface string; native-language review pending |
+| `emptyHelp` | Prueba una distancia mayor, elige otra ciudad o condado, o borra los filtros para explorar todos los centros. | New interface string; native-language review pending |
+| `invalidZip` | Ingresa un código postal válido de 5 dígitos o ZIP+4, o deja el campo vacío para explorar la lista. | New interface string; native-language review pending |
+| `unknownZip` | No pudimos localizar esa área postal. Algunos códigos postales no tienen un área del Censo. Prueba un código cercano o deja el campo vacío y busca por ciudad o condado. | New interface string; native-language review pending |
+| `loadError` | La búsqueda por código postal no está disponible en este momento. Inténtalo de nuevo o deja el campo vacío para buscar por ciudad o condado. | New interface string; native-language review pending |
+| `noScript` | Activa JavaScript para filtrar esta lista o usa la lista original de centros de capacitación enlazada arriba. | New interface string; native-language review pending |

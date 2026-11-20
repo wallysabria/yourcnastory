@@ -1,3 +1,5 @@
+import { TrainingFinder } from './training-finder';
+import trainingData from '@/content/training/facilities.json';
 import employerUi from '@/content/ui/employer-placeholder.json';
 import { AwardNavigation } from './award-navigation';
 import Image from 'next/image';
@@ -38,6 +40,7 @@ export type PageLayout = {
   nodes: Record<string, NodeLayout>;
 };
 type Context = {
+  trainingFinder?: boolean;
   locale: Locale;
   layout: PageLayout;
   widgetSettings?: Record<string, unknown>;
@@ -598,6 +601,13 @@ export function renderSourceNode(node: ContentNode, key: string, ctx: Context): 
         <CountryCode locale={ctx.locale} />
         {rendered}
       </span>
+    );
+  if (ctx.trainingFinder && node.source?.elementorId === '23fdf15')
+    return (
+      <div key={key} className="training-finder-section">
+        {rendered}
+        <TrainingFinder locale={ctx.locale} facilities={trainingData.facilities} />
+      </div>
     );
   return rendered;
 }

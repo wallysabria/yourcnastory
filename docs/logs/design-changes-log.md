@@ -159,3 +159,7 @@ Owner explicitly requested retaining “Empleadores” as the Spanish top-level 
 ## D-026 — Addressable privacy choices — approved 2026-11-19
 
 Owner approved legacy privacy-preference links opening the existing Privacy choices dialog on the corresponding EN/ES policy page. Add a stable privacy-choices fragment to the existing footer control and open the unchanged dialog on policy-page deep links. Preserve language, focus restoration, saved consent, GPC/DNT and default-denied behavior; no consent is granted by navigation. No policy text, visual styling or new Spanish string changes.
+
+## Training finder — approved 2026-11-20
+
+Owner approved a ZIP-radius/city/county/name finder on `/cna-training-providers/` and `/es/programa-cna-2/`. Add a pale-blue search panel, responsive facility cards, Call/Get directions actions and incremental results within the Earn and Learn section. Benefit: nearby partners are discoverable without opening the spreadsheet. Existing training-path copy, original list link, CDPH resources, URLs and metadata stay intact. No embedded map in this first version. Owner separately approved three Census-verified county corrections and labeled ZIP-area distances for five non-unique address matches.
