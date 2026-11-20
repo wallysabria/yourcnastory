@@ -81,6 +81,12 @@ for (const locale of ['en', 'es'])
       const finder = await open(page, locale);
       await page.evaluate(() => document.fonts.ready);
       await expect(finder).toBeVisible();
+      const resources = page.locator('.training-finder-section > section:not(.training-finder)');
+      await expect(resources.locator('a[href*="cdph.ca.gov"]')).toHaveCount(3);
+      const resourceBox = await resources.boundingBox();
+      const finderBox = await finder.boundingBox();
+      expect(finderBox!.y).toBeGreaterThanOrEqual(resourceBox!.y + resourceBox!.height);
+
       expect(
         await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth + 1),
       ).toBe(true);

@@ -602,7 +602,7 @@ export function renderSourceNode(node: ContentNode, key: string, ctx: Context): 
         {rendered}
       </span>
     );
-  if (ctx.trainingFinder && node.source?.elementorId === '23fdf15')
+  if (ctx.trainingFinder && node.source?.elementorId === 'b3f0881')
     return (
       <div key={key} className="training-finder-section">
         {rendered}

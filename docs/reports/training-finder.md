@@ -2,7 +2,7 @@
 
 ## Delivered
 
-Added a bilingual Earn and Learn finder inside `/cna-training-providers/` and its existing Spanish counterpart `/es/programa-cna-2/`, preserving page copy, metadata, URLs, original partner spreadsheet link and the self-funded/CDPH resources. Search by ZIP/ZIP+4 with 10/25/50/100-mile radius; combine facility keyword, city and county filters. Results sort by approximate straight-line distance when ZIP is supplied, alphabetically otherwise. Show nine at a time; Call and external Directions actions on each card.
+Added a bilingual Earn and Learn finder after the complete Path Option II / Self-Funded content on `/cna-training-providers/` and its existing Spanish counterpart `/es/programa-cna-2/`, preserving page copy, metadata, URLs, original partner spreadsheet link and the self-funded/CDPH resources. Search by ZIP/ZIP+4 with 10/25/50/100-mile radius; combine facility keyword, city and county filters. Results sort by approximate straight-line distance when ZIP is supplied, alphabetically otherwise. Show nine at a time; Call and external Directions actions on each card.
 
 The single maintained public dataset contains 71 facilities from the owner-supplied workbook. Source sheet, row numbers and workbook SHA-256 are retained. Census batch geocoding produced 66 address-range matches and five non-unique/unmatched addresses; those five use their ZIP-area representative point with an explicit distance note, as approved. No source street addresses were changed. Three county corrections and Delta Oaks Post Acute's owner-confirmed phone correction retain their original values and separate approval/evidence records.
 
@@ -29,3 +29,7 @@ Uses Census 2025 Gazetteer ZCTA representative coordinates, Census Public_AR_Cur
 New Spanish strings are logged for native-language review; implementation approval does not close the paused Spanish/privacy sign-off. Chatbot/database setup and privacy review are excluded.
 
 Maintenance steps: `docs/reports/training-finder-maintenance.md`. Preview and PR links will be supplied with the review handoff; this branch is not production-published until merge approval.
+
+## Owner-approved final placement — 2026-11-20
+
+Moved the finder below the complete Path Option II block, including Facility-Based, Alternative Online-Based and Community-Based resources, in both languages. Owner approved merge/publication with this adjustment. PR: https://github.com/wallysabria/yourcnastory/pull/27 .
