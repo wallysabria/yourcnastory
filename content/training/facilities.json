@@ -8,7 +8,8 @@
     "benchmark": "Public_AR_Current",
     "vintage": "Current_Current",
     "zipAreas": "https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2025_Gazetteer/2025_Gaz_zcta_national.zip",
-    "zipAreasSha256": "51516a4283bab5cd2376eec75609ddc4b363a18297e8adeeaac7b03cf7c84dbe"
+    "zipAreasSha256": "51516a4283bab5cd2376eec75609ddc4b363a18297e8adeeaac7b03cf7c84dbe",
+    "earnAndLearnConfirmation": "Owner confirmed all facilities in this workbook offer Earn and Learn, 2026-11-20"
   },
   "facilities": [
     {
@@ -26,7 +27,8 @@
         "lon": -121.976328,
         "precision": "address-range",
         "matchedAddress": "4303 STEVENSON BLVD, FREMONT, CA, 94538"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "hayward-post-acute-94544",
@@ -43,7 +45,8 @@
         "lon": -122.081356,
         "precision": "address-range",
         "matchedAddress": "25919 GADING RD, HAYWARD, CA, 94544"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "idylwood-care-center-94087",
@@ -61,7 +64,8 @@
         "precision": "address-range",
         "matchedAddress": "1002 W FREMONT AVE, SUNNYVALE, CA, 94087"
       },
-      "sourceCounty": "Alameda"
+      "sourceCounty": "Alameda",
+      "earnAndLearn": true
     },
     {
       "id": "arbor-post-acute-95928",
@@ -78,7 +82,8 @@
         "lon": -121.80224,
         "precision": "address-range",
         "matchedAddress": "1200 SPRINGFIELD DR, CHICO, CA, 95928"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "almond-view-care-center-95987",
@@ -95,7 +100,8 @@
         "lon": -122.156645,
         "precision": "address-range",
         "matchedAddress": "1224 E ST, WILLIAMS, CA, 95987"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "diablo-valley-post-acute-94521",
@@ -112,7 +118,8 @@
         "lon": -122.00576,
         "precision": "address-range",
         "matchedAddress": "3806 CLAYTON RD, CONCORD, CA, 94521"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "crescent-city-skilled-nursing-95531",
@@ -129,7 +136,8 @@
         "lon": -124.200429,
         "precision": "address-range",
         "matchedAddress": "1280 MARSHALL ST, CRESCENT CITY, CA, 95531"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "southern-inyo-hospital-d-p-snf-93545",
@@ -146,7 +154,8 @@
         "lon": -118.058081,
         "precision": "address-range",
         "matchedAddress": "501 E LOCUST ST, LONE PINE, CA, 93545"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "delano-district-skilled-nursing-facility-93215",
@@ -163,7 +172,8 @@
         "lon": -119.237685,
         "precision": "address-range",
         "matchedAddress": "1509 TOKAY ST, DELANO, CA, 93215"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "kern-valley-healthcare-district-93240",
@@ -180,7 +190,8 @@
         "lon": -118.406428,
         "precision": "address-range",
         "matchedAddress": "6412 LAUREL AVE, LAKE ISABELLA, CA, 93240"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "bella-sera-93555",
@@ -197,7 +208,8 @@
         "lon": -117.669938,
         "precision": "address-range",
         "matchedAddress": "1131 N CHINA LAKE BLVD, RIDGECREST, CA, 93555"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "lassen-nursing-rehabilitaion-center-96130",
@@ -214,7 +226,8 @@
         "lon": -120.645985,
         "precision": "address-range",
         "matchedAddress": "2005 RIVER ST, SUSANVILLE, CA, 96130"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "glendora-grand-91740",
@@ -231,7 +244,8 @@
         "lon": -117.855054,
         "precision": "zip-area",
         "matchStatus": "Tie"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "intercommunity-care-90815",
@@ -248,7 +262,8 @@
         "lon": -118.14757,
         "precision": "address-range",
         "matchedAddress": "2626 N GRAND AVE, LONG BEACH, CA, 90815"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "atlantic-memorial-healthcare-center-90806",
@@ -265,7 +280,8 @@
         "lon": -118.184944,
         "precision": "address-range",
         "matchedAddress": "2750 ATLANTIC AVE, LONG BEACH, CA, 90806"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "community-care-center-91010",
@@ -282,7 +298,8 @@
         "lon": -117.990515,
         "precision": "address-range",
         "matchedAddress": "2335 MOUNTAIN AVE, DUARTE, CA, 91010"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "hollywood-premier-healthcare-center-90029",
@@ -299,7 +316,8 @@
         "lon": -118.307057,
         "precision": "address-range",
         "matchedAddress": "5400 FOUNTAIN AVE, LOS ANGELES, CA, 90029"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "new-vista-post-acute-care-center-90025",
@@ -316,7 +334,8 @@
         "lon": -118.449778,
         "precision": "address-range",
         "matchedAddress": "1516 SAWTELLE BLVD, LOS ANGELES, CA, 90025"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "the-rehabilitation-center-on-pico-90019",
@@ -333,7 +352,8 @@
         "lon": -118.313177,
         "precision": "address-range",
         "matchedAddress": "3233 W PICO BLVD, LOS ANGELES, CA, 90019"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "fountain-view-subacute-and-nursing-center-90029",
@@ -350,7 +370,8 @@
         "lon": -118.30505,
         "precision": "address-range",
         "matchedAddress": "5310 FOUNTAIN AVE, LOS ANGELES, CA, 90029"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "monrovia-gardens-healthcare-center-91016",
@@ -367,7 +388,8 @@
         "lon": -118.012324,
         "precision": "address-range",
         "matchedAddress": "615 W DUARTE RD, MONROVIA, CA, 91016"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "broadway-healthcare-center-91776",
@@ -384,7 +406,8 @@
         "lon": -118.0994,
         "precision": "address-range",
         "matchedAddress": "112 E BROADWAY, SAN GABRIEL, CA, 91776"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "whittier-nursing-and-wellness-center-90602",
@@ -401,7 +424,8 @@
         "lon": -118.032589,
         "precision": "address-range",
         "matchedAddress": "7926 PAINTER AVE, WHITTIER, CA, 90602"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "modoc-medical-center-96101",
@@ -418,7 +442,8 @@
         "lon": -120.552999,
         "precision": "address-range",
         "matchedAddress": "1111 N NAGLE ST, ALTURAS, CA, 96101"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "surprise-valley-healthcare-distrct-snf-96104",
@@ -435,7 +460,8 @@
         "lon": -120.129865,
         "precision": "zip-area",
         "matchStatus": "No_Match"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "monterey-post-acute-93940",
@@ -452,7 +478,8 @@
         "lon": -121.91741,
         "precision": "address-range",
         "matchedAddress": "1575 SKYLINE DR, MONTEREY, CA, 93940"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "coastal-post-acute-93906",
@@ -469,7 +496,8 @@
         "lon": -121.657561,
         "precision": "address-range",
         "matchedAddress": "348 IRIS DR, SALINAS, CA, 93906"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "crystal-ridge-care-center-95945",
@@ -486,7 +514,8 @@
         "lon": -121.034083,
         "precision": "address-range",
         "matchedAddress": "396 DORSEY DR, GRASS VALLEY, CA, 95945"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "golden-empire-95945",
@@ -503,7 +532,8 @@
         "lon": -121.044089,
         "precision": "address-range",
         "matchedAddress": "121 DORSEY DR, GRASS VALLEY, CA, 95945"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "anaheim-crest-92804",
@@ -520,7 +550,8 @@
         "lon": -117.996944,
         "precision": "address-range",
         "matchedAddress": "3067 W ORANGE AVE, ANAHEIM, CA, 92804"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "buena-vista-care-center-92802",
@@ -537,7 +568,8 @@
         "lon": -117.941345,
         "precision": "address-range",
         "matchedAddress": "1440 S EUCLID ST, ANAHEIM, CA, 92802"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "anaheim-terrace-care-center-92804",
@@ -554,7 +586,8 @@
         "lon": -118.010996,
         "precision": "address-range",
         "matchedAddress": "141 S KNOTT AVE, ANAHEIM, CA, 92804"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "healthcare-center-of-orange-county-90620",
@@ -571,7 +604,8 @@
         "lon": -118.015292,
         "precision": "zip-area",
         "matchStatus": "No_Match"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "alta-gardens-care-center-92843",
@@ -588,7 +622,8 @@
         "lon": -117.913086,
         "precision": "address-range",
         "matchedAddress": "13075 BLACKBIRD ST, GARDEN GROVE, CA, 92843"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "laguna-hills-health-and-rehabilitation-center-92653",
@@ -605,7 +640,8 @@
         "lon": -117.708014,
         "precision": "address-range",
         "matchedAddress": "24452 HEALTH CENTER DR, LAGUNA HILLS, CA, 92653"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "seal-beach-health-and-rehabilitation-center-90740",
@@ -622,7 +658,8 @@
         "lon": -118.083232,
         "precision": "address-range",
         "matchedAddress": "3000 BEVERLY MANOR DR, SEAL BEACH, CA, 90740"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "the-pines-at-placerville-95667",
@@ -640,7 +677,8 @@
         "precision": "address-range",
         "matchedAddress": "1040 MARSHALL WAY, PLACERVILLE, CA, 95667"
       },
-      "sourceCounty": "Placer"
+      "sourceCounty": "Placer",
+      "earnAndLearn": true
     },
     {
       "id": "western-slope-health-center-95667",
@@ -658,7 +696,8 @@
         "precision": "address-range",
         "matchedAddress": "3280 WASHINGTON ST, PLACERVILLE, CA, 95667"
       },
-      "sourceCounty": "Placer"
+      "sourceCounty": "Placer",
+      "earnAndLearn": true
     },
     {
       "id": "roseville-care-center-95661",
@@ -675,7 +714,8 @@
         "lon": -121.274375,
         "precision": "address-range",
         "matchedAddress": "1161 CIRBY WAY, ROSEVILLE, CA, 95661"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "seneca-healthcare-district-96020",
@@ -692,7 +732,8 @@
         "lon": -121.234703,
         "precision": "address-range",
         "matchedAddress": "130 BRENTWOOD DR, CHESTER, CA, 96020"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "corona-post-acute-92882",
@@ -709,7 +750,8 @@
         "lon": -117.57028,
         "precision": "address-range",
         "matchedAddress": "2600 S MAIN ST, CORONA, CA, 92882"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "river-city-post-acute-95608",
@@ -726,7 +768,8 @@
         "lon": -121.327567,
         "precision": "address-range",
         "matchedAddress": "2540 CARMICHAEL WAY, CARMICHAEL, CA, 95608"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "shandin-hills-behavioral-health-center-92407",
@@ -743,7 +786,8 @@
         "lon": -117.309345,
         "precision": "address-range",
         "matchedAddress": "4164 N 4TH AVE, SAN BERNARDINO, CA, 92407"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "fallbrook-skilled-nursing-92028",
@@ -760,7 +804,8 @@
         "lon": -117.242877,
         "precision": "address-range",
         "matchedAddress": "325 POTTER ST, FALLBROOK, CA, 92028"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "country-manor-la-mesa-healthcare-center-91942",
@@ -777,7 +822,8 @@
         "lon": -117.028226,
         "precision": "address-range",
         "matchedAddress": "5696 LAKE MURRAY BLVD, LA MESA, CA, 91942"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "san-francisco-campus-for-jewish-living-94112",
@@ -794,7 +840,8 @@
         "lon": -122.44317,
         "precision": "zip-area",
         "matchStatus": "No_Match"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "creekside-care-center-95209",
@@ -811,7 +858,8 @@
         "lon": -121.331856,
         "precision": "address-range",
         "matchedAddress": "9107 DAVIS RD, STOCKTON, CA, 95209"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "delta-oaks-post-acute-95207",
@@ -829,7 +877,8 @@
         "lon": -121.320949,
         "precision": "address-range",
         "matchedAddress": "6940 PACIFIC AVE, STOCKTON, CA, 95207"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "hampton-post-acute-95204",
@@ -846,7 +895,8 @@
         "lon": -121.29217,
         "precision": "address-range",
         "matchedAddress": "442 E HAMPTON ST, STOCKTON, CA, 95204"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "arroyo-grande-care-center-93420",
@@ -863,7 +913,8 @@
         "lon": -120.601412,
         "precision": "address-range",
         "matchedAddress": "1212 FARROLL AVE, ARROYO GRANDE, CA, 93420"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "coastal-oak-special-care-center-93422",
@@ -880,7 +931,8 @@
         "lon": -120.640788,
         "precision": "address-range",
         "matchedAddress": "10805 EL CAMINO REAL, ATASCADERO, CA, 93422"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "bayside-care-center-93442",
@@ -897,7 +949,8 @@
         "lon": -120.823178,
         "precision": "address-range",
         "matchedAddress": "1405 TERESA DR, MORRO BAY, CA, 93442"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "mission-view-health-center-93401",
@@ -914,7 +967,8 @@
         "lon": -120.638836,
         "precision": "address-range",
         "matchedAddress": "1425 WOODSIDE DR, SAN LUIS OBISPO, CA, 93401"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "san-luis-post-acute-center-93401",
@@ -931,7 +985,8 @@
         "lon": -120.640473,
         "precision": "address-range",
         "matchedAddress": "3033 AUGUSTA ST, SAN LUIS OBISPO, CA, 93401"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "vineyard-hills-health-center-93465",
@@ -948,7 +1003,8 @@
         "lon": -120.717702,
         "precision": "address-range",
         "matchedAddress": "290 HEATHER CT, TEMPLETON, CA, 93465"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "golden-heights-healthcare-94015",
@@ -965,7 +1021,8 @@
         "lon": -122.477769,
         "precision": "address-range",
         "matchedAddress": "35 ESCUELA DR, DALY CITY, CA, 94015"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "lompoc-valley-medical-center-93436",
@@ -982,7 +1039,8 @@
         "lon": -120.445174,
         "precision": "address-range",
         "matchedAddress": "216 N 3RD ST, LOMPOC, CA, 93436"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "mission-park-healthcare-center-93105",
@@ -999,7 +1057,8 @@
         "lon": -119.726968,
         "precision": "address-range",
         "matchedAddress": "623 W JUNIPERO ST, SANTA BARBARA, CA, 93105"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "skilled-nursing-at-covenant-living-at-samarkand-93105",
@@ -1016,7 +1075,8 @@
         "lon": -119.730289,
         "precision": "address-range",
         "matchedAddress": "2550 TREASURE DR, SANTA BARBARA, CA, 93105"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "redwood-grove-post-acute-95062",
@@ -1033,7 +1093,8 @@
         "lon": -121.984195,
         "precision": "address-range",
         "matchedAddress": "2990 SOQUEL AVE, SANTA CRUZ, CA, 95062"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "oak-river-rehab-96007",
@@ -1050,7 +1111,8 @@
         "lon": -122.311064,
         "precision": "address-range",
         "matchedAddress": "3300 FRANKLIN ST, ANDERSON, CA, 96007"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "copper-ridge-care-center-96002",
@@ -1067,7 +1129,8 @@
         "lon": -122.369272,
         "precision": "address-range",
         "matchedAddress": "201 HARTNELL AVE, REDDING, CA, 96002"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "crestwood-wellness-and-recovery-center-redding-96002",
@@ -1084,7 +1147,8 @@
         "lon": -122.353221,
         "precision": "address-range",
         "matchedAddress": "3062 CHURN CREEK RD, REDDING, CA, 96002"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "marquis-shasta-post-acute-rehab-96002",
@@ -1101,7 +1165,8 @@
         "lon": -122.353102,
         "precision": "address-range",
         "matchedAddress": "3550 CHURN CREEK RD, REDDING, CA, 96002"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "shasta-healthcare-96094",
@@ -1118,7 +1183,8 @@
         "lon": -122.386231,
         "precision": "address-range",
         "matchedAddress": "445 PARK ST, WEED, CA, 96094"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "crestwood-manor-modesto-95355",
@@ -1135,7 +1201,8 @@
         "lon": -120.973873,
         "precision": "address-range",
         "matchedAddress": "1400 CELESTE DR, MODESTO, CA, 95355"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "river-valley-care-center-95953",
@@ -1152,7 +1219,8 @@
         "lon": -121.660101,
         "precision": "address-range",
         "matchedAddress": "9000 LARKIN RD, LIVE OAK, CA, 95953"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "trinity-hospital-d-p-snf-96093",
@@ -1169,7 +1237,8 @@
         "lon": -122.939912,
         "precision": "address-range",
         "matchedAddress": "60 EASTER AVE, WEAVERVILLE, CA, 96093"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "golden-sonora-care-center-95370",
@@ -1186,7 +1255,8 @@
         "lon": -120.348066,
         "precision": "zip-area",
         "matchStatus": "No_Match"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "greenfield-care-center-of-fillmore-93015",
@@ -1203,7 +1273,8 @@
         "lon": -118.922095,
         "precision": "address-range",
         "matchedAddress": "118 B ST, FILLMORE, CA, 93015"
-      }
+      },
+      "earnAndLearn": true
     },
     {
       "id": "marysville-post-acute-95901",
@@ -1220,7 +1291,8 @@
         "lon": -121.583183,
         "precision": "address-range",
         "matchedAddress": "1617 RAMIREZ ST, MARYSVILLE, CA, 95901"
-      }
+      },
+      "earnAndLearn": true
     }
   ]
 }

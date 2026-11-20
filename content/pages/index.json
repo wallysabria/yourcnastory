@@ -69,7 +69,7 @@
     "path": "/community-resources/",
     "file": "content/pages/community-resources.json",
     "locale": "en",
-    "sha256": "ac25f3985e62991d7d92fdc6267a109e6c65f829aa98b57fdca28a792e5ba72d"
+    "sha256": "7b1ca8f8f3c7163626761aa51f82067835c1debd1244dc28eb2de8aa56fdf975"
   },
   {
     "path": "/privacy-policy/",
@@ -81,13 +81,13 @@
     "path": "/certified-nurse-assistant-program/",
     "file": "content/pages/certified-nurse-assistant-program.json",
     "locale": "en",
-    "sha256": "54265d346758581a21c5779831a8ac319319deec254c141498d31d19e22d88a3"
+    "sha256": "1f8ae013aab65af0c5364062a8c8fae8e4223028eb93073a5720c19d64f39edf"
   },
   {
     "path": "/cna-training-providers/",
     "file": "content/pages/cna-training-providers.json",
     "locale": "en",
-    "sha256": "171d10ba81d713fac9a854dc76b0954e6ebe38964f268316e024a3ce10570f6a"
+    "sha256": "acabbdf27b411b4ab14ce62e83b6b656bece9892ef0c10717cd0fc813853d336"
   },
   {
     "path": "/what-is-long-term-care/",
@@ -111,7 +111,7 @@
     "path": "/earn-and-learn/",
     "file": "content/pages/earn-and-learn.json",
     "locale": "en",
-    "sha256": "e031cb7db8066b0ece48bd05fdc386b2f92efff4c2740405f7eb3e6612785747"
+    "sha256": "2638859743e689bda8528b86691190de6b524113624e9266246b18b0aea71349"
   },
   {
     "path": "/es/",
@@ -129,7 +129,7 @@
     "path": "/es/recursos-comunitarios/",
     "file": "content/pages/es--recursos-comunitarios.json",
     "locale": "es",
-    "sha256": "281ecb8dc375a81c50ba4ee6e43037adb63428e5c72598e7837e6a117cdeb4f5"
+    "sha256": "203b43c62b7b2f8c8accd818ccbe10d57cfcf01b9cf533d35aa4bfcce09c468e"
   },
   {
     "path": "/es/caminos-profesionales-en-el-cuidado-a-largo-plazo/",
@@ -141,7 +141,7 @@
     "path": "/es/programa-cna/",
     "file": "content/pages/es--programa-cna.json",
     "locale": "es",
-    "sha256": "17918c82930f6f1dbffdbb471288a5805e714a9acf752bec747ba22c03db7387"
+    "sha256": "5c1942d1aeac1200841a5e0d85df6b8ef963689657f85d6e7efda3840d3d0679"
   },
   {
     "path": "/es/aspirantes/",
@@ -153,7 +153,7 @@
     "path": "/es/programa-cna-2/",
     "file": "content/pages/es--programa-cna-2.json",
     "locale": "es",
-    "sha256": "428280e53d47632518ceaf4f90aeca7c1ddf7a9a0bde1bc30ce108bffc3f0d1b"
+    "sha256": "023a8ac36b8d45f4cbfaffbd69bc0076c3e3ae744a79fb5b0eafd6fb8bfbc16f"
   },
   {
     "path": "/es/preguntas-frecuentes/",
@@ -225,7 +225,7 @@
     "path": "/es/earn-and-learn/",
     "file": "content/pages/es--earn-and-learn.json",
     "locale": "es",
-    "sha256": "ef4f1d28dd4d70027fdf7981d765745f7365d6efd5aba33c5386984963e5430d"
+    "sha256": "e5491aa403eda90450d457007dc7112de0556d87d1f6a86d039b6cdcbfce3421"
   },
   {
     "path": "/cna-certifications/",
@@ -237,7 +237,7 @@
     "path": "/employer-resources/",
     "file": "content/pages/employer-resources.json",
     "locale": "en",
-    "sha256": "2786838c2c97587509f2b37d3d20970ee987e8c0372a38da5e9a6f86eca457fb"
+    "sha256": "e6032fc2a48ddc78553fca3bd25b215c3e9162f2ca9fb9cb6097a10cca5738ce"
   },
   {
     "path": "/cnap-employer-signup/",
@@ -280,5 +280,17 @@
     "file": "content/pages/advocate.json",
     "locale": "en",
     "sha256": "e3a494c6931c3a50ffc0e9927d77f4020d7c56261e51d2d2d63745326fe66e93"
+  },
+  {
+    "path": "/find-a-training-facility/",
+    "file": "content/pages/find-a-training-facility.json",
+    "locale": "en",
+    "sha256": "b995d9e45565ab5f7ac6ca24a148365e62eb6117cd71341189808f9ea1a85481"
+  },
+  {
+    "path": "/es/encuentra-un-centro-de-capacitacion/",
+    "file": "content/pages/es--encuentra-un-centro-de-capacitacion.json",
+    "locale": "es",
+    "sha256": "743ae0f6ebdf5b55423dc905a7103ae3fc9a5c01f2e7cb9aa66021c612a1a94d"
   }
 ]

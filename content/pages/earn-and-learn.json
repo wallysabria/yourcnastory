@@ -4053,8 +4053,7 @@
                                                           "type": "element",
                                                           "tag": "a",
                                                           "attrs": {
-                                                            "href": "https://docs.google.com/spreadsheets/d/1izJ-UEb6VyigMTIaXrdvRtY7XgcT0qQd/edit?usp=sharing&ouid=116256928001491444929&rtpof=true&sd=true",
-                                                            "target": "_blank"
+                                                            "href": "/find-a-training-facility/"
                                                           },
                                                           "children": [
                                                             {
@@ -6393,7 +6392,7 @@
         "text": "CNAP EARN AND LEARN PROGRAM"
       },
       {
-        "href": "https://docs.google.com/spreadsheets/d/1izJ-UEb6VyigMTIaXrdvRtY7XgcT0qQd/edit?usp=sharing&ouid=116256928001491444929&rtpof=true&sd=true",
+        "href": "/find-a-training-facility/",
         "text": "  Find an Earn and Learn Training Facility  "
       },
       {

@@ -10,7 +10,7 @@ import {
 } from '@/lib/training-finder';
 import type { Locale } from '@/lib/content-schema';
 const pageSize = 9;
-const initialFilters = { query: '', city: '', county: '', radius: 25 };
+const initialFilters = { query: '', city: '', county: '', radius: 25, earnAndLearnOnly: false };
 const fill = (template: string, values: Record<string, string | number>) =>
   template.replace(/\{(\w+)\}/g, (_, key: string) => String(values[key] ?? ''));
 type ZipAreas = Record<string, [number, number]>;
@@ -113,7 +113,7 @@ export function TrainingFinder({ locale, facilities }: { locale: Locale; facilit
     >
       <div className="finder-intro">
         <p className="finder-eyebrow">{text.eyebrow}</p>
-        <h2 id={id + '-title'}>{text.title}</h2>
+        <h1 id={id + '-title'}>{text.title}</h1>
         <p>{text.intro}</p>
       </div>
       <form className="finder-form" onSubmit={search} aria-label={text.title} aria-busy={busy}>
@@ -166,6 +166,17 @@ export function TrainingFinder({ locale, facilities }: { locale: Locale; facilit
             />
           </div>
         </div>
+        <div className="finder-program">
+          <label className="finder-program-filter">
+            <input
+              type="checkbox"
+              checked={draft.earnAndLearnOnly}
+              disabled={busy}
+              onChange={(event) => setDraft({ ...draft, earnAndLearnOnly: event.target.checked })}
+            />
+            <span>{text.earnAndLearnOnly}</span>
+          </label>
+        </div>
         <div className="finder-secondary">
           <div className="finder-field">
             <label htmlFor={id + '-county'}>{text.county}</label>
@@ -213,7 +224,7 @@ export function TrainingFinder({ locale, facilities }: { locale: Locale; facilit
       </form>
       <div className="finder-results" aria-busy={busy}>
         <div className="finder-results-heading">
-          <h3>{text.results}</h3>
+          <h2>{text.results}</h2>
           <p role="status" aria-live="polite" aria-atomic="true">
             {fill(text.count, { shown: shown.length, count: results.length })}
           </p>
@@ -224,7 +235,7 @@ export function TrainingFinder({ locale, facilities }: { locale: Locale; facilit
         {applied.origin && <p className="finder-distance-note">{text.approximate}</p>}
         {results.length === 0 ? (
           <div className="finder-empty">
-            <h4>{text.empty}</h4>
+            <h3>{text.empty}</h3>
             <p>{text.emptyHelp}</p>
             <button type="button" className="finder-clear" onClick={clear}>
               {text.clear}
@@ -235,7 +246,10 @@ export function TrainingFinder({ locale, facilities }: { locale: Locale; facilit
             {shown.map((facility) => (
               <li key={facility.id} className="finder-card" data-facility-id={facility.id}>
                 <p className="finder-county">{facility.county}</p>
-                <h4>{facility.name}</h4>
+                <h3>{facility.name}</h3>
+                {facility.earnAndLearn === true && (
+                  <p className="finder-badge">{text.earnAndLearn}</p>
+                )}
                 <address>
                   {facility.address}
                   <br />

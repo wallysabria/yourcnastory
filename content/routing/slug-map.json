@@ -5128,5 +5128,43 @@
     },
     "heading": null,
     "anchors": []
+  },
+  {
+    "id": "/find-a-training-facility/",
+    "path": "/find-a-training-facility/",
+    "locale": "en",
+    "section": "career-seekers",
+    "counterpart": "/es/encuentra-un-centro-de-capacitacion/",
+    "template": "training-finder",
+    "metadata": {
+      "title": "Find a Training Facility - Your CNA Story",
+      "description": "Find a CNA training facility near you. Search by ZIP code, city, county, or facility name, and filter for Earn and Learn opportunities.",
+      "canonical": "https://yourcnastory.org/find-a-training-facility/",
+      "robots": "index, follow",
+      "ogTitle": "Find a Training Facility",
+      "ogDescription": "Find a CNA training facility near you. Search by ZIP code, city, county, or facility name, and filter for Earn and Learn opportunities.",
+      "ogImage": "https://yourcnastory.org/wp-content/uploads/2025/06/nurse-helping-elderly.jpg"
+    },
+    "heading": "Find a Training Facility",
+    "anchors": ["main", "content", "training-finder"]
+  },
+  {
+    "id": "/find-a-training-facility/",
+    "path": "/es/encuentra-un-centro-de-capacitacion/",
+    "locale": "es",
+    "section": "career-seekers",
+    "counterpart": "/find-a-training-facility/",
+    "template": "training-finder",
+    "metadata": {
+      "title": "Encuentra un centro de capacitación - Your CNA Story",
+      "description": "Encuentra un centro de capacitación de CNA cerca de ti. Busca por código postal, ciudad, condado o nombre del centro y filtra las opciones de Earn and Learn.",
+      "canonical": "https://yourcnastory.org/es/encuentra-un-centro-de-capacitacion/",
+      "robots": "index, follow",
+      "ogTitle": "Encuentra un centro de capacitación",
+      "ogDescription": "Encuentra un centro de capacitación de CNA cerca de ti. Busca por código postal, ciudad, condado o nombre del centro y filtra las opciones de Earn and Learn.",
+      "ogImage": "https://yourcnastory.org/wp-content/uploads/2025/06/nurse-helping-elderly.jpg"
+    },
+    "heading": "Encuentra un centro de capacitación",
+    "anchors": ["main", "content", "training-finder"]
   }
 ]

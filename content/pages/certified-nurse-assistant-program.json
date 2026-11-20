@@ -2495,8 +2495,7 @@
                                                           "type": "element",
                                                           "tag": "a",
                                                           "attrs": {
-                                                            "href": "https://docs.google.com/spreadsheets/d/1izJ-UEb6VyigMTIaXrdvRtY7XgcT0qQd/edit?usp=sharing&ouid=116256928001491444929&rtpof=true&sd=true",
-                                                            "target": "_blank"
+                                                            "href": "/find-a-training-facility/"
                                                           },
                                                           "children": [
                                                             {
@@ -6182,7 +6181,7 @@
         "text": "  An estimated 1.3 million people resided in nursing home facilities as of 2020Learn More "
       },
       {
-        "href": "https://docs.google.com/spreadsheets/d/1izJ-UEb6VyigMTIaXrdvRtY7XgcT0qQd/edit?usp=sharing&ouid=116256928001491444929&rtpof=true&sd=true",
+        "href": "/find-a-training-facility/",
         "text": "  Find an Earn and Learn Training Facility  "
       },
       {

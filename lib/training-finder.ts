@@ -8,6 +8,7 @@ export type Facility = {
   zip: string;
   phone: string;
   county: string;
+  earnAndLearn: boolean | null;
   location: Point & { precision: string };
 };
 export type FinderFilters = {
@@ -16,6 +17,7 @@ export type FinderFilters = {
   county: string;
   radius: number;
   origin?: Point;
+  earnAndLearnOnly?: boolean;
 };
 export function normalizeZip(value: string): string | null {
   const zip = value.trim();
@@ -38,6 +40,7 @@ const comparable = (text: string) =>
 export function findFacilities(facilities: Facility[], filters: FinderFilters) {
   const terms = comparable(filters.query.trim()).split(/\s+/).filter(Boolean);
   return facilities
+    .filter((facility) => !filters.earnAndLearnOnly || facility.earnAndLearn === true)
     .filter(
       (facility) =>
         (!filters.city || facility.city === filters.city) &&

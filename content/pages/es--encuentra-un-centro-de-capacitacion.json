@@ -1,0 +1,97 @@
+{
+  "routeId": "/find-a-training-facility/",
+  "path": "/es/encuentra-un-centro-de-capacitacion/",
+  "locale": "es",
+  "metadata": {
+    "title": "Encuentra un centro de capacitación - Your CNA Story",
+    "description": "Encuentra un centro de capacitación de CNA cerca de ti. Busca por código postal, ciudad, condado o nombre del centro y filtra las opciones de Earn and Learn.",
+    "canonical": "https://yourcnastory.org/es/encuentra-un-centro-de-capacitacion/",
+    "robots": "index, follow",
+    "ogTitle": "Encuentra un centro de capacitación",
+    "ogDescription": "Encuentra un centro de capacitación de CNA cerca de ti. Busca por código postal, ciudad, condado o nombre del centro y filtra las opciones de Earn and Learn.",
+    "ogImage": "https://yourcnastory.org/wp-content/uploads/2025/06/nurse-helping-elderly.jpg"
+  },
+  "blocks": [
+    {
+      "type": "document",
+      "nodes": [
+        {
+          "type": "element",
+          "tag": "div",
+          "attrs": {
+            "id": "main"
+          },
+          "children": [
+            {
+              "type": "element",
+              "tag": "div",
+              "attrs": {
+                "id": "content"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attrs": {
+                    "data-training-finder": "true"
+                  },
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "h1",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Encuentra un centro de capacitación"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Encuentra un centro de capacitación de CNA cerca de ti. Busca por código postal, ciudad, condado o nombre del centro y filtra las opciones de Earn and Learn."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Este directorio no es una lista completa de los programas de capacitación de CNA de California. La participación y la disponibilidad pueden cambiar. Comunícate con cada centro para confirmar las oportunidades de capacitación, los horarios y los requisitos."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "backgrounds": [],
+  "embeds": [],
+  "media": [],
+  "provenance": {
+    "url": "https://yourcnastory.org/es/encuentra-un-centro-de-capacitacion/",
+    "capturedAt": "2026-11-20T14:59:20.720Z",
+    "authority": "owner-approved-new-content",
+    "normalization": "New finder interface content; no legacy copy parity claimed.",
+    "textCharactersHash": "74ba8dce7f78d50f28b8eac0a5abd62ba7781946fde8eb20196422da6e3fe605"
+  },
+  "inventory": {
+    "text": "Encuentra un centro de capacitación Encuentra un centro de capacitación de CNA cerca de ti. Busca por código postal, ciudad, condado o nombre del centro y filtra las opciones de Earn and Learn. Este directorio no es una lista completa de los programas de capacitación de CNA de California. La participación y la disponibilidad pueden cambiar. Comunícate con cada centro para confirmar las oportunidades de capacitación, los horarios y los requisitos.",
+    "links": [],
+    "images": [],
+    "anchors": ["main", "content"]
+  }
+}

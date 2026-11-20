@@ -3649,8 +3649,7 @@
                                                           "type": "element",
                                                           "tag": "a",
                                                           "attrs": {
-                                                            "href": "https://docs.google.com/spreadsheets/d/1izJ-UEb6VyigMTIaXrdvRtY7XgcT0qQd/edit?usp=sharing&ouid=116256928001491444929&rtpof=true&sd=true",
-                                                            "target": "_blank"
+                                                            "href": "/es/encuentra-un-centro-de-capacitacion/"
                                                           },
                                                           "children": [
                                                             {
@@ -5907,7 +5906,7 @@
         "text": "PROGRAMA EARN AND LEARN DE CNAP"
       },
       {
-        "href": "https://docs.google.com/spreadsheets/d/1izJ-UEb6VyigMTIaXrdvRtY7XgcT0qQd/edit?usp=sharing&ouid=116256928001491444929&rtpof=true&sd=true",
+        "href": "/es/encuentra-un-centro-de-capacitacion/",
         "text": "  Encuentra un Centro de Capacitación \"Earn and Learn\"  "
       },
       {

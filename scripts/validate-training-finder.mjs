@@ -23,6 +23,10 @@ for (const facility of data.facilities) {
       ),
       'Unapproved phone correction',
     );
+  assert.ok(
+    Object.hasOwn(facility, 'earnAndLearn') && [true, false, null].includes(facility.earnAndLearn),
+    'Program classification must be explicit',
+  );
   assert.equal(facility.state, 'CA');
   assert.match(facility.zip, /^\d{5}(?:-\d{4})?$/);
   assert.match(facility.phone.replace(/\D/g, ''), /^1?\d{10}$/);

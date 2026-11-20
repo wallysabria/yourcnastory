@@ -21,12 +21,6 @@
   ],
   "documents": [
     {
-      "key": "document-1",
-      "host": "docs.google.com",
-      "path": "/spreadsheets/d/1izJ-UEb6VyigMTIaXrdvRtY7XgcT0qQd/edit",
-      "extension": "external-document"
-    },
-    {
       "key": "document-2",
       "host": "drive.google.com",
       "path": "/file/d/114OUsMQ6hWJjK9dYjgDSrZjI7I_wzzaa/view",

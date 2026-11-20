@@ -113,7 +113,7 @@ for (const row of index) {
       page.provenance.visibleTextCharactersHash || page.provenance.textCharactersHash,
     expectedMetadata = page.metadata,
     logged = true;
-  if (live || records.length) {
+  if ((live || records.length) && page.provenance.authority !== 'owner-approved-new-content') {
     let html;
     if (live) {
       const response = await fetch(origin + row.path);
@@ -139,7 +139,14 @@ for (const row of index) {
   const result = {
     url: origin + row.path,
     locale: row.locale,
-    mode: live ? 'fresh-live' : records.length ? 'captured-live' : 'committed-baseline',
+    mode:
+      page.provenance.authority === 'owner-approved-new-content'
+        ? 'owner-approved-new-content'
+        : live
+          ? 'fresh-live'
+          : records.length
+            ? 'captured-live'
+            : 'committed-baseline',
     text: actualInventory.text === baseline.text,
     exactTextCharacters: textHash === expectedTextHash,
     links: JSON.stringify(actualInventory.links) === JSON.stringify(baseline.links),

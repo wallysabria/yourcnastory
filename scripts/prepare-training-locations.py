@@ -14,6 +14,7 @@ corrections = json.loads(correction_path.read_text(encoding='utf8'))
 approved = {r['id']: r for r in corrections}
 phone_decisions = {r['id']: r for r in json.loads(pathlib.Path('content/training/phone-corrections.json').read_text(encoding='utf8'))}
 for record in data['facilities']:
+    if 'earnAndLearn' not in record: raise ValueError('Reimport with explicit --earn-and-learn yes/no/unknown classification')
     decision = phone_decisions.get(record['id'])
     if decision and record['phone'] == decision['sourcePhone']:
         record['sourcePhone'] = record['phone']; record['phone'] = decision['phone']

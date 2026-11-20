@@ -253,3 +253,18 @@ New bilingual finder approved by owner. Existing frozen Spanish page copy is unc
 | `unknownZip` | No pudimos localizar esa área postal. Algunos códigos postales no tienen un área del Censo. Prueba un código cercano o deja el campo vacío y busca por ciudad o condado. | New interface string; native-language review pending |
 | `loadError` | La búsqueda por código postal no está disponible en este momento. Inténtalo de nuevo o deja el campo vacío para buscar por ciudad o condado. | New interface string; native-language review pending |
 | `noScript` | Activa JavaScript para filtrar esta lista o usa la lista original de centros de capacitación enlazada arriba. | New interface string; native-language review pending |
+
+## Standalone training finder — 2026-11-20
+
+Owner requested a dedicated page and Earn and Learn filter/badges. New/updated interface wording for `/es/encuentra-un-centro-de-capacitacion/` follows; existing Spanish source-page labels and copy are unchanged (only the explicitly requested link destinations change).
+
+| Key | Exact Spanish text | Status |
+| --- | --- | --- |
+| `eyebrow` | CAPACITACIÓN DE CNA | Native review pending |
+| `title` | Encuentra un centro de capacitación | Native review pending |
+| `intro` | Encuentra un centro de capacitación de CNA cerca de ti. Busca por código postal, ciudad, condado o nombre del centro y filtra las opciones de Earn and Learn. | Native review pending |
+| `results` | Centros de capacitación | Native review pending |
+| `notice` | Este directorio no es una lista completa de los programas de capacitación de CNA de California. La participación y la disponibilidad pueden cambiar. Comunícate con cada centro para confirmar las oportunidades de capacitación, los horarios y los requisitos. | Native review pending |
+| `noScript` | Activa JavaScript para filtrar los centros. También puedes usar los enlaces de contacto de los centros que aparecen en esta página. | Native review pending |
+| `earnAndLearnOnly` | Solo Earn and Learn | Native review pending |
+| `earnAndLearn` | Earn and Learn | Native review pending |

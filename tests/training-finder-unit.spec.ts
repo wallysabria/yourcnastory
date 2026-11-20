@@ -59,3 +59,19 @@ test('fallback facilities remain discoverable and directions contain only facili
     expect(url.searchParams.has('origin')).toBe(false);
   }
 });
+
+test('Earn and Learn filter includes only confirmed providers, preserving unknown classifications', () => {
+  const fixture = [
+    { ...data.facilities[0], id: 'confirmed', earnAndLearn: true },
+    { ...data.facilities[0], id: 'not-offered', earnAndLearn: false },
+    { ...data.facilities[0], id: 'unknown', earnAndLearn: null },
+  ];
+  expect(findFacilities(fixture, filters)).toHaveLength(3);
+  expect(findFacilities(fixture, { ...filters, earnAndLearnOnly: true }).map((f) => f.id)).toEqual([
+    'confirmed',
+  ]);
+  expect(
+    findFacilities(fixture, { ...filters, earnAndLearnOnly: true, county: 'Not a county' }),
+  ).toEqual([]);
+  expect(data.facilities.every((f) => f.earnAndLearn === true)).toBe(true);
+});

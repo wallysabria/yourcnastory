@@ -40,7 +40,7 @@ export default async function RootLayout({
           homeHref={home?.path || '/'}
           showLanguageMenu={route?.section !== 'employers'}
           counterpartHref={counterpart?.section === 'employers' ? null : counterpart?.path || null}
-          transparent={true}
+          transparent={route?.template !== 'training-finder'}
         />
         {children}
         <div id="chat-root" data-chat-placeholder />

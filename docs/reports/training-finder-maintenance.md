@@ -2,9 +2,13 @@
 
 Public data: `content/training/facilities.json`. This is the single facility list used by both languages. Facility names, street addresses and phone numbers are not translated. Stable IDs use facility name plus five-digit ZIP; review ID changes when names or locations change.
 
+Standalone pages: `/find-a-training-facility/` and `/es/encuentra-un-centro-de-capacitacion/`. The existing training-provider pages are informational and link into these pages. The specific legacy partner spreadsheet link is replaced site-wide by locale; unrelated Google documents are unchanged.
+
+Every facility has an explicit `earnAndLearn` value: `true` (confirmed offered), `false` (confirmed not offered) or `null` (unknown). Only `true` receives the badge and appears with the Earn and Learn-only filter. All 71 facilities from the initial owner-provided workbook are confirmed `true`. Do not infer classification for subsequent files from names, geography or the previous import.
+
 ## Updating from Excel
 
-1. Keep the source XLSX private/untracked. Run `python scripts/import-training-partners.py "PATH_TO_WORKBOOK"` with Python 3. The importer reads the first sheet with the existing six-column layout (Facility Name, ADDRESS, CITY, ZIP, PHONE, COUNTY), supports shared and inline strings, preserves ZIP+4, normalizes numeric ZIP values, and rejects duplicate IDs/missing fields.
+1. Keep the source XLSX private/untracked. Run `python scripts/import-training-partners.py "PATH_TO_WORKBOOK" --earn-and-learn yes` with Python 3. Supply `yes`, `no` or `unknown` explicitly based on the new source/owner confirmation; the argument is required. The importer reads the first sheet with the existing six-column layout (Facility Name, ADDRESS, CITY, ZIP, PHONE, COUNTY), supports shared and inline strings, preserves ZIP+4, normalizes numeric ZIP values, and rejects duplicate IDs/missing fields.
 2. Staging and Census batch CSV are written to ignored `_source/training-finder/`. Nothing in that folder is committed.
 3. Submit only the public facility address CSV to the Census batch geocoder, not visitor data or the entire workbook:
    `curl --fail --form addressFile=@_source/training-finder/addresses.csv --form benchmark=4 --form vintage=4 https://geocoding.geo.census.gov/geocoder/geographies/addressbatch --output _source/training-finder/geocoded.csv`

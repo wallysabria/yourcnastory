@@ -682,5 +682,29 @@
       "logo": "https://yourcnastory.org/wp-content/uploads/2023/09/cnap-transparent-logo-v2.webp",
       "mainWidth": 390
     }
+  },
+  "/find-a-training-facility/": {
+    "desktop": {
+      "headerSpace": 120,
+      "logo": "/images/brand/cnap-logo-color.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "/images/brand/cnap-logo-color.webp",
+      "mainWidth": 390
+    }
+  },
+  "/es/encuentra-un-centro-de-capacitacion/": {
+    "desktop": {
+      "headerSpace": 120,
+      "logo": "/images/brand/cnap-logo-color.webp",
+      "mainWidth": 1440
+    },
+    "mobile": {
+      "headerSpace": 95,
+      "logo": "/images/brand/cnap-logo-color.webp",
+      "mainWidth": 390
+    }
   }
 }

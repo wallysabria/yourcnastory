@@ -1,3 +1,4 @@
+import finderPages from '../content/training/page-paths.json' with { type: 'json' };
 import svgTextCleanup from '../content/migration/svg-text-cleanup.json' with { type: 'json' };
 import jobboardPolicy from '../content/migration/jobboard-policy.json' with { type: 'json' };
 import fs from 'node:fs';
@@ -24,6 +25,17 @@ export function sourceDocument(html, url, { removeJobboard = false } = {}) {
     main = $('#main');
   if (main.length !== 1) throw Error('Missing unique #main: ' + url);
   main.find(ignored).remove();
+  // Owner-approved replacement of this specific public partner spreadsheet only.
+  main.find('a[href]').each((_, element) => {
+    const href = $(element).attr('href') || '';
+    if (href.includes('/spreadsheets/d/' + finderPages.legacySpreadsheetId + '/')) {
+      $(element).attr(
+        'href',
+        new URL(url).pathname.startsWith('/es/') ? finderPages.es : finderPages.en,
+      );
+      $(element).removeAttr('target').removeAttr('rel');
+    }
+  });
   // Owner-approved removal of leaked SVG styling, scoped to the 16 career pages.
   if (svgTextCleanup.paths.includes(new URL(url, origin).pathname)) {
     const clean = (node) => {

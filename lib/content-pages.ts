@@ -1,3 +1,5 @@
+import finderEn from '../content/pages/find-a-training-facility.json' with { type: 'json' };
+import finderEs from '../content/pages/es--encuentra-un-centro-de-capacitacion.json' with { type: 'json' };
 import { pageSchema } from './content-schema';
 import page0 from '../content/pages/careerpaths--careers-in-certified-nurse-assistant.json' with { type: 'json' };
 import page1 from '../content/pages/careerpaths--careers-in-nursing.json' with { type: 'json' };
@@ -47,6 +49,9 @@ import page54 from '../content/pages/employers.json' with { type: 'json' };
 import page55 from '../content/pages/train-and-gain.json' with { type: 'json' };
 import page56 from '../content/pages/advocate.json' with { type: 'json' };
 const pages: Record<string, unknown> = {
+  '/find-a-training-facility/': finderEn,
+  '/es/encuentra-un-centro-de-capacitacion/': finderEs,
+
   '/careerpaths/careers-in-certified-nurse-assistant/': page0,
   '/careerpaths/careers-in-nursing/': page1,
   '/careerpaths/careers-in-support-services/': page2,
