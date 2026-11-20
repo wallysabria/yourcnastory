@@ -378,7 +378,7 @@
                                                           "type": "element",
                                                           "tag": "a",
                                                           "attrs": {
-                                                            "href": "https://yourcnastory.org/es/programa-cna-2/"
+                                                            "href": "/es/encuentra-un-centro-de-capacitacion/"
                                                           },
                                                           "children": [
                                                             {
@@ -5878,7 +5878,7 @@
         "text": "Comienza tu carrera aquí"
       },
       {
-        "href": "https://yourcnastory.org/es/programa-cna-2/",
+        "href": "/es/encuentra-un-centro-de-capacitacion/",
         "text": "Busca un Programa de Capacitación"
       },
       {

@@ -414,7 +414,7 @@
                                                           "type": "element",
                                                           "tag": "a",
                                                           "attrs": {
-                                                            "href": "https://yourcnastory.org/cna-training-providers/"
+                                                            "href": "/find-a-training-facility/"
                                                           },
                                                           "children": [
                                                             {
@@ -1478,7 +1478,7 @@
                                                                           "type": "element",
                                                                           "tag": "a",
                                                                           "attrs": {
-                                                                            "href": "https://yourcnastory.org/cna-training-providers/"
+                                                                            "href": "/find-a-training-facility/"
                                                                           },
                                                                           "children": [
                                                                             {
@@ -8172,7 +8172,7 @@
         "text": "Start Your New Career"
       },
       {
-        "href": "https://yourcnastory.org/cna-training-providers/",
+        "href": "/find-a-training-facility/",
         "text": "Find a Training Provider "
       },
       {
@@ -8184,7 +8184,7 @@
         "text": "  Learn About CNAs and Long-Term Care  "
       },
       {
-        "href": "https://yourcnastory.org/cna-training-providers/",
+        "href": "/find-a-training-facility/",
         "text": "  Find a Training Provider Near You  "
       },
       {

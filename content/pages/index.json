@@ -57,7 +57,7 @@
     "path": "/career-seekers/",
     "file": "content/pages/career-seekers.json",
     "locale": "en",
-    "sha256": "569f024ea2ee450041cf5447414913f0a1eea1847bff7b9f4c42b22ae3668558"
+    "sha256": "b58020d27fe1e3880050a526c81b1e2f20e1d025f7af79a7a933a05c27f701da"
   },
   {
     "path": "/career-paths-in-long-term-care/",
@@ -81,7 +81,7 @@
     "path": "/certified-nurse-assistant-program/",
     "file": "content/pages/certified-nurse-assistant-program.json",
     "locale": "en",
-    "sha256": "1f8ae013aab65af0c5364062a8c8fae8e4223028eb93073a5720c19d64f39edf"
+    "sha256": "fc8dff917f8bdf9b8ff22b09be3be02fb05013206b57e2ed8b8ccfde127c609d"
   },
   {
     "path": "/cna-training-providers/",
@@ -99,19 +99,19 @@
     "path": "/career-advancement/",
     "file": "content/pages/career-advancement.json",
     "locale": "en",
-    "sha256": "d676cb32d59d61937a365f840628eb016484d5db55870d0332d3d8f4ef444347"
+    "sha256": "02956615eff33a4bb2584cb741239e0526f0cc03d767d8f08b9e14c19af90d0b"
   },
   {
     "path": "/frequently-asked-questions/",
     "file": "content/pages/frequently-asked-questions.json",
     "locale": "en",
-    "sha256": "8fc489b2a9d3ed03fd641950b810c7836c4ec5937847412d561cb322dfed279f"
+    "sha256": "5ca8e1e130245b84f5ca1bfa42c1f2e545ef1b3b341b6c57cfef4881aaf1925d"
   },
   {
     "path": "/earn-and-learn/",
     "file": "content/pages/earn-and-learn.json",
     "locale": "en",
-    "sha256": "2638859743e689bda8528b86691190de6b524113624e9266246b18b0aea71349"
+    "sha256": "7feac964c8daae69e40bc3ea4b4c4d1ba127407e77811bda41f8816a0146fa9e"
   },
   {
     "path": "/es/",
@@ -147,7 +147,7 @@
     "path": "/es/aspirantes/",
     "file": "content/pages/es--aspirantes.json",
     "locale": "es",
-    "sha256": "10d846284bf954fecc9c9acf3b6b5cf2f0192117ab4b1e5bec0c84abe36885ea"
+    "sha256": "d36aa288e0adcc0ed45f88d4d757198a93adebb4b853c2fa5608557bd0409235"
   },
   {
     "path": "/es/programa-cna-2/",
@@ -159,7 +159,7 @@
     "path": "/es/preguntas-frecuentes/",
     "file": "content/pages/es--preguntas-frecuentes.json",
     "locale": "es",
-    "sha256": "00dfd5391c6d1844fef3bddb9c7c01af23af9987edc4f20fbf62920008fa1609"
+    "sha256": "2f80f0438d9c6ecc7014262fb3008bdd82706bb6114167d0a1aaf8680cd5ba2f"
   },
   {
     "path": "/es/carreras/carreras-en-asistente-de-enfermeria-certificado/",
@@ -219,13 +219,13 @@
     "path": "/es/avance-profesional/",
     "file": "content/pages/es--avance-profesional.json",
     "locale": "es",
-    "sha256": "caef0d59afef01ecec4b42088597dda053bfae080d92b0a2546a41363bf10e0d"
+    "sha256": "a56c37daa43c1a640c705443fc98ca54fe100dda6f2214028414f5ba49146e3d"
   },
   {
     "path": "/es/earn-and-learn/",
     "file": "content/pages/es--earn-and-learn.json",
     "locale": "es",
-    "sha256": "e5491aa403eda90450d457007dc7112de0556d87d1f6a86d039b6cdcbfce3421"
+    "sha256": "d873c8dc070377fd62467409f856d68e59ef7e9ab8b5e0a77a6f75ad0c506b76"
   },
   {
     "path": "/cna-certifications/",

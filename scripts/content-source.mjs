@@ -1,3 +1,4 @@
+import finderCtas from '../content/migration/training-finder-ctas.json' with { type: 'json' };
 import finderPages from '../content/training/page-paths.json' with { type: 'json' };
 import svgTextCleanup from '../content/migration/svg-text-cleanup.json' with { type: 'json' };
 import jobboardPolicy from '../content/migration/jobboard-policy.json' with { type: 'json' };
@@ -36,6 +37,18 @@ export function sourceDocument(html, url, { removeJobboard = false } = {}) {
       $(element).removeAttr('target').removeAttr('rel');
     }
   });
+  // Owner-approved direct finder CTAs; exact page/label/href matches only.
+  const currentPath = new URL(url).pathname;
+  for (const rule of finderCtas.rules.filter((r) => r.path === currentPath)) {
+    main.find('a[href]').each((_, element) => {
+      const link = $(element);
+      if (link.attr('href') !== rule.from || normalize(link.text()) !== rule.text) return;
+      link.attr('href', rule.to).removeAttr('target').removeAttr('rel');
+      if (rule.label) link.find('.elementor-button-text').text(rule.label);
+    });
+  }
+  for (const rule of finderCtas.removeWidgets.filter((r) => r.path === currentPath))
+    for (const id of rule.ids) main.find('[data-id="' + id + '"]').remove();
   // Owner-approved removal of leaked SVG styling, scoped to the 16 career pages.
   if (svgTextCleanup.paths.includes(new URL(url, origin).pathname)) {
     const clean = (node) => {

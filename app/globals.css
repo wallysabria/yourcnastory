@@ -716,3 +716,11 @@
     }
   }
 }
+/* Owner-approved single Path 2 finder CTA: center the remaining pill. */
+.elementor-94350 .elementor-element-b3f0881 > .elementor-container > .elementor-column {
+  display: none;
+}
+.elementor-94350 .elementor-element-b3f0881 > .elementor-container > .elementor-element-1995cbb {
+  display: flex;
+  width: 100%;
+}

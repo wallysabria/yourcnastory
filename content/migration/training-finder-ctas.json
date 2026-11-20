@@ -1,0 +1,97 @@
+{
+  "approved": "Owner requested finder CTA simplification in chat, 2026-11-20",
+  "rules": [
+    {
+      "path": "/career-seekers/",
+      "from": "https://yourcnastory.org/cna-training-providers/",
+      "text": "Find a Training Provider",
+      "to": "/find-a-training-facility/"
+    },
+    {
+      "path": "/career-advancement/",
+      "from": "https://yourcnastory.org/cna-training-providers/",
+      "text": "Find a Training Provider",
+      "to": "/find-a-training-facility/"
+    },
+    {
+      "path": "/earn-and-learn/",
+      "from": "https://yourcnastory.org/cna-training-providers/",
+      "text": "Find a Training Provider",
+      "to": "/find-a-training-facility/"
+    },
+    {
+      "path": "/career-seekers/",
+      "from": "https://yourcnastory.org/cna-training-providers/",
+      "text": "Find a Training Provider Near You",
+      "to": "/find-a-training-facility/"
+    },
+    {
+      "path": "/career-advancement/",
+      "from": "https://yourcnastory.org/cna-training-providers/",
+      "text": "Find a Training Provider Near You",
+      "to": "/find-a-training-facility/"
+    },
+    {
+      "path": "/frequently-asked-questions/",
+      "from": "https://yourcnastory.org/cna-training-providers/",
+      "text": "Explore",
+      "to": "/find-a-training-facility/"
+    },
+    {
+      "path": "/es/aspirantes/",
+      "from": "https://yourcnastory.org/es/programa-cna-2/",
+      "text": "Busca un Programa de Capacitación",
+      "to": "/es/encuentra-un-centro-de-capacitacion/"
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "from": "https://yourcnastory.org/es/programa-cna-2/",
+      "text": "Busca un Programa de Capacitación",
+      "to": "/es/encuentra-un-centro-de-capacitacion/"
+    },
+    {
+      "path": "/es/earn-and-learn/",
+      "from": "https://yourcnastory.org/es/programa-cna-2/",
+      "text": "Busca un Programa de Capacitación",
+      "to": "/es/encuentra-un-centro-de-capacitacion/"
+    },
+    {
+      "path": "/es/aspirantes/",
+      "from": "https://yourcnastory.org/es/programa-cna-2/",
+      "text": "Encuentra un proveedor de capacitación cerca de ti",
+      "to": "/es/encuentra-un-centro-de-capacitacion/"
+    },
+    {
+      "path": "/es/avance-profesional/",
+      "from": "https://yourcnastory.org/es/programa-cna-2/",
+      "text": "Encuentra un proveedor de capacitación cerca de ti",
+      "to": "/es/encuentra-un-centro-de-capacitacion/"
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "from": "https://yourcnastory.org/es/programa-cna-2/",
+      "text": "Explora",
+      "to": "/es/encuentra-un-centro-de-capacitacion/"
+    },
+    {
+      "path": "/certified-nurse-assistant-program/",
+      "from": "/find-a-training-facility/",
+      "text": "Find an Earn and Learn Training Facility",
+      "to": "/find-a-training-facility/",
+      "label": "Find a Training Facility Near You"
+    },
+    {
+      "path": "/certified-nurse-assistant-program/",
+      "from": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Facility-Based-Nurse-Assistant-Training-Programs.aspx",
+      "text": "Find a Facility Based Training Program",
+      "to": "/find-a-training-facility/",
+      "label": "Find a Training Facility Near You"
+    }
+  ],
+  "removeWidgets": [
+    {
+      "path": "/certified-nurse-assistant-program/",
+      "ids": ["43ec06f", "ec4963f"]
+    }
+  ]
+}
