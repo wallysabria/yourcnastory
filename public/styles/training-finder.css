@@ -1,0 +1,67 @@
+.training-finder.training-finder {
+  width: min(1240px, calc(100% - 40px));
+  margin: 20px auto 72px;
+  color: #2c3338;
+  font-family: var(--font-body);
+  font-size: 16px;
+  line-height: 1.65;
+  scroll-margin-top: 130px;
+  text-align: left;
+}
+.training-finder *, .training-finder *::before, .training-finder *::after { box-sizing: border-box; }
+.training-finder .finder-intro { max-width: 780px; margin-bottom: 28px; }
+.training-finder .finder-eyebrow { font-size: 13px; font-weight: 800; letter-spacing: .13em; color: #0159d3; margin: 0 0 10px; }
+.training-finder h2 { font-size: clamp(26px, 3vw, 36px); font-weight: 700; line-height: 1.25; letter-spacing: -.025em; margin: 0 0 14px; color: #032c5c; }
+.training-finder p { margin: 0 0 12px; }
+.training-finder .finder-form { padding: 28px; background: #f1f6fc; border: 1px solid #d8e4f1; border-radius: 20px; margin: 0 0 34px; }
+.training-finder .finder-primary { display: grid; grid-template-columns: 1fr 1fr 1.5fr; gap: 18px; }
+.training-finder .finder-secondary { display: grid; grid-template-columns: 1fr 1fr 1.5fr; gap: 18px; align-items: start; margin-top: 18px; }
+.training-finder .finder-field { display: flex; flex-direction: column; min-width: 0; gap: 7px; }
+.training-finder label { color: #032c5c; font-size: 14px; font-weight: 700; line-height: 1.5; }
+.training-finder.training-finder input, .training-finder select { width: 100%; min-width: 0; height: 50px; padding: 10px 12px; margin: 0; border: 1px solid #73869a; border-radius: 8px; background: #fff; color: #2c3338; font: inherit; font-size: 16px; line-height: 1.4; box-shadow: none; }
+.training-finder.training-finder input[type='search'] { -webkit-appearance: none; appearance: none; }
+.training-finder.training-finder input[aria-invalid='true'] { border: 2px solid #a32328; }
+.training-finder select:disabled { background: #e8edf3; color: #52616f; opacity: 1; }
+.training-finder small { display: block; color: #4b5b6a; font-size: 12px; line-height: 1.5; }
+.training-finder button { font: inherit; font-size: 14px; line-height: 1.4; font-weight: 700; min-height: 48px; margin: 0; cursor: pointer; transition: background-color .15s ease; }
+.training-finder .finder-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; padding-top: 28px; }
+.training-finder .finder-submit, .training-finder .finder-more { background: #0159d3; color: #fff; border: 2px solid #0159d3; border-radius: 999px; padding: 11px 22px; }
+.training-finder .finder-submit:hover, .training-finder .finder-more:hover { background: #03459e; border-color: #03459e; }
+.training-finder .finder-clear { background: transparent; color: #034caa; border: 1px solid #7793b4; border-radius: 999px; padding: 11px 18px; }
+.training-finder .finder-clear:hover { background: #e2edfa; }
+.training-finder :is(input,select,button,a):focus-visible { outline: 3px solid #0056c7; outline-offset: 4px; }
+.training-finder button:disabled { cursor: wait; opacity: .7; }
+.training-finder .finder-privacy { font-size: 12px; line-height: 1.6; color: #4b5b6a; margin: 20px 0 0; }
+.training-finder .finder-error { color: #8a2025; font-size: 14px; margin: 16px 0 0; }
+.training-finder .finder-results-heading { display: flex; gap: 12px 24px; flex-wrap: wrap; align-items: baseline; justify-content: space-between; }
+.training-finder h3 { font-size: 23px; line-height: 1.4; color: #032c5c; margin: 0; font-weight: 700; }
+.training-finder .finder-results-heading p { font-size: 14px; margin: 0; color: #4b5b6a; }
+.training-finder .finder-search-summary { font-size: 14px; margin: 6px 0 20px; color: #4b5b6a; }
+.training-finder .finder-distance-note { font-size: 13px; margin: 0 0 20px; max-width: 800px; color: #4b5b6a; }
+.training-finder .finder-cards { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 20px; list-style: none; padding: 0; margin: 0; }
+.training-finder.training-finder .finder-card { list-style: none; display: flex; flex-direction: column; min-width: 0; margin: 0; padding: 24px; border: 1px solid #c8d8e8; border-radius: 16px; background: #fff; box-shadow: 0 4px 16px #032c5c08; }
+.training-finder .finder-county { font-size: 12px; line-height: 1.5; font-weight: 700; color: #034caa; margin: 0 0 9px; }
+.training-finder h4 { font-size: 18px; font-weight: 700; line-height: 1.45; color: #032c5c; margin: 0 0 14px; overflow-wrap: anywhere; }
+.training-finder address { font-style: normal; font-size: 14px; line-height: 1.7; margin: 0 0 16px; }
+.training-finder .finder-distance { margin: 0 0 18px; }
+.training-finder .finder-distance p { color: #032c5c; font-size: 14px; font-weight: 700; margin: 0; }
+.training-finder .finder-card-links { display: flex; flex-direction: column; align-items: flex-start; gap: 10px; margin-top: auto; padding-top: 10px; }
+.training-finder .finder-card-links a { display: inline-flex; align-items: center; flex-wrap: wrap; gap: 5px; min-height: 44px; color: #034caa; font-size: 14px; font-weight: 700; text-decoration: underline; text-underline-offset: 4px; }
+.training-finder .finder-more { display: block; margin: 28px auto 0; }
+.training-finder .finder-notice { border-top: 1px solid #d8e4f1; padding-top: 20px; margin: 30px 0 0; font-size: 13px; color: #4b5b6a; }
+.training-finder .finder-empty { border: 1px dashed #7793b4; padding: 28px; border-radius: 16px; background: #f8fafd; }
+@media (max-width: 1000px) {
+  .training-finder .finder-primary, .training-finder .finder-secondary { grid-template-columns: repeat(2,minmax(0,1fr)); }
+  .training-finder .finder-query, .training-finder .finder-actions { grid-column: 1/-1; }
+  .training-finder .finder-actions { padding-top: 0; }
+  .training-finder .finder-cards { grid-template-columns: repeat(2,minmax(0,1fr)); }
+}
+@media (max-width: 600px) {
+  .training-finder.training-finder { width: calc(100% - 32px); margin: 12px auto 48px; }
+  .training-finder .finder-form { padding: 20px 16px; border-radius: 16px; }
+  .training-finder .finder-primary, .training-finder .finder-secondary { grid-template-columns: minmax(0,1fr); gap: 16px; }
+  .training-finder .finder-cards { grid-template-columns: minmax(0,1fr); gap: 16px; }
+  .training-finder.training-finder .finder-card { padding: 22px; }
+  .training-finder .finder-actions { align-items: stretch; flex-direction: column; }
+}
+@media (prefers-reduced-motion: reduce) { .training-finder button { transition: none; } }

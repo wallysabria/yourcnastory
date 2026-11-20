@@ -119,3 +119,9 @@ No source page copy, metadata, documents or policy wording changed. Owner-approv
 ## Regional Earn and Learn consolidation — approved 2026-11-19
 
 Owner requested retirement of regional landing pages and permanent redirects to `/earn-and-learn/`. Removed five English and five Spanish regional pages (LA, Central Valley, Bay Area, NorCal, San Diego) from active routing, content loader and search inventory. General English and Spanish Earn and Learn pages remain. Slashed/slashless regional URLs and retired vi/zh aliases redirect directly to the English general page; existing redirect targets were flattened. Original uploads and historical audit evidence remain untouched.
+
+## Training finder dataset — owner approved 2026-11-20
+
+Add the 71 public Earn and Learn partners from the supplied workbook. Correct counties for Idylwood Care Center (Alameda → Santa Clara), The Pines at Placerville and Western Slope Health Center (Placer → El Dorado), per owner approval and Census address matches. Preserve original county values in the dataset and correction registry. Five unmatched/tied addresses retain their original public address and use a labeled ZIP-area distance fallback. Existing page copy and external program lists remain unchanged.
+
+Delta Oaks Post Acute: source phone `(209) 47-4817` was incomplete. Owner confirmed `209-477-4817`; corrected the public Call destination and preserved the original in `sourcePhone` and the approved correction registry. Official source: https://deltaoakspostacute.com/ .

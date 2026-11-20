@@ -1,0 +1,1226 @@
+{
+  "source": {
+    "filename": "1. Earn and Learn CNAP Partner List.xlsx",
+    "sha256": "671bc139e5385a3f5c7a452bc70a79bcd817b419bb463d292880cb065cf9a478",
+    "sheet": "2026 CA Earn & Learn CNAP Partn",
+    "importedAt": "2026-11-20",
+    "geocoder": "https://geocoding.geo.census.gov/geocoder/geographies/addressbatch",
+    "benchmark": "Public_AR_Current",
+    "vintage": "Current_Current",
+    "zipAreas": "https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2025_Gazetteer/2025_Gaz_zcta_national.zip",
+    "zipAreasSha256": "51516a4283bab5cd2376eec75609ddc4b363a18297e8adeeaac7b03cf7c84dbe"
+  },
+  "facilities": [
+    {
+      "id": "crestwood-manor-fremont-94538",
+      "name": "Crestwood Manor Fremont",
+      "address": "4303 Stevenson Blvd",
+      "city": "Fremont",
+      "state": "CA",
+      "zip": "94538",
+      "phone": "(510) 651-1244",
+      "county": "Alameda",
+      "sourceRow": 3,
+      "location": {
+        "lat": 37.536874,
+        "lon": -121.976328,
+        "precision": "address-range",
+        "matchedAddress": "4303 STEVENSON BLVD, FREMONT, CA, 94538"
+      }
+    },
+    {
+      "id": "hayward-post-acute-94544",
+      "name": "Hayward Post Acute",
+      "address": "25919 Gading Rd",
+      "city": "Hayward",
+      "state": "CA",
+      "zip": "94544",
+      "phone": "(510) 782-8424",
+      "county": "Alameda",
+      "sourceRow": 4,
+      "location": {
+        "lat": 37.646729,
+        "lon": -122.081356,
+        "precision": "address-range",
+        "matchedAddress": "25919 GADING RD, HAYWARD, CA, 94544"
+      }
+    },
+    {
+      "id": "idylwood-care-center-94087",
+      "name": "Idylwood Care Center",
+      "address": "1002 West Fremont Ave",
+      "city": "Sunnyvale",
+      "state": "CA",
+      "zip": "94087",
+      "phone": "(408) 739-2383",
+      "county": "Santa Clara",
+      "sourceRow": 5,
+      "location": {
+        "lat": 37.352013,
+        "lon": -122.055185,
+        "precision": "address-range",
+        "matchedAddress": "1002 W FREMONT AVE, SUNNYVALE, CA, 94087"
+      },
+      "sourceCounty": "Alameda"
+    },
+    {
+      "id": "arbor-post-acute-95928",
+      "name": "Arbor Post Acute",
+      "address": "1200 Springfield Dr.",
+      "city": "Chico",
+      "state": "CA",
+      "zip": "95928",
+      "phone": "(530) 342-4885",
+      "county": "Butte",
+      "sourceRow": 6,
+      "location": {
+        "lat": 39.734707,
+        "lon": -121.80224,
+        "precision": "address-range",
+        "matchedAddress": "1200 SPRINGFIELD DR, CHICO, CA, 95928"
+      }
+    },
+    {
+      "id": "almond-view-care-center-95987",
+      "name": "Almond View Care Center",
+      "address": "1224 E Street",
+      "city": "Williams",
+      "state": "CA",
+      "zip": "95987",
+      "phone": "(530) 473-5321",
+      "county": "Colusa",
+      "sourceRow": 7,
+      "location": {
+        "lat": 39.152524,
+        "lon": -122.156645,
+        "precision": "address-range",
+        "matchedAddress": "1224 E ST, WILLIAMS, CA, 95987"
+      }
+    },
+    {
+      "id": "diablo-valley-post-acute-94521",
+      "name": "Diablo Valley Post Acute",
+      "address": "3806 Clayton Rd",
+      "city": "Concord",
+      "state": "CA",
+      "zip": "94521",
+      "phone": "(925) 689-2266",
+      "county": "Contra Costa",
+      "sourceRow": 8,
+      "location": {
+        "lat": 37.96898,
+        "lon": -122.00576,
+        "precision": "address-range",
+        "matchedAddress": "3806 CLAYTON RD, CONCORD, CA, 94521"
+      }
+    },
+    {
+      "id": "crescent-city-skilled-nursing-95531",
+      "name": "Crescent City Skilled Nursing",
+      "address": "1280 Marshall St",
+      "city": "Crescent City",
+      "state": "CA",
+      "zip": "95531",
+      "phone": "(707) 464-6151",
+      "county": "Del Norte",
+      "sourceRow": 9,
+      "location": {
+        "lat": 41.76877,
+        "lon": -124.200429,
+        "precision": "address-range",
+        "matchedAddress": "1280 MARSHALL ST, CRESCENT CITY, CA, 95531"
+      }
+    },
+    {
+      "id": "southern-inyo-hospital-d-p-snf-93545",
+      "name": "Southern Inyo Hospital D/P SNF",
+      "address": "501 E. Locust Street",
+      "city": "Lone Pine",
+      "state": "CA",
+      "zip": "93545-1009",
+      "phone": "(760) 876-5501",
+      "county": "Inyo",
+      "sourceRow": 10,
+      "location": {
+        "lat": 36.608387,
+        "lon": -118.058081,
+        "precision": "address-range",
+        "matchedAddress": "501 E LOCUST ST, LONE PINE, CA, 93545"
+      }
+    },
+    {
+      "id": "delano-district-skilled-nursing-facility-93215",
+      "name": "Delano District Skilled Nursing Facility",
+      "address": "1509 Tokay Avenue",
+      "city": "Delano",
+      "state": "CA",
+      "zip": "93215",
+      "phone": "(661) 720-2100",
+      "county": "Kern",
+      "sourceRow": 11,
+      "location": {
+        "lat": 35.762254,
+        "lon": -119.237685,
+        "precision": "address-range",
+        "matchedAddress": "1509 TOKAY ST, DELANO, CA, 93215"
+      }
+    },
+    {
+      "id": "kern-valley-healthcare-district-93240",
+      "name": "Kern Valley Healthcare District",
+      "address": "6412 Laurel Ave",
+      "city": "Lake Isabella",
+      "state": "CA",
+      "zip": "93240",
+      "phone": "(760) 379-2681",
+      "county": "Kern",
+      "sourceRow": 12,
+      "location": {
+        "lat": 35.635319,
+        "lon": -118.406428,
+        "precision": "address-range",
+        "matchedAddress": "6412 LAUREL AVE, LAKE ISABELLA, CA, 93240"
+      }
+    },
+    {
+      "id": "bella-sera-93555",
+      "name": "Bella Sera",
+      "address": "1131 N China Lake Blvd",
+      "city": "Ridgecrest",
+      "state": "CA",
+      "zip": "93555-3131",
+      "phone": "(760) 446-3591",
+      "county": "Kern",
+      "sourceRow": 13,
+      "location": {
+        "lat": 35.641282,
+        "lon": -117.669938,
+        "precision": "address-range",
+        "matchedAddress": "1131 N CHINA LAKE BLVD, RIDGECREST, CA, 93555"
+      }
+    },
+    {
+      "id": "lassen-nursing-rehabilitaion-center-96130",
+      "name": "Lassen Nursing & Rehabilitaion Center",
+      "address": "2005 River St",
+      "city": "Susanville",
+      "state": "CA",
+      "zip": "96130",
+      "phone": "(530) 257-5341",
+      "county": "Lassen",
+      "sourceRow": 14,
+      "location": {
+        "lat": 40.4129,
+        "lon": -120.645985,
+        "precision": "address-range",
+        "matchedAddress": "2005 RIVER ST, SUSANVILLE, CA, 96130"
+      }
+    },
+    {
+      "id": "glendora-grand-91740",
+      "name": "Glendora Grand",
+      "address": "805 Arrow Hwy",
+      "city": "Glendora",
+      "state": "CA",
+      "zip": "91740",
+      "phone": "(626) 331-0781",
+      "county": "Los Angeles",
+      "sourceRow": 15,
+      "location": {
+        "lat": 34.119367,
+        "lon": -117.855054,
+        "precision": "zip-area",
+        "matchStatus": "Tie"
+      }
+    },
+    {
+      "id": "intercommunity-care-90815",
+      "name": "Intercommunity Care",
+      "address": "2626 Grand Ave",
+      "city": "Long Beach",
+      "state": "CA",
+      "zip": "90815",
+      "phone": "(562) 427-8915",
+      "county": "Los Angeles",
+      "sourceRow": 16,
+      "location": {
+        "lat": 33.804531,
+        "lon": -118.14757,
+        "precision": "address-range",
+        "matchedAddress": "2626 N GRAND AVE, LONG BEACH, CA, 90815"
+      }
+    },
+    {
+      "id": "atlantic-memorial-healthcare-center-90806",
+      "name": "Atlantic Memorial Healthcare Center",
+      "address": "2750 Atlantic Ave",
+      "city": "Long Beach",
+      "state": "CA",
+      "zip": "90806",
+      "phone": "(562) 424-8101",
+      "county": "Los Angeles",
+      "sourceRow": 17,
+      "location": {
+        "lat": 33.806701,
+        "lon": -118.184944,
+        "precision": "address-range",
+        "matchedAddress": "2750 ATLANTIC AVE, LONG BEACH, CA, 90806"
+      }
+    },
+    {
+      "id": "community-care-center-91010",
+      "name": "Community Care Center",
+      "address": "2335 S Mountain Ave",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "91010-3559",
+      "phone": "(626) 357-3207",
+      "county": "Los Angeles",
+      "sourceRow": 18,
+      "location": {
+        "lat": 34.122384,
+        "lon": -117.990515,
+        "precision": "address-range",
+        "matchedAddress": "2335 MOUNTAIN AVE, DUARTE, CA, 91010"
+      }
+    },
+    {
+      "id": "hollywood-premier-healthcare-center-90029",
+      "name": "Hollywood Premier Healthcare Center",
+      "address": "5400 Fountain Ave",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90029",
+      "phone": "(323) 465-2106",
+      "county": "Los Angeles",
+      "sourceRow": 19,
+      "location": {
+        "lat": 34.094914,
+        "lon": -118.307057,
+        "precision": "address-range",
+        "matchedAddress": "5400 FOUNTAIN AVE, LOS ANGELES, CA, 90029"
+      }
+    },
+    {
+      "id": "new-vista-post-acute-care-center-90025",
+      "name": "New Vista Post Acute Care Center",
+      "address": "1516 Sawtelle Blvd",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90025",
+      "phone": "(310) 477-5501",
+      "county": "Los Angeles",
+      "sourceRow": 20,
+      "location": {
+        "lat": 34.048163,
+        "lon": -118.449778,
+        "precision": "address-range",
+        "matchedAddress": "1516 SAWTELLE BLVD, LOS ANGELES, CA, 90025"
+      }
+    },
+    {
+      "id": "the-rehabilitation-center-on-pico-90019",
+      "name": "The Rehabilitation Center on Pico",
+      "address": "3233 W Pico Blvd",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90019",
+      "phone": "(323) 734-9122",
+      "county": "Los Angeles",
+      "sourceRow": 21,
+      "location": {
+        "lat": 34.047239,
+        "lon": -118.313177,
+        "precision": "address-range",
+        "matchedAddress": "3233 W PICO BLVD, LOS ANGELES, CA, 90019"
+      }
+    },
+    {
+      "id": "fountain-view-subacute-and-nursing-center-90029",
+      "name": "Fountain View Subacute and Nursing Center",
+      "address": "5310 Fountain Ave",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90029",
+      "phone": "(323) 461-9961",
+      "county": "Los Angeles",
+      "sourceRow": 22,
+      "location": {
+        "lat": 34.094994,
+        "lon": -118.30505,
+        "precision": "address-range",
+        "matchedAddress": "5310 FOUNTAIN AVE, LOS ANGELES, CA, 90029"
+      }
+    },
+    {
+      "id": "monrovia-gardens-healthcare-center-91016",
+      "name": "Monrovia Gardens Healthcare Center",
+      "address": "615 W Duarte Rd",
+      "city": "Monrovia",
+      "state": "CA",
+      "zip": "91016-4436",
+      "phone": "(626) 358-4547",
+      "county": "Los Angeles",
+      "sourceRow": 23,
+      "location": {
+        "lat": 34.132221,
+        "lon": -118.012324,
+        "precision": "address-range",
+        "matchedAddress": "615 W DUARTE RD, MONROVIA, CA, 91016"
+      }
+    },
+    {
+      "id": "broadway-healthcare-center-91776",
+      "name": "Broadway Healthcare Center",
+      "address": "112 E Broadway",
+      "city": "San Gabriel",
+      "state": "CA",
+      "zip": "91776",
+      "phone": "(626) 285-2165",
+      "county": "Los Angeles",
+      "sourceRow": 24,
+      "location": {
+        "lat": 34.098855,
+        "lon": -118.0994,
+        "precision": "address-range",
+        "matchedAddress": "112 E BROADWAY, SAN GABRIEL, CA, 91776"
+      }
+    },
+    {
+      "id": "whittier-nursing-and-wellness-center-90602",
+      "name": "Whittier Nursing and Wellness Center",
+      "address": "7926 Painter Ave",
+      "city": "Whittier",
+      "state": "CA",
+      "zip": "90602",
+      "phone": "(562) 693-5618",
+      "county": "Los Angeles",
+      "sourceRow": 25,
+      "location": {
+        "lat": 33.969471,
+        "lon": -118.032589,
+        "precision": "address-range",
+        "matchedAddress": "7926 PAINTER AVE, WHITTIER, CA, 90602"
+      }
+    },
+    {
+      "id": "modoc-medical-center-96101",
+      "name": "Modoc Medical Center",
+      "address": "1111 N Nagle Street",
+      "city": "Alturas",
+      "state": "CA",
+      "zip": "96101",
+      "phone": "(530) 708-8800",
+      "county": "Modoc",
+      "sourceRow": 26,
+      "location": {
+        "lat": 41.49139,
+        "lon": -120.552999,
+        "precision": "address-range",
+        "matchedAddress": "1111 N NAGLE ST, ALTURAS, CA, 96101"
+      }
+    },
+    {
+      "id": "surprise-valley-healthcare-distrct-snf-96104",
+      "name": "Surprise Valley Healthcare Distrct SNF",
+      "address": "741 Main St",
+      "city": "Cedarville",
+      "state": "CA",
+      "zip": "96104",
+      "phone": "(530) 279-6111",
+      "county": "Modoc",
+      "sourceRow": 27,
+      "location": {
+        "lat": 41.460183,
+        "lon": -120.129865,
+        "precision": "zip-area",
+        "matchStatus": "No_Match"
+      }
+    },
+    {
+      "id": "monterey-post-acute-93940",
+      "name": "Monterey Post Acute",
+      "address": "1575 Skyline Dr",
+      "city": "Monterey",
+      "state": "CA",
+      "zip": "93940",
+      "phone": "(831) 373-2731",
+      "county": "Monterey",
+      "sourceRow": 28,
+      "location": {
+        "lat": 36.592427,
+        "lon": -121.91741,
+        "precision": "address-range",
+        "matchedAddress": "1575 SKYLINE DR, MONTEREY, CA, 93940"
+      }
+    },
+    {
+      "id": "coastal-post-acute-93906",
+      "name": "Coastal Post Acute",
+      "address": "348 Iris Drive",
+      "city": "Salinas",
+      "state": "CA",
+      "zip": "93906",
+      "phone": "(831) 449-5496",
+      "county": "Monterey",
+      "sourceRow": 29,
+      "location": {
+        "lat": 36.693568,
+        "lon": -121.657561,
+        "precision": "address-range",
+        "matchedAddress": "348 IRIS DR, SALINAS, CA, 93906"
+      }
+    },
+    {
+      "id": "crystal-ridge-care-center-95945",
+      "name": "Crystal Ridge Care Center",
+      "address": "396 Dorsey Dr",
+      "city": "Grass Valley",
+      "state": "CA",
+      "zip": "95945",
+      "phone": "(530) 272-2273",
+      "county": "Nevada",
+      "sourceRow": 30,
+      "location": {
+        "lat": 39.227187,
+        "lon": -121.034083,
+        "precision": "address-range",
+        "matchedAddress": "396 DORSEY DR, GRASS VALLEY, CA, 95945"
+      }
+    },
+    {
+      "id": "golden-empire-95945",
+      "name": "Golden Empire",
+      "address": "121 Dorsey Dr",
+      "city": "Grass Valley",
+      "state": "CA",
+      "zip": "95945-5201",
+      "phone": "(530) 273-1316",
+      "county": "Nevada",
+      "sourceRow": 31,
+      "location": {
+        "lat": 39.229972,
+        "lon": -121.044089,
+        "precision": "address-range",
+        "matchedAddress": "121 DORSEY DR, GRASS VALLEY, CA, 95945"
+      }
+    },
+    {
+      "id": "anaheim-crest-92804",
+      "name": "Anaheim Crest",
+      "address": "3067 W Orange Ave",
+      "city": "Anaheim",
+      "state": "CA",
+      "zip": "92804",
+      "phone": "(714) 827-2440",
+      "county": "Orange",
+      "sourceRow": 32,
+      "location": {
+        "lat": 33.824767,
+        "lon": -117.996944,
+        "precision": "address-range",
+        "matchedAddress": "3067 W ORANGE AVE, ANAHEIM, CA, 92804"
+      }
+    },
+    {
+      "id": "buena-vista-care-center-92802",
+      "name": "Buena Vista Care Center",
+      "address": "1440 South Euclid St",
+      "city": "Anaheim",
+      "state": "CA",
+      "zip": "92802",
+      "phone": "(714) 535-7264",
+      "county": "Orange",
+      "sourceRow": 33,
+      "location": {
+        "lat": 33.811512,
+        "lon": -117.941345,
+        "precision": "address-range",
+        "matchedAddress": "1440 S EUCLID ST, ANAHEIM, CA, 92802"
+      }
+    },
+    {
+      "id": "anaheim-terrace-care-center-92804",
+      "name": "Anaheim Terrace Care Center",
+      "address": "141 S Knott Ave",
+      "city": "Anaheim",
+      "state": "CA",
+      "zip": "92804",
+      "phone": "(714) 821-7310",
+      "county": "Orange",
+      "sourceRow": 34,
+      "location": {
+        "lat": 33.8301,
+        "lon": -118.010996,
+        "precision": "address-range",
+        "matchedAddress": "141 S KNOTT AVE, ANAHEIM, CA, 92804"
+      }
+    },
+    {
+      "id": "healthcare-center-of-orange-county-90620",
+      "name": "Healthcare Center of Orange County",
+      "address": "9021 Knott Ave",
+      "city": "Buena Park",
+      "state": "CA",
+      "zip": "90620-4138",
+      "phone": "(714) 826-2330",
+      "county": "Orange",
+      "sourceRow": 35,
+      "location": {
+        "lat": 33.845223,
+        "lon": -118.015292,
+        "precision": "zip-area",
+        "matchStatus": "No_Match"
+      }
+    },
+    {
+      "id": "alta-gardens-care-center-92843",
+      "name": "Alta Gardens Care Center",
+      "address": "13075 Blackbird St",
+      "city": "Garden Grove",
+      "state": "CA",
+      "zip": "92843",
+      "phone": "(714) 530-6322",
+      "county": "Orange",
+      "sourceRow": 36,
+      "location": {
+        "lat": 33.77334,
+        "lon": -117.913086,
+        "precision": "address-range",
+        "matchedAddress": "13075 BLACKBIRD ST, GARDEN GROVE, CA, 92843"
+      }
+    },
+    {
+      "id": "laguna-hills-health-and-rehabilitation-center-92653",
+      "name": "Laguna Hills Health and Rehabilitation Center",
+      "address": "24452 Health Center Dr",
+      "city": "Laguna Hills",
+      "state": "CA",
+      "zip": "92653-3604",
+      "phone": "(949) 837-8000",
+      "county": "Orange",
+      "sourceRow": 37,
+      "location": {
+        "lat": 33.607943,
+        "lon": -117.708014,
+        "precision": "address-range",
+        "matchedAddress": "24452 HEALTH CENTER DR, LAGUNA HILLS, CA, 92653"
+      }
+    },
+    {
+      "id": "seal-beach-health-and-rehabilitation-center-90740",
+      "name": "Seal Beach Health and Rehabilitation Center",
+      "address": "3000 Beverly Manor Dr",
+      "city": "Seal Beach",
+      "state": "CA",
+      "zip": "90740",
+      "phone": "(562) 598-2477",
+      "county": "Orange",
+      "sourceRow": 38,
+      "location": {
+        "lat": 33.773893,
+        "lon": -118.083232,
+        "precision": "address-range",
+        "matchedAddress": "3000 BEVERLY MANOR DR, SEAL BEACH, CA, 90740"
+      }
+    },
+    {
+      "id": "the-pines-at-placerville-95667",
+      "name": "The Pines at Placerville",
+      "address": "1040 Marshall Way",
+      "city": "Placerville",
+      "state": "CA",
+      "zip": "95667",
+      "phone": "(530) 622-3400",
+      "county": "El Dorado",
+      "sourceRow": 39,
+      "location": {
+        "lat": 38.726148,
+        "lon": -120.792607,
+        "precision": "address-range",
+        "matchedAddress": "1040 MARSHALL WAY, PLACERVILLE, CA, 95667"
+      },
+      "sourceCounty": "Placer"
+    },
+    {
+      "id": "western-slope-health-center-95667",
+      "name": "Western Slope Health Center",
+      "address": "3280 Washington St",
+      "city": "Placerville",
+      "state": "CA",
+      "zip": "95667",
+      "phone": "(530) 662-6842",
+      "county": "El Dorado",
+      "sourceRow": 40,
+      "location": {
+        "lat": 38.722835,
+        "lon": -120.789361,
+        "precision": "address-range",
+        "matchedAddress": "3280 WASHINGTON ST, PLACERVILLE, CA, 95667"
+      },
+      "sourceCounty": "Placer"
+    },
+    {
+      "id": "roseville-care-center-95661",
+      "name": "Roseville Care Center",
+      "address": "1161 Cirby Way",
+      "city": "Roseville",
+      "state": "CA",
+      "zip": "95661",
+      "phone": "(916) 782-1238",
+      "county": "Placer",
+      "sourceRow": 41,
+      "location": {
+        "lat": 38.72954,
+        "lon": -121.274375,
+        "precision": "address-range",
+        "matchedAddress": "1161 CIRBY WAY, ROSEVILLE, CA, 95661"
+      }
+    },
+    {
+      "id": "seneca-healthcare-district-96020",
+      "name": "Seneca Healthcare District",
+      "address": "130 Brentwood Dr",
+      "city": "Chester",
+      "state": "CA",
+      "zip": "96020",
+      "phone": "(833) 227-3743",
+      "county": "Plumas",
+      "sourceRow": 42,
+      "location": {
+        "lat": 40.30544,
+        "lon": -121.234703,
+        "precision": "address-range",
+        "matchedAddress": "130 BRENTWOOD DR, CHESTER, CA, 96020"
+      }
+    },
+    {
+      "id": "corona-post-acute-92882",
+      "name": "Corona Post Acute",
+      "address": "2600 S. Main Street",
+      "city": "Corona",
+      "state": "CA",
+      "zip": "92882",
+      "phone": "(951) 736-4700",
+      "county": "Riverside",
+      "sourceRow": 43,
+      "location": {
+        "lat": 33.850152,
+        "lon": -117.57028,
+        "precision": "address-range",
+        "matchedAddress": "2600 S MAIN ST, CORONA, CA, 92882"
+      }
+    },
+    {
+      "id": "river-city-post-acute-95608",
+      "name": "River City Post Acute",
+      "address": "2540 Carmichael Way",
+      "city": "Carmichael",
+      "state": "CA",
+      "zip": "95608",
+      "phone": "(916) 482-0465",
+      "county": "Sacramento",
+      "sourceRow": 44,
+      "location": {
+        "lat": 38.61049,
+        "lon": -121.327567,
+        "precision": "address-range",
+        "matchedAddress": "2540 CARMICHAEL WAY, CARMICHAEL, CA, 95608"
+      }
+    },
+    {
+      "id": "shandin-hills-behavioral-health-center-92407",
+      "name": "Shandin Hills Behavioral Health Center",
+      "address": "4164 North 4th Ave.",
+      "city": "San Bernardino",
+      "state": "CA",
+      "zip": "92407",
+      "phone": "(909) 886-6786",
+      "county": "San Bernardino",
+      "sourceRow": 45,
+      "location": {
+        "lat": 34.1711,
+        "lon": -117.309345,
+        "precision": "address-range",
+        "matchedAddress": "4164 N 4TH AVE, SAN BERNARDINO, CA, 92407"
+      }
+    },
+    {
+      "id": "fallbrook-skilled-nursing-92028",
+      "name": "Fallbrook Skilled Nursing",
+      "address": "325 Potter St",
+      "city": "Fallbrook",
+      "state": "CA",
+      "zip": "92028-3068",
+      "phone": "(760) 728-2330",
+      "county": "San Diego",
+      "sourceRow": 46,
+      "location": {
+        "lat": 33.379844,
+        "lon": -117.242877,
+        "precision": "address-range",
+        "matchedAddress": "325 POTTER ST, FALLBROOK, CA, 92028"
+      }
+    },
+    {
+      "id": "country-manor-la-mesa-healthcare-center-91942",
+      "name": "Country Manor La Mesa Healthcare Center",
+      "address": "5696 Lake Murray Blvd",
+      "city": "La Mesa",
+      "state": "CA",
+      "zip": "91942-1929",
+      "phone": "(619) 460-7871",
+      "county": "San Diego",
+      "sourceRow": 47,
+      "location": {
+        "lat": 32.783507,
+        "lon": -117.028226,
+        "precision": "address-range",
+        "matchedAddress": "5696 LAKE MURRAY BLVD, LA MESA, CA, 91942"
+      }
+    },
+    {
+      "id": "san-francisco-campus-for-jewish-living-94112",
+      "name": "San Francisco Campus for Jewish Living",
+      "address": "302 Silver Avenue",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94112",
+      "phone": "(415) 334-2500",
+      "county": "San Francisco",
+      "sourceRow": 48,
+      "location": {
+        "lat": 37.72054,
+        "lon": -122.44317,
+        "precision": "zip-area",
+        "matchStatus": "No_Match"
+      }
+    },
+    {
+      "id": "creekside-care-center-95209",
+      "name": "Creekside Care Center",
+      "address": "9107 Davis Rd",
+      "city": "Stockton",
+      "state": "CA",
+      "zip": "95209",
+      "phone": "(209) 478-6488",
+      "county": "San Joaquin",
+      "sourceRow": 49,
+      "location": {
+        "lat": 38.032847,
+        "lon": -121.331856,
+        "precision": "address-range",
+        "matchedAddress": "9107 DAVIS RD, STOCKTON, CA, 95209"
+      }
+    },
+    {
+      "id": "delta-oaks-post-acute-95207",
+      "name": "Delta Oaks Post Acute",
+      "address": "6940 Pacific Ave",
+      "city": "Stockton",
+      "state": "CA",
+      "zip": "95207",
+      "phone": "209-477-4817",
+      "county": "San Joaquin",
+      "sourceRow": 50,
+      "sourcePhone": "(209) 47-4817",
+      "location": {
+        "lat": 38.012759,
+        "lon": -121.320949,
+        "precision": "address-range",
+        "matchedAddress": "6940 PACIFIC AVE, STOCKTON, CA, 95207"
+      }
+    },
+    {
+      "id": "hampton-post-acute-95204",
+      "name": "Hampton Post Acute",
+      "address": "442 East Hampton Street",
+      "city": "Stockton",
+      "state": "CA",
+      "zip": "95204",
+      "phone": "(209) 466-0456",
+      "county": "San Joaquin",
+      "sourceRow": 51,
+      "location": {
+        "lat": 37.975217,
+        "lon": -121.29217,
+        "precision": "address-range",
+        "matchedAddress": "442 E HAMPTON ST, STOCKTON, CA, 95204"
+      }
+    },
+    {
+      "id": "arroyo-grande-care-center-93420",
+      "name": "Arroyo Grande Care Center",
+      "address": "1212 Farroll Ave",
+      "city": "Arroyo Grande",
+      "state": "CA",
+      "zip": "93420-3718",
+      "phone": "(805) 489-8137",
+      "county": "San Luis Obispo",
+      "sourceRow": 52,
+      "location": {
+        "lat": 35.110731,
+        "lon": -120.601412,
+        "precision": "address-range",
+        "matchedAddress": "1212 FARROLL AVE, ARROYO GRANDE, CA, 93420"
+      }
+    },
+    {
+      "id": "coastal-oak-special-care-center-93422",
+      "name": "Coastal Oak Special Care Center",
+      "address": "10805 El Camino Real",
+      "city": "Atascadero",
+      "state": "CA",
+      "zip": "93422",
+      "phone": "(805) 466-9254",
+      "county": "San Luis Obispo",
+      "sourceRow": 53,
+      "location": {
+        "lat": 35.456722,
+        "lon": -120.640788,
+        "precision": "address-range",
+        "matchedAddress": "10805 EL CAMINO REAL, ATASCADERO, CA, 93422"
+      }
+    },
+    {
+      "id": "bayside-care-center-93442",
+      "name": "Bayside Care Center",
+      "address": "1405 Teresa Dr",
+      "city": "Morro Bay",
+      "state": "CA",
+      "zip": "93442-2458",
+      "phone": "(805) 772-2237",
+      "county": "San Luis Obispo",
+      "sourceRow": 54,
+      "location": {
+        "lat": 35.364727,
+        "lon": -120.823178,
+        "precision": "address-range",
+        "matchedAddress": "1405 TERESA DR, MORRO BAY, CA, 93442"
+      }
+    },
+    {
+      "id": "mission-view-health-center-93401",
+      "name": "Mission View Health Center",
+      "address": "1425 Woodside Dr",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "zip": "93401",
+      "phone": "(805) 543-0210",
+      "county": "San Luis Obispo",
+      "sourceRow": 55,
+      "location": {
+        "lat": 35.265433,
+        "lon": -120.638836,
+        "precision": "address-range",
+        "matchedAddress": "1425 WOODSIDE DR, SAN LUIS OBISPO, CA, 93401"
+      }
+    },
+    {
+      "id": "san-luis-post-acute-center-93401",
+      "name": "San Luis Post Acute Center",
+      "address": "3033 Augusta St",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "zip": "93401-5820",
+      "phone": "(805) 544-5100",
+      "county": "San Luis Obispo",
+      "sourceRow": 56,
+      "location": {
+        "lat": 35.267066,
+        "lon": -120.640473,
+        "precision": "address-range",
+        "matchedAddress": "3033 AUGUSTA ST, SAN LUIS OBISPO, CA, 93401"
+      }
+    },
+    {
+      "id": "vineyard-hills-health-center-93465",
+      "name": "Vineyard Hills Health Center",
+      "address": "290 Heather Ct",
+      "city": "Templeton",
+      "state": "CA",
+      "zip": "93465-9738",
+      "phone": "(805) 434-3035",
+      "county": "San Luis Obispo",
+      "sourceRow": 57,
+      "location": {
+        "lat": 35.553559,
+        "lon": -120.717702,
+        "precision": "address-range",
+        "matchedAddress": "290 HEATHER CT, TEMPLETON, CA, 93465"
+      }
+    },
+    {
+      "id": "golden-heights-healthcare-94015",
+      "name": "Golden Heights Healthcare",
+      "address": "35 Escuela Dr.",
+      "city": "Daly City",
+      "state": "CA",
+      "zip": "94015",
+      "phone": "(650) 755-9515",
+      "county": "San Mateo",
+      "sourceRow": 58,
+      "location": {
+        "lat": 37.674562,
+        "lon": -122.477769,
+        "precision": "address-range",
+        "matchedAddress": "35 ESCUELA DR, DALY CITY, CA, 94015"
+      }
+    },
+    {
+      "id": "lompoc-valley-medical-center-93436",
+      "name": "Lompoc Valley Medical Center",
+      "address": "216 North Third St",
+      "city": "Lompoc",
+      "state": "CA",
+      "zip": "93436",
+      "phone": "(805) 737-3300",
+      "county": "Santa Barbara",
+      "sourceRow": 59,
+      "location": {
+        "lat": 34.640826,
+        "lon": -120.445174,
+        "precision": "address-range",
+        "matchedAddress": "216 N 3RD ST, LOMPOC, CA, 93436"
+      }
+    },
+    {
+      "id": "mission-park-healthcare-center-93105",
+      "name": "Mission Park Healthcare Center",
+      "address": "623 W Junipero St",
+      "city": "Santa Barbara",
+      "state": "CA",
+      "zip": "93105",
+      "phone": "(805) 682-7443",
+      "county": "Santa Barbara",
+      "sourceRow": 60,
+      "location": {
+        "lat": 34.427833,
+        "lon": -119.726968,
+        "precision": "address-range",
+        "matchedAddress": "623 W JUNIPERO ST, SANTA BARBARA, CA, 93105"
+      }
+    },
+    {
+      "id": "skilled-nursing-at-covenant-living-at-samarkand-93105",
+      "name": "Skilled Nursing at Covenant Living at Samarkand",
+      "address": "2550 Treasure Dr",
+      "city": "Santa Barbara",
+      "state": "CA",
+      "zip": "93105",
+      "phone": "(805) 319-4376",
+      "county": "Santa Barbara",
+      "sourceRow": 61,
+      "location": {
+        "lat": 34.429478,
+        "lon": -119.730289,
+        "precision": "address-range",
+        "matchedAddress": "2550 TREASURE DR, SANTA BARBARA, CA, 93105"
+      }
+    },
+    {
+      "id": "redwood-grove-post-acute-95062",
+      "name": "Redwood Grove Post Acute",
+      "address": "2990 Soquel Ave",
+      "city": "Santa Cruz",
+      "state": "CA",
+      "zip": "95062",
+      "phone": "(831) 479-9000",
+      "county": "Santa Cruz",
+      "sourceRow": 62,
+      "location": {
+        "lat": 36.986208,
+        "lon": -121.984195,
+        "precision": "address-range",
+        "matchedAddress": "2990 SOQUEL AVE, SANTA CRUZ, CA, 95062"
+      }
+    },
+    {
+      "id": "oak-river-rehab-96007",
+      "name": "Oak River Rehab",
+      "address": "3300 Franklin St",
+      "city": "Anderson",
+      "state": "CA",
+      "zip": "96007-3279",
+      "phone": "(530) 365-0025",
+      "county": "Shasta",
+      "sourceRow": 63,
+      "location": {
+        "lat": 40.448087,
+        "lon": -122.311064,
+        "precision": "address-range",
+        "matchedAddress": "3300 FRANKLIN ST, ANDERSON, CA, 96007"
+      }
+    },
+    {
+      "id": "copper-ridge-care-center-96002",
+      "name": "Copper Ridge Care Center",
+      "address": "201 Hartnell Ave",
+      "city": "Redding",
+      "state": "CA",
+      "zip": "96002",
+      "phone": "(530) 222-2273",
+      "county": "Shasta",
+      "sourceRow": 64,
+      "location": {
+        "lat": 40.567855,
+        "lon": -122.369272,
+        "precision": "address-range",
+        "matchedAddress": "201 HARTNELL AVE, REDDING, CA, 96002"
+      }
+    },
+    {
+      "id": "crestwood-wellness-and-recovery-center-redding-96002",
+      "name": "Crestwood Wellness and Recovery Center - Redding",
+      "address": "3062 Churn Creek Road",
+      "city": "Redding",
+      "state": "CA",
+      "zip": "96002",
+      "phone": "(530) 221-0976",
+      "county": "Shasta",
+      "sourceRow": 65,
+      "location": {
+        "lat": 40.562816,
+        "lon": -122.353221,
+        "precision": "address-range",
+        "matchedAddress": "3062 CHURN CREEK RD, REDDING, CA, 96002"
+      }
+    },
+    {
+      "id": "marquis-shasta-post-acute-rehab-96002",
+      "name": "Marquis Shasta Post Acute Rehab",
+      "address": "3550 Churn Crk Rd",
+      "city": "Redding",
+      "state": "CA",
+      "zip": "96002",
+      "phone": "(530) 222-3630",
+      "county": "Shasta",
+      "sourceRow": 66,
+      "location": {
+        "lat": 40.55616,
+        "lon": -122.353102,
+        "precision": "address-range",
+        "matchedAddress": "3550 CHURN CREEK RD, REDDING, CA, 96002"
+      }
+    },
+    {
+      "id": "shasta-healthcare-96094",
+      "name": "Shasta Healthcare",
+      "address": "445 Park Street",
+      "city": "Weed",
+      "state": "CA",
+      "zip": "96094",
+      "phone": "(530) 938-4429",
+      "county": "Siskiyou",
+      "sourceRow": 67,
+      "location": {
+        "lat": 41.426369,
+        "lon": -122.386231,
+        "precision": "address-range",
+        "matchedAddress": "445 PARK ST, WEED, CA, 96094"
+      }
+    },
+    {
+      "id": "crestwood-manor-modesto-95355",
+      "name": "Crestwood Manor Modesto",
+      "address": "1400 Celeste Dr",
+      "city": "Modesto",
+      "state": "CA",
+      "zip": "95355-5041",
+      "phone": "(209) 526-8050",
+      "county": "Stanislaus",
+      "sourceRow": 68,
+      "location": {
+        "lat": 37.671956,
+        "lon": -120.973873,
+        "precision": "address-range",
+        "matchedAddress": "1400 CELESTE DR, MODESTO, CA, 95355"
+      }
+    },
+    {
+      "id": "river-valley-care-center-95953",
+      "name": "River Valley Care Center",
+      "address": "9000 Larkin Rd",
+      "city": "Live Oak",
+      "state": "CA",
+      "zip": "95953",
+      "phone": "(530) 695-8020",
+      "county": "Sutter",
+      "sourceRow": 69,
+      "location": {
+        "lat": 39.261985,
+        "lon": -121.660101,
+        "precision": "address-range",
+        "matchedAddress": "9000 LARKIN RD, LIVE OAK, CA, 95953"
+      }
+    },
+    {
+      "id": "trinity-hospital-d-p-snf-96093",
+      "name": "Trinity Hospital D/P SNF",
+      "address": "60 Easter Ave",
+      "city": "Weaverville",
+      "state": "CA",
+      "zip": "96093",
+      "phone": "(530) 623-5541",
+      "county": "Trinity",
+      "sourceRow": 70,
+      "location": {
+        "lat": 40.737746,
+        "lon": -122.939912,
+        "precision": "address-range",
+        "matchedAddress": "60 EASTER AVE, WEAVERVILLE, CA, 96093"
+      }
+    },
+    {
+      "id": "golden-sonora-care-center-95370",
+      "name": "Golden Sonora Care Center",
+      "address": "19929 Greenley Rd",
+      "city": "Sonora",
+      "state": "CA",
+      "zip": "95370",
+      "phone": "(209) 533-2500",
+      "county": "Tuolumne",
+      "sourceRow": 71,
+      "location": {
+        "lat": 37.984401,
+        "lon": -120.348066,
+        "precision": "zip-area",
+        "matchStatus": "No_Match"
+      }
+    },
+    {
+      "id": "greenfield-care-center-of-fillmore-93015",
+      "name": "Greenfield Care Center of Fillmore",
+      "address": "118 B Street",
+      "city": "Fillmore",
+      "state": "CA",
+      "zip": "93015",
+      "phone": "(805) 524-5250",
+      "county": "Ventura",
+      "sourceRow": 72,
+      "location": {
+        "lat": 34.394111,
+        "lon": -118.922095,
+        "precision": "address-range",
+        "matchedAddress": "118 B ST, FILLMORE, CA, 93015"
+      }
+    },
+    {
+      "id": "marysville-post-acute-95901",
+      "name": "Marysville Post-Acute",
+      "address": "1617 Ramirez St",
+      "city": "Marysville",
+      "state": "CA",
+      "zip": "95901-4334",
+      "phone": "(530) 742-7311",
+      "county": "Yuba",
+      "sourceRow": 73,
+      "location": {
+        "lat": 39.153459,
+        "lon": -121.583183,
+        "precision": "address-range",
+        "matchedAddress": "1617 RAMIREZ ST, MARYSVILLE, CA, 95901"
+      }
+    }
+  ]
+}

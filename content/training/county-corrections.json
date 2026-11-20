@@ -1,0 +1,23 @@
+[
+  {
+    "id": "idylwood-care-center-94087",
+    "sourceCounty": "Alameda",
+    "county": "Santa Clara",
+    "countyFips": "06085",
+    "approved": "Owner approved verified Census county in chat, 2026-11-20"
+  },
+  {
+    "id": "the-pines-at-placerville-95667",
+    "sourceCounty": "Placer",
+    "county": "El Dorado",
+    "countyFips": "06017",
+    "approved": "Owner approved verified Census county in chat, 2026-11-20"
+  },
+  {
+    "id": "western-slope-health-center-95667",
+    "sourceCounty": "Placer",
+    "county": "El Dorado",
+    "countyFips": "06017",
+    "approved": "Owner approved verified Census county in chat, 2026-11-20"
+  }
+]

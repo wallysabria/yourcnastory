@@ -10,11 +10,11 @@ export default defineConfig({
   },
   projects: [
     { name: 'content', testMatch: 'content.spec.ts' },
-    { name: 'unit', testMatch: /(?:routing|signup|privacy)\.spec\.ts/ },
+    { name: 'unit', testMatch: /(?:routing|signup|privacy|training-finder-unit)\.spec\.ts/ },
     {
       name: 'chromium',
       testMatch:
-        /(?:layout|interactions|consent|seo|addon|employers|cusp-refresh|awards-refresh|gsc-cleanup)\.spec\.ts/,
+        /(?:layout|interactions|consent|seo|addon|employers|cusp-refresh|awards-refresh|gsc-cleanup|training-finder)\.spec\.ts/,
       use: { ...devices['Desktop Chrome'], viewport: { width: 1440, height: 1000 } },
     },
   ],

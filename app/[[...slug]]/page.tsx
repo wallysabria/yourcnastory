@@ -17,6 +17,10 @@ const awardsStyles = readFileSync(
   path.join(process.cwd(), 'public/styles/awards-refresh.css'),
   'utf8',
 );
+const trainingFinderStyles = readFileSync(
+  path.join(process.cwd(), 'public/styles/training-finder.css'),
+  'utf8',
+);
 export const dynamicParams = false;
 export function generateStaticParams() {
   return renderableRoutes().map((route) => ({ slug: route.path.split('/').filter(Boolean) }));
@@ -106,6 +110,9 @@ export default async function Page({ params }: { params: Promise<{ slug?: string
       {route.path === '/cnap-awards/' && (
         <style data-awards-refresh dangerouslySetInnerHTML={{ __html: awardsStyles }} />
       )}
+      {route.id === '/cna-training-providers/' && (
+        <style data-training-finder dangerouslySetInnerHTML={{ __html: trainingFinderStyles }} />
+      )}
       <div className="source-document">
         <div
           className={
@@ -128,6 +135,7 @@ export default async function Page({ params }: { params: Promise<{ slug?: string
                 ? block.nodes.map((node, i) =>
                     renderSourceNode(node, String(i), {
                       locale: route.locale,
+                      trainingFinder: route.id === '/cna-training-providers/',
                       layout,
                       headings,
                       toc,
