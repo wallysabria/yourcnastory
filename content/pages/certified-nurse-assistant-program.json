@@ -2518,7 +2518,7 @@
                                                                   "children": [
                                                                     {
                                                                       "type": "text",
-                                                                      "value": "Find an Earn and Learn Training Facility"
+                                                                      "value": "Find a Training Facility Near You"
                                                                     }
                                                                   ],
                                                                   "source": {
@@ -4676,8 +4676,7 @@
                                                           "type": "element",
                                                           "tag": "a",
                                                           "attrs": {
-                                                            "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Facility-Based-Nurse-Assistant-Training-Programs.aspx",
-                                                            "target": "_blank"
+                                                            "href": "/find-a-training-facility/"
                                                           },
                                                           "children": [
                                                             {
@@ -4700,7 +4699,7 @@
                                                                   "children": [
                                                                     {
                                                                       "type": "text",
-                                                                      "value": "Find a Facility Based Training Program"
+                                                                      "value": "Find a Training Facility Near You"
                                                                     }
                                                                   ],
                                                                   "source": {
@@ -4822,107 +4821,7 @@
                                           "type": "element",
                                           "tag": "div",
                                           "attrs": {},
-                                          "children": [
-                                            {
-                                              "type": "element",
-                                              "tag": "div",
-                                              "attrs": {},
-                                              "children": [
-                                                {
-                                                  "type": "element",
-                                                  "tag": "div",
-                                                  "attrs": {},
-                                                  "children": [
-                                                    {
-                                                      "type": "element",
-                                                      "tag": "div",
-                                                      "attrs": {},
-                                                      "children": [
-                                                        {
-                                                          "type": "text",
-                                                          "value": " "
-                                                        },
-                                                        {
-                                                          "type": "element",
-                                                          "tag": "a",
-                                                          "attrs": {
-                                                            "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Certified-Nurse-Assistant-Training-Programs.aspx",
-                                                            "target": "_blank"
-                                                          },
-                                                          "children": [
-                                                            {
-                                                              "type": "text",
-                                                              "value": " "
-                                                            },
-                                                            {
-                                                              "type": "element",
-                                                              "tag": "span",
-                                                              "attrs": {},
-                                                              "children": [
-                                                                {
-                                                                  "type": "text",
-                                                                  "value": " "
-                                                                },
-                                                                {
-                                                                  "type": "element",
-                                                                  "tag": "span",
-                                                                  "attrs": {},
-                                                                  "children": [
-                                                                    {
-                                                                      "type": "text",
-                                                                      "value": "Find a Community Based Training Program"
-                                                                    }
-                                                                  ],
-                                                                  "source": {
-                                                                    "elementorId": "",
-                                                                    "widget": "",
-                                                                    "classes": "elementor-button-text"
-                                                                  }
-                                                                },
-                                                                {
-                                                                  "type": "text",
-                                                                  "value": " "
-                                                                }
-                                                              ],
-                                                              "source": {
-                                                                "elementorId": "",
-                                                                "widget": "",
-                                                                "classes": "elementor-button-content-wrapper"
-                                                              }
-                                                            },
-                                                            {
-                                                              "type": "text",
-                                                              "value": " "
-                                                            }
-                                                          ],
-                                                          "source": {
-                                                            "elementorId": "",
-                                                            "widget": "",
-                                                            "classes": "elementor-button elementor-button-link elementor-size-lg"
-                                                          }
-                                                        }
-                                                      ],
-                                                      "source": {
-                                                        "elementorId": "",
-                                                        "widget": "",
-                                                        "classes": "elementor-button-wrapper"
-                                                      }
-                                                    }
-                                                  ],
-                                                  "source": {
-                                                    "elementorId": "",
-                                                    "widget": "",
-                                                    "classes": "elementor-widget-container"
-                                                  }
-                                                }
-                                              ],
-                                              "source": {
-                                                "elementorId": "43ec06f",
-                                                "widget": "button.default",
-                                                "classes": "elementor-element elementor-element-43ec06f elementor-align-center elementor-widget elementor-widget-button"
-                                              }
-                                            }
-                                          ],
+                                          "children": [],
                                           "source": {
                                             "elementorId": "",
                                             "widget": "",
@@ -4945,107 +4844,7 @@
                                           "type": "element",
                                           "tag": "div",
                                           "attrs": {},
-                                          "children": [
-                                            {
-                                              "type": "element",
-                                              "tag": "div",
-                                              "attrs": {},
-                                              "children": [
-                                                {
-                                                  "type": "element",
-                                                  "tag": "div",
-                                                  "attrs": {},
-                                                  "children": [
-                                                    {
-                                                      "type": "element",
-                                                      "tag": "div",
-                                                      "attrs": {},
-                                                      "children": [
-                                                        {
-                                                          "type": "text",
-                                                          "value": " "
-                                                        },
-                                                        {
-                                                          "type": "element",
-                                                          "tag": "a",
-                                                          "attrs": {
-                                                            "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Online-CNA-Training-Providers.aspx",
-                                                            "target": "_blank"
-                                                          },
-                                                          "children": [
-                                                            {
-                                                              "type": "text",
-                                                              "value": " "
-                                                            },
-                                                            {
-                                                              "type": "element",
-                                                              "tag": "span",
-                                                              "attrs": {},
-                                                              "children": [
-                                                                {
-                                                                  "type": "text",
-                                                                  "value": " "
-                                                                },
-                                                                {
-                                                                  "type": "element",
-                                                                  "tag": "span",
-                                                                  "attrs": {},
-                                                                  "children": [
-                                                                    {
-                                                                      "type": "text",
-                                                                      "value": "Find an Online Training Program"
-                                                                    }
-                                                                  ],
-                                                                  "source": {
-                                                                    "elementorId": "",
-                                                                    "widget": "",
-                                                                    "classes": "elementor-button-text"
-                                                                  }
-                                                                },
-                                                                {
-                                                                  "type": "text",
-                                                                  "value": " "
-                                                                }
-                                                              ],
-                                                              "source": {
-                                                                "elementorId": "",
-                                                                "widget": "",
-                                                                "classes": "elementor-button-content-wrapper"
-                                                              }
-                                                            },
-                                                            {
-                                                              "type": "text",
-                                                              "value": " "
-                                                            }
-                                                          ],
-                                                          "source": {
-                                                            "elementorId": "",
-                                                            "widget": "",
-                                                            "classes": "elementor-button elementor-button-link elementor-size-lg"
-                                                          }
-                                                        }
-                                                      ],
-                                                      "source": {
-                                                        "elementorId": "",
-                                                        "widget": "",
-                                                        "classes": "elementor-button-wrapper"
-                                                      }
-                                                    }
-                                                  ],
-                                                  "source": {
-                                                    "elementorId": "",
-                                                    "widget": "",
-                                                    "classes": "elementor-widget-container"
-                                                  }
-                                                }
-                                              ],
-                                              "source": {
-                                                "elementorId": "ec4963f",
-                                                "widget": "button.default",
-                                                "classes": "elementor-element elementor-element-ec4963f elementor-align-left elementor-widget elementor-widget-button"
-                                              }
-                                            }
-                                          ],
+                                          "children": [],
                                           "source": {
                                             "elementorId": "",
                                             "widget": "",
@@ -6155,10 +5954,10 @@
     "snapshotHash": "6dd22dd658d6c09d10c0aad537b75f7673e1e4df8601e46b6671eb06048ce166",
     "authority": "rendered-live-copy; owner approved 2026-11-07",
     "normalization": "DOM-decoded text; source text-node characters retained",
-    "textCharactersHash": "a8edb27a7762a04e6b6acfad86da1cda46589e75c5c12caee2f489851dfebe40"
+    "textCharactersHash": "639a658c5286d51b509a9e323722e59c48b8d61a248b75c268e853d0ca62a96f"
   },
   "inventory": {
-    "text": "Certified Nurse Assistant Program A resource to help you explore information about the CNA profession and how to begin your journey. Certified Nurse Assistant (CNA) Your first step in a rewarding career in healthcare Certified Nurse Assistants (CNAs) play a vital role in senior living communities. Today, the demand for compassionate and dedicated CNAs is higher than ever as more elderly individuals and people with disabilities need care in skilled nursing facilities in California. The U.S. senior population is growing rapidly Learn More An estimated 1.3 million people resided in nursing home facilities as of 2020 Learn More High Demand for CNAs in California The Certified Nurse Assistant Program (CNAP) offers resources to help you navigate the structured paths to become a CNA. With CNAP you can create your CNA story with confidence, unlocking a world of opportunities, and paving your way to success in the healthcare industry. Whether you choose the Earn and Learn path or follow the traditional self-funded path, CNAP provides support to training programs you need to start your career with confidence. CHOOSE YOUR PATH Path 1: Earn and Learn Take advantage of the California Department of Public Health (CDPH) approved Earn and Learn Programs that allow you to start your CNA journey with no prior experience. Through this pathway you can earn a wage while you learn, gaining practical experience and receiving valuable training from experienced professionals. Get Informed Decide if a rewarding career in healthcare is right for you. Get Hired Find an Earn and Learn healthcare facility that is hiring. Complete in-person clinical training while you work and get paid. Get Certified Pass CNA competency exam and obtain State Approval Certified Nurse Assistant. Cost - $130 Find an Earn and Learn Training Facility Why Choose Earn and Learn Launch a Career Begin a stable and rewarding career with growth potential. Earn a Competitive Salary Earn and Learn programs offer the opportunity to earn a salary while you receive training. Smooth Transition into the Workforce Transition directly from education to employment. Supportive Work Environment Work with employers who invest in CNA development. Guidance and Mentorship Learn from experienced professionals who prioritize training and your growth. CHOOSE YOUR PATH Path 2: Self-Funded Path If you prefer a traditional education route, you can complete a state-approved training program to become a CNA. Get Informed Decide if a rewarding career in healthcare is right for you. Get Trained Find a training provider near you and complete a state-approved 160-hour CNA training program. Timing: 6 weeks, full time or 12 weeks, part time. Cost: $1,200 - $2,565 Get Certified Pass CNA competency exam and obtain State Approval Certified Nurse Assistant. Cost - $130 Get Hired Find a long-term care facility that is hiring and submit your resume. Open positions available immediately. Find a Facility Based Training Program Find a Community Based Training Program Find an Online Training Program Timing Both training paths require a minimum of 160 hours total – 60 hours of theory and 100 hours of clinical practice approved by the California Department of Public Health. Most CNA training programs can take between 6-12 weeks, depending on if the classes are full-time or part-time. Many programs provide flexible options for people who are working or have other obligations. Download the CNA Upskilling Timeline Already certified? If you’re already a CNA, don’t miss out on the opportunities that await you. Employers understand the value of investing in their workforce, including experienced CNAs like you. Through the CNA Upskilling Program (CUSP), you’ll have the chance to advance through recognized levels of achievement based on your completed educational modules and work experience. As you progress, you’ll not only gain new certifications and skills, but also enjoy the financial rewards that come with each level of accomplishment. CUSP offers a pathway for your continued growth and professional advancement. Hey there! Ask me anything! × 1",
+    "text": "Certified Nurse Assistant Program A resource to help you explore information about the CNA profession and how to begin your journey. Certified Nurse Assistant (CNA) Your first step in a rewarding career in healthcare Certified Nurse Assistants (CNAs) play a vital role in senior living communities. Today, the demand for compassionate and dedicated CNAs is higher than ever as more elderly individuals and people with disabilities need care in skilled nursing facilities in California. The U.S. senior population is growing rapidly Learn More An estimated 1.3 million people resided in nursing home facilities as of 2020 Learn More High Demand for CNAs in California The Certified Nurse Assistant Program (CNAP) offers resources to help you navigate the structured paths to become a CNA. With CNAP you can create your CNA story with confidence, unlocking a world of opportunities, and paving your way to success in the healthcare industry. Whether you choose the Earn and Learn path or follow the traditional self-funded path, CNAP provides support to training programs you need to start your career with confidence. CHOOSE YOUR PATH Path 1: Earn and Learn Take advantage of the California Department of Public Health (CDPH) approved Earn and Learn Programs that allow you to start your CNA journey with no prior experience. Through this pathway you can earn a wage while you learn, gaining practical experience and receiving valuable training from experienced professionals. Get Informed Decide if a rewarding career in healthcare is right for you. Get Hired Find an Earn and Learn healthcare facility that is hiring. Complete in-person clinical training while you work and get paid. Get Certified Pass CNA competency exam and obtain State Approval Certified Nurse Assistant. Cost - $130 Find a Training Facility Near You Why Choose Earn and Learn Launch a Career Begin a stable and rewarding career with growth potential. Earn a Competitive Salary Earn and Learn programs offer the opportunity to earn a salary while you receive training. Smooth Transition into the Workforce Transition directly from education to employment. Supportive Work Environment Work with employers who invest in CNA development. Guidance and Mentorship Learn from experienced professionals who prioritize training and your growth. CHOOSE YOUR PATH Path 2: Self-Funded Path If you prefer a traditional education route, you can complete a state-approved training program to become a CNA. Get Informed Decide if a rewarding career in healthcare is right for you. Get Trained Find a training provider near you and complete a state-approved 160-hour CNA training program. Timing: 6 weeks, full time or 12 weeks, part time. Cost: $1,200 - $2,565 Get Certified Pass CNA competency exam and obtain State Approval Certified Nurse Assistant. Cost - $130 Get Hired Find a long-term care facility that is hiring and submit your resume. Open positions available immediately. Find a Training Facility Near You Timing Both training paths require a minimum of 160 hours total – 60 hours of theory and 100 hours of clinical practice approved by the California Department of Public Health. Most CNA training programs can take between 6-12 weeks, depending on if the classes are full-time or part-time. Many programs provide flexible options for people who are working or have other obligations. Download the CNA Upskilling Timeline Already certified? If you’re already a CNA, don’t miss out on the opportunities that await you. Employers understand the value of investing in their workforce, including experienced CNAs like you. Through the CNA Upskilling Program (CUSP), you’ll have the chance to advance through recognized levels of achievement based on your completed educational modules and work experience. As you progress, you’ll not only gain new certifications and skills, but also enjoy the financial rewards that come with each level of accomplishment. CUSP offers a pathway for your continued growth and professional advancement. Hey there! Ask me anything! × 1",
     "links": [
       {
         "href": "https://yourcnastory.org/certified-nurse-assistant-program/",
@@ -6182,19 +5981,11 @@
       },
       {
         "href": "/find-a-training-facility/",
-        "text": "  Find an Earn and Learn Training Facility  "
+        "text": "  Find a Training Facility Near You  "
       },
       {
-        "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Facility-Based-Nurse-Assistant-Training-Programs.aspx",
-        "text": "  Find a Facility Based Training Program  "
-      },
-      {
-        "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Certified-Nurse-Assistant-Training-Programs.aspx",
-        "text": "  Find a Community Based Training Program  "
-      },
-      {
-        "href": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/Online-CNA-Training-Providers.aspx",
-        "text": "  Find an Online Training Program  "
+        "href": "/find-a-training-facility/",
+        "text": "  Find a Training Facility Near You  "
       },
       {
         "href": "https://drive.google.com/file/d/1oRWGmAkiB2NhDsSIzmTk49G0yMp81iAn/view?usp=drive_link",

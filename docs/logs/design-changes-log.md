@@ -175,3 +175,7 @@ Standalone finder blue header — approved 2026-11-20: owner requested the same 
 ## Expanded training categories — approved 2026-11-20
 
 Owner requested all supplied CDPH online, community-based and facility-based programs in the finder. Add a Training type selector and corresponding card badges in both languages. Online provider cards show their source clinical cities/counties, website/contact links and expandable notes, without inventing physical campus coordinates. Keep confirmed Earn and Learn labels separate from training type. Preserve the approved blue header and existing responsive cards.
+
+## CNA Program finder CTAs — approved 2026-11-20
+
+Owner requested one pill per training path on /certified-nurse-assistant-program/: both read “Find a Training Facility Near You” and lead to /find-a-training-facility/. Replace Path 2’s three separate provider-type buttons with the single existing styled pill. Benefit: one clear route to the directory with all training types.
