@@ -102,40 +102,10 @@
     "sha256": "d676cb32d59d61937a365f840628eb016484d5db55870d0332d3d8f4ef444347"
   },
   {
-    "path": "/earn-and-learn-la/",
-    "file": "content/pages/earn-and-learn-la.json",
-    "locale": "en",
-    "sha256": "838a54bf6b4611c9580d35105f5bf196a3cb1529b1fcccfbfb59ee21cce7e13d"
-  },
-  {
     "path": "/frequently-asked-questions/",
     "file": "content/pages/frequently-asked-questions.json",
     "locale": "en",
     "sha256": "8fc489b2a9d3ed03fd641950b810c7836c4ec5937847412d561cb322dfed279f"
-  },
-  {
-    "path": "/earn-and-learn-cvalley/",
-    "file": "content/pages/earn-and-learn-cvalley.json",
-    "locale": "en",
-    "sha256": "3fb195ac520b858b8209b7455757dedaf54c4fd0800ad8942068bd49573f3204"
-  },
-  {
-    "path": "/earn-and-learn-bayarea/",
-    "file": "content/pages/earn-and-learn-bayarea.json",
-    "locale": "en",
-    "sha256": "fa5b6e4c7897b02ea8bbe3a00b0c46adb06479f07c1ad056e4174625af1ac06e"
-  },
-  {
-    "path": "/earn-and-learn-norcal/",
-    "file": "content/pages/earn-and-learn-norcal.json",
-    "locale": "en",
-    "sha256": "17ab5866e5c4e1901d77b49d77ea2068bf21b0ba4dd695e28bf524a87d779544"
-  },
-  {
-    "path": "/earn-and-learn-san-diego/",
-    "file": "content/pages/earn-and-learn-san-diego.json",
-    "locale": "en",
-    "sha256": "5ff11fd4c7ae038162c71b7fdd2a6ea587b1927ecc07df9f8cd956fbf26293d9"
   },
   {
     "path": "/earn-and-learn/",
@@ -250,36 +220,6 @@
     "file": "content/pages/es--avance-profesional.json",
     "locale": "es",
     "sha256": "caef0d59afef01ecec4b42088597dda053bfae080d92b0a2546a41363bf10e0d"
-  },
-  {
-    "path": "/es/ganar-y-aprender-la/",
-    "file": "content/pages/es--ganar-y-aprender-la.json",
-    "locale": "es",
-    "sha256": "c62e0c954b5b068089ffd0639487fcc82b21d9492f9089e9c1e9ebc1caffe0b8"
-  },
-  {
-    "path": "/es/gana-y-aprende-cvalley/",
-    "file": "content/pages/es--gana-y-aprende-cvalley.json",
-    "locale": "es",
-    "sha256": "748f74b98205721ea15f1894eb498903ed4dfcae59bfa25d31a645ef38ec275c"
-  },
-  {
-    "path": "/es/gana-y-aprende-bayarea/",
-    "file": "content/pages/es--gana-y-aprende-bayarea.json",
-    "locale": "es",
-    "sha256": "2ad41cf0340f055ec37a6177aa27c519422ec37e223970473883f5450152f550"
-  },
-  {
-    "path": "/es/earn-and-learn-norcal/",
-    "file": "content/pages/es--earn-and-learn-norcal.json",
-    "locale": "es",
-    "sha256": "9d4b93182894a2be41e556aef84cefc7492aff0802e8e6fe262ee28acdb83b17"
-  },
-  {
-    "path": "/es/gana-y-aprende-san-diego/",
-    "file": "content/pages/es--gana-y-aprende-san-diego.json",
-    "locale": "es",
-    "sha256": "5232e1b235fd630f012ea872121357a7b7c1363b245bfabc2000188854b724f1"
   },
   {
     "path": "/es/earn-and-learn/",

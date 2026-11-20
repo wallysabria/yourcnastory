@@ -1,5 +1,185 @@
 [
   {
+    "from": "/zh/earn-and-learn-san-diego",
+    "to": "/earn-and-learn/",
+    "status": 301,
+    "policy": "owner-approved-regional-consolidation"
+  },
+  {
+    "from": "/zh/earn-and-learn-san-diego/",
+    "to": "/earn-and-learn/",
+    "status": 301,
+    "policy": "owner-approved-regional-consolidation"
+  },
+  {
+    "from": "/vi/earn-and-learn-san-diego",
+    "to": "/earn-and-learn/",
+    "status": 301,
+    "policy": "owner-approved-regional-consolidation"
+  },
+  {
+    "from": "/vi/earn-and-learn-san-diego/",
+    "to": "/earn-and-learn/",
+    "status": 301,
+    "policy": "owner-approved-regional-consolidation"
+  },
+  {
+    "from": "/zh/earn-and-learn-norcal",
+    "to": "/earn-and-learn/",
+    "status": 301,
+    "policy": "owner-approved-regional-consolidation"
+  },
+  {
+    "from": "/zh/earn-and-learn-norcal/",
+    "to": "/earn-and-learn/",
+    "status": 301,
+    "policy": "owner-approved-regional-consolidation"
+  },
+  {
+    "from": "/vi/earn-and-learn-norcal",
+    "to": "/earn-and-learn/",
+    "status": 301,
+    "policy": "owner-approved-regional-consolidation"
+  },
+  {
+    "from": "/vi/earn-and-learn-norcal/",
+    "to": "/earn-and-learn/",
+    "status": 301,
+    "policy": "owner-approved-regional-consolidation"
+  },
+  {
+    "from": "/zh/earn-and-learn-bayarea",
+    "to": "/earn-and-learn/",
+    "status": 301,
+    "policy": "owner-approved-regional-consolidation"
+  },
+  {
+    "from": "/zh/earn-and-learn-bayarea/",
+    "to": "/earn-and-learn/",
+    "status": 301,
+    "policy": "owner-approved-regional-consolidation"
+  },
+  {
+    "from": "/vi/earn-and-learn-bayarea",
+    "to": "/earn-and-learn/",
+    "status": 301,
+    "policy": "owner-approved-regional-consolidation"
+  },
+  {
+    "from": "/vi/earn-and-learn-bayarea/",
+    "to": "/earn-and-learn/",
+    "status": 301,
+    "policy": "owner-approved-regional-consolidation"
+  },
+  {
+    "from": "/zh/earn-and-learn-cvalley",
+    "to": "/earn-and-learn/",
+    "status": 301,
+    "policy": "owner-approved-regional-consolidation"
+  },
+  {
+    "from": "/zh/earn-and-learn-cvalley/",
+    "to": "/earn-and-learn/",
+    "status": 301,
+    "policy": "owner-approved-regional-consolidation"
+  },
+  {
+    "from": "/vi/earn-and-learn-cvalley",
+    "to": "/earn-and-learn/",
+    "status": 301,
+    "policy": "owner-approved-regional-consolidation"
+  },
+  {
+    "from": "/vi/earn-and-learn-cvalley/",
+    "to": "/earn-and-learn/",
+    "status": 301,
+    "policy": "owner-approved-regional-consolidation"
+  },
+  {
+    "from": "/zh/earn-and-learn-la",
+    "to": "/earn-and-learn/",
+    "status": 301,
+    "policy": "owner-approved-regional-consolidation"
+  },
+  {
+    "from": "/zh/earn-and-learn-la/",
+    "to": "/earn-and-learn/",
+    "status": 301,
+    "policy": "owner-approved-regional-consolidation"
+  },
+  {
+    "from": "/vi/earn-and-learn-la",
+    "to": "/earn-and-learn/",
+    "status": 301,
+    "policy": "owner-approved-regional-consolidation"
+  },
+  {
+    "from": "/vi/earn-and-learn-la/",
+    "to": "/earn-and-learn/",
+    "status": 301,
+    "policy": "owner-approved-regional-consolidation"
+  },
+  {
+    "from": "/es/gana-y-aprende-san-diego/",
+    "to": "/earn-and-learn/",
+    "status": 301,
+    "policy": "owner-approved-regional-consolidation"
+  },
+  {
+    "from": "/es/earn-and-learn-norcal/",
+    "to": "/earn-and-learn/",
+    "status": 301,
+    "policy": "owner-approved-regional-consolidation"
+  },
+  {
+    "from": "/es/gana-y-aprende-bayarea/",
+    "to": "/earn-and-learn/",
+    "status": 301,
+    "policy": "owner-approved-regional-consolidation"
+  },
+  {
+    "from": "/es/gana-y-aprende-cvalley/",
+    "to": "/earn-and-learn/",
+    "status": 301,
+    "policy": "owner-approved-regional-consolidation"
+  },
+  {
+    "from": "/es/ganar-y-aprender-la/",
+    "to": "/earn-and-learn/",
+    "status": 301,
+    "policy": "owner-approved-regional-consolidation"
+  },
+  {
+    "from": "/earn-and-learn-san-diego/",
+    "to": "/earn-and-learn/",
+    "status": 301,
+    "policy": "owner-approved-regional-consolidation"
+  },
+  {
+    "from": "/earn-and-learn-norcal/",
+    "to": "/earn-and-learn/",
+    "status": 301,
+    "policy": "owner-approved-regional-consolidation"
+  },
+  {
+    "from": "/earn-and-learn-bayarea/",
+    "to": "/earn-and-learn/",
+    "status": 301,
+    "policy": "owner-approved-regional-consolidation"
+  },
+  {
+    "from": "/earn-and-learn-cvalley/",
+    "to": "/earn-and-learn/",
+    "status": 301,
+    "policy": "owner-approved-regional-consolidation"
+  },
+  {
+    "from": "/earn-and-learn-la/",
+    "to": "/earn-and-learn/",
+    "status": 301,
+    "policy": "owner-approved-regional-consolidation"
+  },
+  {
     "from": "/es/carreras-en-actividades",
     "to": "/es/carreras/carreras-en-actividades/",
     "status": 301,
@@ -313,9 +493,9 @@
   },
   {
     "from": "/earn-and-learn-la",
-    "to": "/earn-and-learn-la/",
+    "to": "/earn-and-learn/",
     "status": 301,
-    "policy": "trailing-slash"
+    "policy": "owner-approved-regional-consolidation"
   },
   {
     "from": "/frequently-asked-questions",
@@ -325,27 +505,27 @@
   },
   {
     "from": "/earn-and-learn-cvalley",
-    "to": "/earn-and-learn-cvalley/",
+    "to": "/earn-and-learn/",
     "status": 301,
-    "policy": "trailing-slash"
+    "policy": "owner-approved-regional-consolidation"
   },
   {
     "from": "/earn-and-learn-bayarea",
-    "to": "/earn-and-learn-bayarea/",
+    "to": "/earn-and-learn/",
     "status": 301,
-    "policy": "trailing-slash"
+    "policy": "owner-approved-regional-consolidation"
   },
   {
     "from": "/earn-and-learn-norcal",
-    "to": "/earn-and-learn-norcal/",
+    "to": "/earn-and-learn/",
     "status": 301,
-    "policy": "trailing-slash"
+    "policy": "owner-approved-regional-consolidation"
   },
   {
     "from": "/earn-and-learn-san-diego",
-    "to": "/earn-and-learn-san-diego/",
+    "to": "/earn-and-learn/",
     "status": 301,
-    "policy": "trailing-slash"
+    "policy": "owner-approved-regional-consolidation"
   },
   {
     "from": "/es",
@@ -1129,151 +1309,151 @@
   },
   {
     "from": "/es/ganar-y-aprender-la",
-    "to": "/es/ganar-y-aprender-la/",
+    "to": "/earn-and-learn/",
     "status": 301,
-    "policy": "trailing-slash"
+    "policy": "owner-approved-regional-consolidation"
   },
   {
     "from": "/vi/kiem-va-hoc-la/",
-    "to": "/earn-and-learn-la/",
+    "to": "/earn-and-learn/",
     "status": 301,
     "policy": "retired-language"
   },
   {
     "from": "/vi/kiem-va-hoc-la",
-    "to": "/earn-and-learn-la/",
+    "to": "/earn-and-learn/",
     "status": 301,
     "policy": "retired-language"
   },
   {
     "from": "/zh/%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0%e5%95%a6/",
-    "to": "/earn-and-learn-la/",
+    "to": "/earn-and-learn/",
     "status": 301,
     "policy": "retired-language"
   },
   {
     "from": "/zh/%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0%e5%95%a6",
-    "to": "/earn-and-learn-la/",
+    "to": "/earn-and-learn/",
     "status": 301,
     "policy": "retired-language"
   },
   {
     "from": "/es/gana-y-aprende-cvalley",
-    "to": "/es/gana-y-aprende-cvalley/",
+    "to": "/earn-and-learn/",
     "status": 301,
-    "policy": "trailing-slash"
+    "policy": "owner-approved-regional-consolidation"
   },
   {
     "from": "/vi/kiem-va-hoc-cvalley/",
-    "to": "/earn-and-learn-cvalley/",
+    "to": "/earn-and-learn/",
     "status": 301,
     "policy": "retired-language"
   },
   {
     "from": "/vi/kiem-va-hoc-cvalley",
-    "to": "/earn-and-learn-cvalley/",
+    "to": "/earn-and-learn/",
     "status": 301,
     "policy": "retired-language"
   },
   {
     "from": "/zh/%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0-cvalley/",
-    "to": "/earn-and-learn-cvalley/",
+    "to": "/earn-and-learn/",
     "status": 301,
     "policy": "retired-language"
   },
   {
     "from": "/zh/%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0-cvalley",
-    "to": "/earn-and-learn-cvalley/",
+    "to": "/earn-and-learn/",
     "status": 301,
     "policy": "retired-language"
   },
   {
     "from": "/es/gana-y-aprende-bayarea",
-    "to": "/es/gana-y-aprende-bayarea/",
+    "to": "/earn-and-learn/",
     "status": 301,
-    "policy": "trailing-slash"
+    "policy": "owner-approved-regional-consolidation"
   },
   {
     "from": "/vi/kiem-tien-va-hoc-tap-bayarea/",
-    "to": "/earn-and-learn-bayarea/",
+    "to": "/earn-and-learn/",
     "status": 301,
     "policy": "retired-language"
   },
   {
     "from": "/vi/kiem-tien-va-hoc-tap-bayarea",
-    "to": "/earn-and-learn-bayarea/",
+    "to": "/earn-and-learn/",
     "status": 301,
     "policy": "retired-language"
   },
   {
     "from": "/zh/%e5%9c%a8-bayarea-%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0/",
-    "to": "/earn-and-learn-bayarea/",
+    "to": "/earn-and-learn/",
     "status": 301,
     "policy": "retired-language"
   },
   {
     "from": "/zh/%e5%9c%a8-bayarea-%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0",
-    "to": "/earn-and-learn-bayarea/",
+    "to": "/earn-and-learn/",
     "status": 301,
     "policy": "retired-language"
   },
   {
     "from": "/es/earn-and-learn-norcal",
-    "to": "/es/earn-and-learn-norcal/",
+    "to": "/earn-and-learn/",
     "status": 301,
-    "policy": "trailing-slash"
+    "policy": "owner-approved-regional-consolidation"
   },
   {
     "from": "/vi/kiem-va-hoc-norcal/",
-    "to": "/earn-and-learn-norcal/",
+    "to": "/earn-and-learn/",
     "status": 301,
     "policy": "retired-language"
   },
   {
     "from": "/vi/kiem-va-hoc-norcal",
-    "to": "/earn-and-learn-norcal/",
+    "to": "/earn-and-learn/",
     "status": 301,
     "policy": "retired-language"
   },
   {
     "from": "/zh/%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0%e8%af%ba%e5%8d%a1%e5%b0%94/",
-    "to": "/earn-and-learn-norcal/",
+    "to": "/earn-and-learn/",
     "status": 301,
     "policy": "retired-language"
   },
   {
     "from": "/zh/%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0%e8%af%ba%e5%8d%a1%e5%b0%94",
-    "to": "/earn-and-learn-norcal/",
+    "to": "/earn-and-learn/",
     "status": 301,
     "policy": "retired-language"
   },
   {
     "from": "/es/gana-y-aprende-san-diego",
-    "to": "/es/gana-y-aprende-san-diego/",
+    "to": "/earn-and-learn/",
     "status": 301,
-    "policy": "trailing-slash"
+    "policy": "owner-approved-regional-consolidation"
   },
   {
     "from": "/vi/kiem-tien-va-hoc-hoi-tai-san-diego/",
-    "to": "/earn-and-learn-san-diego/",
+    "to": "/earn-and-learn/",
     "status": 301,
     "policy": "retired-language"
   },
   {
     "from": "/vi/kiem-tien-va-hoc-hoi-tai-san-diego",
-    "to": "/earn-and-learn-san-diego/",
+    "to": "/earn-and-learn/",
     "status": 301,
     "policy": "retired-language"
   },
   {
     "from": "/zh/%e5%9c%a3%e5%9c%b0%e4%ba%9a%e5%93%a5%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0/",
-    "to": "/earn-and-learn-san-diego/",
+    "to": "/earn-and-learn/",
     "status": 301,
     "policy": "retired-language"
   },
   {
     "from": "/zh/%e5%9c%a3%e5%9c%b0%e4%ba%9a%e5%93%a5%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0",
-    "to": "/earn-and-learn-san-diego/",
+    "to": "/earn-and-learn/",
     "status": 301,
     "policy": "retired-language"
   },
