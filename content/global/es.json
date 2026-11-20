@@ -198,6 +198,12 @@
               "employer": false
             },
             {
+              "label": "Encuentra un centro de capacitación",
+              "href": "/es/encuentra-un-centro-de-capacitacion/",
+              "employer": false,
+              "nested": true
+            },
+            {
               "label": "Proveedores de Capacitación",
               "href": "/es/recursos-comunitarios/#online-natps",
               "employer": false,
@@ -397,6 +403,12 @@
             {
               "label": "Recursos comunitarios",
               "href": "/es/recursos-comunitarios/",
+              "employer": false,
+              "children": []
+            },
+            {
+              "label": "Encuentra un centro de capacitación",
+              "href": "/es/encuentra-un-centro-de-capacitacion/",
               "employer": false,
               "children": []
             }

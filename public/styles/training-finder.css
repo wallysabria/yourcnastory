@@ -67,8 +67,6 @@
 @media (prefers-reduced-motion: reduce) { .training-finder button { transition: none; } }
 
 .training-finder .finder-program { margin-top: 16px; }
-.training-finder .finder-program-filter { display: inline-flex; align-items: center; gap: 10px; min-height: 44px; cursor: pointer; font-size: 15px; }
-.training-finder.training-finder input[type='checkbox'] { width: 22px; height: 22px; min-height: 22px; padding: 0; margin: 0; accent-color: #0159d3; flex-shrink: 0; }
 .training-finder .finder-badge { align-self: flex-start; padding: 4px 12px; border-radius: 999px; background: #e9f3ff; color: #034caa; font-size: 12px; font-weight: 800; margin: 0 0 14px; }
 .training-finder-page .training-finder { margin-top: 44px; }
 @media (max-width: 600px) { .training-finder-page .training-finder { margin-top: 28px; } }

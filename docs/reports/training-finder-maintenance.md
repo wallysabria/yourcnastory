@@ -33,3 +33,7 @@ content/training/cdph-listings.json retains all 717 original source rows, attach
 Training types are independent of Earn and Learn status. Online source records remain separate from physical sites, and clinical city/county lists are not paired into invented campuses. Campus consolidation requires matching normalized address/ZIP plus matching name or phone; all original row IDs must appear exactly once in sourceRefs. Source aliases and notes remain available on cards. Expired restrictions are displayed as dated source notes with confirmation requested, rather than current eligibility claims. Retain the owner-approved Reconsideration inclusion; do not automatically discard PO Boxes. An incomplete phone may be retained in the source audit but cannot produce a Call link; require another valid contact method.
 
 Online-only searches disable ZIP/radius. Combined searches rank mapped physical sites by distance and also include online/unmapped records with an explicit notice that those records are not mileage-filtered. City/county searches also cover online clinical areas. Run validation, lint/build and finder/content/SEO tests after every update.
+
+## Unified training selector (2026-11-20)
+
+Earn and Learn is a Training type dropdown choice, replacing the separate checkbox. It evaluates only earnAndLearn === true; it does not alter source trainingTypes. All other filters combine normally. Desktop/mobile resources menus link to the matching-language finder.

@@ -292,3 +292,7 @@ New or revised Spanish interface strings below require native review. Facility n
 | `websiteFacility`   | Visitar el sitio web de {name} (se abre en una pestaña nueva)                                                                                                                                                             | Native review pending |
 | `sourceNote`        | Nota de CDPH en inglés (confirma la situación actual)                                                                                                                                                                     | Native review pending |
 | `alsoListedAs`      | También aparece como                                                                                                                                                                                                      | Native review pending |
+
+## Finder navigation and type selector — 2026-11-20
+
+Reused existing interface label “Encuentra un centro de capacitación” for the requested Spanish menu link and “Earn and Learn” for the Training type choice. Removed the separate “Solo Earn and Learn” checkbox label. No newly translated strings. Existing native-review status remains pending.

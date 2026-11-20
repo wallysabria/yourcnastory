@@ -198,6 +198,12 @@
               "employer": false
             },
             {
+              "label": "Find a Training Facility",
+              "href": "/find-a-training-facility/",
+              "employer": false,
+              "nested": true
+            },
+            {
               "label": "CNA Training Providers",
               "href": "/community-resources/#online-natps",
               "employer": false,
@@ -397,6 +403,12 @@
             {
               "label": "Community Resources",
               "href": "/community-resources/",
+              "employer": false,
+              "children": []
+            },
+            {
+              "label": "Find a Training Facility",
+              "href": "/find-a-training-facility/",
               "employer": false,
               "children": []
             }

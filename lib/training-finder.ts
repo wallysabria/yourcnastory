@@ -25,9 +25,13 @@ export type FinderFilters = {
   county: string;
   radius: number;
   origin?: Point;
-  earnAndLearnOnly?: boolean;
   trainingType?: string;
 };
+export const matchesTrainingType = (facility: Facility, type?: string) =>
+  !type ||
+  (type === 'earn-and-learn'
+    ? facility.earnAndLearn === true
+    : facility.trainingTypes.includes(type));
 export const isOnlineProvider = (facility: Facility) =>
   facility.trainingTypes.includes('online') && !facility.address;
 export const facilityCities = (facility: Facility) => [
@@ -58,8 +62,7 @@ export function findFacilities(facilities: Facility[], filters: FinderFilters) {
   const terms = comparable(filters.query.trim()).split(/\s+/).filter(Boolean);
   const useDistance = !!filters.origin && filters.trainingType !== 'online';
   return facilities
-    .filter((f) => !filters.earnAndLearnOnly || f.earnAndLearn === true)
-    .filter((f) => !filters.trainingType || f.trainingTypes.includes(filters.trainingType))
+    .filter((f) => matchesTrainingType(f, filters.trainingType))
     .filter(
       (f) =>
         (!filters.city || facilityCities(f).includes(filters.city)) &&
