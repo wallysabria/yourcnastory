@@ -862,8 +862,7 @@
                                                                   "type": "element",
                                                                   "tag": "a",
                                                                   "attrs": {
-                                                                    "href": "https://docs.google.com/spreadsheets/d/1izJ-UEb6VyigMTIaXrdvRtY7XgcT0qQd/edit?usp=sharing&ouid=116256928001491444929&rtpof=true&sd=true",
-                                                                    "target": "_blank",
+                                                                    "href": "/find-a-training-facility/",
                                                                     "aria-label": "CNAP Earn and Learn Partners*"
                                                                   },
                                                                   "children": [
@@ -8505,7 +8504,7 @@
         "text": "  Facility-based Nurse Assistant Training Programs (Skilled Nursing Facilities) "
       },
       {
-        "href": "https://docs.google.com/spreadsheets/d/1izJ-UEb6VyigMTIaXrdvRtY7XgcT0qQd/edit?usp=sharing&ouid=116256928001491444929&rtpof=true&sd=true",
+        "href": "/find-a-training-facility/",
         "text": "  CNAP Earn and Learn Partners* "
       },
       {

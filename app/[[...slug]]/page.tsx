@@ -110,7 +110,7 @@ export default async function Page({ params }: { params: Promise<{ slug?: string
       {route.path === '/cnap-awards/' && (
         <style data-awards-refresh dangerouslySetInnerHTML={{ __html: awardsStyles }} />
       )}
-      {route.id === '/cna-training-providers/' && (
+      {route.template === 'training-finder' && (
         <style data-training-finder dangerouslySetInnerHTML={{ __html: trainingFinderStyles }} />
       )}
       <div className="source-document">
@@ -135,7 +135,7 @@ export default async function Page({ params }: { params: Promise<{ slug?: string
                 ? block.nodes.map((node, i) =>
                     renderSourceNode(node, String(i), {
                       locale: route.locale,
-                      trainingFinder: route.id === '/cna-training-providers/',
+                      trainingProviderPage: route.id === '/cna-training-providers/',
                       layout,
                       headings,
                       toc,

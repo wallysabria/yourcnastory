@@ -11,7 +11,7 @@
 .training-finder *, .training-finder *::before, .training-finder *::after { box-sizing: border-box; }
 .training-finder .finder-intro { max-width: 780px; margin-bottom: 28px; }
 .training-finder .finder-eyebrow { font-size: 13px; font-weight: 800; letter-spacing: .13em; color: #0159d3; margin: 0 0 10px; }
-.training-finder h2 { font-size: clamp(26px, 3vw, 36px); font-weight: 700; line-height: 1.25; letter-spacing: -.025em; margin: 0 0 14px; color: #032c5c; }
+.training-finder h1 { font-size: clamp(26px, 3vw, 36px); font-weight: 700; line-height: 1.25; letter-spacing: -.025em; margin: 0 0 14px; color: #032c5c; }
 .training-finder p { margin: 0 0 12px; }
 .training-finder .finder-form { padding: 28px; background: #f1f6fc; border: 1px solid #d8e4f1; border-radius: 20px; margin: 0 0 34px; }
 .training-finder .finder-primary { display: grid; grid-template-columns: 1fr 1fr 1.5fr; gap: 18px; }
@@ -34,14 +34,14 @@
 .training-finder .finder-privacy { font-size: 12px; line-height: 1.6; color: #4b5b6a; margin: 20px 0 0; }
 .training-finder .finder-error { color: #8a2025; font-size: 14px; margin: 16px 0 0; }
 .training-finder .finder-results-heading { display: flex; gap: 12px 24px; flex-wrap: wrap; align-items: baseline; justify-content: space-between; }
-.training-finder h3 { font-size: 23px; line-height: 1.4; color: #032c5c; margin: 0; font-weight: 700; }
+.training-finder h2 { font-size: 23px; line-height: 1.4; color: #032c5c; margin: 0; font-weight: 700; }
 .training-finder .finder-results-heading p { font-size: 14px; margin: 0; color: #4b5b6a; }
 .training-finder .finder-search-summary { font-size: 14px; margin: 6px 0 20px; color: #4b5b6a; }
 .training-finder .finder-distance-note { font-size: 13px; margin: 0 0 20px; max-width: 800px; color: #4b5b6a; }
 .training-finder .finder-cards { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 20px; list-style: none; padding: 0; margin: 0; }
 .training-finder.training-finder .finder-card { list-style: none; display: flex; flex-direction: column; min-width: 0; margin: 0; padding: 24px; border: 1px solid #c8d8e8; border-radius: 16px; background: #fff; box-shadow: 0 4px 16px #032c5c08; }
 .training-finder .finder-county { font-size: 12px; line-height: 1.5; font-weight: 700; color: #034caa; margin: 0 0 9px; }
-.training-finder h4 { font-size: 18px; font-weight: 700; line-height: 1.45; color: #032c5c; margin: 0 0 14px; overflow-wrap: anywhere; }
+.training-finder h3 { font-size: 18px; font-weight: 700; line-height: 1.45; color: #032c5c; margin: 0 0 14px; overflow-wrap: anywhere; }
 .training-finder address { font-style: normal; font-size: 14px; line-height: 1.7; margin: 0 0 16px; }
 .training-finder .finder-distance { margin: 0 0 18px; }
 .training-finder .finder-distance p { color: #032c5c; font-size: 14px; font-weight: 700; margin: 0; }
@@ -65,3 +65,31 @@
   .training-finder .finder-actions { align-items: stretch; flex-direction: column; }
 }
 @media (prefers-reduced-motion: reduce) { .training-finder button { transition: none; } }
+
+.training-finder .finder-program { margin-top: 16px; }
+.training-finder .finder-program-filter { display: inline-flex; align-items: center; gap: 10px; min-height: 44px; cursor: pointer; font-size: 15px; }
+.training-finder.training-finder input[type='checkbox'] { width: 22px; height: 22px; min-height: 22px; padding: 0; margin: 0; accent-color: #0159d3; flex-shrink: 0; }
+.training-finder .finder-badge { align-self: flex-start; padding: 4px 12px; border-radius: 999px; background: #e9f3ff; color: #034caa; font-size: 12px; font-weight: 800; margin: 0 0 14px; }
+.training-finder-page .training-finder { margin-top: 44px; }
+@media (max-width: 600px) { .training-finder-page .training-finder { margin-top: 28px; } }
+/* Owner-requested header, matching the training-providers title banner. */
+.finder-hero { position: relative; isolation: isolate; display: flex; align-items: center; justify-content: center; min-height: 362px; padding: 120px 24px 0; background: linear-gradient(90deg, #00347d 0%, #0159d3 100%); color: #fff; }
+.finder-hero-pattern { position: absolute; z-index: -1; inset: 0; background: url('/images/content/layered-waves-row-0-3d7adc2b.svg') center right / cover no-repeat; opacity: .4; mix-blend-mode: overlay; pointer-events: none; }
+.finder-hero h1 { margin: 0; max-width: 1100px; color: #fff; font-family: var(--font-body); font-size: clamp(34px, 4vw, 56px); font-weight: 700; line-height: 1.2; letter-spacing: -.025em; text-align: center; }
+.has-training-finder-hero .site-header.over-hero { background: transparent; color: #fff; }
+.has-training-finder-hero .site-header.over-hero .brand img { content: url('/images/brand/cnap-logo-white.webp'); }
+.has-training-finder-hero .site-header.over-hero :is(.brand,.nav-label,.icon-button,.language-menu > summary):focus-visible { outline-color: white; }
+@media (max-width: 767px) { .finder-hero { min-height: 300px; padding: 95px 24px 0; } }
+.training-finder .finder-program { display: flex; flex-wrap: wrap; align-items: end; gap: 16px 28px; }
+.training-finder .finder-program > .finder-field { flex: 1 1 260px; max-width: 370px; }
+.training-finder .finder-type-badges { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; }
+.training-finder .finder-type-badge { display: inline-block; border: 1px solid #ccd9e8; border-radius: 999px; background: #f5f8fc; color: #30475e; padding: 3px 9px; font-size: 12px; font-weight: 700; }
+.training-finder .finder-online-description, .training-finder .finder-location-note { font-size: 13px; line-height: 1.6; color: #4b5b6a; }
+.training-finder .finder-clinical-areas, .training-finder .finder-source-note { font-size: 13px; margin: 0 0 16px; }
+.training-finder :is(.finder-clinical-areas,.finder-source-note,.finder-aliases) summary { min-height: 44px; color: #034caa; font-weight: 700; cursor: pointer; }
+.training-finder :is(.finder-clinical-areas,.finder-source-note,.finder-aliases) summary:focus-visible { outline: 3px solid #0056c7; outline-offset: 3px; }
+.training-finder :is(.finder-clinical-areas,.finder-source-note,.finder-aliases) p { margin-top: 8px; }
+@media (max-width: 600px) { .training-finder .finder-program > .finder-field { max-width: none; width: 100%; flex-basis: 100%; } }
+
+.training-finder .finder-aliases { font-size: 13px; margin: 0 0 16px; }
+.training-finder .finder-aliases ul { margin: 8px 0; padding-left: 18px; }

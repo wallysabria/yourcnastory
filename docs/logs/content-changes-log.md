@@ -125,3 +125,13 @@ Owner requested retirement of regional landing pages and permanent redirects to 
 Add the 71 public Earn and Learn partners from the supplied workbook. Correct counties for Idylwood Care Center (Alameda → Santa Clara), The Pines at Placerville and Western Slope Health Center (Placer → El Dorado), per owner approval and Census address matches. Preserve original county values in the dataset and correction registry. Five unmatched/tied addresses retain their original public address and use a labeled ZIP-area distance fallback. Existing page copy and external program lists remain unchanged.
 
 Delta Oaks Post Acute: source phone `(209) 47-4817` was incomplete. Owner confirmed `209-477-4817`; corrected the public Call destination and preserved the original in `sourcePhone` and the approved correction registry. Official source: https://deltaoakspostacute.com/ .
+
+## Standalone training finder and program classification — approved 2026-11-20
+
+Owner requested replacing site links to Google spreadsheet `1izJ-UEb6VyigMTIaXrdvRtY7XgcT0qQd` with the new bilingual finder pages. Nine active pages affected: EN community resources, CNA program, training providers, Earn and Learn, Employer resources; ES community resources, CNA program, training providers and Earn and Learn. Match by spreadsheet ID regardless of query/fragment. Keep existing reader-visible link labels/copy and unrelated external documents unchanged; these become same-tab internal links. Historical audit evidence and paused chatbot artifacts remain untouched.
+
+Owner explicitly confirmed all 71 facilities in the original workbook offer Earn and Learn. Each is classified `earnAndLearn: true`. Future records must explicitly be true, false or unknown/null; only true receives the badge and matches the Earn and Learn-only filter. This confirmation does not imply current openings or training schedules.
+
+## CDPH training directory expansion — approved 2026-11-20
+
+Imported every row from the three supplied CDPH lists: 563 community, 87 facility and 67 online (717 total). Conservative campus consolidation produces 684 directory entries: 617 physical sites and 67 online provider listings, including all 71 existing confirmed Earn and Learn partners. Preserve source rows, aliases and notes in content/training/cdph-listings.json; do not infer Earn and Learn participation for new listings. Owner explicitly requested including Reconsideration exactly as listed; record the decision in content/training/source-decisions.json. Seven physical entries without usable ZIP-area coordinates remain searchable without distance claims. Preserve Health Star Academy's incomplete source phone in the audit, omit an invalid Call action and provide its listed website.

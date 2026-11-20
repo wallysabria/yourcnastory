@@ -721,5 +721,29 @@
     "ogImageHeight": "683",
     "ogImageType": "image/jpeg",
     "ogImageAlt": ""
+  },
+  "/find-a-training-facility/": {
+    "ogType": "website",
+    "ogPublishedTime": "",
+    "ogLocale": "en_US",
+    "ogSiteName": "Your CNA Story",
+    "ogImageWidth": "",
+    "ogImageHeight": "",
+    "ogImageType": "",
+    "ogImageAlt": "",
+    "lastModified": "2026-11-20T14:59:20.720Z",
+    "lastModifiedEvidence": "New owner-requested finder page; not legacy metadata parity."
+  },
+  "/es/encuentra-un-centro-de-capacitacion/": {
+    "ogType": "website",
+    "ogPublishedTime": "",
+    "ogLocale": "es_ES",
+    "ogSiteName": "Your CNA Story",
+    "ogImageWidth": "",
+    "ogImageHeight": "",
+    "ogImageType": "",
+    "ogImageAlt": "",
+    "lastModified": "2026-11-20T14:59:20.720Z",
+    "lastModifiedEvidence": "New owner-requested finder page; not legacy metadata parity."
   }
 }

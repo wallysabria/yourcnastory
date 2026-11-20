@@ -1,0 +1,97 @@
+{
+  "routeId": "/find-a-training-facility/",
+  "path": "/find-a-training-facility/",
+  "locale": "en",
+  "metadata": {
+    "title": "Find a Training Facility - Your CNA Story",
+    "description": "Find a CNA training facility near you. Search by ZIP code, city, county, or facility name, and filter for Earn and Learn opportunities.",
+    "canonical": "https://yourcnastory.org/find-a-training-facility/",
+    "robots": "index, follow",
+    "ogTitle": "Find a Training Facility",
+    "ogDescription": "Find a CNA training facility near you. Search by ZIP code, city, county, or facility name, and filter for Earn and Learn opportunities.",
+    "ogImage": "https://yourcnastory.org/wp-content/uploads/2025/06/nurse-helping-elderly.jpg"
+  },
+  "blocks": [
+    {
+      "type": "document",
+      "nodes": [
+        {
+          "type": "element",
+          "tag": "div",
+          "attrs": {
+            "id": "main"
+          },
+          "children": [
+            {
+              "type": "element",
+              "tag": "div",
+              "attrs": {
+                "id": "content"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attrs": {
+                    "data-training-finder": "true"
+                  },
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "h1",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Find a Training Facility"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Find a CNA training facility near you. Search by ZIP code, city, county, or facility name, and filter for Earn and Learn opportunities."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "This directory is not a complete list of California CNA training programs. Program participation and availability may change. Contact each facility to confirm training opportunities, schedules, and requirements."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "backgrounds": [],
+  "embeds": [],
+  "media": [],
+  "provenance": {
+    "url": "https://yourcnastory.org/find-a-training-facility/",
+    "capturedAt": "2026-11-20T14:59:20.720Z",
+    "authority": "owner-approved-new-content",
+    "normalization": "New finder interface content; no legacy copy parity claimed.",
+    "textCharactersHash": "5474fd24a46e65ed39e613e1b9b2d541becb9ba15a5485cdcc0ef3f0e3d337a2"
+  },
+  "inventory": {
+    "text": "Find a Training Facility Find a CNA training facility near you. Search by ZIP code, city, county, or facility name, and filter for Earn and Learn opportunities. This directory is not a complete list of California CNA training programs. Program participation and availability may change. Contact each facility to confirm training opportunities, schedules, and requirements.",
+    "links": [],
+    "images": [],
+    "anchors": ["main", "content"]
+  }
+}

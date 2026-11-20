@@ -866,8 +866,7 @@
                                                                   "type": "element",
                                                                   "tag": "a",
                                                                   "attrs": {
-                                                                    "href": "https://docs.google.com/spreadsheets/d/1izJ-UEb6VyigMTIaXrdvRtY7XgcT0qQd/edit?usp=sharing&ouid=116256928001491444929&rtpof=true&sd=true",
-                                                                    "target": "_blank",
+                                                                    "href": "/es/encuentra-un-centro-de-capacitacion/",
                                                                     "aria-label": "Socios Earn and Learn CNAP "
                                                                   },
                                                                   "children": [
@@ -4336,7 +4335,7 @@
         "text": "  Programas de Capacitación en Residencias (Centros de Enfermería Especializada) "
       },
       {
-        "href": "https://docs.google.com/spreadsheets/d/1izJ-UEb6VyigMTIaXrdvRtY7XgcT0qQd/edit?usp=sharing&ouid=116256928001491444929&rtpof=true&sd=true",
+        "href": "/es/encuentra-un-centro-de-capacitacion/",
         "text": "  Socios Earn and Learn CNAP "
       },
       {

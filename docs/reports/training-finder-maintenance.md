@@ -2,9 +2,13 @@
 
 Public data: `content/training/facilities.json`. This is the single facility list used by both languages. Facility names, street addresses and phone numbers are not translated. Stable IDs use facility name plus five-digit ZIP; review ID changes when names or locations change.
 
+Standalone pages: `/find-a-training-facility/` and `/es/encuentra-un-centro-de-capacitacion/`. The existing training-provider pages are informational and link into these pages. The specific legacy partner spreadsheet link is replaced site-wide by locale; unrelated Google documents are unchanged.
+
+Every facility has an explicit `earnAndLearn` value: `true` (confirmed offered), `false` (confirmed not offered) or `null` (unknown). Only `true` receives the badge and appears with the Earn and Learn-only filter. All 71 facilities from the initial owner-provided workbook are confirmed `true`. Do not infer classification for subsequent files from names, geography or the previous import.
+
 ## Updating from Excel
 
-1. Keep the source XLSX private/untracked. Run `python scripts/import-training-partners.py "PATH_TO_WORKBOOK"` with Python 3. The importer reads the first sheet with the existing six-column layout (Facility Name, ADDRESS, CITY, ZIP, PHONE, COUNTY), supports shared and inline strings, preserves ZIP+4, normalizes numeric ZIP values, and rejects duplicate IDs/missing fields.
+1. Keep the source XLSX private/untracked. Run `python scripts/import-training-partners.py "PATH_TO_WORKBOOK" --earn-and-learn yes` with Python 3. Supply `yes`, `no` or `unknown` explicitly based on the new source/owner confirmation; the argument is required. The importer reads the first sheet with the existing six-column layout (Facility Name, ADDRESS, CITY, ZIP, PHONE, COUNTY), supports shared and inline strings, preserves ZIP+4, normalizes numeric ZIP values, and rejects duplicate IDs/missing fields.
 2. Staging and Census batch CSV are written to ignored `_source/training-finder/`. Nothing in that folder is committed.
 3. Submit only the public facility address CSV to the Census batch geocoder, not visitor data or the entire workbook:
    `curl --fail --form addressFile=@_source/training-finder/addresses.csv --form benchmark=4 --form vintage=4 https://geocoding.geo.census.gov/geocoder/geographies/addressbatch --output _source/training-finder/geocoded.csv`
@@ -19,3 +23,13 @@ ZIP-area coordinates are fetched only when a visitor submits a valid ZIP search.
 Initial browse is alphabetical and shows nine cards; Show more reveals nine more. Search applies all selected filters together. County changes reset city to prevent stale selections. Radius defaults to 25 miles, with 10/25/50/100 options. ZIP+4 uses its first five digits. Unknown/PO-box-only ZIPs can be unsupported because they may lack a Census ZCTA; offer nearby ZIP/city/county browsing without guessing coordinates. Distances are estimates from the user's ZIP area's representative point, not driving distance or availability guarantees.
 
 No paid map SDK, key, database, Redis, external request at search time or new runtime dependency is used. The static dataset works with the planned SiteGround Node.js hosting.
+
+## CDPH catalog and safe updates (2026-11-20)
+
+The canonical owner partner list is now content/training/partner-facilities.json. prepare-training-locations.py writes that file, not the combined public directory. Keep content/training/earn-and-learn-confirmed.json aligned with explicit owner confirmations.
+
+content/training/cdph-listings.json retains all 717 original source rows, attachment hashes, public source URLs and dates. To refresh, review a replacement source snapshot and update this catalog first. Run node scripts/import-cdph-training.mjs to merge canonical partners and CDPH rows. It retains approved partner information and cached coordinates and writes the combined facilities.json. Run scripts/prepare-cdph-locations.py after an updated Census batch response under the ignored _source/training-finder/cdph directory; it accepts same-ZIP California matches, otherwise uses labeled ZIP-area coordinates. Never assign online provider clinical cities a guessed campus location. Seven currently unsupported physical ZIPs remain included without distances.
+
+Training types are independent of Earn and Learn status. Online source records remain separate from physical sites, and clinical city/county lists are not paired into invented campuses. Campus consolidation requires matching normalized address/ZIP plus matching name or phone; all original row IDs must appear exactly once in sourceRefs. Source aliases and notes remain available on cards. Expired restrictions are displayed as dated source notes with confirmation requested, rather than current eligibility claims. Retain the owner-approved Reconsideration inclusion; do not automatically discard PO Boxes. An incomplete phone may be retained in the source audit but cannot produce a Call link; require another valid contact method.
+
+Online-only searches disable ZIP/radius. Combined searches rank mapped physical sites by distance and also include online/unmapped records with an explicit notice that those records are not mileage-filtered. City/county searches also cover online clinical areas. Run validation, lint/build and finder/content/SEO tests after every update.

@@ -40,7 +40,7 @@ export type PageLayout = {
   nodes: Record<string, NodeLayout>;
 };
 type Context = {
-  trainingFinder?: boolean;
+  trainingProviderPage?: boolean;
   locale: Locale;
   layout: PageLayout;
   widgetSettings?: Record<string, unknown>;
@@ -101,6 +101,8 @@ const tagNames = new Set(
 export function renderSourceNode(node: ContentNode, key: string, ctx: Context): ReactNode {
   if (node.type === 'text') return node.value;
   if (isLegacyChat(node)) return null;
+  if (node.attrs['data-training-finder'] === 'true')
+    return <TrainingFinder key={key} locale={ctx.locale} facilities={trainingData.facilities} />;
   if (node.tag === 'iframe') {
     try {
       const url = new URL(node.attrs.src);
@@ -399,6 +401,8 @@ export function renderSourceNode(node: ContentNode, key: string, ctx: Context): 
     );
   }
   const props: Record<string, unknown> = { key, className: classes || undefined };
+  if (ctx.trainingProviderPage && node.source?.elementorId === '23fdf15')
+    props.id = 'training-finder';
   if (isAwards && awardCards.includes(node.source?.elementorId || '')) {
     props['data-award-card'] = true;
     props.tabIndex = -1;
@@ -601,13 +605,6 @@ export function renderSourceNode(node: ContentNode, key: string, ctx: Context): 
         <CountryCode locale={ctx.locale} />
         {rendered}
       </span>
-    );
-  if (ctx.trainingFinder && node.source?.elementorId === 'b3f0881')
-    return (
-      <div key={key} className="training-finder-section">
-        {rendered}
-        <TrainingFinder locale={ctx.locale} facilities={trainingData.facilities} />
-      </div>
     );
   return rendered;
 }

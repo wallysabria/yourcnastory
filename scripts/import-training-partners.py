@@ -1,9 +1,14 @@
 """Import the public partner workbook; requires only Python's standard library.
-Usage: python scripts/import-training-partners.py PATH_TO_WORKBOOK
+Usage: python scripts/import-training-partners.py PATH_TO_WORKBOOK --earn-and-learn yes
 Writes an ignored staging file and Census batch CSV, never the original workbook.
 """
-import csv, hashlib, json, pathlib, re, sys, xml.etree.ElementTree as ET, zipfile
-source = pathlib.Path(sys.argv[1])
+import argparse, csv, hashlib, json, pathlib, re, xml.etree.ElementTree as ET, zipfile
+parser = argparse.ArgumentParser()
+parser.add_argument('workbook')
+parser.add_argument('--earn-and-learn', choices=['yes', 'no', 'unknown'], required=True, help='Confirm program classification for this import; never inferred from facility names.')
+args = parser.parse_args()
+program = {'yes': True, 'no': False, 'unknown': None}[args.earn_and_learn]
+source = pathlib.Path(args.workbook)
 ns = {'m': 'http://schemas.openxmlformats.org/spreadsheetml/2006/main'}
 with zipfile.ZipFile(source) as archive:
     shared = [''.join(x.itertext()) for x in ET.fromstring(archive.read('xl/sharedStrings.xml')).findall('m:si', ns)] if 'xl/sharedStrings.xml' in archive.namelist() else []
@@ -33,7 +38,7 @@ with zipfile.ZipFile(source) as archive:
         if not re.fullmatch(r'\d{5}(?:-\d{4})?', zipcode): raise ValueError(f'Invalid ZIP at row {row_number}')
         identifier = re.sub(r'[^a-z0-9]+', '-', row['A'].lower()).strip('-') + '-' + zipcode[:5]
         if len(re.sub(r'\D', '', row['E'])) not in (10, 11) and not any(c['id'] == identifier and c['sourcePhone'] == row['E'] for c in phone_decisions): raise ValueError(f'Invalid phone needs review at row {row_number}')
-        facilities.append(dict(id=identifier, name=row['A'], address=row['B'], city=row['C'], state='CA', zip=zipcode, phone=row['E'], county=row['F'], sourceRow=row_number))
+        facilities.append(dict(id=identifier, name=row['A'], address=row['B'], city=row['C'], state='CA', zip=zipcode, phone=row['E'], county=row['F'], earnAndLearn=program, sourceRow=row_number))
     if len({r['id'] for r in facilities}) != len(facilities): raise ValueError('Duplicate facility IDs need review')
     output = pathlib.Path('_source/training-finder'); output.mkdir(parents=True, exist_ok=True)
     provenance = dict(filename=source.name, sha256=hashlib.sha256(source.read_bytes()).hexdigest(), sheet=sheet.attrib['name'])

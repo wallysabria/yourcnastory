@@ -30,7 +30,9 @@ export default async function RootLayout({
   const home = routeFor('/', locale);
   return (
     <html lang={locale} className={manrope.variable}>
-      <body>
+      <body
+        className={route?.template === 'training-finder' ? 'has-training-finder-hero' : undefined}
+      >
         <a className="skip-link" href="#content">
           {content.ui.skip}
         </a>
