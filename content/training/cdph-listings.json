@@ -12403,12 +12403,8 @@
       "name": "Advanced Career Academy Inc.",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "https://advancedcareeracademy.com/",
-      "clinicalCities": [
-        "Clovis"
-      ],
-      "clinicalCounties": [
-        "Fresno"
-      ],
+      "clinicalCities": ["Clovis"],
+      "clinicalCounties": ["Fresno"],
       "phone": "(800) 593-0167 (559) 575-3053",
       "notes": []
     },
@@ -12427,12 +12423,8 @@
       "name": "Alexandria Care Center",
       "providerType": "Online Alternative Type II NATP",
       "website": "https://www.alexandriacc.com/",
-      "clinicalCities": [
-        "Los Angeles"
-      ],
-      "clinicalCounties": [
-        "Los Angeles"
-      ],
+      "clinicalCities": ["Los Angeles"],
+      "clinicalCounties": ["Los Angeles"],
       "phone": "(323) 660-1800",
       "notes": []
     },
@@ -12491,12 +12483,8 @@
       "name": "American River Center",
       "providerType": "Online Alternative Type II NATP",
       "website": "https://americanrivercc.com/",
-      "clinicalCities": [
-        "Carmichael"
-      ],
-      "clinicalCounties": [
-        "Sacramento"
-      ],
+      "clinicalCities": ["Carmichael"],
+      "clinicalCounties": ["Sacramento"],
       "phone": "(916) 481-6455",
       "notes": []
     },
@@ -12515,12 +12503,8 @@
       "name": "Atrium School Inc.",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "https://atriumnursingschool.info/",
-      "clinicalCities": [
-        "Torrance"
-      ],
-      "clinicalCounties": [
-        "Los Angeles"
-      ],
+      "clinicalCities": ["Torrance"],
+      "clinicalCounties": ["Los Angeles"],
       "phone": "(310) 251-5965",
       "notes": []
     },
@@ -12539,12 +12523,8 @@
       "name": "Best Healthcare Institute, Inc.",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "https://besthealthcareinstitute.com/",
-      "clinicalCities": [
-        "Sunnyvale"
-      ],
-      "clinicalCounties": [
-        "Santa Clara"
-      ],
+      "clinicalCities": ["Sunnyvale"],
+      "clinicalCounties": ["Santa Clara"],
       "phone": "(510) 783-1274",
       "notes": []
     },
@@ -12563,12 +12543,8 @@
       "name": "By Zip School of Nursing",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "https://bzschoolofnursing.com/",
-      "clinicalCities": [
-        "Los Angeles"
-      ],
-      "clinicalCounties": [
-        "Los Angeles"
-      ],
+      "clinicalCities": ["Los Angeles"],
+      "clinicalCounties": ["Los Angeles"],
       "phone": "(310) 974-4922",
       "notes": []
     },
@@ -12587,18 +12563,8 @@
       "name": "CAL ACE Nursing Academy",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "https://cna.school/",
-      "clinicalCities": [
-        "San Jose",
-        "Cupertino",
-        "Pleasanton",
-        "Santa Cruz",
-        "Carmichael"
-      ],
-      "clinicalCounties": [
-        "Santa Clara",
-        "Alameda",
-        "Santa Cruz"
-      ],
+      "clinicalCities": ["San Jose", "Cupertino", "Pleasanton", "Santa Cruz", "Carmichael"],
+      "clinicalCounties": ["Santa Clara", "Alameda", "Santa Cruz"],
       "phone": "(408) 256‑0763",
       "notes": []
     },
@@ -12617,16 +12583,8 @@
       "name": "Center for Caregiver Advancement",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "https://advancecaregivers.org/cnaapprenticeship/",
-      "clinicalCities": [
-        "Anaheim",
-        "Pittsburg",
-        "Riverside"
-      ],
-      "clinicalCounties": [
-        "Orange",
-        "Contra Costa",
-        "Riverside"
-      ],
+      "clinicalCities": ["Anaheim", "Pittsburg", "Riverside"],
+      "clinicalCounties": ["Orange", "Contra Costa", "Riverside"],
       "phone": "(650) 544-6991",
       "notes": []
     },
@@ -12645,12 +12603,8 @@
       "name": "Centerpointe Learning Institute Sacramento",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "https://www.centerpointesac.com/",
-      "clinicalCities": [
-        "Sacramento"
-      ],
-      "clinicalCounties": [
-        "Sacramento"
-      ],
+      "clinicalCities": ["Sacramento"],
+      "clinicalCounties": ["Sacramento"],
       "phone": "(916) 662-0408",
       "notes": []
     },
@@ -12669,12 +12623,8 @@
       "name": "Central Coast Nursing Institute",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "https://centralcoastnursinginstitute.org/",
-      "clinicalCities": [
-        "Santa Maria"
-      ],
-      "clinicalCounties": [
-        "Santa Barbara"
-      ],
+      "clinicalCities": ["Santa Maria"],
+      "clinicalCounties": ["Santa Barbara"],
       "phone": "(805) 718-8188",
       "notes": []
     },
@@ -12693,13 +12643,8 @@
       "name": "CI Institute of Nursing",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "https://ci-ion.com/",
-      "clinicalCities": [
-        "Mountain View",
-        "Palo Alto"
-      ],
-      "clinicalCounties": [
-        "Santa Clara"
-      ],
+      "clinicalCities": ["Mountain View", "Palo Alto"],
+      "clinicalCounties": ["Santa Clara"],
       "phone": "(650) 796-9397",
       "notes": []
     },
@@ -12718,13 +12663,8 @@
       "name": "Comfort Paradise Training Institute",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "https://comfortparadiseti.com/",
-      "clinicalCities": [
-        "Los Angeles",
-        "Santa Monica"
-      ],
-      "clinicalCounties": [
-        "Los Angeles"
-      ],
+      "clinicalCities": ["Los Angeles", "Santa Monica"],
+      "clinicalCounties": ["Los Angeles"],
       "phone": "(323) 844-0707",
       "notes": []
     },
@@ -12743,12 +12683,8 @@
       "name": "Creekside Care Center",
       "providerType": "Online Alternative Type II NATP",
       "website": "https://creeksidecenter.com/",
-      "clinicalCities": [
-        "Stockton"
-      ],
-      "clinicalCounties": [
-        "San Joaquin"
-      ],
+      "clinicalCities": ["Stockton"],
+      "clinicalCounties": ["San Joaquin"],
       "phone": "(209) 478-6488",
       "notes": []
     },
@@ -12767,13 +12703,8 @@
       "name": "Critical Care Training Center",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "https://acls123.com/",
-      "clinicalCities": [
-        "Mission Hills",
-        "Sherman Oaks"
-      ],
-      "clinicalCounties": [
-        "Los Angeles"
-      ],
+      "clinicalCities": ["Mission Hills", "Sherman Oaks"],
+      "clinicalCounties": ["Los Angeles"],
       "phone": "(818) 766-1111",
       "notes": []
     },
@@ -12792,13 +12723,8 @@
       "name": "Daisy Medical Institute",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "https://daisymedinstitute.com/",
-      "clinicalCities": [
-        "Los Angeles",
-        "Santa Monica"
-      ],
-      "clinicalCounties": [
-        "Los Angeles"
-      ],
+      "clinicalCities": ["Los Angeles", "Santa Monica"],
+      "clinicalCounties": ["Los Angeles"],
       "phone": "(833) 404-2888",
       "notes": []
     },
@@ -12817,12 +12743,8 @@
       "name": "Diablo Valley Post Acute",
       "providerType": "Online Alternative Type II NATP",
       "website": "https://diablovalleypa.com/cnaeducation/",
-      "clinicalCities": [
-        "Concord"
-      ],
-      "clinicalCounties": [
-        "Contra Costa"
-      ],
+      "clinicalCities": ["Concord"],
+      "clinicalCounties": ["Contra Costa"],
       "phone": "(925) 689-2266",
       "notes": []
     },
@@ -12841,12 +12763,8 @@
       "name": "Diversity Career College Vocational School",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "https://diversitycareercollegevs.com/",
-      "clinicalCities": [
-        "Salinas"
-      ],
-      "clinicalCounties": [
-        "Monterey"
-      ],
+      "clinicalCities": ["Salinas"],
+      "clinicalCounties": ["Monterey"],
       "phone": "(408) 612-8170",
       "notes": []
     },
@@ -12865,12 +12783,8 @@
       "name": "Escondido Adult School",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "https://www.escondidoadultschool.org/",
-      "clinicalCities": [
-        "Escondido"
-      ],
-      "clinicalCounties": [
-        "San Diego"
-      ],
+      "clinicalCities": ["Escondido"],
+      "clinicalCounties": ["San Diego"],
       "phone": "(760) 737-8000",
       "notes": []
     },
@@ -12889,17 +12803,8 @@
       "name": "First Lady Permanente, LLC",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "https://www.firstladypermanente.com/default.asp",
-      "clinicalCities": [
-        "Modesto",
-        "Kingsburg",
-        "Turlock",
-        "Riverbank",
-        "Oakdale"
-      ],
-      "clinicalCounties": [
-        "Stanislaus",
-        "Fresno"
-      ],
+      "clinicalCities": ["Modesto", "Kingsburg", "Turlock", "Riverbank", "Oakdale"],
+      "clinicalCounties": ["Stanislaus", "Fresno"],
       "phone": "(209) 250-1200",
       "notes": []
     },
@@ -12918,16 +12823,10 @@
       "name": "Fountain View Subacute & Nursing Center (Cannot train/ host clinical sites until 07/2026)",
       "providerType": "Online Alternative Type II NATP",
       "website": "https://fountainviewsubacute.com/",
-      "clinicalCities": [
-        "Los Angeles"
-      ],
-      "clinicalCounties": [
-        "Los Angeles"
-      ],
+      "clinicalCities": ["Los Angeles"],
+      "clinicalCounties": ["Los Angeles"],
       "phone": "(323) 461-9961",
-      "notes": [
-        "(Cannot train/ host clinical sites until 07/2026)"
-      ]
+      "notes": ["(Cannot train/ host clinical sites until 07/2026)"]
     },
     {
       "id": "online:22",
@@ -12944,12 +12843,8 @@
       "name": "Gifted Hands Nursing Institute",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "https://www.giftedhandscna.com/",
-      "clinicalCities": [
-        "Los Angeles"
-      ],
-      "clinicalCounties": [
-        "Los Angeles"
-      ],
+      "clinicalCities": ["Los Angeles"],
+      "clinicalCounties": ["Los Angeles"],
       "phone": "(424) 331-9222",
       "notes": []
     },
@@ -12968,13 +12863,8 @@
       "name": "Glendale Community College",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "https://www.garfield.glendale.edu/programs/short-term-vocational/healthcare/certified-nursing-assistant",
-      "clinicalCities": [
-        "Montrose",
-        "Los Angeles"
-      ],
-      "clinicalCounties": [
-        "Los Angeles"
-      ],
+      "clinicalCities": ["Montrose", "Los Angeles"],
+      "clinicalCounties": ["Los Angeles"],
       "phone": "(818) 240-1000",
       "notes": []
     },
@@ -12993,13 +12883,8 @@
       "name": "Health Star Academy, LLC",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "https://www.healthstaracademy.org/",
-      "clinicalCities": [
-        "Lodi",
-        "Stockton"
-      ],
-      "clinicalCounties": [
-        "San Joaquin"
-      ],
+      "clinicalCities": ["Lodi", "Stockton"],
+      "clinicalCounties": ["San Joaquin"],
       "phone": "(209) 736-757",
       "notes": []
     },
@@ -13018,15 +12903,8 @@
       "name": "Heart to Heart Training Center",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "https://hearttohearttc.com/",
-      "clinicalCities": [
-        "Chowchilla",
-        "Clovis",
-        "Selma"
-      ],
-      "clinicalCounties": [
-        "Fresno",
-        "Madera"
-      ],
+      "clinicalCities": ["Chowchilla", "Clovis", "Selma"],
+      "clinicalCounties": ["Fresno", "Madera"],
       "phone": "(559) 940-9775",
       "notes": []
     },
@@ -13045,13 +12923,8 @@
       "name": "Hi-Power Academy",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "https://hi-poweracademy.com/",
-      "clinicalCities": [
-        "Live Oak",
-        "Yuba City"
-      ],
-      "clinicalCounties": [
-        "Sutter"
-      ],
+      "clinicalCities": ["Live Oak", "Yuba City"],
+      "clinicalCounties": ["Sutter"],
       "phone": "(530) 301-2582",
       "notes": []
     },
@@ -13108,14 +12981,8 @@
       "name": "Kash Career College",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "http://www.kashcareercollege.com/",
-      "clinicalCities": [
-        "Sacramento",
-        "Roseville"
-      ],
-      "clinicalCounties": [
-        "Placer",
-        "Sacramento"
-      ],
+      "clinicalCities": ["Sacramento", "Roseville"],
+      "clinicalCounties": ["Placer", "Sacramento"],
       "phone": "(916) 978-0700",
       "notes": []
     },
@@ -13134,16 +13001,10 @@
       "name": "Lakeside Special Care Center",
       "providerType": "Facility Based Online Nurse Assistant Training Program",
       "website": "https://lifegen.net/career-hiring/",
-      "clinicalCities": [
-        "Lakeside"
-      ],
-      "clinicalCounties": [
-        "San Diego"
-      ],
+      "clinicalCities": ["Lakeside"],
+      "clinicalCounties": ["San Diego"],
       "phone": "(619) 561-1222",
-      "notes": [
-        "This facility only trains its employees."
-      ]
+      "notes": ["This facility only trains its employees."]
     },
     {
       "id": "online:30",
@@ -13160,12 +13021,8 @@
       "name": "Lassen Nursing & Rehabilitation Center",
       "providerType": "Online Alternative Type II NATP",
       "website": "https://lassennrc.com/",
-      "clinicalCities": [
-        "Susanville"
-      ],
-      "clinicalCounties": [
-        "Lassen"
-      ],
+      "clinicalCities": ["Susanville"],
+      "clinicalCounties": ["Lassen"],
       "phone": "(530) 257-5341",
       "notes": []
     },
@@ -13184,12 +13041,8 @@
       "name": "LGL College",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "https://lglcollege.com/",
-      "clinicalCities": [
-        "La Mirada"
-      ],
-      "clinicalCounties": [
-        "Los Angeles"
-      ],
+      "clinicalCities": ["La Mirada"],
+      "clinicalCounties": ["Los Angeles"],
       "phone": "(562) 245-7336",
       "notes": []
     },
@@ -13208,13 +13061,8 @@
       "name": "Los Angeles Career College",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "https://www.lacareercollege.com/",
-      "clinicalCities": [
-        "Mission Hills",
-        "Sherman Oaks"
-      ],
-      "clinicalCounties": [
-        "Los Angeles"
-      ],
+      "clinicalCities": ["Mission Hills", "Sherman Oaks"],
+      "clinicalCounties": ["Los Angeles"],
       "phone": "(818) 766-1000",
       "notes": []
     },
@@ -13248,11 +13096,7 @@
         "Upland",
         "Pico Rivera"
       ],
-      "clinicalCounties": [
-        "San Bernardino",
-        "Los Angeles",
-        "Orange"
-      ],
+      "clinicalCounties": ["San Bernardino", "Los Angeles", "Orange"],
       "phone": "(213) 444-8997",
       "notes": []
     },
@@ -13271,13 +13115,8 @@
       "name": "Los Angeles South West College",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "https://ilearn.laccd.edu/login/canvas",
-      "clinicalCities": [
-        "Los Angeles",
-        "Culver City"
-      ],
-      "clinicalCounties": [
-        "Los Angeles"
-      ],
+      "clinicalCities": ["Los Angeles", "Culver City"],
+      "clinicalCounties": ["Los Angeles"],
       "phone": "(310) 287-7226",
       "notes": []
     },
@@ -13296,12 +13135,8 @@
       "name": "Lotus Medical Career College",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "http://lmccpomona.magix.net/home.htm",
-      "clinicalCities": [
-        "Pomona"
-      ],
-      "clinicalCounties": [
-        "Los Angeles"
-      ],
+      "clinicalCities": ["Pomona"],
+      "clinicalCounties": ["Los Angeles"],
       "phone": "(909) 625-8050",
       "notes": []
     },
@@ -13331,11 +13166,7 @@
         "Ontario",
         "Big Bear Lake"
       ],
-      "clinicalCounties": [
-        "San Bernardino Orange",
-        "Los Angeles",
-        "Riverside"
-      ],
+      "clinicalCounties": ["San Bernardino Orange", "Los Angeles", "Riverside"],
       "phone": "(747) 225-6776",
       "notes": []
     },
@@ -13354,12 +13185,8 @@
       "name": "MJ Nursing Assistant Training Institute",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "https://www.cnamerced.com/",
-      "clinicalCities": [
-        "Merced"
-      ],
-      "clinicalCounties": [
-        "Merced"
-      ],
+      "clinicalCities": ["Merced"],
+      "clinicalCounties": ["Merced"],
       "phone": "(209) 233-9854",
       "notes": []
     },
@@ -13378,14 +13205,8 @@
       "name": "Modesto Junior College",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "https://www.mjc.edu/instruction/alliedhealth/nurseassistant/",
-      "clinicalCities": [
-        "Modesto",
-        "Sonora"
-      ],
-      "clinicalCounties": [
-        "Stanislaus",
-        "Tuolumne"
-      ],
+      "clinicalCities": ["Modesto", "Sonora"],
+      "clinicalCounties": ["Stanislaus", "Tuolumne"],
       "phone": "(209) 575-6914",
       "notes": []
     },
@@ -13404,13 +13225,8 @@
       "name": "Northern California Healthcare Institute",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "https://www.norcalhi.com/",
-      "clinicalCities": [
-        "Hayward",
-        "Castro Valley"
-      ],
-      "clinicalCounties": [
-        "Contra Costa"
-      ],
+      "clinicalCities": ["Hayward", "Castro Valley"],
+      "clinicalCounties": ["Contra Costa"],
       "phone": "(510) 929-1992",
       "notes": []
     },
@@ -13429,16 +13245,8 @@
       "name": "Northern California Nursing Academy",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "https://www.ncnursingacademy.com/",
-      "clinicalCities": [
-        "Greenbrae",
-        "Oakland",
-        "San Francisco"
-      ],
-      "clinicalCounties": [
-        "Marin",
-        "San Francisco",
-        "Alameda"
-      ],
+      "clinicalCities": ["Greenbrae", "Oakland", "San Francisco"],
+      "clinicalCounties": ["Marin", "San Francisco", "Alameda"],
       "phone": "(650) 992 -6262",
       "notes": []
     },
@@ -13457,16 +13265,8 @@
       "name": "Nurses’ Development Center, Inc.",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "https://nursesdevelopmentcenter.com/",
-      "clinicalCities": [
-        "Anaheim",
-        "Costa Mesa",
-        "Long Beach",
-        "San Pedro"
-      ],
-      "clinicalCounties": [
-        "Orange",
-        "Los Angeles"
-      ],
+      "clinicalCities": ["Anaheim", "Costa Mesa", "Long Beach", "San Pedro"],
+      "clinicalCounties": ["Orange", "Los Angeles"],
       "phone": "(562) 403-2115",
       "notes": []
     },
@@ -13485,16 +13285,8 @@
       "name": "Nursing Assistant Training Academy",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "https://www.cnacademy.com/",
-      "clinicalCities": [
-        "Fresno",
-        "Fowler",
-        "Visalia",
-        "Clovis"
-      ],
-      "clinicalCounties": [
-        "Fresno",
-        "Tulare"
-      ],
+      "clinicalCities": ["Fresno", "Fowler", "Visalia", "Clovis"],
+      "clinicalCounties": ["Fresno", "Tulare"],
       "phone": "(559) 277-3369",
       "notes": []
     },
@@ -13513,12 +13305,8 @@
       "name": "Oak River Rehab",
       "providerType": "Online Alternative Type II NATP",
       "website": "https://oakriver-rehab.com/",
-      "clinicalCities": [
-        "Anderson"
-      ],
-      "clinicalCounties": [
-        "Shasta"
-      ],
+      "clinicalCities": ["Anderson"],
+      "clinicalCounties": ["Shasta"],
       "phone": "(530) 365-0025",
       "notes": []
     },
@@ -13537,14 +13325,8 @@
       "name": "Perpetual Enhancement Career Academy",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "https://pecaedu.com/online-cna/",
-      "clinicalCities": [
-        "Grand Terrace",
-        "Upland",
-        "Redlands"
-      ],
-      "clinicalCounties": [
-        "San Bernardino"
-      ],
+      "clinicalCities": ["Grand Terrace", "Upland", "Redlands"],
+      "clinicalCounties": ["San Bernardino"],
       "phone": "(909) 361-4423",
       "notes": []
     },
@@ -13563,12 +13345,8 @@
       "name": "Poway Adult School",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "https://www.powayusd.com/en-US/Departments/CareerTechnicalAdultEd/PAS/Career-Ed/Healthcare",
-      "clinicalCities": [
-        "San Diego"
-      ],
-      "clinicalCounties": [
-        "San Diego"
-      ],
+      "clinicalCities": ["San Diego"],
+      "clinicalCounties": ["San Diego"],
       "phone": "(858) 668-4024",
       "notes": []
     },
@@ -13587,12 +13365,8 @@
       "name": "Premier Health Academy LLC",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "https://www.thepremierhealthacademy.com/",
-      "clinicalCities": [
-        "Montclair"
-      ],
-      "clinicalCounties": [
-        "San Bernardino"
-      ],
+      "clinicalCities": ["Montclair"],
+      "clinicalCounties": ["San Bernardino"],
       "phone": "(909) 213-3270",
       "notes": []
     },
@@ -13611,17 +13385,8 @@
       "name": "Prestige Career College",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "https://prestigecareercollege.com/",
-      "clinicalCities": [
-        "Inglewood",
-        "Van Nuys",
-        "Bell",
-        "North Hills",
-        "Montclair"
-      ],
-      "clinicalCounties": [
-        "Los Angeles",
-        "San Bernardino"
-      ],
+      "clinicalCities": ["Inglewood", "Van Nuys", "Bell", "North Hills", "Montclair"],
+      "clinicalCounties": ["Los Angeles", "San Bernardino"],
       "phone": "(323) 433-9325",
       "notes": []
     },
@@ -13648,10 +13413,7 @@
         "Pico Rivera",
         "Whittier"
       ],
-      "clinicalCounties": [
-        "Los Angeles",
-        "San Diego"
-      ],
+      "clinicalCounties": ["Los Angeles", "San Diego"],
       "phone": "(562) 698-8301",
       "notes": []
     },
@@ -13677,13 +13439,7 @@
         "Porterville Selma Stockton Tulare",
         "Visalia"
       ],
-      "clinicalCounties": [
-        "Fresno",
-        "Kern",
-        "Madera",
-        "San Joaquin",
-        "Tulare"
-      ],
+      "clinicalCounties": ["Fresno", "Kern", "Madera", "San Joaquin", "Tulare"],
       "phone": "(559) 547-2995",
       "notes": []
     },
@@ -13702,15 +13458,8 @@
       "name": "Professional Medical Careers Institute",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "/Programs/CHCQ/LCP/Pages/Online-CNA-Training-Providers.aspx",
-      "clinicalCities": [
-        "Camarillo",
-        "Cloverdale",
-        "Newbury Park"
-      ],
-      "clinicalCounties": [
-        "Ventura",
-        "Sonoma"
-      ],
+      "clinicalCities": ["Camarillo", "Cloverdale", "Newbury Park"],
+      "clinicalCounties": ["Ventura", "Sonoma"],
       "phone": "(805) 497-4064",
       "notes": []
     },
@@ -13729,13 +13478,8 @@
       "name": "Quest Nursing Education Center",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "https://questnursingschool.com/",
-      "clinicalCities": [
-        "San Leandro",
-        "Berkeley"
-      ],
-      "clinicalCounties": [
-        "Contra Costa"
-      ],
+      "clinicalCities": ["San Leandro", "Berkeley"],
+      "clinicalCounties": ["Contra Costa"],
       "phone": "(510) 452-1444",
       "notes": []
     },
@@ -13754,12 +13498,8 @@
       "name": "Riverside City College",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "http://rcc.edu/pathways/health-related-sciences/nursing-assistant.html",
-      "clinicalCities": [
-        "Riverside"
-      ],
-      "clinicalCounties": [
-        "Riverside"
-      ],
+      "clinicalCities": ["Riverside"],
+      "clinicalCounties": ["Riverside"],
       "phone": "(951) 222-8000",
       "notes": []
     },
@@ -13786,9 +13526,7 @@
         "Santee",
         "El Cajon"
       ],
-      "clinicalCounties": [
-        "San Diego"
-      ],
+      "clinicalCounties": ["San Diego"],
       "phone": "(619) 388-1927",
       "notes": []
     },
@@ -13807,15 +13545,8 @@
       "name": "Select Therapy Institute",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "https://elearning.st-inst.com/",
-      "clinicalCities": [
-        "San Gabriel",
-        "Claremont",
-        "Pasadena",
-        "Covina"
-      ],
-      "clinicalCounties": [
-        "Los Angeles"
-      ],
+      "clinicalCities": ["San Gabriel", "Claremont", "Pasadena", "Covina"],
+      "clinicalCounties": ["Los Angeles"],
       "phone": "(626) 572-7231",
       "notes": []
     },
@@ -13834,12 +13565,8 @@
       "name": "Sequoias San Francisco Convalescent Hospital",
       "providerType": "Online Alternative Type II NATP",
       "website": "https://sequoialiving.org/san-francisco/",
-      "clinicalCities": [
-        "San Francisco"
-      ],
-      "clinicalCounties": [
-        "San Francisco"
-      ],
+      "clinicalCities": ["San Francisco"],
+      "clinicalCounties": ["San Francisco"],
       "phone": "(415) 351-7904",
       "notes": []
     },
@@ -13915,12 +13642,8 @@
       "name": "South Coast Post Acute",
       "providerType": "Online Alternative Type II NATP",
       "website": "https://southcoastpostacute.com/",
-      "clinicalCities": [
-        "Santa Ana"
-      ],
-      "clinicalCounties": [
-        "San Bernardino"
-      ],
+      "clinicalCities": ["Santa Ana"],
+      "clinicalCounties": ["San Bernardino"],
       "phone": "(714) 546-6450",
       "notes": []
     },
@@ -13939,12 +13662,8 @@
       "name": "STV Allied Health Education Centers",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "http://stvahec.com/",
-      "clinicalCities": [
-        "Grand Terrace"
-      ],
-      "clinicalCounties": [
-        "San Bernardino"
-      ],
+      "clinicalCities": ["Grand Terrace"],
+      "clinicalCounties": ["San Bernardino"],
       "phone": "(909) 322-7221",
       "notes": []
     },
@@ -13963,12 +13682,8 @@
       "name": "Thoughtful Nursing Academy",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "https://www.thoughtfulnursingacademy.com/",
-      "clinicalCities": [
-        "San Bernardino"
-      ],
-      "clinicalCounties": [
-        "San Bernardino"
-      ],
+      "clinicalCities": ["San Bernardino"],
+      "clinicalCounties": ["San Bernardino"],
       "phone": "(909) 259-0847",
       "notes": []
     },
@@ -13987,12 +13702,8 @@
       "name": "Trinity School of Nursing",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "https://www.trinityschoolofnursing.com/home",
-      "clinicalCities": [
-        "Camarillo"
-      ],
-      "clinicalCounties": [
-        "Ventura"
-      ],
+      "clinicalCities": ["Camarillo"],
+      "clinicalCounties": ["Ventura"],
       "phone": "(805) 654-1500",
       "notes": []
     },
@@ -14059,15 +13770,8 @@
       "name": "Ventura Training Institute",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "http://www.venturatraininginstitute.com/",
-      "clinicalCities": [
-        "Santa Barbara",
-        "Oxnard",
-        "Ventura"
-      ],
-      "clinicalCounties": [
-        "Santa Barbara",
-        "Ventura"
-      ],
+      "clinicalCities": ["Santa Barbara", "Oxnard", "Ventura"],
+      "clinicalCounties": ["Santa Barbara", "Ventura"],
       "phone": "(805) 385-5485",
       "notes": []
     },
@@ -14086,14 +13790,8 @@
       "name": "West Los Angeles Community College (WLAC)",
       "providerType": "Online Nurse Assistant Training Program",
       "website": "https://ilearn.laccd.edu/login/canvas",
-      "clinicalCities": [
-        "Los Angeles",
-        "Culver City",
-        "Santa Monica"
-      ],
-      "clinicalCounties": [
-        "Los Angeles"
-      ],
+      "clinicalCities": ["Los Angeles", "Culver City", "Santa Monica"],
+      "clinicalCounties": ["Los Angeles"],
       "phone": "(310) 287-7226",
       "notes": []
     },
@@ -14112,12 +13810,8 @@
       "name": "Windsor Care Center of Sacramento",
       "providerType": "Online Alternative Type II NATP",
       "website": "https://windsorsacramento.com/",
-      "clinicalCities": [
-        "Sacramento"
-      ],
-      "clinicalCounties": [
-        "Sacramento"
-      ],
+      "clinicalCities": ["Sacramento"],
+      "clinicalCounties": ["Sacramento"],
       "phone": "(916) 922-8855",
       "notes": []
     },
@@ -14136,12 +13830,8 @@
       "name": "Windsor El Camino Care Center",
       "providerType": "Online Alternative Type II NATP",
       "website": "https://windsorelcamino.com/",
-      "clinicalCities": [
-        "Carmichael"
-      ],
-      "clinicalCounties": [
-        "Sacramento"
-      ],
+      "clinicalCities": ["Carmichael"],
+      "clinicalCounties": ["Sacramento"],
       "phone": "(916) 482-0465",
       "notes": []
     },
@@ -14160,12 +13850,8 @@
       "name": "Windsor Post-Acute Care Center of Hayward",
       "providerType": "Online Alternative Type II NATP",
       "website": "https://windsorpostacutehayward.com/",
-      "clinicalCities": [
-        "Hayward"
-      ],
-      "clinicalCounties": [
-        "Alameda"
-      ],
+      "clinicalCities": ["Hayward"],
+      "clinicalCounties": ["Alameda"],
       "phone": "(510) 782-8424",
       "notes": []
     },
@@ -14184,12 +13870,8 @@
       "name": "Windsor Rosewood Care Center",
       "providerType": "Online Alternative Type II NATP",
       "website": "https://windsorrosewood.com/",
-      "clinicalCities": [
-        "Pleasant Hill"
-      ],
-      "clinicalCounties": [
-        "Contra Costa"
-      ],
+      "clinicalCities": ["Pleasant Hill"],
+      "clinicalCounties": ["Contra Costa"],
       "phone": "(925) 935-6630",
       "notes": []
     }
