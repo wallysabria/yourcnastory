@@ -30,7 +30,9 @@ export default async function RootLayout({
   const home = routeFor('/', locale);
   return (
     <html lang={locale} className={manrope.variable}>
-      <body>
+      <body
+        className={route?.template === 'training-finder' ? 'has-training-finder-hero' : undefined}
+      >
         <a className="skip-link" href="#content">
           {content.ui.skip}
         </a>
@@ -40,7 +42,7 @@ export default async function RootLayout({
           homeHref={home?.path || '/'}
           showLanguageMenu={route?.section !== 'employers'}
           counterpartHref={counterpart?.section === 'employers' ? null : counterpart?.path || null}
-          transparent={route?.template !== 'training-finder'}
+          transparent={true}
         />
         {children}
         <div id="chat-root" data-chat-placeholder />

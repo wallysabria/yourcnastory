@@ -84,8 +84,9 @@ for (const locale of ['en', 'es'])
       const finder = await open(page, locale);
       await page.evaluate(() => document.fonts.ready);
       await expect(finder).toBeVisible();
-      await expect(page.locator('.site-header')).not.toHaveClass(/over-hero/);
-      await expect(page.locator('.brand img')).toHaveAttribute('src', /cnap-logo-color/);
+      await expect(page.locator('.site-header')).toHaveClass(/over-hero/);
+      await expect(page.locator('.brand img')).toHaveAttribute('src', /cnap-logo-white/);
+      await expect(page.locator('.finder-hero h1')).toBeVisible();
       await expect(page.getByRole('heading', { level: 1 })).toHaveCount(1);
       await expect(finder.locator('.finder-badge')).toHaveCount(9);
       await finder.getByRole('checkbox').check();
@@ -115,15 +116,15 @@ for (const locale of ['en', 'es'])
       }
       const axe = await new AxeBuilder({ page })
         .include('.training-finder')
+        .include('.finder-hero')
+        .include('.site-header')
         .withTags(['wcag2a', 'wcag2aa', 'wcag21aa'])
         .analyze();
       expect(axe.violations).toEqual([]);
       if ([1440, 390].includes(width)) {
         fs.mkdirSync('_source/training-finder/screenshots', { recursive: true });
         await page.addStyleTag({ content: 'html {scroll-behavior:auto!important}' });
-        await finder.evaluate((element) =>
-          window.scrollTo(0, element.getBoundingClientRect().top + window.scrollY - 130),
-        );
+        await finder.evaluate(() => window.scrollTo(0, 0));
         await page.screenshot({
           path: `_source/training-finder/screenshots/${locale}-${width}.png`,
         });

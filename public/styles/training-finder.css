@@ -72,3 +72,11 @@
 .training-finder .finder-badge { align-self: flex-start; padding: 4px 12px; border-radius: 999px; background: #e9f3ff; color: #034caa; font-size: 12px; font-weight: 800; margin: 0 0 14px; }
 .training-finder-page .training-finder { margin-top: 44px; }
 @media (max-width: 600px) { .training-finder-page .training-finder { margin-top: 28px; } }
+/* Owner-requested header, matching the training-providers title banner. */
+.finder-hero { position: relative; isolation: isolate; display: flex; align-items: center; justify-content: center; min-height: 362px; padding: 120px 24px 0; background: linear-gradient(90deg, #00347d 0%, #0159d3 100%); color: #fff; }
+.finder-hero-pattern { position: absolute; z-index: -1; inset: 0; background: url('/images/content/layered-waves-row-0-3d7adc2b.svg') center right / cover no-repeat; opacity: .4; mix-blend-mode: overlay; pointer-events: none; }
+.finder-hero h1 { margin: 0; max-width: 1100px; color: #fff; font-family: var(--font-body); font-size: clamp(34px, 4vw, 56px); font-weight: 700; line-height: 1.2; letter-spacing: -.025em; text-align: center; }
+.has-training-finder-hero .site-header.over-hero { background: transparent; color: #fff; }
+.has-training-finder-hero .site-header.over-hero .brand img { content: url('/images/brand/cnap-logo-white.webp'); }
+.has-training-finder-hero .site-header.over-hero :is(.brand,.nav-label,.icon-button,.language-menu > summary):focus-visible { outline-color: white; }
+@media (max-width: 767px) { .finder-hero { min-height: 300px; padding: 95px 24px 0; } }
