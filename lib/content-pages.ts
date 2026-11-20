@@ -16,12 +16,7 @@ import page13 from '../content/pages/certified-nurse-assistant-program.json' wit
 import page14 from '../content/pages/cna-training-providers.json' with { type: 'json' };
 import page15 from '../content/pages/what-is-long-term-care.json' with { type: 'json' };
 import page16 from '../content/pages/career-advancement.json' with { type: 'json' };
-import page17 from '../content/pages/earn-and-learn-la.json' with { type: 'json' };
 import page18 from '../content/pages/frequently-asked-questions.json' with { type: 'json' };
-import page19 from '../content/pages/earn-and-learn-cvalley.json' with { type: 'json' };
-import page20 from '../content/pages/earn-and-learn-bayarea.json' with { type: 'json' };
-import page21 from '../content/pages/earn-and-learn-norcal.json' with { type: 'json' };
-import page22 from '../content/pages/earn-and-learn-san-diego.json' with { type: 'json' };
 import page23 from '../content/pages/earn-and-learn.json' with { type: 'json' };
 import page24 from '../content/pages/es.json' with { type: 'json' };
 import page25 from '../content/pages/es--que-es-cuidar-a-largo-plazo.json' with { type: 'json' };
@@ -41,11 +36,6 @@ import page38 from '../content/pages/es--carreras--carreras-en-actividades.json'
 import page39 from '../content/pages/es--carreras--carreras-en-administracion.json' with { type: 'json' };
 import page40 from '../content/pages/es--politica-de-privacidad.json' with { type: 'json' };
 import page41 from '../content/pages/es--avance-profesional.json' with { type: 'json' };
-import page42 from '../content/pages/es--ganar-y-aprender-la.json' with { type: 'json' };
-import page43 from '../content/pages/es--gana-y-aprende-cvalley.json' with { type: 'json' };
-import page44 from '../content/pages/es--gana-y-aprende-bayarea.json' with { type: 'json' };
-import page45 from '../content/pages/es--earn-and-learn-norcal.json' with { type: 'json' };
-import page46 from '../content/pages/es--gana-y-aprende-san-diego.json' with { type: 'json' };
 import page47 from '../content/pages/es--earn-and-learn.json' with { type: 'json' };
 import page48 from '../content/pages/cna-certifications.json' with { type: 'json' };
 import page49 from '../content/pages/employer-resources.json' with { type: 'json' };
@@ -74,12 +64,7 @@ const pages: Record<string, unknown> = {
   '/cna-training-providers/': page14,
   '/what-is-long-term-care/': page15,
   '/career-advancement/': page16,
-  '/earn-and-learn-la/': page17,
   '/frequently-asked-questions/': page18,
-  '/earn-and-learn-cvalley/': page19,
-  '/earn-and-learn-bayarea/': page20,
-  '/earn-and-learn-norcal/': page21,
-  '/earn-and-learn-san-diego/': page22,
   '/earn-and-learn/': page23,
   '/es/': page24,
   '/es/que-es-cuidar-a-largo-plazo/': page25,
@@ -99,11 +84,6 @@ const pages: Record<string, unknown> = {
   '/es/carreras/carreras-en-administracion/': page39,
   '/es/politica-de-privacidad/': page40,
   '/es/avance-profesional/': page41,
-  '/es/ganar-y-aprender-la/': page42,
-  '/es/gana-y-aprende-cvalley/': page43,
-  '/es/gana-y-aprende-bayarea/': page44,
-  '/es/earn-and-learn-norcal/': page45,
-  '/es/gana-y-aprende-san-diego/': page46,
   '/es/earn-and-learn/': page47,
   '/cna-certifications/': page48,
   '/employer-resources/': page49,

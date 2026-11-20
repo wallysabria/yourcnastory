@@ -132,3 +132,22 @@ test('YouTube parser supports source watch URLs and rejects invalid hosts/IDs', 
   ])
     expect(youtubeVideoId(url)).toBeUndefined();
 });
+
+test('regional Earn and Learn pages retire with direct permanent redirects', async () => {
+  const { default: retired } = await import('../content/routing/regional-earn-learn-retired.json', {
+    with: { type: 'json' },
+  });
+  for (const path of retired.paths) {
+    expect(routes.some((r) => r.path === path)).toBe(false);
+    for (const from of [path, path.slice(0, -1)]) {
+      expect(redirectDestination(from)).toBe('/earn-and-learn/');
+      expect(hosting.redirects.find((r) => r.source === from)).toMatchObject({
+        destination: '/earn-and-learn/',
+        statusCode: 301,
+      });
+    }
+  }
+  expect(renderableRoutes().some((r) => r.path === '/earn-and-learn/')).toBe(true);
+  expect(renderableRoutes().some((r) => r.path === '/es/earn-and-learn/')).toBe(true);
+  for (const rule of redirectRules) expect(retired.paths).not.toContain(rule.to);
+});

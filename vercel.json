@@ -5,6 +5,156 @@
   "buildCommand": "npm run build",
   "redirects": [
     {
+      "source": "/zh/earn-and-learn-san-diego",
+      "destination": "/earn-and-learn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/earn-and-learn-san-diego/",
+      "destination": "/earn-and-learn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/earn-and-learn-san-diego",
+      "destination": "/earn-and-learn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/earn-and-learn-san-diego/",
+      "destination": "/earn-and-learn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/earn-and-learn-norcal",
+      "destination": "/earn-and-learn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/earn-and-learn-norcal/",
+      "destination": "/earn-and-learn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/earn-and-learn-norcal",
+      "destination": "/earn-and-learn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/earn-and-learn-norcal/",
+      "destination": "/earn-and-learn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/earn-and-learn-bayarea",
+      "destination": "/earn-and-learn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/earn-and-learn-bayarea/",
+      "destination": "/earn-and-learn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/earn-and-learn-bayarea",
+      "destination": "/earn-and-learn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/earn-and-learn-bayarea/",
+      "destination": "/earn-and-learn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/earn-and-learn-cvalley",
+      "destination": "/earn-and-learn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/earn-and-learn-cvalley/",
+      "destination": "/earn-and-learn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/earn-and-learn-cvalley",
+      "destination": "/earn-and-learn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/earn-and-learn-cvalley/",
+      "destination": "/earn-and-learn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/earn-and-learn-la",
+      "destination": "/earn-and-learn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/earn-and-learn-la/",
+      "destination": "/earn-and-learn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/earn-and-learn-la",
+      "destination": "/earn-and-learn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vi/earn-and-learn-la/",
+      "destination": "/earn-and-learn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/gana-y-aprende-san-diego/",
+      "destination": "/earn-and-learn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/earn-and-learn-norcal/",
+      "destination": "/earn-and-learn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/gana-y-aprende-bayarea/",
+      "destination": "/earn-and-learn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/gana-y-aprende-cvalley/",
+      "destination": "/earn-and-learn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/es/ganar-y-aprender-la/",
+      "destination": "/earn-and-learn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/earn-and-learn-san-diego/",
+      "destination": "/earn-and-learn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/earn-and-learn-norcal/",
+      "destination": "/earn-and-learn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/earn-and-learn-bayarea/",
+      "destination": "/earn-and-learn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/earn-and-learn-cvalley/",
+      "destination": "/earn-and-learn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/earn-and-learn-la/",
+      "destination": "/earn-and-learn/",
+      "statusCode": 301
+    },
+    {
       "source": "/es/carreras-en-actividades",
       "destination": "/es/carreras/carreras-en-actividades/",
       "statusCode": 301
@@ -266,7 +416,7 @@
     },
     {
       "source": "/earn-and-learn-la",
-      "destination": "/earn-and-learn-la/",
+      "destination": "/earn-and-learn/",
       "statusCode": 301
     },
     {
@@ -276,22 +426,22 @@
     },
     {
       "source": "/earn-and-learn-cvalley",
-      "destination": "/earn-and-learn-cvalley/",
+      "destination": "/earn-and-learn/",
       "statusCode": 301
     },
     {
       "source": "/earn-and-learn-bayarea",
-      "destination": "/earn-and-learn-bayarea/",
+      "destination": "/earn-and-learn/",
       "statusCode": 301
     },
     {
       "source": "/earn-and-learn-norcal",
-      "destination": "/earn-and-learn-norcal/",
+      "destination": "/earn-and-learn/",
       "statusCode": 301
     },
     {
       "source": "/earn-and-learn-san-diego",
-      "destination": "/earn-and-learn-san-diego/",
+      "destination": "/earn-and-learn/",
       "statusCode": 301
     },
     {
@@ -946,127 +1096,127 @@
     },
     {
       "source": "/es/ganar-y-aprender-la",
-      "destination": "/es/ganar-y-aprender-la/",
+      "destination": "/earn-and-learn/",
       "statusCode": 301
     },
     {
       "source": "/vi/kiem-va-hoc-la/",
-      "destination": "/earn-and-learn-la/",
+      "destination": "/earn-and-learn/",
       "statusCode": 301
     },
     {
       "source": "/vi/kiem-va-hoc-la",
-      "destination": "/earn-and-learn-la/",
+      "destination": "/earn-and-learn/",
       "statusCode": 301
     },
     {
       "source": "/zh/%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0%e5%95%a6/",
-      "destination": "/earn-and-learn-la/",
+      "destination": "/earn-and-learn/",
       "statusCode": 301
     },
     {
       "source": "/zh/%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0%e5%95%a6",
-      "destination": "/earn-and-learn-la/",
+      "destination": "/earn-and-learn/",
       "statusCode": 301
     },
     {
       "source": "/es/gana-y-aprende-cvalley",
-      "destination": "/es/gana-y-aprende-cvalley/",
+      "destination": "/earn-and-learn/",
       "statusCode": 301
     },
     {
       "source": "/vi/kiem-va-hoc-cvalley/",
-      "destination": "/earn-and-learn-cvalley/",
+      "destination": "/earn-and-learn/",
       "statusCode": 301
     },
     {
       "source": "/vi/kiem-va-hoc-cvalley",
-      "destination": "/earn-and-learn-cvalley/",
+      "destination": "/earn-and-learn/",
       "statusCode": 301
     },
     {
       "source": "/zh/%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0-cvalley/",
-      "destination": "/earn-and-learn-cvalley/",
+      "destination": "/earn-and-learn/",
       "statusCode": 301
     },
     {
       "source": "/zh/%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0-cvalley",
-      "destination": "/earn-and-learn-cvalley/",
+      "destination": "/earn-and-learn/",
       "statusCode": 301
     },
     {
       "source": "/es/gana-y-aprende-bayarea",
-      "destination": "/es/gana-y-aprende-bayarea/",
+      "destination": "/earn-and-learn/",
       "statusCode": 301
     },
     {
       "source": "/vi/kiem-tien-va-hoc-tap-bayarea/",
-      "destination": "/earn-and-learn-bayarea/",
+      "destination": "/earn-and-learn/",
       "statusCode": 301
     },
     {
       "source": "/vi/kiem-tien-va-hoc-tap-bayarea",
-      "destination": "/earn-and-learn-bayarea/",
+      "destination": "/earn-and-learn/",
       "statusCode": 301
     },
     {
       "source": "/zh/%e5%9c%a8-bayarea-%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0/",
-      "destination": "/earn-and-learn-bayarea/",
+      "destination": "/earn-and-learn/",
       "statusCode": 301
     },
     {
       "source": "/zh/%e5%9c%a8-bayarea-%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0",
-      "destination": "/earn-and-learn-bayarea/",
+      "destination": "/earn-and-learn/",
       "statusCode": 301
     },
     {
       "source": "/es/earn-and-learn-norcal",
-      "destination": "/es/earn-and-learn-norcal/",
+      "destination": "/earn-and-learn/",
       "statusCode": 301
     },
     {
       "source": "/vi/kiem-va-hoc-norcal/",
-      "destination": "/earn-and-learn-norcal/",
+      "destination": "/earn-and-learn/",
       "statusCode": 301
     },
     {
       "source": "/vi/kiem-va-hoc-norcal",
-      "destination": "/earn-and-learn-norcal/",
+      "destination": "/earn-and-learn/",
       "statusCode": 301
     },
     {
       "source": "/zh/%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0%e8%af%ba%e5%8d%a1%e5%b0%94/",
-      "destination": "/earn-and-learn-norcal/",
+      "destination": "/earn-and-learn/",
       "statusCode": 301
     },
     {
       "source": "/zh/%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0%e8%af%ba%e5%8d%a1%e5%b0%94",
-      "destination": "/earn-and-learn-norcal/",
+      "destination": "/earn-and-learn/",
       "statusCode": 301
     },
     {
       "source": "/es/gana-y-aprende-san-diego",
-      "destination": "/es/gana-y-aprende-san-diego/",
+      "destination": "/earn-and-learn/",
       "statusCode": 301
     },
     {
       "source": "/vi/kiem-tien-va-hoc-hoi-tai-san-diego/",
-      "destination": "/earn-and-learn-san-diego/",
+      "destination": "/earn-and-learn/",
       "statusCode": 301
     },
     {
       "source": "/vi/kiem-tien-va-hoc-hoi-tai-san-diego",
-      "destination": "/earn-and-learn-san-diego/",
+      "destination": "/earn-and-learn/",
       "statusCode": 301
     },
     {
       "source": "/zh/%e5%9c%a3%e5%9c%b0%e4%ba%9a%e5%93%a5%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0/",
-      "destination": "/earn-and-learn-san-diego/",
+      "destination": "/earn-and-learn/",
       "statusCode": 301
     },
     {
       "source": "/zh/%e5%9c%a3%e5%9c%b0%e4%ba%9a%e5%93%a5%e8%b5%9a%e5%8f%96%e5%92%8c%e5%ad%a6%e4%b9%a0",
-      "destination": "/earn-and-learn-san-diego/",
+      "destination": "/earn-and-learn/",
       "statusCode": 301
     },
     {

@@ -115,3 +115,7 @@ Owner approved current public-site content for /employers/, /train-and-gain/ and
 ## Search Console URL cleanup — 2026-11-19
 
 No source page copy, metadata, documents or policy wording changed. Owner-approved aliases preserve legacy entry points; retired job-board URLs remain unavailable. Privacy links reuse the existing consent UI without recreating the obsolete WordPress plugin.
+
+## Regional Earn and Learn consolidation — approved 2026-11-19
+
+Owner requested retirement of regional landing pages and permanent redirects to `/earn-and-learn/`. Removed five English and five Spanish regional pages (LA, Central Valley, Bay Area, NorCal, San Diego) from active routing, content loader and search inventory. General English and Spanish Earn and Learn pages remain. Slashed/slashless regional URLs and retired vi/zh aliases redirect directly to the English general page; existing redirect targets were flattened. Original uploads and historical audit evidence remain untouched.
