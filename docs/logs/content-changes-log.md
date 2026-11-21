@@ -139,3 +139,7 @@ Imported every row from the three supplied CDPH lists: 563 community, 87 facilit
 ## Direct training finder CTAs — approved 2026-11-20
 
 On /certified-nurse-assistant-program/, rename Path 1’s training CTA and consolidate the three Path 2 pills into one: “Find a Training Facility Near You,” linking to /find-a-training-facility/. Point generic Find a Training Provider / Near You buttons on Career Seekers, Career Advancement and Earn and Learn, plus the nearby-facility FAQ answer, directly to the matching-language finder. Spanish link labels remain unchanged. Exact rules: content/migration/training-finder-ctas.json. Keep training-path overview/navigation links and explicitly named official CDPH source lists. No metadata or page URL changes.
+
+## Finder menu entry — approved 2026-11-20
+
+Added Find a Training Facility / Encuentra un centro de capacitación in the Career Seekers resources menus in both desktop and mobile navigation, linking to the existing locale-specific finder pages. Reused existing approved interface wording; no Spanish page copy changes.

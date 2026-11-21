@@ -179,3 +179,7 @@ Owner requested all supplied CDPH online, community-based and facility-based pro
 ## CNA Program finder CTAs — approved 2026-11-20
 
 Owner requested one pill per training path on /certified-nurse-assistant-program/: both read “Find a Training Facility Near You” and lead to /find-a-training-facility/. Replace Path 2’s three separate provider-type buttons with the single existing styled pill. Benefit: one clear route to the directory with all training types.
+
+## Finder type and menu update — approved 2026-11-20
+
+Owner requested Earn and Learn as a Training type dropdown choice in EN/ES, replacing the separate Earn and Learn-only checkbox. Selecting it includes only the 71 confirmed partners, with normal geography/keyword filters still applied. Add Find a Training Facility beneath Career Seekers / CNA Resources on desktop and in mobile Resources, using each language’s existing finder title and route. No facility classifications or program claims change.

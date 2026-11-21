@@ -6,6 +6,7 @@ import {
   facilityCities,
   facilityCounties,
   isOnlineProvider,
+  matchesTrainingType,
   findFacilities,
   normalizeZip,
   type Facility,
@@ -18,7 +19,6 @@ const initialFilters = {
   city: '',
   county: '',
   radius: 25,
-  earnAndLearnOnly: false,
   trainingType: '',
 };
 const fill = (template: string, values: Record<string, string | number>) =>
@@ -67,7 +67,7 @@ export function TrainingFinder({ locale, facilities }: { locale: Locale; facilit
             .filter(
               (facility) =>
                 (!draft.county || facilityCounties(facility).includes(draft.county)) &&
-                (!draft.trainingType || facility.trainingTypes.includes(draft.trainingType)),
+                matchesTrainingType(facility, draft.trainingType),
             )
             .flatMap(facilityCities),
         ),
@@ -198,20 +198,12 @@ export function TrainingFinder({ locale, facilities }: { locale: Locale; facilit
                 }}
               >
                 <option value="">{text.allTypes}</option>
+                <option value="earn-and-learn">{text.earnAndLearn}</option>
                 <option value="online">{text.online}</option>
                 <option value="community-based">{text.communityBased}</option>
                 <option value="facility-based">{text.facilityBased}</option>
               </select>
             </div>
-            <label className="finder-program-filter">
-              <input
-                type="checkbox"
-                checked={draft.earnAndLearnOnly}
-                disabled={busy}
-                onChange={(event) => setDraft({ ...draft, earnAndLearnOnly: event.target.checked })}
-              />
-              <span>{text.earnAndLearnOnly}</span>
-            </label>
           </div>
           <div className="finder-secondary">
             <div className="finder-field">

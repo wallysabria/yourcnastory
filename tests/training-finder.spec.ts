@@ -92,7 +92,10 @@ for (const locale of ['en', 'es'])
       await expect(page.locator('.finder-hero h1')).toBeVisible();
       await expect(page.getByRole('heading', { level: 1 })).toHaveCount(1);
       await expect(finder.locator('.finder-card')).toHaveCount(9);
-      await finder.getByRole('checkbox').check();
+      await expect(finder.getByRole('checkbox')).toHaveCount(0);
+      await finder
+        .getByLabel(labels[locale as 'en' | 'es'].trainingType, { exact: true })
+        .selectOption('earn-and-learn');
       await finder
         .getByRole('button', {
           name: locale === 'es' ? labels.es.search : labels.en.search,

@@ -74,11 +74,11 @@ test('Earn and Learn filter includes only confirmed providers, preserving unknow
     { ...data.facilities[0], id: 'unknown', earnAndLearn: null },
   ];
   expect(findFacilities(fixture, filters)).toHaveLength(3);
-  expect(findFacilities(fixture, { ...filters, earnAndLearnOnly: true }).map((f) => f.id)).toEqual([
-    'confirmed',
-  ]);
   expect(
-    findFacilities(fixture, { ...filters, earnAndLearnOnly: true, county: 'Not a county' }),
+    findFacilities(fixture, { ...filters, trainingType: 'earn-and-learn' }).map((f) => f.id),
+  ).toEqual(['confirmed']);
+  expect(
+    findFacilities(fixture, { ...filters, trainingType: 'earn-and-learn', county: 'Not a county' }),
   ).toEqual([]);
   expect(
     data.facilities
