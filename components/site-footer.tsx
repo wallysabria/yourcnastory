@@ -13,10 +13,11 @@ export function SiteFooter({ content }: { content: GlobalContent }) {
         <div className="footer-about">
           <a href={footer.foundationHref} {...externalLinkAttributes(footer.foundationHref)}>
             <Image
-              src="/images/brand/qchf-logo-white.png"
+              src="/images/brand/qchf-logo-white-2026.webp"
               alt={footer.logoAlt}
-              width={190}
-              height={90}
+              width={720}
+              height={196}
+              unoptimized
             />
           </a>
           <p>{footer.description}</p>

@@ -1,0 +1,23 @@
+{
+  "source": {
+    "filename": "2026QCHF_New_Logo_White.png",
+    "width": 1800,
+    "height": 490,
+    "bytes": 25745,
+    "sha256": "7b5853ec0e2ed6505107e56b67d9fdece49cf5edf28a6f46d0e57201cc5feadd",
+    "approved": "Owner supplied replacement QCHF logo in chat, 2026-11-23"
+  },
+  "optimized": {
+    "path": "/images/brand/qchf-logo-white-2026.webp",
+    "width": 720,
+    "height": 196,
+    "bytes": 12922,
+    "sha256": "6a5ba570c01647c4f675e74131968e8e15ad24c0547523928ff7524d158795b5",
+    "format": "lossless WebP",
+    "hasAlpha": true
+  },
+  "display": {
+    "width": 240,
+    "height": 65.33333333333333
+  }
+}
