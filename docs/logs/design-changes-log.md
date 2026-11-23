@@ -183,3 +183,7 @@ Owner requested one pill per training path on /certified-nurse-assistant-program
 ## Finder type and menu update — approved 2026-11-20
 
 Owner requested Earn and Learn as a Training type dropdown choice in EN/ES, replacing the separate Earn and Learn-only checkbox. Selecting it includes only the 71 confirmed partners, with normal geography/keyword filters still applied. Add Find a Training Facility beneath Career Seekers / CNA Resources on desktop and in mobile Resources, using each language’s existing finder title and route. No facility classifications or program claims change.
+
+## QCHF logo refresh — approved 2026-11-23
+
+Owner supplied 2026QCHF_New_Logo_White.png and requested replacing the QCHF logo wherever used. The shared footer is the only active logo placement and covers EN/ES plus English Employers. Use a lossless transparent WebP at 720×196, displayed at 240px wide with responsive containment and correct aspect ratio. Existing logo alternative text and foundation destination remain. Keep archived source assets/uploads intact. Benefit: current branding with sharper, legible footer sizing and smaller transfer size.
